@@ -1,0 +1,13 @@
+year,policy_scenario,target_region,target_share_of_max,scope,technology,recovered_lithium_t,technology_share_pct,draw_id,random_seed
+2030,reference_policy,Germany,0.95,global,Direct,0.0,0.0,0,20260507
+2030,reference_policy,Germany,0.95,global,Hydro,71609.35984021363,100.0,0,20260507
+2030,reference_policy,Germany,0.95,global,Pyro,0.0,0.0,0,20260507
+2030,reference_policy,Germany,0.95,target_region,Direct,0.0,0.0,0,20260507
+2030,reference_policy,Germany,0.95,target_region,Hydro,4219.163471871558,100.0,0,20260507
+2030,reference_policy,Germany,0.95,target_region,Pyro,0.0,0.0,0,20260507
+2030,reference_policy,Germany,1.0,global,Direct,4441.013748848654,6.193802404463601,0,20260507
+2030,reference_policy,Germany,1.0,global,Hydro,67259.91338515567,93.8061975955364,0,20260507
+2030,reference_policy,Germany,1.0,global,Pyro,0.0,0.0,0,20260507
+2030,reference_policy,Germany,1.0,target_region,Direct,4441.013748848654,99.99524999524971,0,20260507
+2030,reference_policy,Germany,1.0,target_region,Hydro,0.21095838456452393,0.004750004750287588,0,20260507
+2030,reference_policy,Germany,1.0,target_region,Pyro,0.0,0.0,0,20260507

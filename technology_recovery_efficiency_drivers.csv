@@ -1,0 +1,10 @@
+recycling_m,recovery_efficiency_scenario,start_eff,max_eff,midpoint,k,source_basis,notes
+Pyro,low,0.00,0.05,2042,0.10,"Pyrometallurgy review literature","Conventional Pyro with minimal downstream Li recovery."
+Pyro,baseline,0.05,0.20,2040,0.16,"Pyrometallurgy review literature; downstream slag-treatment cases","Partial Li recovery through additional slag/secondary processing over time."
+Pyro,high,0.10,0.35,2038,0.22,"Pyrometallurgy review literature; EU Li recovery pressure","Improved Pyro-linked process with stronger incentive to recover Li."
+Hydro,low,0.78,0.88,2035,0.16,"Hydrometallurgy review literature; EU 2031 target","Lower technical-learning case for Li leaching and separation."
+Hydro,baseline,0.85,0.93,2032,0.20,"Existing model value; hydrometallurgy review literature","Mature high-recovery route with moderate improvement."
+Hydro,high,0.90,0.97,2030,0.24,"Hydrometallurgy review literature; optimized leaching/separation studies","Optimized high-recovery hydrometallurgical route."
+Direct,low,0.45,0.75,2042,0.14,"Argonne ReCell/EverBatt public materials; direct recycling reviews; effective supply-chain availability assumption","Direct route with strong feedstock-sorting, diagnosis, chemistry-matching, and scale-up constraints; parameter represents effective battery-supply-chain-available Li equivalent, not lab-scale Li retention."
+Direct,baseline,0.60,0.88,2038,0.18,"Argonne ReCell/EverBatt public materials; direct recycling reviews; effective supply-chain availability assumption","Direct route improves with sorting, diagnosis, relithiation, and compatible cathode streams, but remains below Hydro in the medium term because usable regenerated-material entry is narrower than chemical Li extraction."
+Direct,high,0.75,0.94,2035,0.24,"Argonne ReCell/EverBatt public materials; direct recycling reviews; effective supply-chain availability assumption","Accelerated Direct route for well-sorted streams and optimized relithiation; still capped below Hydro high case to avoid assuming universal feedstock compatibility."

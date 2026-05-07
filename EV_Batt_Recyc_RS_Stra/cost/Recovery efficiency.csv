@@ -1,0 +1,19 @@
+﻿materials,Pyro,Hydro,Direct
+Copper,90%,90%,90%
+Steel,90%,90%,90%
+Aluminum,,90%,90%
+Graphite,,90%,90%
+Plastics,,50%,50%
+Li+ in product,,90%,
+LCO,,,90%
+NMC(111),,,90%
+NMC(532),,,90%
+NMC(622),,,90%
+NMC(811),,,90%
+NCA,,,90%
+LMO,,,90%
+LFP,,,90%
+Co2+ in product,98%,98%,
+Ni2+ in product,98%,98%,
+Mn2+ in product,,98%,
+Electrolyte Organics,,50%,50%

@@ -1,0 +1,979 @@
+,country,type,recycling_m,net_profit,collection_scenario,recovery_efficiency_scenario
+0,Afghanistan,LFP,Pyro,0.0,high_collection,baseline
+1,Afghanistan,NCA,Pyro,-56750.601084196765,high_collection,baseline
+2,Afghanistan,NMC111,Pyro,-186523.68948638384,high_collection,baseline
+3,Afghanistan,NMC523,Pyro,-154753.01146663364,high_collection,baseline
+4,Afghanistan,NMC622,Pyro,-284568.41290402086,high_collection,baseline
+5,Afghanistan,NMC811,Pyro,0.0,high_collection,baseline
+6,Albania,LFP,Pyro,0.0,high_collection,baseline
+7,Albania,NCA,Pyro,-1774.2890850087897,high_collection,baseline
+8,Albania,NMC111,Pyro,-2428.0808748191525,high_collection,baseline
+9,Albania,NMC523,Pyro,-2286.40798238498,high_collection,baseline
+10,Albania,NMC622,Pyro,-3562.1894991257072,high_collection,baseline
+11,Albania,NMC811,Pyro,-5107.964430413365,high_collection,baseline
+12,Algeria,LFP,Pyro,0.0,high_collection,baseline
+13,Algeria,NCA,Pyro,-272.4016437568475,high_collection,baseline
+14,Algeria,NMC111,Pyro,-300.6119951819003,high_collection,baseline
+15,Algeria,NMC523,Pyro,-500.66500863806556,high_collection,baseline
+16,Algeria,NMC622,Pyro,-1215.0986350530584,high_collection,baseline
+17,Algeria,NMC811,Pyro,-5092.600466368624,high_collection,baseline
+18,Andorra,LFP,Pyro,0.0,high_collection,baseline
+19,Andorra,NCA,Pyro,-3817.6139277302773,high_collection,baseline
+20,Andorra,NMC111,Pyro,-4537.40148773902,high_collection,baseline
+21,Andorra,NMC523,Pyro,-6890.403237537688,high_collection,baseline
+22,Andorra,NMC622,Pyro,-14662.8491240719,high_collection,baseline
+23,Andorra,NMC811,Pyro,0.0,high_collection,baseline
+24,Angola,LFP,Pyro,0.0,high_collection,baseline
+25,Angola,NCA,Pyro,-588.1915032386116,high_collection,baseline
+26,Angola,NMC111,Pyro,-957.9693434079761,high_collection,baseline
+27,Angola,NMC523,Pyro,-1152.1967010932126,high_collection,baseline
+28,Angola,NMC622,Pyro,-2086.251355476633,high_collection,baseline
+29,Angola,NMC811,Pyro,-7122.972875449048,high_collection,baseline
+30,Argentina,LFP,Pyro,0.0,high_collection,baseline
+31,Argentina,NCA,Pyro,-97.2834447281971,high_collection,baseline
+32,Argentina,NMC111,Pyro,-132.8021647146975,high_collection,baseline
+33,Argentina,NMC523,Pyro,-166.03183995600554,high_collection,baseline
+34,Argentina,NMC622,Pyro,-315.7864659687713,high_collection,baseline
+35,Argentina,NMC811,Pyro,-594.6380198524112,high_collection,baseline
+36,Armenia,LFP,Pyro,0.0,high_collection,baseline
+37,Armenia,NCA,Pyro,-681.0625622652901,high_collection,baseline
+38,Armenia,NMC111,Pyro,-1229.1369062429621,high_collection,baseline
+39,Armenia,NMC523,Pyro,-1302.4748177731378,high_collection,baseline
+40,Armenia,NMC622,Pyro,-2178.772085677372,high_collection,baseline
+41,Armenia,NMC811,Pyro,-3608.7310387889434,high_collection,baseline
+42,Aruba,LFP,Pyro,0.0,high_collection,baseline
+43,Aruba,NCA,Pyro,-1385.1854609537306,high_collection,baseline
+44,Aruba,NMC111,Pyro,-2101.2220249839993,high_collection,baseline
+45,Aruba,NMC523,Pyro,-2472.5780006614655,high_collection,baseline
+46,Aruba,NMC622,Pyro,-4683.118665283972,high_collection,baseline
+47,Aruba,NMC811,Pyro,-6707.863402727941,high_collection,baseline
+48,Australia,LFP,Pyro,0.0,high_collection,baseline
+49,Australia,NCA,Pyro,-35.97381482239496,high_collection,baseline
+50,Australia,NMC111,Pyro,-80.25550670378193,high_collection,baseline
+51,Australia,NMC523,Pyro,-74.72179864282404,high_collection,baseline
+52,Australia,NMC622,Pyro,-118.65868200123995,high_collection,baseline
+53,Australia,NMC811,Pyro,-156.00928180481753,high_collection,baseline
+54,Austria,LFP,Pyro,-821.6983200277941,high_collection,baseline
+55,Austria,NCA,Pyro,-23.691113872825262,high_collection,baseline
+56,Austria,NMC111,Pyro,-33.15308819616666,high_collection,baseline
+57,Austria,NMC523,Pyro,-32.014538731805246,high_collection,baseline
+58,Austria,NMC622,Pyro,-52.452652095389816,high_collection,baseline
+59,Austria,NMC811,Pyro,-80.46615297992192,high_collection,baseline
+60,Azerbaijan,LFP,Pyro,0.0,high_collection,baseline
+61,Azerbaijan,NCA,Pyro,-355.01894189324804,high_collection,baseline
+62,Azerbaijan,NMC111,Pyro,-625.7184344581873,high_collection,baseline
+63,Azerbaijan,NMC523,Pyro,-659.558687625067,high_collection,baseline
+64,Azerbaijan,NMC622,Pyro,-1125.9024320953215,high_collection,baseline
+65,Azerbaijan,NMC811,Pyro,-1801.8867920525481,high_collection,baseline
+66,Bahamas,LFP,Pyro,0.0,high_collection,baseline
+67,Bahamas,NCA,Pyro,0.0,high_collection,baseline
+68,Bahamas,NMC111,Pyro,0.0,high_collection,baseline
+69,Bahamas,NMC523,Pyro,0.0,high_collection,baseline
+70,Bahamas,NMC622,Pyro,0.0,high_collection,baseline
+71,Bahamas,NMC811,Pyro,0.0,high_collection,baseline
+72,Bahrain,LFP,Pyro,0.0,high_collection,baseline
+73,Bahrain,NCA,Pyro,-772.435269107775,high_collection,baseline
+74,Bahrain,NMC111,Pyro,-1051.1125310528491,high_collection,baseline
+75,Bahrain,NMC523,Pyro,-1294.2244791004139,high_collection,baseline
+76,Bahrain,NMC622,Pyro,-2492.962987154482,high_collection,baseline
+77,Bahrain,NMC811,Pyro,-8893.113678498838,high_collection,baseline
+78,Bangladesh,LFP,Pyro,0.0,high_collection,baseline
+79,Bangladesh,NCA,Pyro,-37162.76718728114,high_collection,baseline
+80,Bangladesh,NMC111,Pyro,-52385.87570432605,high_collection,baseline
+81,Bangladesh,NMC523,Pyro,-340526.0261259184,high_collection,baseline
+82,Bangladesh,NMC622,Pyro,0.0,high_collection,baseline
+83,Bangladesh,NMC811,Pyro,0.0,high_collection,baseline
+84,Barbados,LFP,Pyro,0.0,high_collection,baseline
+85,Barbados,NCA,Pyro,-3141.2790526311255,high_collection,baseline
+86,Barbados,NMC111,Pyro,-7764.36486973352,high_collection,baseline
+87,Barbados,NMC523,Pyro,-6737.266429368114,high_collection,baseline
+88,Barbados,NMC622,Pyro,-10703.820789569636,high_collection,baseline
+89,Barbados,NMC811,Pyro,-12861.904836360865,high_collection,baseline
+90,Belarus,LFP,Pyro,0.0,high_collection,baseline
+91,Belarus,NCA,Pyro,-193.90833734781717,high_collection,baseline
+92,Belarus,NMC111,Pyro,-378.56244498521323,high_collection,baseline
+93,Belarus,NMC523,Pyro,-378.93996032758935,high_collection,baseline
+94,Belarus,NMC622,Pyro,-646.3577278845693,high_collection,baseline
+95,Belarus,NMC811,Pyro,-979.1667234074357,high_collection,baseline
+96,Belgium,LFP,Pyro,-571.8755057811397,high_collection,baseline
+97,Belgium,NCA,Pyro,-15.204553352669912,high_collection,baseline
+98,Belgium,NMC111,Pyro,-21.939233618558106,high_collection,baseline
+99,Belgium,NMC523,Pyro,-21.333497988115386,high_collection,baseline
+100,Belgium,NMC622,Pyro,-35.5017311670102,high_collection,baseline
+101,Belgium,NMC811,Pyro,-54.77605727794442,high_collection,baseline
+102,Benin,LFP,Pyro,0.0,high_collection,baseline
+103,Benin,NCA,Pyro,-757.8478413330996,high_collection,baseline
+104,Benin,NMC111,Pyro,-1785.8854316795644,high_collection,baseline
+105,Benin,NMC523,Pyro,-1596.0767087822826,high_collection,baseline
+106,Benin,NMC622,Pyro,-2544.7505525412353,high_collection,baseline
+107,Benin,NMC811,Pyro,-3860.1136665664885,high_collection,baseline
+108,Bermuda,LFP,Pyro,0.0,high_collection,baseline
+109,Bermuda,NCA,Pyro,-1044.9072470572653,high_collection,baseline
+110,Bermuda,NMC111,Pyro,-1408.0835868231234,high_collection,baseline
+111,Bermuda,NMC523,Pyro,-1789.1128503802913,high_collection,baseline
+112,Bermuda,NMC622,Pyro,-3665.5798917697166,high_collection,baseline
+113,Bermuda,NMC811,Pyro,-12986.590197927822,high_collection,baseline
+114,Bolivia (Plurinational State of),LFP,Pyro,0.0,high_collection,baseline
+115,Bolivia (Plurinational State of),NCA,Pyro,-221.35799289175316,high_collection,baseline
+116,Bolivia (Plurinational State of),NMC111,Pyro,-469.3923935755499,high_collection,baseline
+117,Bolivia (Plurinational State of),NMC523,Pyro,-441.8345915292765,high_collection,baseline
+118,Bolivia (Plurinational State of),NMC622,Pyro,-747.413120825372,high_collection,baseline
+119,Bolivia (Plurinational State of),NMC811,Pyro,-1212.9913794206825,high_collection,baseline
+120,Bosnia Herzegovina,LFP,Pyro,0.0,high_collection,baseline
+121,Bosnia Herzegovina,NCA,Pyro,-658.3657420768462,high_collection,baseline
+122,Bosnia Herzegovina,NMC111,Pyro,-1273.04723287441,high_collection,baseline
+123,Bosnia Herzegovina,NMC523,Pyro,-1256.884461236092,high_collection,baseline
+124,Bosnia Herzegovina,NMC622,Pyro,-2039.8498035483137,high_collection,baseline
+125,Bosnia Herzegovina,NMC811,Pyro,-2943.533240125061,high_collection,baseline
+126,Botswana,LFP,Pyro,0.0,high_collection,baseline
+127,Botswana,NCA,Pyro,-410.9512451495291,high_collection,baseline
+128,Botswana,NMC111,Pyro,-726.4085831823438,high_collection,baseline
+129,Botswana,NMC523,Pyro,-785.1763646791588,high_collection,baseline
+130,Botswana,NMC622,Pyro,-1396.4642492327946,high_collection,baseline
+131,Botswana,NMC811,Pyro,-2535.628946854586,high_collection,baseline
+132,Brazil,LFP,Pyro,0.0,high_collection,baseline
+133,Brazil,NCA,Pyro,-25.194325443295256,high_collection,baseline
+134,Brazil,NMC111,Pyro,-69.63239818478111,high_collection,baseline
+135,Brazil,NMC523,Pyro,-60.39824007926746,high_collection,baseline
+136,Brazil,NMC622,Pyro,-98.25252021829434,high_collection,baseline
+137,Brazil,NMC811,Pyro,-116.65305450116138,high_collection,baseline
+138,Brunei Darussalam,LFP,Pyro,0.0,high_collection,baseline
+139,Brunei Darussalam,NCA,Pyro,-9032.929141480003,high_collection,baseline
+140,Brunei Darussalam,NMC111,Pyro,-21337.816158482332,high_collection,baseline
+141,Brunei Darussalam,NMC523,Pyro,-21975.24439056981,high_collection,baseline
+142,Brunei Darussalam,NMC622,Pyro,-45003.85083123034,high_collection,baseline
+143,Brunei Darussalam,NMC811,Pyro,-69491.69900075563,high_collection,baseline
+144,Bulgaria,LFP,Pyro,-32367.243353251935,high_collection,baseline
+145,Bulgaria,NCA,Pyro,-850.1844305729277,high_collection,baseline
+146,Bulgaria,NMC111,Pyro,-1185.4693298609154,high_collection,baseline
+147,Bulgaria,NMC523,Pyro,-1112.5752531132698,high_collection,baseline
+148,Bulgaria,NMC622,Pyro,-1778.829614273546,high_collection,baseline
+149,Bulgaria,NMC811,Pyro,-2605.5364876782537,high_collection,baseline
+150,Burkina Faso,LFP,Pyro,0.0,high_collection,baseline
+151,Burkina Faso,NCA,Pyro,-556.0015220252602,high_collection,baseline
+152,Burkina Faso,NMC111,Pyro,-986.0968447227723,high_collection,baseline
+153,Burkina Faso,NMC523,Pyro,-1057.076846166337,high_collection,baseline
+154,Burkina Faso,NMC622,Pyro,-1860.3563765192134,high_collection,baseline
+155,Burkina Faso,NMC811,Pyro,-2595.9183054298437,high_collection,baseline
+156,Burundi,LFP,Pyro,0.0,high_collection,baseline
+157,Burundi,NCA,Pyro,-896.5140006844579,high_collection,baseline
+158,Burundi,NMC111,Pyro,-882.4769410123515,high_collection,baseline
+159,Burundi,NMC523,Pyro,-1185.9068515457147,high_collection,baseline
+160,Burundi,NMC622,Pyro,-2874.5510255779627,high_collection,baseline
+161,Burundi,NMC811,Pyro,-7108.686531367745,high_collection,baseline
+162,C?te d'Ivoire,LFP,Pyro,0.0,high_collection,baseline
+163,C?te d'Ivoire,NCA,Pyro,-635.4644734084486,high_collection,baseline
+164,C?te d'Ivoire,NMC111,Pyro,-894.6333360043661,high_collection,baseline
+165,C?te d'Ivoire,NMC523,Pyro,-1226.4515665024503,high_collection,baseline
+166,C?te d'Ivoire,NMC622,Pyro,-2383.901914852111,high_collection,baseline
+167,C?te d'Ivoire,NMC811,Pyro,-6361.678527518066,high_collection,baseline
+168,Cabo Verde,LFP,Pyro,0.0,high_collection,baseline
+169,Cabo Verde,NCA,Pyro,-8278.4725783685,high_collection,baseline
+170,Cabo Verde,NMC111,Pyro,-12637.258843358475,high_collection,baseline
+171,Cabo Verde,NMC523,Pyro,-14931.76366699221,high_collection,baseline
+172,Cabo Verde,NMC622,Pyro,-28673.63985243751,high_collection,baseline
+173,Cabo Verde,NMC811,Pyro,0.0,high_collection,baseline
+174,Cambodia,LFP,Pyro,0.0,high_collection,baseline
+175,Cambodia,NCA,Pyro,-1105.5451629289785,high_collection,baseline
+176,Cambodia,NMC111,Pyro,-2588.9386128678984,high_collection,baseline
+177,Cambodia,NMC523,Pyro,-2678.1438203414186,high_collection,baseline
+178,Cambodia,NMC622,Pyro,-5609.4892412176605,high_collection,baseline
+179,Cambodia,NMC811,Pyro,-13371.30797604528,high_collection,baseline
+180,Cameroon,LFP,Pyro,0.0,high_collection,baseline
+181,Cameroon,NCA,Pyro,-1790.8932634391815,high_collection,baseline
+182,Cameroon,NMC111,Pyro,-2033.8827365921418,high_collection,baseline
+183,Cameroon,NMC523,Pyro,-3051.8164750222086,high_collection,baseline
+184,Cameroon,NMC622,Pyro,-6897.619236074121,high_collection,baseline
+185,Cameroon,NMC811,Pyro,-51415.350695639136,high_collection,baseline
+186,Canada,LFP,Pyro,0.0,high_collection,baseline
+187,Canada,NCA,Pyro,-9.218678869462735,high_collection,baseline
+188,Canada,NMC111,Pyro,-24.995064435316554,high_collection,baseline
+189,Canada,NMC523,Pyro,-24.281812894633255,high_collection,baseline
+190,Canada,NMC622,Pyro,-42.61439066565785,high_collection,baseline
+191,Canada,NMC811,Pyro,-61.02385996154577,high_collection,baseline
+192,Cayman Isds,LFP,Pyro,0.0,high_collection,baseline
+193,Cayman Isds,NCA,Pyro,-26787.413716897805,high_collection,baseline
+194,Cayman Isds,NMC111,Pyro,-66151.73679201781,high_collection,baseline
+195,Cayman Isds,NMC523,Pyro,-57402.82977807397,high_collection,baseline
+196,Cayman Isds,NMC622,Pyro,0.0,high_collection,baseline
+197,Cayman Isds,NMC811,Pyro,0.0,high_collection,baseline
+198,Chile,LFP,Pyro,0.0,high_collection,baseline
+199,Chile,NCA,Pyro,-660.216192108849,high_collection,baseline
+200,Chile,NMC111,Pyro,-1398.169998925928,high_collection,baseline
+201,Chile,NMC523,Pyro,-1344.0101715851765,high_collection,baseline
+202,Chile,NMC622,Pyro,-2262.4109181397753,high_collection,baseline
+203,Chile,NMC811,Pyro,-3194.640522042616,high_collection,baseline
+204,China,LFP,Pyro,0.05747679536922494,high_collection,baseline
+205,China,NCA,Pyro,-3.16675911046474,high_collection,baseline
+206,China,NMC111,Pyro,3.048109878892314,high_collection,baseline
+207,China,NMC523,Pyro,-0.8042720623737529,high_collection,baseline
+208,China,NMC622,Pyro,3.165150163177181,high_collection,baseline
+209,China,NMC811,Pyro,1.8903028444839352,high_collection,baseline
+210,Colombia,LFP,Pyro,0.0,high_collection,baseline
+211,Colombia,NCA,Pyro,-110.08693937886633,high_collection,baseline
+212,Colombia,NMC111,Pyro,-214.5203979877082,high_collection,baseline
+213,Colombia,NMC523,Pyro,-211.14507278717335,high_collection,baseline
+214,Colombia,NMC622,Pyro,-370.4190887458395,high_collection,baseline
+215,Colombia,NMC811,Pyro,-558.6016948495112,high_collection,baseline
+216,Comoros,LFP,Pyro,0.0,high_collection,baseline
+217,Comoros,NCA,Pyro,-23547.174238286367,high_collection,baseline
+218,Comoros,NMC111,Pyro,-57208.32619693524,high_collection,baseline
+219,Comoros,NMC523,Pyro,-49958.04879893762,high_collection,baseline
+220,Comoros,NMC622,Pyro,0.0,high_collection,baseline
+221,Comoros,NMC811,Pyro,0.0,high_collection,baseline
+222,Congo,LFP,Pyro,0.0,high_collection,baseline
+223,Congo,NCA,Pyro,-823.3170927268475,high_collection,baseline
+224,Congo,NMC111,Pyro,-1407.715729342882,high_collection,baseline
+225,Congo,NMC523,Pyro,-1630.788472946752,high_collection,baseline
+226,Congo,NMC622,Pyro,-2856.904050583285,high_collection,baseline
+227,Congo,NMC811,Pyro,-4175.771864734117,high_collection,baseline
+228,Costa Rica,LFP,Pyro,0.0,high_collection,baseline
+229,Costa Rica,NCA,Pyro,-276.3453687042661,high_collection,baseline
+230,Costa Rica,NMC111,Pyro,-453.1127734776486,high_collection,baseline
+231,Costa Rica,NMC523,Pyro,-547.5604856716025,high_collection,baseline
+232,Costa Rica,NMC622,Pyro,-1004.0583733113925,high_collection,baseline
+233,Costa Rica,NMC811,Pyro,-1925.2920686378347,high_collection,baseline
+234,Croatia,LFP,Pyro,-24766.13170193306,high_collection,baseline
+235,Croatia,NCA,Pyro,-790.4020020944096,high_collection,baseline
+236,Croatia,NMC111,Pyro,-1083.06736031553,high_collection,baseline
+237,Croatia,NMC523,Pyro,-1019.8789435530017,high_collection,baseline
+238,Croatia,NMC622,Pyro,-1589.934618746944,high_collection,baseline
+239,Croatia,NMC811,Pyro,-2280.31033047632,high_collection,baseline
+240,Cyprus,LFP,Pyro,-33778.18137867572,high_collection,baseline
+241,Cyprus,NCA,Pyro,-1048.4936474188578,high_collection,baseline
+242,Cyprus,NMC111,Pyro,-1438.1643248075889,high_collection,baseline
+243,Cyprus,NMC523,Pyro,-1355.4456838414096,high_collection,baseline
+244,Cyprus,NMC622,Pyro,-2123.0055040041257,high_collection,baseline
+245,Cyprus,NMC811,Pyro,-3055.9770862588057,high_collection,baseline
+246,Czechia,LFP,Pyro,-4490.705744889508,high_collection,baseline
+247,Czechia,NCA,Pyro,-138.7138270928726,high_collection,baseline
+248,Czechia,NMC111,Pyro,-192.07357136116732,high_collection,baseline
+249,Czechia,NMC523,Pyro,-180.86789285039495,high_collection,baseline
+250,Czechia,NMC622,Pyro,-283.56203774508384,high_collection,baseline
+251,Czechia,NMC811,Pyro,-408.2321686162333,high_collection,baseline
+252,Denmark,LFP,Pyro,-649.9811142724246,high_collection,baseline
+253,Denmark,NCA,Pyro,-18.065256874972793,high_collection,baseline
+254,Denmark,NMC111,Pyro,-27.177426771194856,high_collection,baseline
+255,Denmark,NMC523,Pyro,-25.460800724970497,high_collection,baseline
+256,Denmark,NMC622,Pyro,-41.03905588582196,high_collection,baseline
+257,Denmark,NMC811,Pyro,-59.75870518104789,high_collection,baseline
+258,Dominican Rep.,LFP,Pyro,0.0,high_collection,baseline
+259,Dominican Rep.,NCA,Pyro,-324.8261376282379,high_collection,baseline
+260,Dominican Rep.,NMC111,Pyro,-705.775175874066,high_collection,baseline
+261,Dominican Rep.,NMC523,Pyro,-682.3266688429261,high_collection,baseline
+262,Dominican Rep.,NMC622,Pyro,-1129.3193301110393,high_collection,baseline
+263,Dominican Rep.,NMC811,Pyro,-1677.9576300550132,high_collection,baseline
+264,Ecuador,LFP,Pyro,0.0,high_collection,baseline
+265,Ecuador,NCA,Pyro,-340.5975560354683,high_collection,baseline
+266,Ecuador,NMC111,Pyro,-640.8256805129505,high_collection,baseline
+267,Ecuador,NMC523,Pyro,-664.0731649253165,high_collection,baseline
+268,Ecuador,NMC622,Pyro,-1170.6508092176414,high_collection,baseline
+269,Ecuador,NMC811,Pyro,-1955.1147732386858,high_collection,baseline
+270,Egypt,LFP,Pyro,0.0,high_collection,baseline
+271,Egypt,NCA,Pyro,-168.97444919557446,high_collection,baseline
+272,Egypt,NMC111,Pyro,-392.9031065982398,high_collection,baseline
+273,Egypt,NMC523,Pyro,-358.0813553816637,high_collection,baseline
+274,Egypt,NMC622,Pyro,-577.3645861784806,high_collection,baseline
+275,Egypt,NMC811,Pyro,-1059.9539108965776,high_collection,baseline
+276,El Salvador,LFP,Pyro,0.0,high_collection,baseline
+277,El Salvador,NCA,Pyro,-408.65355994638253,high_collection,baseline
+278,El Salvador,NMC111,Pyro,-774.9058551253921,high_collection,baseline
+279,El Salvador,NMC523,Pyro,-799.0682921301734,high_collection,baseline
+280,El Salvador,NMC622,Pyro,-1402.2672628508349,high_collection,baseline
+281,El Salvador,NMC811,Pyro,-2168.044097103894,high_collection,baseline
+282,Estonia,LFP,Pyro,-25353.350902302216,high_collection,baseline
+283,Estonia,NCA,Pyro,-849.7434459640014,high_collection,baseline
+284,Estonia,NMC111,Pyro,-1157.578544151718,high_collection,baseline
+285,Estonia,NMC523,Pyro,-1092.542328797764,high_collection,baseline
+286,Estonia,NMC622,Pyro,-1694.6384980932182,high_collection,baseline
+287,Estonia,NMC811,Pyro,-2420.965449572669,high_collection,baseline
+288,Eswatini,LFP,Pyro,0.0,high_collection,baseline
+289,Eswatini,NCA,Pyro,-4362.611854105514,high_collection,baseline
+290,Eswatini,NMC111,Pyro,-7077.131522259851,high_collection,baseline
+291,Eswatini,NMC523,Pyro,-7798.291909367921,high_collection,baseline
+292,Eswatini,NMC622,Pyro,-14321.178972048881,high_collection,baseline
+293,Eswatini,NMC811,Pyro,-23298.26999403743,high_collection,baseline
+294,Ethiopia,LFP,Pyro,0.0,high_collection,baseline
+295,Ethiopia,NCA,Pyro,-357.8091463894582,high_collection,baseline
+296,Ethiopia,NMC111,Pyro,-587.1485250547951,high_collection,baseline
+297,Ethiopia,NMC523,Pyro,-643.881203871719,high_collection,baseline
+298,Ethiopia,NMC622,Pyro,-1178.8938599105495,high_collection,baseline
+299,Ethiopia,NMC811,Pyro,-2384.6989718938557,high_collection,baseline
+300,Fiji,LFP,Pyro,0.0,high_collection,baseline
+301,Fiji,NCA,Pyro,-648.3864337597704,high_collection,baseline
+302,Fiji,NMC111,Pyro,-1298.7318186913576,high_collection,baseline
+303,Fiji,NMC523,Pyro,-1330.033961728492,high_collection,baseline
+304,Fiji,NMC622,Pyro,-2225.0501974041103,high_collection,baseline
+305,Fiji,NMC811,Pyro,-3168.9409276557635,high_collection,baseline
+306,Finland,LFP,Pyro,-1123.062980084315,high_collection,baseline
+307,Finland,NCA,Pyro,-33.611216979053154,high_collection,baseline
+308,Finland,NMC111,Pyro,-46.337818062249696,high_collection,baseline
+309,Finland,NMC523,Pyro,-44.44030839657611,high_collection,baseline
+310,Finland,NMC622,Pyro,-72.11044792531617,high_collection,baseline
+311,Finland,NMC811,Pyro,-111.53926215305904,high_collection,baseline
+312,France,LFP,Pyro,-254.85165400442426,high_collection,baseline
+313,France,NCA,Pyro,-3.53206584433023,high_collection,baseline
+314,France,NMC111,Pyro,-6.862794277197175,high_collection,baseline
+315,France,NMC523,Pyro,-6.615937493138123,high_collection,baseline
+316,France,NMC622,Pyro,-12.366113647012819,high_collection,baseline
+317,France,NMC811,Pyro,-20.313734211836913,high_collection,baseline
+318,French Polynesia,LFP,Pyro,0.0,high_collection,baseline
+319,French Polynesia,NCA,Pyro,-679.1197276307762,high_collection,baseline
+320,French Polynesia,NMC111,Pyro,-1214.7117183238788,high_collection,baseline
+321,French Polynesia,NMC523,Pyro,-1303.5774080439207,high_collection,baseline
+322,French Polynesia,NMC622,Pyro,-2312.6322449042054,high_collection,baseline
+323,French Polynesia,NMC811,Pyro,-3761.012756019253,high_collection,baseline
+324,Georgia,LFP,Pyro,0.0,high_collection,baseline
+325,Georgia,NCA,Pyro,-1043.7210580602373,high_collection,baseline
+326,Georgia,NMC111,Pyro,-1836.5616543665374,high_collection,baseline
+327,Georgia,NMC523,Pyro,-1827.3665568315116,high_collection,baseline
+328,Georgia,NMC622,Pyro,-3148.5921437714783,high_collection,baseline
+329,Georgia,NMC811,Pyro,-4986.222386430272,high_collection,baseline
+330,Germany,LFP,Pyro,-150.88495906354882,high_collection,baseline
+331,Germany,NCA,Pyro,-0.34160535233250333,high_collection,baseline
+332,Germany,NMC111,Pyro,-2.708793538734445,high_collection,baseline
+333,Germany,NMC523,Pyro,-2.656118421068112,high_collection,baseline
+334,Germany,NMC622,Pyro,-6.004766060118679,high_collection,baseline
+335,Germany,NMC811,Pyro,-10.464849572783088,high_collection,baseline
+336,Ghana,LFP,Pyro,0.0,high_collection,baseline
+337,Ghana,NCA,Pyro,-259.55313463966763,high_collection,baseline
+338,Ghana,NMC111,Pyro,-422.6443243945275,high_collection,baseline
+339,Ghana,NMC523,Pyro,-471.9866662063855,high_collection,baseline
+340,Ghana,NMC622,Pyro,-868.4934702613289,high_collection,baseline
+341,Ghana,NMC811,Pyro,-2928.8446319111454,high_collection,baseline
+342,Greece,LFP,Pyro,-1935.5856059755522,high_collection,baseline
+343,Greece,NCA,Pyro,-56.54387046375951,high_collection,baseline
+344,Greece,NMC111,Pyro,-81.53863698839739,high_collection,baseline
+345,Greece,NMC523,Pyro,-76.25844526808756,high_collection,baseline
+346,Greece,NMC622,Pyro,-118.95806164971609,high_collection,baseline
+347,Greece,NMC811,Pyro,-162.2622224421167,high_collection,baseline
+348,Greenland,LFP,Pyro,0.0,high_collection,baseline
+349,Greenland,NCA,Pyro,-13054.789525863578,high_collection,baseline
+350,Greenland,NMC111,Pyro,-15386.364859318868,high_collection,baseline
+351,Greenland,NMC523,Pyro,-24864.299912387723,high_collection,baseline
+352,Greenland,NMC622,Pyro,-57156.841131506684,high_collection,baseline
+353,Greenland,NMC811,Pyro,0.0,high_collection,baseline
+354,Grenada,LFP,Pyro,0.0,high_collection,baseline
+355,Grenada,NCA,Pyro,-3667.646178783617,high_collection,baseline
+356,Grenada,NMC111,Pyro,-7957.24740744436,high_collection,baseline
+357,Grenada,NMC523,Pyro,-7502.8995183053585,high_collection,baseline
+358,Grenada,NMC622,Pyro,-12485.867539945537,high_collection,baseline
+359,Grenada,NMC811,Pyro,-19671.816139322418,high_collection,baseline
+360,Guatemala,LFP,Pyro,0.0,high_collection,baseline
+361,Guatemala,NCA,Pyro,-186.96484660125617,high_collection,baseline
+362,Guatemala,NMC111,Pyro,-315.53720531572793,high_collection,baseline
+363,Guatemala,NMC523,Pyro,-351.85436307001504,high_collection,baseline
+364,Guatemala,NMC622,Pyro,-651.8378284336607,high_collection,baseline
+365,Guatemala,NMC811,Pyro,-1123.7030361157435,high_collection,baseline
+366,Guinea,LFP,Pyro,0.0,high_collection,baseline
+367,Guinea,NCA,Pyro,-3935.866904686262,high_collection,baseline
+368,Guinea,NMC111,Pyro,-8214.250920868175,high_collection,baseline
+369,Guinea,NMC523,Pyro,0.0,high_collection,baseline
+370,Guinea,NMC622,Pyro,0.0,high_collection,baseline
+371,Guinea,NMC811,Pyro,0.0,high_collection,baseline
+372,Guyana,LFP,Pyro,0.0,high_collection,baseline
+373,Guyana,NCA,Pyro,-995.0732627768678,high_collection,baseline
+374,Guyana,NMC111,Pyro,-2464.923018495143,high_collection,baseline
+375,Guyana,NMC523,Pyro,-2138.682899700629,high_collection,baseline
+376,Guyana,NMC622,Pyro,-3399.2528238866544,high_collection,baseline
+377,Guyana,NMC811,Pyro,-4630.55012587672,high_collection,baseline
+378,Honduras,LFP,Pyro,0.0,high_collection,baseline
+379,Honduras,NCA,Pyro,-531.7963716403867,high_collection,baseline
+380,Honduras,NMC111,Pyro,-865.6249909052683,high_collection,baseline
+381,Honduras,NMC523,Pyro,-1000.5311949529003,high_collection,baseline
+382,Honduras,NMC622,Pyro,-1872.2750040121919,high_collection,baseline
+383,Honduras,NMC811,Pyro,-5071.1138957018,high_collection,baseline
+384,Hungary,LFP,Pyro,-9337.471797218512,high_collection,baseline
+385,Hungary,NCA,Pyro,-290.7902860874189,high_collection,baseline
+386,Hungary,NMC111,Pyro,-400.70453743735754,high_collection,baseline
+387,Hungary,NMC523,Pyro,-377.46005800033817,high_collection,baseline
+388,Hungary,NMC622,Pyro,-590.5201492137633,high_collection,baseline
+389,Hungary,NMC811,Pyro,-845.7911536667478,high_collection,baseline
+390,Iceland,LFP,Pyro,0.0,high_collection,baseline
+391,Iceland,NCA,Pyro,-75.08595914002268,high_collection,baseline
+392,Iceland,NMC111,Pyro,-139.05904876744498,high_collection,baseline
+393,Iceland,NMC523,Pyro,-143.04525486206123,high_collection,baseline
+394,Iceland,NMC622,Pyro,-239.71495292742372,high_collection,baseline
+395,Iceland,NMC811,Pyro,-335.6777086114615,high_collection,baseline
+396,India,LFP,Pyro,0.0,high_collection,baseline
+397,India,NCA,Pyro,-64.43966852992126,high_collection,baseline
+398,India,NMC111,Pyro,-196.92325521844984,high_collection,baseline
+399,India,NMC523,Pyro,-175.9156398136721,high_collection,baseline
+400,India,NMC622,Pyro,-342.28885343548245,high_collection,baseline
+401,India,NMC811,Pyro,-460.5241642444919,high_collection,baseline
+402,Indonesia,LFP,Pyro,0.0,high_collection,baseline
+403,Indonesia,NCA,Pyro,-16.505652511265488,high_collection,baseline
+404,Indonesia,NMC111,Pyro,-45.98747029717413,high_collection,baseline
+405,Indonesia,NMC523,Pyro,-48.4938438348513,high_collection,baseline
+406,Indonesia,NMC622,Pyro,-105.09532013095595,high_collection,baseline
+407,Indonesia,NMC811,Pyro,-193.72654021842396,high_collection,baseline
+408,Iran,LFP,Pyro,0.0,high_collection,baseline
+409,Iran,NCA,Pyro,-322.8260057641514,high_collection,baseline
+410,Iran,NMC111,Pyro,-394.83194698477473,high_collection,baseline
+411,Iran,NMC523,Pyro,-685.8955417119128,high_collection,baseline
+412,Iran,NMC622,Pyro,-2233.1002492675607,high_collection,baseline
+413,Iran,NMC811,Pyro,-30904.633196558716,high_collection,baseline
+414,Ireland,LFP,Pyro,-5321.38817072428,high_collection,baseline
+415,Ireland,NCA,Pyro,-174.54383301394586,high_collection,baseline
+416,Ireland,NMC111,Pyro,-239.43952234223008,high_collection,baseline
+417,Ireland,NMC523,Pyro,-226.11099423126106,high_collection,baseline
+418,Ireland,NMC622,Pyro,-352.2889022412411,high_collection,baseline
+419,Ireland,NMC811,Pyro,-505.4246662573467,high_collection,baseline
+420,Israel,LFP,Pyro,0.0,high_collection,baseline
+421,Israel,NCA,Pyro,-35.65089957492849,high_collection,baseline
+422,Israel,NMC111,Pyro,-83.82950879990129,high_collection,baseline
+423,Israel,NMC523,Pyro,-76.45639402739562,high_collection,baseline
+424,Israel,NMC622,Pyro,-121.93954838813106,high_collection,baseline
+425,Israel,NMC811,Pyro,-150.6217277862621,high_collection,baseline
+426,Italy,LFP,Pyro,-376.94300887240945,high_collection,baseline
+427,Italy,NCA,Pyro,-7.372830158802604,high_collection,baseline
+428,Italy,NMC111,Pyro,-12.54249677228212,high_collection,baseline
+429,Italy,NMC523,Pyro,-11.837216219865704,high_collection,baseline
+430,Italy,NMC622,Pyro,-20.07340203100555,high_collection,baseline
+431,Italy,NMC811,Pyro,-29.506653747486705,high_collection,baseline
+432,Jamaica,LFP,Pyro,0.0,high_collection,baseline
+433,Jamaica,NCA,Pyro,-567.5094207253304,high_collection,baseline
+434,Jamaica,NMC111,Pyro,-1152.556366894884,high_collection,baseline
+435,Jamaica,NMC523,Pyro,-1153.5716118123785,high_collection,baseline
+436,Jamaica,NMC622,Pyro,-1953.4278546598973,high_collection,baseline
+437,Jamaica,NMC811,Pyro,-4689.672219610615,high_collection,baseline
+438,Japan,LFP,Pyro,0.0,high_collection,baseline
+439,Japan,NCA,Pyro,-15.310086272935482,high_collection,baseline
+440,Japan,NMC111,Pyro,-32.03382167027584,high_collection,baseline
+441,Japan,NMC523,Pyro,-34.42609948263052,high_collection,baseline
+442,Japan,NMC622,Pyro,-71.75842042269052,high_collection,baseline
+443,Japan,NMC811,Pyro,-134.51280055494829,high_collection,baseline
+444,Jordan,LFP,Pyro,0.0,high_collection,baseline
+445,Jordan,NCA,Pyro,-226.46171845871484,high_collection,baseline
+446,Jordan,NMC111,Pyro,-343.94022871324563,high_collection,baseline
+447,Jordan,NMC523,Pyro,-396.14358429935777,high_collection,baseline
+448,Jordan,NMC622,Pyro,-725.1292048626393,high_collection,baseline
+449,Jordan,NMC811,Pyro,-1617.3119822314957,high_collection,baseline
+450,Kazakhstan,LFP,Pyro,0.0,high_collection,baseline
+451,Kazakhstan,NCA,Pyro,-131.92105554393694,high_collection,baseline
+452,Kazakhstan,NMC111,Pyro,-206.5069373350549,high_collection,baseline
+453,Kazakhstan,NMC523,Pyro,-232.48751294369285,high_collection,baseline
+454,Kazakhstan,NMC622,Pyro,-432.56712696369306,high_collection,baseline
+455,Kazakhstan,NMC811,Pyro,-895.6147494223709,high_collection,baseline
+456,Kenya,LFP,Pyro,0.0,high_collection,baseline
+457,Kenya,NCA,Pyro,-156.6508431970205,high_collection,baseline
+458,Kenya,NMC111,Pyro,-359.9776407230623,high_collection,baseline
+459,Kenya,NMC523,Pyro,-331.8276315609483,high_collection,baseline
+460,Kenya,NMC622,Pyro,-537.2638115919237,high_collection,baseline
+461,Kenya,NMC811,Pyro,-776.9224875322824,high_collection,baseline
+462,Kiribati,LFP,Pyro,0.0,high_collection,baseline
+463,Kiribati,NCA,Pyro,-18123.464520952268,high_collection,baseline
+464,Kiribati,NMC111,Pyro,-28920.713888847953,high_collection,baseline
+465,Kiribati,NMC523,Pyro,-57802.83487924176,high_collection,baseline
+466,Kiribati,NMC622,Pyro,0.0,high_collection,baseline
+467,Kiribati,NMC811,Pyro,0.0,high_collection,baseline
+468,Korea,LFP,Pyro,0.0,high_collection,baseline
+469,Korea,NCA,Pyro,-7.603249597267024,high_collection,baseline
+470,Korea,NMC111,Pyro,-24.33756258371308,high_collection,baseline
+471,Korea,NMC523,Pyro,-23.637060587957237,high_collection,baseline
+472,Korea,NMC622,Pyro,-45.08769992711126,high_collection,baseline
+473,Korea,NMC811,Pyro,-65.51128083069966,high_collection,baseline
+474,Kuwait,LFP,Pyro,0.0,high_collection,baseline
+475,Kuwait,NCA,Pyro,-290.84494285908045,high_collection,baseline
+476,Kuwait,NMC111,Pyro,-404.06423791642993,high_collection,baseline
+477,Kuwait,NMC523,Pyro,-497.9365924756445,high_collection,baseline
+478,Kuwait,NMC622,Pyro,-937.6308681515092,high_collection,baseline
+479,Kuwait,NMC811,Pyro,-2303.229436133518,high_collection,baseline
+480,Kyrgyzstan,LFP,Pyro,0.0,high_collection,baseline
+481,Kyrgyzstan,NCA,Pyro,-948.4572191992759,high_collection,baseline
+482,Kyrgyzstan,NMC111,Pyro,-1324.3970594297034,high_collection,baseline
+483,Kyrgyzstan,NMC523,Pyro,-1935.5039282477628,high_collection,baseline
+484,Kyrgyzstan,NMC622,Pyro,-3698.7066126934265,high_collection,baseline
+485,Kyrgyzstan,NMC811,Pyro,-10260.333245236377,high_collection,baseline
+486,Lao People's Dem. Rep.,LFP,Pyro,0.0,high_collection,baseline
+487,Lao People's Dem. Rep.,NCA,Pyro,-1560.5489250544424,high_collection,baseline
+488,Lao People's Dem. Rep.,NMC111,Pyro,-5058.199466662778,high_collection,baseline
+489,Lao People's Dem. Rep.,NMC523,Pyro,-4239.016797385042,high_collection,baseline
+490,Lao People's Dem. Rep.,NMC622,Pyro,-7849.252475045364,high_collection,baseline
+491,Lao People's Dem. Rep.,NMC811,Pyro,-9748.109596047125,high_collection,baseline
+492,Latvia,LFP,Pyro,-23922.52167563834,high_collection,baseline
+493,Latvia,NCA,Pyro,-801.4798867497744,high_collection,baseline
+494,Latvia,NMC111,Pyro,-1092.08840557282,high_collection,baseline
+495,Latvia,NMC523,Pyro,-1030.6886995647337,high_collection,baseline
+496,Latvia,NMC622,Pyro,-1598.667259555777,high_collection,baseline
+497,Latvia,NMC811,Pyro,-2283.2079376670513,high_collection,baseline
+498,Lebanon,LFP,Pyro,0.0,high_collection,baseline
+499,Lebanon,NCA,Pyro,-382.0308892614017,high_collection,baseline
+500,Lebanon,NMC111,Pyro,-837.4753249439107,high_collection,baseline
+501,Lebanon,NMC523,Pyro,-768.689871428982,high_collection,baseline
+502,Lebanon,NMC622,Pyro,-1203.2789502512935,high_collection,baseline
+503,Lebanon,NMC811,Pyro,-1511.6220733642174,high_collection,baseline
+504,Lesotho,LFP,Pyro,0.0,high_collection,baseline
+505,Lesotho,NCA,Pyro,-1666.9666772173798,high_collection,baseline
+506,Lesotho,NMC111,Pyro,-3679.777422928613,high_collection,baseline
+507,Lesotho,NMC523,Pyro,-3503.6660130555642,high_collection,baseline
+508,Lesotho,NMC622,Pyro,-5651.725206934939,high_collection,baseline
+509,Lesotho,NMC811,Pyro,-8941.19879349933,high_collection,baseline
+510,Lithuania,LFP,Pyro,-17573.738651928234,high_collection,baseline
+511,Lithuania,NCA,Pyro,-587.444730860909,high_collection,baseline
+512,Lithuania,NMC111,Pyro,-801.0142180331808,high_collection,baseline
+513,Lithuania,NMC523,Pyro,-756.0223006392589,high_collection,baseline
+514,Lithuania,NMC622,Pyro,-1173.2129400436293,high_collection,baseline
+515,Lithuania,NMC811,Pyro,-1676.4082034037574,high_collection,baseline
+516,Luxembourg,LFP,Pyro,-14579.742966961297,high_collection,baseline
+517,Luxembourg,NCA,Pyro,-498.96329670493844,high_collection,baseline
+518,Luxembourg,NMC111,Pyro,-678.6587814037892,high_collection,baseline
+519,Luxembourg,NMC523,Pyro,-641.0152653395414,high_collection,baseline
+520,Luxembourg,NMC622,Pyro,-992.3348427684227,high_collection,baseline
+521,Luxembourg,NMC811,Pyro,-1417.4354022364314,high_collection,baseline
+522,Madagascar,LFP,Pyro,0.0,high_collection,baseline
+523,Madagascar,NCA,Pyro,-900.3666667012703,high_collection,baseline
+524,Madagascar,NMC111,Pyro,-1699.0750532438894,high_collection,baseline
+525,Madagascar,NMC523,Pyro,-1767.774849428757,high_collection,baseline
+526,Madagascar,NMC622,Pyro,-3068.86197629346,high_collection,baseline
+527,Madagascar,NMC811,Pyro,-5913.455243444655,high_collection,baseline
+528,Malawi,LFP,Pyro,0.0,high_collection,baseline
+529,Malawi,NCA,Pyro,-301.08579841949216,high_collection,baseline
+530,Malawi,NMC111,Pyro,-546.8426574810268,high_collection,baseline
+531,Malawi,NMC523,Pyro,-581.1600399863587,high_collection,baseline
+532,Malawi,NMC622,Pyro,-1029.0157114518547,high_collection,baseline
+533,Malawi,NMC811,Pyro,-1875.2677102942669,high_collection,baseline
+534,Malaysia,LFP,Pyro,0.0,high_collection,baseline
+535,Malaysia,NCA,Pyro,-5497.543505056146,high_collection,baseline
+536,Malaysia,NMC111,Pyro,-7876.578504411922,high_collection,baseline
+537,Malaysia,NMC523,Pyro,-43497.10570140584,high_collection,baseline
+538,Malaysia,NMC622,Pyro,-325252.73074083385,high_collection,baseline
+539,Malaysia,NMC811,Pyro,-396370.32052069483,high_collection,baseline
+540,Maldives,LFP,Pyro,0.0,high_collection,baseline
+541,Maldives,NCA,Pyro,-5126.001460936173,high_collection,baseline
+542,Maldives,NMC111,Pyro,-8286.986799231852,high_collection,baseline
+543,Maldives,NMC523,Pyro,-10953.006472926583,high_collection,baseline
+544,Maldives,NMC622,Pyro,-26926.204828338334,high_collection,baseline
+545,Maldives,NMC811,Pyro,-81417.76525835333,high_collection,baseline
+546,Mali,LFP,Pyro,0.0,high_collection,baseline
+547,Mali,NCA,Pyro,-1942.3778657026426,high_collection,baseline
+548,Mali,NMC111,Pyro,-3470.6577864235946,high_collection,baseline
+549,Mali,NMC523,Pyro,-3722.86661450239,high_collection,baseline
+550,Mali,NMC622,Pyro,-6614.335988180728,high_collection,baseline
+551,Mali,NMC811,Pyro,-15499.152819780116,high_collection,baseline
+552,Malta,LFP,Pyro,0.0,high_collection,baseline
+553,Malta,NCA,Pyro,-1392.588101960118,high_collection,baseline
+554,Malta,NMC111,Pyro,-1902.5957847460509,high_collection,baseline
+555,Malta,NMC523,Pyro,-1794.5606196551985,high_collection,baseline
+556,Malta,NMC622,Pyro,-2799.5625453955213,high_collection,baseline
+557,Malta,NMC811,Pyro,-4022.2344105129037,high_collection,baseline
+558,Mauritania,LFP,Pyro,0.0,high_collection,baseline
+559,Mauritania,NCA,Pyro,-6546.830828452043,high_collection,baseline
+560,Mauritania,NMC111,Pyro,-15093.740526541209,high_collection,baseline
+561,Mauritania,NMC523,Pyro,-13657.6867072365,high_collection,baseline
+562,Mauritania,NMC622,Pyro,-21905.71503179479,high_collection,baseline
+563,Mauritania,NMC811,Pyro,-61324.99610662942,high_collection,baseline
+564,Mauritius,LFP,Pyro,0.0,high_collection,baseline
+565,Mauritius,NCA,Pyro,-573.3182216574264,high_collection,baseline
+566,Mauritius,NMC111,Pyro,-1044.638498411093,high_collection,baseline
+567,Mauritius,NMC523,Pyro,-1105.1033519542198,high_collection,baseline
+568,Mauritius,NMC622,Pyro,-1951.6222857335442,high_collection,baseline
+569,Mauritius,NMC811,Pyro,-3512.6028961172474,high_collection,baseline
+570,Mexico,LFP,Pyro,0.0,high_collection,baseline
+571,Mexico,NCA,Pyro,-116.47223497089395,high_collection,baseline
+572,Mexico,NMC111,Pyro,-260.77973215197227,high_collection,baseline
+573,Mexico,NMC523,Pyro,-246.52695418121687,high_collection,baseline
+574,Mexico,NMC622,Pyro,-410.7024966284759,high_collection,baseline
+575,Mexico,NMC811,Pyro,-530.3618099997235,high_collection,baseline
+576,Mongolia,LFP,Pyro,0.0,high_collection,baseline
+577,Mongolia,NCA,Pyro,-1699.5048819957897,high_collection,baseline
+578,Mongolia,NMC111,Pyro,-3001.6399148658925,high_collection,baseline
+579,Mongolia,NMC523,Pyro,-3560.4106487540516,high_collection,baseline
+580,Mongolia,NMC622,Pyro,-7391.302906417929,high_collection,baseline
+581,Mongolia,NMC811,Pyro,-17072.83077567383,high_collection,baseline
+582,Montenegro,LFP,Pyro,0.0,high_collection,baseline
+583,Montenegro,NCA,Pyro,-1283.9778437530113,high_collection,baseline
+584,Montenegro,NMC111,Pyro,-2118.384593426392,high_collection,baseline
+585,Montenegro,NMC523,Pyro,-2315.3211994102667,high_collection,baseline
+586,Montenegro,NMC622,Pyro,-4011.818123774341,high_collection,baseline
+587,Montenegro,NMC811,Pyro,-6925.6965203486025,high_collection,baseline
+588,Morocco,LFP,Pyro,0.0,high_collection,baseline
+589,Morocco,NCA,Pyro,-334.6035168048502,high_collection,baseline
+590,Morocco,NMC111,Pyro,-689.3614227917712,high_collection,baseline
+591,Morocco,NMC523,Pyro,-675.5295818645653,high_collection,baseline
+592,Morocco,NMC622,Pyro,-1133.8363238738607,high_collection,baseline
+593,Morocco,NMC811,Pyro,-1917.6924404652545,high_collection,baseline
+594,Mozambique,LFP,Pyro,0.0,high_collection,baseline
+595,Mozambique,NCA,Pyro,-1917.774385900612,high_collection,baseline
+596,Mozambique,NMC111,Pyro,-2853.673828758639,high_collection,baseline
+597,Mozambique,NMC523,Pyro,-3445.7993866464944,high_collection,baseline
+598,Mozambique,NMC622,Pyro,-6674.044690975129,high_collection,baseline
+599,Mozambique,NMC811,Pyro,-20722.318955181425,high_collection,baseline
+600,Myanmar,LFP,Pyro,0.0,high_collection,baseline
+601,Myanmar,NCA,Pyro,-560.5267581562705,high_collection,baseline
+602,Myanmar,NMC111,Pyro,-1423.4226955722202,high_collection,baseline
+603,Myanmar,NMC523,Pyro,-1402.8593541824673,high_collection,baseline
+604,Myanmar,NMC622,Pyro,-2849.8333059706733,high_collection,baseline
+605,Myanmar,NMC811,Pyro,-4888.0891111978935,high_collection,baseline
+606,Namibia,LFP,Pyro,0.0,high_collection,baseline
+607,Namibia,NCA,Pyro,-592.0740105789491,high_collection,baseline
+608,Namibia,NMC111,Pyro,-1215.0429884955154,high_collection,baseline
+609,Namibia,NMC523,Pyro,-1195.3515851272173,high_collection,baseline
+610,Namibia,NMC622,Pyro,-2000.5737230050922,high_collection,baseline
+611,Namibia,NMC811,Pyro,-2933.3629268485192,high_collection,baseline
+612,Nepal,LFP,Pyro,0.0,high_collection,baseline
+613,Nepal,NCA,Pyro,-1641.8700250031377,high_collection,baseline
+614,Nepal,NMC111,Pyro,-2728.9301718379293,high_collection,baseline
+615,Nepal,NMC523,Pyro,-3535.2320680499215,high_collection,baseline
+616,Nepal,NMC622,Pyro,-8569.17354346173,high_collection,baseline
+617,Nepal,NMC811,Pyro,-33486.75012168503,high_collection,baseline
+618,Netherlands,LFP,Pyro,-442.78889707559546,high_collection,baseline
+619,Netherlands,NCA,Pyro,-9.959334462771443,high_collection,baseline
+620,Netherlands,NMC111,Pyro,-15.627088496665687,high_collection,baseline
+621,Netherlands,NMC523,Pyro,-14.3119246980016,high_collection,baseline
+622,Netherlands,NMC622,Pyro,-24.436815663709623,high_collection,baseline
+623,Netherlands,NMC811,Pyro,-42.02305328273904,high_collection,baseline
+624,New Caledonia,LFP,Pyro,0.0,high_collection,baseline
+625,New Caledonia,NCA,Pyro,-8893.103805355153,high_collection,baseline
+626,New Caledonia,NMC111,Pyro,-13756.838084046773,high_collection,baseline
+627,New Caledonia,NMC523,Pyro,0.0,high_collection,baseline
+628,New Caledonia,NMC622,Pyro,0.0,high_collection,baseline
+629,New Caledonia,NMC811,Pyro,0.0,high_collection,baseline
+630,New Zealand,LFP,Pyro,0.0,high_collection,baseline
+631,New Zealand,NCA,Pyro,-53.64051601905499,high_collection,baseline
+632,New Zealand,NMC111,Pyro,-104.95988564281578,high_collection,baseline
+633,New Zealand,NMC523,Pyro,-105.24159639755509,high_collection,baseline
+634,New Zealand,NMC622,Pyro,-172.97145602109197,high_collection,baseline
+635,New Zealand,NMC811,Pyro,-247.36541106908356,high_collection,baseline
+636,Nicaragua,LFP,Pyro,0.0,high_collection,baseline
+637,Nicaragua,NCA,Pyro,-403.12551157512286,high_collection,baseline
+638,Nicaragua,NMC111,Pyro,-829.7516836210906,high_collection,baseline
+639,Nicaragua,NMC523,Pyro,-810.0261678358311,high_collection,baseline
+640,Nicaragua,NMC622,Pyro,-1381.5987694905589,high_collection,baseline
+641,Nicaragua,NMC811,Pyro,-2319.8111767883097,high_collection,baseline
+642,Niger,LFP,Pyro,0.0,high_collection,baseline
+643,Niger,NCA,Pyro,-1011.3594019346594,high_collection,baseline
+644,Niger,NMC111,Pyro,-2175.637601931525,high_collection,baseline
+645,Niger,NMC523,Pyro,-2101.0745861249793,high_collection,baseline
+646,Niger,NMC622,Pyro,-3434.0140995329034,high_collection,baseline
+647,Niger,NMC811,Pyro,-5707.891523838515,high_collection,baseline
+648,Nigeria,LFP,Pyro,0.0,high_collection,baseline
+649,Nigeria,NCA,Pyro,-77.53036583505076,high_collection,baseline
+650,Nigeria,NMC111,Pyro,-182.77212949998247,high_collection,baseline
+651,Nigeria,NMC523,Pyro,-167.18788839912878,high_collection,baseline
+652,Nigeria,NMC622,Pyro,-271.7569478116132,high_collection,baseline
+653,Nigeria,NMC811,Pyro,-396.3715415214143,high_collection,baseline
+654,North Macedonia,LFP,Pyro,0.0,high_collection,baseline
+655,North Macedonia,NCA,Pyro,-630.4654972381232,high_collection,baseline
+656,North Macedonia,NMC111,Pyro,-871.6181027001959,high_collection,baseline
+657,North Macedonia,NMC523,Pyro,-1081.8783058357965,high_collection,baseline
+658,North Macedonia,NMC622,Pyro,-2007.6508565269019,high_collection,baseline
+659,North Macedonia,NMC811,Pyro,-3660.702791547125,high_collection,baseline
+660,Norway,LFP,Pyro,0.0,high_collection,baseline
+661,Norway,NCA,Pyro,-7.679360746671801,high_collection,baseline
+662,Norway,NMC111,Pyro,-18.067796539799136,high_collection,baseline
+663,Norway,NMC523,Pyro,-18.894340108010603,high_collection,baseline
+664,Norway,NMC622,Pyro,-33.3040242417131,high_collection,baseline
+665,Norway,NMC811,Pyro,-50.15432584367553,high_collection,baseline
+666,Oman,LFP,Pyro,0.0,high_collection,baseline
+667,Oman,NCA,Pyro,-380.67419682749414,high_collection,baseline
+668,Oman,NMC111,Pyro,-710.4786283319207,high_collection,baseline
+669,Oman,NMC523,Pyro,-710.3046932348973,high_collection,baseline
+670,Oman,NMC622,Pyro,-1183.7505397058346,high_collection,baseline
+671,Oman,NMC811,Pyro,-1700.7635784753686,high_collection,baseline
+672,Pakistan,LFP,Pyro,0.0,high_collection,baseline
+673,Pakistan,NCA,Pyro,-208.42559302516108,high_collection,baseline
+674,Pakistan,NMC111,Pyro,-611.1253437829652,high_collection,baseline
+675,Pakistan,NMC523,Pyro,-557.734785420742,high_collection,baseline
+676,Pakistan,NMC622,Pyro,-1073.2441329475178,high_collection,baseline
+677,Pakistan,NMC811,Pyro,-1571.785973137085,high_collection,baseline
+678,Palau,LFP,Pyro,0.0,high_collection,baseline
+679,Palau,NCA,Pyro,-16925.341334852805,high_collection,baseline
+680,Palau,NMC111,Pyro,-27116.9610910449,high_collection,baseline
+681,Palau,NMC523,Pyro,-62299.08127796946,high_collection,baseline
+682,Palau,NMC622,Pyro,0.0,high_collection,baseline
+683,Palau,NMC811,Pyro,0.0,high_collection,baseline
+684,Panama,LFP,Pyro,0.0,high_collection,baseline
+685,Panama,NCA,Pyro,-415.26611564324173,high_collection,baseline
+686,Panama,NMC111,Pyro,-752.0732905646239,high_collection,baseline
+687,Panama,NMC523,Pyro,-801.9621317572264,high_collection,baseline
+688,Panama,NMC622,Pyro,-1437.4341282116272,high_collection,baseline
+689,Panama,NMC811,Pyro,-2423.8520281937763,high_collection,baseline
+690,Papua New Guinea,LFP,Pyro,0.0,high_collection,baseline
+691,Papua New Guinea,NCA,Pyro,0.0,high_collection,baseline
+692,Papua New Guinea,NMC111,Pyro,0.0,high_collection,baseline
+693,Papua New Guinea,NMC523,Pyro,0.0,high_collection,baseline
+694,Papua New Guinea,NMC622,Pyro,0.0,high_collection,baseline
+695,Papua New Guinea,NMC811,Pyro,0.0,high_collection,baseline
+696,Paraguay,LFP,Pyro,0.0,high_collection,baseline
+697,Paraguay,NCA,Pyro,-460.8522329190949,high_collection,baseline
+698,Paraguay,NMC111,Pyro,-878.1531378987834,high_collection,baseline
+699,Paraguay,NMC523,Pyro,-889.9534060979056,high_collection,baseline
+700,Paraguay,NMC622,Pyro,-1574.619454727411,high_collection,baseline
+701,Paraguay,NMC811,Pyro,-2789.7700578063773,high_collection,baseline
+702,Peru,LFP,Pyro,0.0,high_collection,baseline
+703,Peru,NCA,Pyro,-120.59870544405939,high_collection,baseline
+704,Peru,NMC111,Pyro,-220.1506595279903,high_collection,baseline
+705,Peru,NMC523,Pyro,-239.35961336677144,high_collection,baseline
+706,Peru,NMC622,Pyro,-430.648592324993,high_collection,baseline
+707,Peru,NMC811,Pyro,-823.3423689686962,high_collection,baseline
+708,Philippines,LFP,Pyro,0.0,high_collection,baseline
+709,Philippines,NCA,Pyro,-52.32107870020766,high_collection,baseline
+710,Philippines,NMC111,Pyro,-157.34317887830727,high_collection,baseline
+711,Philippines,NMC523,Pyro,-143.45563792293922,high_collection,baseline
+712,Philippines,NMC622,Pyro,-282.517285744026,high_collection,baseline
+713,Philippines,NMC811,Pyro,-395.8271384607802,high_collection,baseline
+714,Poland,LFP,Pyro,-1164.1055156984796,high_collection,baseline
+715,Poland,NCA,Pyro,-31.556196423645087,high_collection,baseline
+716,Poland,NMC111,Pyro,-46.14213967326597,high_collection,baseline
+717,Poland,NMC523,Pyro,-43.38261381256907,high_collection,baseline
+718,Poland,NMC622,Pyro,-69.12244093889672,high_collection,baseline
+719,Poland,NMC811,Pyro,-97.71053045816168,high_collection,baseline
+720,Portugal,LFP,Pyro,-997.5382988426733,high_collection,baseline
+721,Portugal,NCA,Pyro,-28.05283947522892,high_collection,baseline
+722,Portugal,NMC111,Pyro,-39.1695244745209,high_collection,baseline
+723,Portugal,NMC523,Pyro,-37.60819717477148,high_collection,baseline
+724,Portugal,NMC622,Pyro,-61.77292877248763,high_collection,baseline
+725,Portugal,NMC811,Pyro,-97.51356224132981,high_collection,baseline
+726,Qatar,LFP,Pyro,0.0,high_collection,baseline
+727,Qatar,NCA,Pyro,-329.5761420202719,high_collection,baseline
+728,Qatar,NMC111,Pyro,-545.8012975542398,high_collection,baseline
+729,Qatar,NMC523,Pyro,-585.7435801928356,high_collection,baseline
+730,Qatar,NMC622,Pyro,-1023.2780715385607,high_collection,baseline
+731,Qatar,NMC811,Pyro,-1729.2779816159161,high_collection,baseline
+732,Rep. of Moldova,LFP,Pyro,0.0,high_collection,baseline
+733,Rep. of Moldova,NCA,Pyro,-691.5803100221619,high_collection,baseline
+734,Rep. of Moldova,NMC111,Pyro,-1296.6582080191251,high_collection,baseline
+735,Rep. of Moldova,NMC523,Pyro,-1342.5729757772926,high_collection,baseline
+736,Rep. of Moldova,NMC622,Pyro,-2303.16976552385,high_collection,baseline
+737,Rep. of Moldova,NMC811,Pyro,-3546.2331726133493,high_collection,baseline
+738,Romania,LFP,Pyro,-7491.968221609856,high_collection,baseline
+739,Romania,NCA,Pyro,-229.6404676792094,high_collection,baseline
+740,Romania,NMC111,Pyro,-317.4690614071107,high_collection,baseline
+741,Romania,NMC523,Pyro,-298.64956060698324,high_collection,baseline
+742,Romania,NMC622,Pyro,-467.9136170919199,high_collection,baseline
+743,Romania,NMC811,Pyro,-671.6985852084174,high_collection,baseline
+744,Russian Federation,LFP,Pyro,0.0,high_collection,baseline
+745,Russian Federation,NCA,Pyro,-31.221296516679576,high_collection,baseline
+746,Russian Federation,NMC111,Pyro,-75.49718181335098,high_collection,baseline
+747,Russian Federation,NMC523,Pyro,-77.31602597085104,high_collection,baseline
+748,Russian Federation,NMC622,Pyro,-169.65444556839577,high_collection,baseline
+749,Russian Federation,NMC811,Pyro,-322.63497455633524,high_collection,baseline
+750,Rwanda,LFP,Pyro,0.0,high_collection,baseline
+751,Rwanda,NCA,Pyro,-603.4647379729035,high_collection,baseline
+752,Rwanda,NMC111,Pyro,-944.4874679495316,high_collection,baseline
+753,Rwanda,NMC523,Pyro,-1307.9999784872964,high_collection,baseline
+754,Rwanda,NMC622,Pyro,-2272.5506398671505,high_collection,baseline
+755,Rwanda,NMC811,Pyro,-3607.4410511691704,high_collection,baseline
+756,Saint Lucia,LFP,Pyro,0.0,high_collection,baseline
+757,Saint Lucia,NCA,Pyro,-4241.916098074016,high_collection,baseline
+758,Saint Lucia,NMC111,Pyro,-6169.2620829357675,high_collection,baseline
+759,Saint Lucia,NMC523,Pyro,-7492.400010623998,high_collection,baseline
+760,Saint Lucia,NMC622,Pyro,-14915.497304354232,high_collection,baseline
+761,Saint Lucia,NMC811,Pyro,-41553.01094402685,high_collection,baseline
+762,Samoa,LFP,Pyro,0.0,high_collection,baseline
+763,Samoa,NCA,Pyro,-17421.749053584983,high_collection,baseline
+764,Samoa,NMC111,Pyro,-29233.016961153036,high_collection,baseline
+765,Samoa,NMC523,Pyro,-31833.277182757378,high_collection,baseline
+766,Samoa,NMC622,Pyro,-58205.16013470149,high_collection,baseline
+767,Samoa,NMC811,Pyro,0.0,high_collection,baseline
+768,Saudi Arabia,LFP,Pyro,0.0,high_collection,baseline
+769,Saudi Arabia,NCA,Pyro,-66.61316367523081,high_collection,baseline
+770,Saudi Arabia,NMC111,Pyro,-129.98476192328195,high_collection,baseline
+771,Saudi Arabia,NMC523,Pyro,-131.25074051052337,high_collection,baseline
+772,Saudi Arabia,NMC622,Pyro,-218.9845872471526,high_collection,baseline
+773,Saudi Arabia,NMC811,Pyro,-354.4679568634016,high_collection,baseline
+774,Senegal,LFP,Pyro,0.0,high_collection,baseline
+775,Senegal,NCA,Pyro,-524.4098366352252,high_collection,baseline
+776,Senegal,NMC111,Pyro,-1130.5765467266722,high_collection,baseline
+777,Senegal,NMC523,Pyro,-1063.2936323952347,high_collection,baseline
+778,Senegal,NMC622,Pyro,-1756.7741507019402,high_collection,baseline
+779,Senegal,NMC811,Pyro,-2305.6110057343085,high_collection,baseline
+780,Serbia,LFP,Pyro,0.0,high_collection,baseline
+781,Serbia,NCA,Pyro,-237.2421265723705,high_collection,baseline
+782,Serbia,NMC111,Pyro,-410.31591766046154,high_collection,baseline
+783,Serbia,NMC523,Pyro,-439.71545840621377,high_collection,baseline
+784,Serbia,NMC622,Pyro,-742.0744700913971,high_collection,baseline
+785,Serbia,NMC811,Pyro,-1132.9851269599822,high_collection,baseline
+786,Seychelles,LFP,Pyro,0.0,high_collection,baseline
+787,Seychelles,NCA,Pyro,-3372.7206343273197,high_collection,baseline
+788,Seychelles,NMC111,Pyro,-6579.805828538856,high_collection,baseline
+789,Seychelles,NMC523,Pyro,-6686.839763417185,high_collection,baseline
+790,Seychelles,NMC622,Pyro,-11427.793971962816,high_collection,baseline
+791,Seychelles,NMC811,Pyro,-15597.760544193005,high_collection,baseline
+792,Sierra Leone,LFP,Pyro,0.0,high_collection,baseline
+793,Sierra Leone,NCA,Pyro,-3581.8910529919976,high_collection,baseline
+794,Sierra Leone,NMC111,Pyro,-5157.336491338856,high_collection,baseline
+795,Sierra Leone,NMC523,Pyro,-6314.2242726344075,high_collection,baseline
+796,Sierra Leone,NMC622,Pyro,-12545.176809876475,high_collection,baseline
+797,Sierra Leone,NMC811,Pyro,-33175.03220392078,high_collection,baseline
+798,Singapore,LFP,Pyro,0.0,high_collection,baseline
+799,Singapore,NCA,Pyro,0.0,high_collection,baseline
+800,Singapore,NMC111,Pyro,0.0,high_collection,baseline
+801,Singapore,NMC523,Pyro,0.0,high_collection,baseline
+802,Singapore,NMC622,Pyro,0.0,high_collection,baseline
+803,Singapore,NMC811,Pyro,0.0,high_collection,baseline
+804,Slovakia,LFP,Pyro,-4188.461215292443,high_collection,baseline
+805,Slovakia,NCA,Pyro,-128.1780350980854,high_collection,baseline
+806,Slovakia,NMC111,Pyro,-177.79380244656068,high_collection,baseline
+807,Slovakia,NMC523,Pyro,-167.5584246713211,high_collection,baseline
+808,Slovakia,NMC622,Pyro,-263.13005121597007,high_collection,baseline
+809,Slovakia,NMC811,Pyro,-378.1640553648993,high_collection,baseline
+810,Slovenia,LFP,Pyro,-19819.56861411351,high_collection,baseline
+811,Slovenia,NCA,Pyro,-633.4251267923114,high_collection,baseline
+812,Slovenia,NMC111,Pyro,-867.1096136484982,high_collection,baseline
+813,Slovenia,NMC523,Pyro,-817.7596894995208,high_collection,baseline
+814,Slovenia,NMC622,Pyro,-1276.3598689696246,high_collection,baseline
+815,Slovenia,NMC811,Pyro,-1832.3670817617583,high_collection,baseline
+816,Solomon Isds,LFP,Pyro,0.0,high_collection,baseline
+817,Solomon Isds,NCA,Pyro,-11380.445051807576,high_collection,baseline
+818,Solomon Isds,NMC111,Pyro,-14746.563967644694,high_collection,baseline
+819,Solomon Isds,NMC523,Pyro,-25715.203824022028,high_collection,baseline
+820,Solomon Isds,NMC622,Pyro,-50676.942135338526,high_collection,baseline
+821,Solomon Isds,NMC811,Pyro,0.0,high_collection,baseline
+822,South Africa,LFP,Pyro,0.0,high_collection,baseline
+823,South Africa,NCA,Pyro,-761.1800840937631,high_collection,baseline
+824,South Africa,NMC111,Pyro,-1396.1781146443568,high_collection,baseline
+825,South Africa,NMC523,Pyro,-1496.5039000394797,high_collection,baseline
+826,South Africa,NMC622,Pyro,-2588.171145270341,high_collection,baseline
+827,South Africa,NMC811,Pyro,-3969.0290172615228,high_collection,baseline
+828,Spain,LFP,Pyro,-562.8991273884775,high_collection,baseline
+829,Spain,NCA,Pyro,-13.422633865507608,high_collection,baseline
+830,Spain,NMC111,Pyro,-20.26907941173459,high_collection,baseline
+831,Spain,NMC523,Pyro,-19.329064484824748,high_collection,baseline
+832,Spain,NMC622,Pyro,-32.34637755514892,high_collection,baseline
+833,Spain,NMC811,Pyro,-49.44905872022484,high_collection,baseline
+834,Sri Lanka,LFP,Pyro,0.0,high_collection,baseline
+835,Sri Lanka,NCA,Pyro,-651.3008397189394,high_collection,baseline
+836,Sri Lanka,NMC111,Pyro,-2151.9231329193813,high_collection,baseline
+837,Sri Lanka,NMC523,Pyro,-1785.7193943745972,high_collection,baseline
+838,Sri Lanka,NMC622,Pyro,-3286.7807178356347,high_collection,baseline
+839,Sri Lanka,NMC811,Pyro,-4195.452363509319,high_collection,baseline
+840,State of Palestine,LFP,Pyro,0.0,high_collection,baseline
+841,State of Palestine,NCA,Pyro,-2261.2982386222125,high_collection,baseline
+842,State of Palestine,NMC111,Pyro,-3400.1082418962264,high_collection,baseline
+843,State of Palestine,NMC523,Pyro,-4067.900323507557,high_collection,baseline
+844,State of Palestine,NMC622,Pyro,-7302.852035611736,high_collection,baseline
+845,State of Palestine,NMC811,Pyro,-13665.707762762893,high_collection,baseline
+846,Sudan,LFP,Pyro,0.0,high_collection,baseline
+847,Sudan,NCA,Pyro,-3341.842109241368,high_collection,baseline
+848,Sudan,NMC111,Pyro,-6249.164630603372,high_collection,baseline
+849,Sudan,NMC523,Pyro,-18067.795592169576,high_collection,baseline
+850,Sudan,NMC622,Pyro,-35770.62392192148,high_collection,baseline
+851,Sudan,NMC811,Pyro,0.0,high_collection,baseline
+852,Sweden,LFP,Pyro,-389.26425238589695,high_collection,baseline
+853,Sweden,NCA,Pyro,-9.206114937797869,high_collection,baseline
+854,Sweden,NMC111,Pyro,-14.339593878330016,high_collection,baseline
+855,Sweden,NMC523,Pyro,-13.737488507539299,high_collection,baseline
+856,Sweden,NMC622,Pyro,-23.410298366769414,high_collection,baseline
+857,Sweden,NMC811,Pyro,-37.103492826918256,high_collection,baseline
+858,Switzerland,LFP,Pyro,0.0,high_collection,baseline
+859,Switzerland,NCA,Pyro,-18.58644977757466,high_collection,baseline
+860,Switzerland,NMC111,Pyro,-42.972625619241505,high_collection,baseline
+861,Switzerland,NMC523,Pyro,-40.61642925244669,high_collection,baseline
+862,Switzerland,NMC622,Pyro,-65.44214397463402,high_collection,baseline
+863,Switzerland,NMC811,Pyro,-84.58073922685968,high_collection,baseline
+864,Tajikistan,LFP,Pyro,0.0,high_collection,baseline
+865,Tajikistan,NCA,Pyro,-2223.498914352939,high_collection,baseline
+866,Tajikistan,NMC111,Pyro,-3751.6050256421927,high_collection,baseline
+867,Tajikistan,NMC523,Pyro,-4181.710948522299,high_collection,baseline
+868,Tajikistan,NMC622,Pyro,-7634.7650479364065,high_collection,baseline
+869,Tajikistan,NMC811,Pyro,-14054.099862819094,high_collection,baseline
+870,Thailand,LFP,Pyro,0.0,high_collection,baseline
+871,Thailand,NCA,Pyro,-28.926724431580475,high_collection,baseline
+872,Thailand,NMC111,Pyro,-69.16795894251464,high_collection,baseline
+873,Thailand,NMC523,Pyro,-73.76665227122037,high_collection,baseline
+874,Thailand,NMC622,Pyro,-162.04942716093893,high_collection,baseline
+875,Thailand,NMC811,Pyro,-286.0437898022705,high_collection,baseline
+876,Togo,LFP,Pyro,0.0,high_collection,baseline
+877,Togo,NCA,Pyro,-729.148983847495,high_collection,baseline
+878,Togo,NMC111,Pyro,-1266.157920134739,high_collection,baseline
+879,Togo,NMC523,Pyro,-1397.1656887496063,high_collection,baseline
+880,Togo,NMC622,Pyro,-2470.5879839433564,high_collection,baseline
+881,Togo,NMC811,Pyro,-4557.630518190079,high_collection,baseline
+882,Tonga,LFP,Pyro,0.0,high_collection,baseline
+883,Tonga,NCA,Pyro,0.0,high_collection,baseline
+884,Tonga,NMC111,Pyro,0.0,high_collection,baseline
+885,Tonga,NMC523,Pyro,0.0,high_collection,baseline
+886,Tonga,NMC622,Pyro,0.0,high_collection,baseline
+887,Tonga,NMC811,Pyro,0.0,high_collection,baseline
+888,Trinidad and Tobago,LFP,Pyro,0.0,high_collection,baseline
+889,Trinidad and Tobago,NCA,Pyro,-861.4163597393094,high_collection,baseline
+890,Trinidad and Tobago,NMC111,Pyro,-1724.2159192485478,high_collection,baseline
+891,Trinidad and Tobago,NMC523,Pyro,-1736.4656157566633,high_collection,baseline
+892,Trinidad and Tobago,NMC622,Pyro,-2981.3229626100297,high_collection,baseline
+893,Trinidad and Tobago,NMC811,Pyro,-4308.395088211513,high_collection,baseline
+894,Tunisia,LFP,Pyro,0.0,high_collection,baseline
+895,Tunisia,NCA,Pyro,-814.258171128647,high_collection,baseline
+896,Tunisia,NMC111,Pyro,-1382.5844266734332,high_collection,baseline
+897,Tunisia,NMC523,Pyro,-1509.9251784755018,high_collection,baseline
+898,Tunisia,NMC622,Pyro,-2735.994711452035,high_collection,baseline
+899,Tunisia,NMC811,Pyro,-5325.758884008456,high_collection,baseline
+900,Turkey,LFP,Pyro,0.0,high_collection,baseline
+901,Turkey,NCA,Pyro,-18.145156831781396,high_collection,baseline
+902,Turkey,NMC111,Pyro,-38.82883187953244,high_collection,baseline
+903,Turkey,NMC523,Pyro,-37.91065872281684,high_collection,baseline
+904,Turkey,NMC622,Pyro,-65.01954551280664,high_collection,baseline
+905,Turkey,NMC811,Pyro,-94.79225025064557,high_collection,baseline
+906,USA,LFP,Pyro,-637.2486724454151,high_collection,baseline
+907,USA,NCA,Pyro,2.355819014592966,high_collection,baseline
+908,USA,NMC111,Pyro,-5.9082064167159665,high_collection,baseline
+909,USA,NMC523,Pyro,-5.686724871818309,high_collection,baseline
+910,USA,NMC622,Pyro,-12.380380718922163,high_collection,baseline
+911,USA,NMC811,Pyro,-15.571325302724597,high_collection,baseline
+912,Uganda,LFP,Pyro,0.0,high_collection,baseline
+913,Uganda,NCA,Pyro,-112.57759356465907,high_collection,baseline
+914,Uganda,NMC111,Pyro,-263.2435907715668,high_collection,baseline
+915,Uganda,NMC523,Pyro,-239.76554297500297,high_collection,baseline
+916,Uganda,NMC622,Pyro,-388.23550353980573,high_collection,baseline
+917,Uganda,NMC811,Pyro,-564.958425268609,high_collection,baseline
+918,Ukraine,LFP,Pyro,0.0,high_collection,baseline
+919,Ukraine,NCA,Pyro,-78.40365597321376,high_collection,baseline
+920,Ukraine,NMC111,Pyro,-127.92370356547654,high_collection,baseline
+921,Ukraine,NMC523,Pyro,-146.36143678323307,high_collection,baseline
+922,Ukraine,NMC622,Pyro,-271.78990823316326,high_collection,baseline
+923,Ukraine,NMC811,Pyro,-527.0616001480779,high_collection,baseline
+924,United Arab Emirates,LFP,Pyro,0.0,high_collection,baseline
+925,United Arab Emirates,NCA,Pyro,-43.662205980036674,high_collection,baseline
+926,United Arab Emirates,NMC111,Pyro,-76.42187817800692,high_collection,baseline
+927,United Arab Emirates,NMC523,Pyro,-78.57885494323011,high_collection,baseline
+928,United Arab Emirates,NMC622,Pyro,-139.33861139148718,high_collection,baseline
+929,United Arab Emirates,NMC811,Pyro,-244.44919697891856,high_collection,baseline
+930,United Kingdom,LFP,Pyro,0.0,high_collection,baseline
+931,United Kingdom,NCA,Pyro,-3.064306578485754,high_collection,baseline
+932,United Kingdom,NMC111,Pyro,-11.890829107880359,high_collection,baseline
+933,United Kingdom,NMC523,Pyro,-11.407600665593145,high_collection,baseline
+934,United Kingdom,NMC622,Pyro,-20.147410014000485,high_collection,baseline
+935,United Kingdom,NMC811,Pyro,-26.814773630516264,high_collection,baseline
+936,United Rep. of Tanzania,LFP,Pyro,0.0,high_collection,baseline
+937,United Rep. of Tanzania,NCA,Pyro,-230.97063857125602,high_collection,baseline
+938,United Rep. of Tanzania,NMC111,Pyro,-451.65466388200804,high_collection,baseline
+939,United Rep. of Tanzania,NMC523,Pyro,-456.6089276360388,high_collection,baseline
+940,United Rep. of Tanzania,NMC622,Pyro,-784.8378147248272,high_collection,baseline
+941,United Rep. of Tanzania,NMC811,Pyro,-1195.97158709204,high_collection,baseline
+942,Uruguay,LFP,Pyro,0.0,high_collection,baseline
+943,Uruguay,NCA,Pyro,-627.9229898082332,high_collection,baseline
+944,Uruguay,NMC111,Pyro,-1092.861602736032,high_collection,baseline
+945,Uruguay,NMC523,Pyro,-1170.82127424557,high_collection,baseline
+946,Uruguay,NMC622,Pyro,-2136.7902523031607,high_collection,baseline
+947,Uruguay,NMC811,Pyro,-3934.8974637492033,high_collection,baseline
+948,Uzbekistan,LFP,Pyro,0.0,high_collection,baseline
+949,Uzbekistan,NCA,Pyro,-511.3248948406932,high_collection,baseline
+950,Uzbekistan,NMC111,Pyro,-1023.0754589960644,high_collection,baseline
+951,Uzbekistan,NMC523,Pyro,-1016.1483936371543,high_collection,baseline
+952,Uzbekistan,NMC622,Pyro,-1726.8548619180776,high_collection,baseline
+953,Uzbekistan,NMC811,Pyro,-2771.9065887609845,high_collection,baseline
+954,Viet Nam,LFP,Pyro,0.0,high_collection,baseline
+955,Viet Nam,NCA,Pyro,13.45387695278895,high_collection,baseline
+956,Viet Nam,NMC111,Pyro,22.14915918373816,high_collection,baseline
+957,Viet Nam,NMC523,Pyro,23.360139198207722,high_collection,baseline
+958,Viet Nam,NMC622,Pyro,46.458663194877886,high_collection,baseline
+959,Viet Nam,NMC811,Pyro,97.83097232697772,high_collection,baseline
+960,Yemen,LFP,Pyro,0.0,high_collection,baseline
+961,Yemen,NCA,Pyro,-467.3702282011431,high_collection,baseline
+962,Yemen,NMC111,Pyro,-1050.68596793556,high_collection,baseline
+963,Yemen,NMC523,Pyro,-948.0189464842503,high_collection,baseline
+964,Yemen,NMC622,Pyro,-1471.9441466459382,high_collection,baseline
+965,Yemen,NMC811,Pyro,-3093.3814922829924,high_collection,baseline
+966,Zambia,LFP,Pyro,0.0,high_collection,baseline
+967,Zambia,NCA,Pyro,-578.786254802029,high_collection,baseline
+968,Zambia,NMC111,Pyro,-1054.8733849630014,high_collection,baseline
+969,Zambia,NMC523,Pyro,-1054.0051195158485,high_collection,baseline
+970,Zambia,NMC622,Pyro,-1883.2068935736809,high_collection,baseline
+971,Zambia,NMC811,Pyro,-3689.054941210215,high_collection,baseline
+972,Zimbabwe,LFP,Pyro,0.0,high_collection,baseline
+973,Zimbabwe,NCA,Pyro,-292.4772584891736,high_collection,baseline
+974,Zimbabwe,NMC111,Pyro,-661.2186931020051,high_collection,baseline
+975,Zimbabwe,NMC523,Pyro,-605.5300518540703,high_collection,baseline
+976,Zimbabwe,NMC622,Pyro,-984.1731857482577,high_collection,baseline
+977,Zimbabwe,NMC811,Pyro,-1369.6381640765542,high_collection,baseline

@@ -1,0 +1,164 @@
+iso3,country,continent,lat,lon
+ABW,Aruba,America,12.55,-70.1
+AFG,Afghanistan,Asia,34.51667,69.2
+AGO,Angola,Africa,-8.833333,13.25
+ALB,Albania,Europe,41.33333,19.816670000000002
+AND,Andorra,Europe,42.5,1.5
+ARE,United Arab Emirates,Asia,24.46667,54.416669999999996
+ARG,Argentina,America,-34.66667,-58.5
+ARM,Armenia,Asia,40.18333,44.5
+AUS,Australia,Pacific,-33.883340000000004,151.1667
+AUT,Austria,Europe,48.21667,16.366670000000003
+AZE,Azerbaijan,Asia,40.366659999999996,49.883340000000004
+BDI,Burundi,Africa,-3.3666669999999996,29.316670000000002
+BEL,Belgium,Europe,50.83333,4.35
+BEN,Benin,Africa,6.4,2.517
+BFA,Burkina Faso,Africa,12.33333,-1.666667
+BGD,Bangladesh,Asia,23.7,90.36667
+BGR,Bulgaria,Europe,42.66667,23.3
+BHR,Bahrain,Asia,26.2,50.633340000000004
+BHS,Bahamas,America,25.08333,-77.33334
+BIH,Bosnia Herzegovina,Europe,43.866659999999996,18.433329999999998
+BLR,Belarus,Europe,53.85,27.5
+BMU,Bermuda,America,32.3,-64.8
+BOL,Bolivia (Plurinational State of),America,-16.5,-68.16666
+BRA,Brazil,America,-23.53,-46.63
+BRB,Barbados,America,13.1,-59.616659999999996
+BRN,Brunei Darussalam,Asia,4.933333,114.9667
+BWA,Botswana,Africa,-24.75,25.91667
+CAN,Canada,America,43.65,-79.38
+CHE,Switzerland,Europe,46.95,7.433333
+CHL,Chile,America,-33.5,-70.66666
+CHN,China,Asia,39.91667,116.4333
+CIV,C?te d'Ivoire,Africa,6.82,-5.28
+CMR,Cameroon,Africa,3.85,11.51667
+COG,Congo,Africa,-4.233333,15.233329999999999
+COL,Colombia,America,4.633333,-75.06667
+COM,Comoros,Africa,-11.66667,43.26667
+CPV,Cabo Verde,Africa,14.916670000000002,-23.5
+CRI,Costa Rica,America,9.983334,-84.06667
+CYM,Cayman Isds,America,19.3,-81.38333
+CYP,Cyprus,Europe,35.15,33.35
+CZE,Czechia,Europe,50.1,14.433329999999998
+DEU,Germany,Europe,52.533,13.417
+DNK,Denmark,Europe,55.666669999999996,12.58333
+DOM,Dominican Rep.,America,18.5,-69.78333
+DZA,Algeria,Africa,36.83333,3.0
+ECU,Ecuador,America,-0.23333330000000002,-78.5
+EGY,Egypt,Africa,30.05,31.25
+ESP,Spain,Europe,40.41667,-3.7166669999999997
+EST,Estonia,Europe,59.416669999999996,24.75
+ETH,Ethiopia,Africa,9.05,38.83333
+FIN,Finland,Europe,60.133340000000004,25.0
+FJI,Fiji,Pacific,-18.133329999999997,178.4167
+FRA,France,Europe,48.866659999999996,2.333333
+GBR,United Kingdom,Europe,51.5,-0.1666667
+GEO,Georgia,Asia,41.71667,44.81667
+GHA,Ghana,Africa,5.55,-0.25
+GIN,Guinea,Africa,9.516666,-15.71667
+GRC,Greece,Europe,38.0,23.73333
+GRD,Grenada,America,12.06667,-61.73333
+GRL,Greenland,America,64.18333,-51.73333
+GTM,Guatemala,America,14.633329999999999,-90.51666999999999
+GUY,Guyana,America,6.766667,-58.166669999999996
+HND,Honduras,America,14.083329999999998,-87.23333000000001
+HRV,Croatia,Europe,45.8,15.96667
+HUN,Hungary,Europe,47.5,19.05
+IDN,Indonesia,Asia,-6.133333,106.75
+IND,India,Asia,28.616670000000003,77.21667
+IRL,Ireland,Europe,53.333330000000004,-6.25
+IRN,Iran,Asia,35.66667,51.43333
+ISL,Iceland,Europe,64.15,-21.96667
+ISR,Israel,Asia,32.08333,34.76667
+ITA,Italy,Europe,41.883340000000004,12.5
+JAM,Jamaica,America,17.96667,-76.8
+JOR,Jordan,Asia,31.95,35.93333
+JPN,Japan,Asia,35.66667,139.75
+KAZ,Kazakhstan,Asia,51.17,71.47
+KEN,Kenya,Africa,-1.283333,36.83333
+KGZ,Kyrgyzstan,Asia,42.9,74.6
+KHM,Cambodia,Asia,11.58333,104.9167
+KIR,Kiribati,Pacific,1.383333,173.15
+KOR,Korea,Asia,37.5,127.0
+KWT,Kuwait,Asia,29.33333,48.0
+LAO,Lao People's Dem. Rep.,Asia,17.98333,102.6333
+LBN,Lebanon,Asia,33.866659999999996,35.5
+LCA,Saint Lucia,America,14.016670000000001,-60.98333
+LKA,Sri Lanka,Asia,6.9166669999999995,79.86667
+LSO,Lesotho,Africa,-29.316670000000002,27.48333
+LTU,Lithuania,Europe,54.683330000000005,25.316670000000002
+LUX,Luxembourg,Europe,49.6,6.15
+LVA,Latvia,Europe,56.95,24.1
+MAR,Morocco,Africa,34.03333,-6.85
+MDA,Rep. of Moldova,Europe,47.0,28.83333
+MDG,Madagascar,Africa,-18.866670000000003,47.5
+MDV,Maldives,Asia,4.1666669999999995,73.46667
+MEX,Mexico,America,19.41667,-99.16666
+MKD,North Macedonia,Europe,42.0,21.46667
+MLI,Mali,Africa,12.66667,-7.983333
+MLT,Malta,Europe,35.9,14.53333
+MNG,Mongolia,Asia,47.9,106.8667
+MOZ,Mozambique,Africa,-25.96667,32.58333
+MRT,Mauritania,Africa,18.15,-15.96667
+MUS,Mauritius,Africa,-20.16667,57.5
+MWI,Malawi,Africa,-13.96667,33.81667
+MYS,Malaysia,Asia,3.1333330000000004,101.7
+NAM,Namibia,Africa,-22.566670000000002,17.1
+NCL,New Caledonia,Pacific,-22.26667,166.45
+NER,Niger,Africa,13.53333,2.083333
+NGA,Nigeria,Africa,6.45,3.4666669999999997
+NIC,Nicaragua,America,12.1,-86.3
+NLD,Netherlands,Europe,52.35,4.9
+NOR,Norway,Europe,59.916669999999996,10.75
+NPL,Nepal,Asia,27.7,85.31667
+NZL,New Zealand,Pacific,-44.28333,174.7833
+OMN,Oman,Asia,23.616670000000003,58.633340000000004
+PAK,Pakistan,Asia,33.66667,73.13333
+PAL,State of Palestine,Asia,31.53,34.44
+PAN,Panama,America,8.95,-79.5
+PER,Peru,America,-12.1,-77.05
+PHL,Philippines,Asia,14.616670000000001,120.9667
+PLW,Palau,Pacific,7.3333330000000005,134.4833
+PNG,Papua New Guinea,Pacific,-9.5,147.1167
+POL,Poland,Europe,52.25,21.0
+PRT,Portugal,Europe,38.73333,-9.133333
+PRY,Paraguay,America,-25.25,-57.666669999999996
+PYF,French Polynesia,Pacific,-17.53333,-149.5667
+QAT,Qatar,Asia,25.25,51.53333
+ROM,Romania,Europe,44.41667,26.116670000000003
+RUS,Russian Federation,Asia,55.75,37.7
+RWA,Rwanda,Africa,-1.9333330000000002,30.066670000000002
+SAU,Saudi Arabia,Asia,24.65,46.76667
+SDN,Sudan,Africa,15.55,32.53333
+SEN,Senegal,Africa,14.633329999999999,-17.45
+SGP,Singapore,Asia,1.283333,103.85
+SLB,Solomon Isds,Pacific,-9.466666,159.95
+SLE,Sierra Leone,Africa,8.5,-13.28333
+SLV,El Salvador,America,13.666670000000002,-89.16666
+SVK,Slovakia,Europe,48.16667,17.16667
+SVN,Slovenia,Europe,46.06667,14.5
+SWE,Sweden,Europe,59.333330000000004,18.08333
+SYC,Seychelles,Africa,-4.633333,55.46666999999999
+TGO,Togo,Africa,6.1666669999999995,1.35
+THA,Thailand,Asia,13.733329999999999,100.5
+TJK,Tajikistan,Asia,38.633340000000004,68.85
+TON,Tonga,Pacific,-21.15,-175.2333
+TTO,Trinidad and Tobago,America,10.63333,-61.51667
+TUN,Tunisia,Africa,36.83333,10.21667
+TUR,Turkey,Europe,41.03333,28.95
+TZA,United Rep. of Tanzania,Africa,-6.85,39.3
+UGA,Uganda,Africa,0.3333333,32.58333
+UKR,Ukraine,Europe,50.41667,30.5
+URY,Uruguay,America,-34.91667,-56.166669999999996
+USA,USA,America,40.75,-74.0
+UZB,Uzbekistan,Asia,41.26667,69.21667
+VNM,Viet Nam,Asia,21.01667,105.8667
+WSM,Samoa,Pacific,-13.8,171.75
+YEM,Yemen,Asia,15.4,44.23333
+YUG,Serbia,Europe,44.83333,20.5
+ZAF,South Africa,Africa,-25.73,28.22
+ZMB,Zambia,Africa,-15.46667,28.26667
+ZWE,Zimbabwe,Africa,-17.83333,31.05
+MMR,Myanmar,Asia,16.46333,96.09222
+MNE,Montenegro,America,42.708679,19.37439
+SWZ,Eswatini,Africa,-25.472811,28.05147

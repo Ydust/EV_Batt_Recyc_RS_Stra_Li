@@ -1,0 +1,7 @@
+Year,price_scenario,lithium_price_usd_per_t,source_basis,notes
+2025,baseline,15000,"Public market-price scenario placeholder; editable","Lithium metal equivalent shadow price used for dynamic technology-choice revenue adjustment."
+2030,baseline,18000,"Public market-price scenario placeholder; editable","Moderate long-run lithium value under growing battery demand."
+2035,baseline,20000,"Public market-price scenario placeholder; editable","Interpolated long-run value."
+2040,baseline,22000,"Public market-price scenario placeholder; editable","Interpolated long-run value."
+2045,baseline,23000,"Public market-price scenario placeholder; editable","Interpolated long-run value."
+2050,baseline,24000,"Public market-price scenario placeholder; editable","Long-run lithium value."

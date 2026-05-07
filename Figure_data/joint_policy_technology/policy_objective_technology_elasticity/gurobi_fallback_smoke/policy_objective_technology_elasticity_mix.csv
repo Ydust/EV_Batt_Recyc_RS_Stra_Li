@@ -1,0 +1,7 @@
+year,policy_scenario,target_region,target_share_of_max,scope,technology,recovered_lithium_t,technology_share_pct,draw_id,random_seed
+2050,strict_policy,China,0.95,global,Direct,0.0,0.0,0,20260507
+2050,strict_policy,China,0.95,global,Hydro,1684102.4335815099,100.00000000000003,0,20260507
+2050,strict_policy,China,0.95,global,Pyro,0.0,0.0,0,20260507
+2050,strict_policy,China,0.95,target_region,Direct,0.0,0.0,0,20260507
+2050,strict_policy,China,0.95,target_region,Hydro,338289.8215733743,100.0,0,20260507
+2050,strict_policy,China,0.95,target_region,Pyro,0.0,0.0,0,20260507

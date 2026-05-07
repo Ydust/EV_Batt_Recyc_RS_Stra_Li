@@ -1,0 +1,979 @@
+,country,type,recycling_m,net_profit,collection_scenario,recovery_efficiency_scenario
+0,Afghanistan,LFP,Pyro,0.0,baseline,baseline
+1,Afghanistan,NCA,Pyro,-4079.0161622614723,baseline,baseline
+2,Afghanistan,NMC111,Pyro,-13417.733571172426,baseline,baseline
+3,Afghanistan,NMC523,Pyro,-11131.890553783105,baseline,baseline
+4,Afghanistan,NMC622,Pyro,-20472.848702785006,baseline,baseline
+5,Afghanistan,NMC811,Pyro,-83176.3415897617,baseline,baseline
+6,Albania,LFP,Pyro,-9866.206754139486,baseline,baseline
+7,Albania,NCA,Pyro,-306.9037710832363,baseline,baseline
+8,Albania,NMC111,Pyro,-434.695995734605,baseline,baseline
+9,Albania,NMC523,Pyro,-404.9815423647324,baseline,baseline
+10,Albania,NMC622,Pyro,-621.0542434364951,baseline,baseline
+11,Albania,NMC811,Pyro,-829.2681839389793,baseline,baseline
+12,Algeria,LFP,Pyro,0.0,baseline,baseline
+13,Algeria,NCA,Pyro,-167.76550446484524,baseline,baseline
+14,Algeria,NMC111,Pyro,-336.3996699351606,baseline,baseline
+15,Algeria,NMC523,Pyro,-357.94946388670985,baseline,baseline
+16,Algeria,NMC622,Pyro,-601.3854281492435,baseline,baseline
+17,Algeria,NMC811,Pyro,-742.7392835398236,baseline,baseline
+18,Andorra,LFP,Pyro,0.0,baseline,baseline
+19,Andorra,NCA,Pyro,-2636.374514942352,baseline,baseline
+20,Andorra,NMC111,Pyro,-4812.123654578198,baseline,baseline
+21,Andorra,NMC523,Pyro,-5442.359776275933,baseline,baseline
+22,Andorra,NMC622,Pyro,-8844.414624266556,baseline,baseline
+23,Andorra,NMC811,Pyro,-10935.51513596235,baseline,baseline
+24,Angola,LFP,Pyro,0.0,baseline,baseline
+25,Angola,NCA,Pyro,-775.5009866006453,baseline,baseline
+26,Angola,NMC111,Pyro,-1445.7025932196866,baseline,baseline
+27,Angola,NMC523,Pyro,-1692.4141127633413,baseline,baseline
+28,Angola,NMC622,Pyro,-2887.7512560099894,baseline,baseline
+29,Angola,NMC811,Pyro,-5375.664548938274,baseline,baseline
+30,Argentina,LFP,Pyro,0.0,baseline,baseline
+31,Argentina,NCA,Pyro,-48.93726724738537,baseline,baseline
+32,Argentina,NMC111,Pyro,-115.72311365857755,baseline,baseline
+33,Argentina,NMC523,Pyro,-110.68156874262245,baseline,baseline
+34,Argentina,NMC622,Pyro,-177.31306602410635,baseline,baseline
+35,Argentina,NMC811,Pyro,-210.10766623372598,baseline,baseline
+36,Armenia,LFP,Pyro,0.0,baseline,baseline
+37,Armenia,NCA,Pyro,-114.42200204418567,baseline,baseline
+38,Armenia,NMC111,Pyro,-1826.4459262972082,baseline,baseline
+39,Armenia,NMC523,Pyro,-226.92147151604976,baseline,baseline
+40,Armenia,NMC622,Pyro,-262.4340060443013,baseline,baseline
+41,Armenia,NMC811,Pyro,0.0,baseline,baseline
+42,Aruba,LFP,Pyro,0.0,baseline,baseline
+43,Aruba,NCA,Pyro,-950.5489167449576,baseline,baseline
+44,Aruba,NMC111,Pyro,-2299.7884888954836,baseline,baseline
+45,Aruba,NMC523,Pyro,-2031.0667084236352,baseline,baseline
+46,Aruba,NMC622,Pyro,-127.22738607407248,baseline,baseline
+47,Aruba,NMC811,Pyro,0.0,baseline,baseline
+48,Australia,LFP,Pyro,0.0,baseline,baseline
+49,Australia,NCA,Pyro,-5.592201343245664,baseline,baseline
+50,Australia,NMC111,Pyro,-19.358969668389364,baseline,baseline
+51,Australia,NMC523,Pyro,-16.828949754509033,baseline,baseline
+52,Australia,NMC622,Pyro,-27.285161305221603,baseline,baseline
+53,Australia,NMC811,Pyro,-32.06420621753186,baseline,baseline
+54,Austria,LFP,Pyro,-278.890242519179,baseline,baseline
+55,Austria,NCA,Pyro,-4.3732562186343245,baseline,baseline
+56,Austria,NMC111,Pyro,-8.549312041603846,baseline,baseline
+57,Austria,NMC523,Pyro,-8.023874933149328,baseline,baseline
+58,Austria,NMC622,Pyro,-13.913882616953032,baseline,baseline
+59,Austria,NMC811,Pyro,-20.035569438438873,baseline,baseline
+60,Azerbaijan,LFP,Pyro,0.0,baseline,baseline
+61,Azerbaijan,NCA,Pyro,-149.73875479811753,baseline,baseline
+62,Azerbaijan,NMC111,Pyro,-353.2918475293586,baseline,baseline
+63,Azerbaijan,NMC523,Pyro,-308.82988983641565,baseline,baseline
+64,Azerbaijan,NMC622,Pyro,-476.1144526364582,baseline,baseline
+65,Azerbaijan,NMC811,Pyro,-553.8155520044477,baseline,baseline
+66,Bahamas,LFP,Pyro,0.0,baseline,baseline
+67,Bahamas,NCA,Pyro,0.0,baseline,baseline
+68,Bahamas,NMC111,Pyro,0.0,baseline,baseline
+69,Bahamas,NMC523,Pyro,0.0,baseline,baseline
+70,Bahamas,NMC622,Pyro,0.0,baseline,baseline
+71,Bahamas,NMC811,Pyro,0.0,baseline,baseline
+72,Bahrain,LFP,Pyro,0.0,baseline,baseline
+73,Bahrain,NCA,Pyro,-1358.1097972215691,baseline,baseline
+74,Bahrain,NMC111,Pyro,-1963.2031224117839,baseline,baseline
+75,Bahrain,NMC523,Pyro,-2444.0704223618104,baseline,baseline
+76,Bahrain,NMC622,Pyro,-875.4460087991673,baseline,baseline
+77,Bahrain,NMC811,Pyro,-1817.0204112416122,baseline,baseline
+78,Bangladesh,LFP,Pyro,0.0,baseline,baseline
+79,Bangladesh,NCA,Pyro,-33388.07447819795,baseline,baseline
+80,Bangladesh,NMC111,Pyro,-73195.20792005847,baseline,baseline
+81,Bangladesh,NMC523,Pyro,-119980.47338999297,baseline,baseline
+82,Bangladesh,NMC622,Pyro,-242118.53452842523,baseline,baseline
+83,Bangladesh,NMC811,Pyro,-295037.2946675523,baseline,baseline
+84,Barbados,LFP,Pyro,0.0,baseline,baseline
+85,Barbados,NCA,Pyro,0.0,baseline,baseline
+86,Barbados,NMC111,Pyro,0.0,baseline,baseline
+87,Barbados,NMC523,Pyro,0.0,baseline,baseline
+88,Barbados,NMC622,Pyro,0.0,baseline,baseline
+89,Barbados,NMC811,Pyro,0.0,baseline,baseline
+90,Belarus,LFP,Pyro,0.0,baseline,baseline
+91,Belarus,NCA,Pyro,-75.43699315543819,baseline,baseline
+92,Belarus,NMC111,Pyro,-189.00490737258883,baseline,baseline
+93,Belarus,NMC523,Pyro,-163.9993528635534,baseline,baseline
+94,Belarus,NMC622,Pyro,-258.93012030070975,baseline,baseline
+95,Belarus,NMC811,Pyro,-303.317360861248,baseline,baseline
+96,Belgium,LFP,Pyro,-67.73978148416539,baseline,baseline
+97,Belgium,NCA,Pyro,2.576758992397174,baseline,baseline
+98,Belgium,NMC111,Pyro,1.1852488325825739,baseline,baseline
+99,Belgium,NMC523,Pyro,1.0506763124349991,baseline,baseline
+100,Belgium,NMC622,Pyro,-0.12042050686366819,baseline,baseline
+101,Belgium,NMC811,Pyro,-1.6709289497180118,baseline,baseline
+102,Benin,LFP,Pyro,0.0,baseline,baseline
+103,Benin,NCA,Pyro,-199.41318765396875,baseline,baseline
+104,Benin,NMC111,Pyro,-492.3765109172393,baseline,baseline
+105,Benin,NMC523,Pyro,-428.107021418471,baseline,baseline
+106,Benin,NMC622,Pyro,-676.7599053266806,baseline,baseline
+107,Benin,NMC811,Pyro,-792.4832570784934,baseline,baseline
+108,Bermuda,LFP,Pyro,0.0,baseline,baseline
+109,Bermuda,NCA,Pyro,-416.06228312039303,baseline,baseline
+110,Bermuda,NMC111,Pyro,0.0,baseline,baseline
+111,Bermuda,NMC523,Pyro,-725.741371327422,baseline,baseline
+112,Bermuda,NMC622,Pyro,-1438.92214232486,baseline,baseline
+113,Bermuda,NMC811,Pyro,-2958.4415939145833,baseline,baseline
+114,Bolivia (Plurinational State of),LFP,Pyro,0.0,baseline,baseline
+115,Bolivia (Plurinational State of),NCA,Pyro,-95.98452102305723,baseline,baseline
+116,Bolivia (Plurinational State of),NMC111,Pyro,-246.1924624374166,baseline,baseline
+117,Bolivia (Plurinational State of),NMC523,Pyro,-211.65503273968858,baseline,baseline
+118,Bolivia (Plurinational State of),NMC622,Pyro,-338.0883565157854,baseline,baseline
+119,Bolivia (Plurinational State of),NMC811,Pyro,-401.52868198025914,baseline,baseline
+120,Bosnia Herzegovina,LFP,Pyro,0.0,baseline,baseline
+121,Bosnia Herzegovina,NCA,Pyro,-318.24055959596706,baseline,baseline
+122,Bosnia Herzegovina,NMC111,Pyro,-742.6495921860634,baseline,baseline
+123,Bosnia Herzegovina,NMC523,Pyro,-645.1538977338903,baseline,baseline
+124,Bosnia Herzegovina,NMC622,Pyro,-986.6978083830983,baseline,baseline
+125,Bosnia Herzegovina,NMC811,Pyro,-1147.7234276677827,baseline,baseline
+126,Botswana,LFP,Pyro,0.0,baseline,baseline
+127,Botswana,NCA,Pyro,-214.31467085260934,baseline,baseline
+128,Botswana,NMC111,Pyro,-528.8112881453696,baseline,baseline
+129,Botswana,NMC523,Pyro,-459.2530175959683,baseline,baseline
+130,Botswana,NMC622,Pyro,-725.4501635077025,baseline,baseline
+131,Botswana,NMC811,Pyro,-861.4424146813828,baseline,baseline
+132,Brazil,LFP,Pyro,0.0,baseline,baseline
+133,Brazil,NCA,Pyro,4.789542098375874,baseline,baseline
+134,Brazil,NMC111,Pyro,3.952432561235322,baseline,baseline
+135,Brazil,NMC523,Pyro,3.680451113396476,baseline,baseline
+136,Brazil,NMC622,Pyro,3.760001819767938,baseline,baseline
+137,Brazil,NMC811,Pyro,3.5847817313078103,baseline,baseline
+138,Brunei Darussalam,LFP,Pyro,0.0,baseline,baseline
+139,Brunei Darussalam,NCA,Pyro,-4756.791327588141,baseline,baseline
+140,Brunei Darussalam,NMC111,Pyro,-14677.668012101534,baseline,baseline
+141,Brunei Darussalam,NMC523,Pyro,-12901.383370144204,baseline,baseline
+142,Brunei Darussalam,NMC622,Pyro,-24116.053131550165,baseline,baseline
+143,Brunei Darussalam,NMC811,Pyro,-30337.525429187423,baseline,baseline
+144,Bulgaria,LFP,Pyro,-5243.674370289279,baseline,baseline
+145,Bulgaria,NCA,Pyro,-131.2112978396624,baseline,baseline
+146,Bulgaria,NMC111,Pyro,-191.06928122855305,baseline,baseline
+147,Bulgaria,NMC523,Pyro,-177.2969835563505,baseline,baseline
+148,Bulgaria,NMC622,Pyro,-279.7033941710231,baseline,baseline
+149,Bulgaria,NMC811,Pyro,-380.57573969729015,baseline,baseline
+150,Burkina Faso,LFP,Pyro,0.0,baseline,baseline
+151,Burkina Faso,NCA,Pyro,-180.50084029125264,baseline,baseline
+152,Burkina Faso,NMC111,Pyro,-443.9906214648752,baseline,baseline
+153,Burkina Faso,NMC523,Pyro,-387.5017172155762,baseline,baseline
+154,Burkina Faso,NMC622,Pyro,-612.8488170086318,baseline,baseline
+155,Burkina Faso,NMC811,Pyro,-713.4241292282113,baseline,baseline
+156,Burundi,LFP,Pyro,0.0,baseline,baseline
+157,Burundi,NCA,Pyro,-362.7117600250748,baseline,baseline
+158,Burundi,NMC111,Pyro,-779.8628617064401,baseline,baseline
+159,Burundi,NMC523,Pyro,-736.7741887075829,baseline,baseline
+160,Burundi,NMC622,Pyro,-1217.6063392315043,baseline,baseline
+161,Burundi,NMC811,Pyro,-1461.1928403050754,baseline,baseline
+162,C?te d'Ivoire,LFP,Pyro,0.0,baseline,baseline
+163,C?te d'Ivoire,NCA,Pyro,-331.3444929075461,baseline,baseline
+164,C?te d'Ivoire,NMC111,Pyro,-721.4538776929389,baseline,baseline
+165,C?te d'Ivoire,NMC523,Pyro,-710.2596146988816,baseline,baseline
+166,C?te d'Ivoire,NMC622,Pyro,-1154.539038882476,baseline,baseline
+167,C?te d'Ivoire,NMC811,Pyro,-1417.7043254563364,baseline,baseline
+168,Cabo Verde,LFP,Pyro,0.0,baseline,baseline
+169,Cabo Verde,NCA,Pyro,-3823.2551109156884,baseline,baseline
+170,Cabo Verde,NMC111,Pyro,-8761.953126375443,baseline,baseline
+171,Cabo Verde,NMC523,Pyro,-7970.49390259058,baseline,baseline
+172,Cabo Verde,NMC622,Pyro,-12812.728150012368,baseline,baseline
+173,Cabo Verde,NMC811,Pyro,-15478.765484263793,baseline,baseline
+174,Cambodia,LFP,Pyro,0.0,baseline,baseline
+175,Cambodia,NCA,Pyro,-325.02596761157207,baseline,baseline
+176,Cambodia,NMC111,Pyro,-1050.803578490687,baseline,baseline
+177,Cambodia,NMC523,Pyro,-888.9981039125906,baseline,baseline
+178,Cambodia,NMC622,Pyro,-1653.333266305459,baseline,baseline
+179,Cambodia,NMC811,Pyro,-2105.0341705977025,baseline,baseline
+180,Cameroon,LFP,Pyro,0.0,baseline,baseline
+181,Cameroon,NCA,Pyro,-3038.1811266281666,baseline,baseline
+182,Cameroon,NMC111,Pyro,-3652.280150702578,baseline,baseline
+183,Cameroon,NMC523,Pyro,-6459.4412402459175,baseline,baseline
+184,Cameroon,NMC622,Pyro,-14419.926410203621,baseline,baseline
+185,Cameroon,NMC811,Pyro,0.0,baseline,baseline
+186,Canada,LFP,Pyro,0.0,baseline,baseline
+187,Canada,NCA,Pyro,1.2559553014781448,baseline,baseline
+188,Canada,NMC111,Pyro,-4.43344937218299,baseline,baseline
+189,Canada,NMC523,Pyro,-3.6287116642771795,baseline,baseline
+190,Canada,NMC622,Pyro,-7.678348356128578,baseline,baseline
+191,Canada,NMC811,Pyro,-9.723676002008803,baseline,baseline
+192,Cayman Isds,LFP,Pyro,0.0,baseline,baseline
+193,Cayman Isds,NCA,Pyro,0.0,baseline,baseline
+194,Cayman Isds,NMC111,Pyro,0.0,baseline,baseline
+195,Cayman Isds,NMC523,Pyro,0.0,baseline,baseline
+196,Cayman Isds,NMC622,Pyro,0.0,baseline,baseline
+197,Cayman Isds,NMC811,Pyro,0.0,baseline,baseline
+198,Chile,LFP,Pyro,0.0,baseline,baseline
+199,Chile,NCA,Pyro,-178.87701895061718,baseline,baseline
+200,Chile,NMC111,Pyro,-449.6050799972208,baseline,baseline
+201,Chile,NMC523,Pyro,-389.7284749884982,baseline,baseline
+202,Chile,NMC622,Pyro,-621.1763758561973,baseline,baseline
+203,Chile,NMC811,Pyro,-726.4252634096313,baseline,baseline
+204,China,LFP,Pyro,0.6315920122691253,baseline,baseline
+205,China,NCA,Pyro,3.6522213457982033,baseline,baseline
+206,China,NMC111,Pyro,4.187858153446045,baseline,baseline
+207,China,NMC523,Pyro,3.1852703464729837,baseline,baseline
+208,China,NMC622,Pyro,4.260349219658912,baseline,baseline
+209,China,NMC811,Pyro,4.002854485514456,baseline,baseline
+210,Colombia,LFP,Pyro,0.0,baseline,baseline
+211,Colombia,NCA,Pyro,-50.01846604082671,baseline,baseline
+212,Colombia,NMC111,Pyro,-132.49384833670825,baseline,baseline
+213,Colombia,NMC523,Pyro,-113.10218963283091,baseline,baseline
+214,Colombia,NMC622,Pyro,-181.5260500648225,baseline,baseline
+215,Colombia,NMC811,Pyro,-214.13487511360762,baseline,baseline
+216,Comoros,LFP,Pyro,0.0,baseline,baseline
+217,Comoros,NCA,Pyro,-8554.425752950154,baseline,baseline
+218,Comoros,NMC111,Pyro,-20803.430083775358,baseline,baseline
+219,Comoros,NMC523,Pyro,-18104.110887597955,baseline,baseline
+220,Comoros,NMC622,Pyro,-28531.97432486223,baseline,baseline
+221,Comoros,NMC811,Pyro,-34293.96731860812,baseline,baseline
+222,Congo,LFP,Pyro,0.0,baseline,baseline
+223,Congo,NCA,Pyro,-190.4875240947162,baseline,baseline
+224,Congo,NMC111,Pyro,-2164.5787927553915,baseline,baseline
+225,Congo,NMC523,Pyro,-321.33769413362546,baseline,baseline
+226,Congo,NMC622,Pyro,-354.1316331209236,baseline,baseline
+227,Congo,NMC811,Pyro,0.0,baseline,baseline
+228,Costa Rica,LFP,Pyro,0.0,baseline,baseline
+229,Costa Rica,NCA,Pyro,-138.30567850266726,baseline,baseline
+230,Costa Rica,NMC111,Pyro,-327.7331493882267,baseline,baseline
+231,Costa Rica,NMC523,Pyro,-301.18338739518566,baseline,baseline
+232,Costa Rica,NMC622,Pyro,-487.4487562215769,baseline,baseline
+233,Costa Rica,NMC811,Pyro,-591.2683544622596,baseline,baseline
+234,Croatia,LFP,Pyro,-4410.237980033593,baseline,baseline
+235,Croatia,NCA,Pyro,-134.4032140015825,baseline,baseline
+236,Croatia,NMC111,Pyro,-191.7981746165761,baseline,baseline
+237,Croatia,NMC523,Pyro,-178.70856792182894,baseline,baseline
+238,Croatia,NMC622,Pyro,-275.08758220787337,baseline,baseline
+239,Croatia,NMC811,Pyro,-368.1872979539001,baseline,baseline
+240,Cyprus,LFP,Pyro,-5265.095349064548,baseline,baseline
+241,Cyprus,NCA,Pyro,-156.39133598250325,baseline,baseline
+242,Cyprus,NMC111,Pyro,-223.46470658357774,baseline,baseline
+243,Cyprus,NMC523,Pyro,-208.0805352405863,baseline,baseline
+244,Cyprus,NMC622,Pyro,-321.3152935029437,baseline,baseline
+245,Cyprus,NMC811,Pyro,-431.03042670131555,baseline,baseline
+246,Czechia,LFP,Pyro,-199.01184625258534,baseline,baseline
+247,Czechia,NCA,Pyro,-1.3744214375323527,baseline,baseline
+248,Czechia,NMC111,Pyro,-4.420128084345765,baseline,baseline
+249,Czechia,NMC523,Pyro,-4.166478401230195,baseline,baseline
+250,Czechia,NMC622,Pyro,-8.156630997372167,baseline,baseline
+251,Czechia,NMC811,Pyro,-12.409016798770931,baseline,baseline
+252,Denmark,LFP,Pyro,-316.65018491052393,baseline,baseline
+253,Denmark,NCA,Pyro,-5.086025283873754,baseline,baseline
+254,Denmark,NMC111,Pyro,-9.612180931184053,baseline,baseline
+255,Denmark,NMC523,Pyro,-9.004852237160225,baseline,baseline
+256,Denmark,NMC622,Pyro,-15.465689843341654,baseline,baseline
+257,Denmark,NMC811,Pyro,-22.078380656561077,baseline,baseline
+258,Dominican Rep.,LFP,Pyro,0.0,baseline,baseline
+259,Dominican Rep.,NCA,Pyro,-120.47723663526953,baseline,baseline
+260,Dominican Rep.,NMC111,Pyro,-302.1228417188704,baseline,baseline
+261,Dominican Rep.,NMC523,Pyro,-264.4909727887781,baseline,baseline
+262,Dominican Rep.,NMC622,Pyro,-423.27447919583364,baseline,baseline
+263,Dominican Rep.,NMC811,Pyro,-501.9153137656317,baseline,baseline
+264,Ecuador,LFP,Pyro,0.0,baseline,baseline
+265,Ecuador,NCA,Pyro,-136.3366751978289,baseline,baseline
+266,Ecuador,NMC111,Pyro,-344.9804138624355,baseline,baseline
+267,Ecuador,NMC523,Pyro,-297.8759731808654,baseline,baseline
+268,Ecuador,NMC622,Pyro,-475.3050594850566,baseline,baseline
+269,Ecuador,NMC811,Pyro,-560.8383225045809,baseline,baseline
+270,Egypt,LFP,Pyro,0.0,baseline,baseline
+271,Egypt,NCA,Pyro,-54.602202293354345,baseline,baseline
+272,Egypt,NMC111,Pyro,-140.5118078010367,baseline,baseline
+273,Egypt,NMC523,Pyro,-121.87515706203632,baseline,baseline
+274,Egypt,NMC622,Pyro,-194.09971902840064,baseline,baseline
+275,Egypt,NMC811,Pyro,-230.38261043251006,baseline,baseline
+276,El Salvador,LFP,Pyro,0.0,baseline,baseline
+277,El Salvador,NCA,Pyro,-42.27295068758006,baseline,baseline
+278,El Salvador,NMC111,Pyro,-1030.8298571444989,baseline,baseline
+279,El Salvador,NMC523,Pyro,-88.75310710235875,baseline,baseline
+280,El Salvador,NMC622,Pyro,-81.65003420538277,baseline,baseline
+281,El Salvador,NMC811,Pyro,0.0,baseline,baseline
+282,Estonia,LFP,Pyro,-4177.273192856596,baseline,baseline
+283,Estonia,NCA,Pyro,-133.4073067431221,baseline,baseline
+284,Estonia,NMC111,Pyro,-189.4878070496704,baseline,baseline
+285,Estonia,NMC523,Pyro,-176.73849944366157,baseline,baseline
+286,Estonia,NMC622,Pyro,-270.539765041776,baseline,baseline
+287,Estonia,NMC811,Pyro,-360.79387363332296,baseline,baseline
+288,Eswatini,LFP,Pyro,0.0,baseline,baseline
+289,Eswatini,NCA,Pyro,-2055.18930590739,baseline,baseline
+290,Eswatini,NMC111,Pyro,-4771.926517957286,baseline,baseline
+291,Eswatini,NMC523,Pyro,-4306.6494146897585,baseline,baseline
+292,Eswatini,NMC622,Pyro,-6889.131841804285,baseline,baseline
+293,Eswatini,NMC811,Pyro,-8207.445841438946,baseline,baseline
+294,Ethiopia,LFP,Pyro,0.0,baseline,baseline
+295,Ethiopia,NCA,Pyro,-174.359824702704,baseline,baseline
+296,Ethiopia,NMC111,Pyro,-405.35015008479974,baseline,baseline
+297,Ethiopia,NMC523,Pyro,-371.72125029651244,baseline,baseline
+298,Ethiopia,NMC622,Pyro,-597.4943133593428,baseline,baseline
+299,Ethiopia,NMC811,Pyro,-727.7328838809038,baseline,baseline
+300,Fiji,LFP,Pyro,0.0,baseline,baseline
+301,Fiji,NCA,Pyro,-51.875090520299366,baseline,baseline
+302,Fiji,NMC111,Pyro,-1606.6079935654122,baseline,baseline
+303,Fiji,NMC523,Pyro,-109.59196665430332,baseline,baseline
+304,Fiji,NMC622,Pyro,-106.9607905317076,baseline,baseline
+305,Fiji,NMC811,Pyro,0.0,baseline,baseline
+306,Finland,LFP,Pyro,-499.07241978806917,baseline,baseline
+307,Finland,NCA,Pyro,-11.223490910791622,baseline,baseline
+308,Finland,NMC111,Pyro,-18.14657963157728,baseline,baseline
+309,Finland,NMC523,Pyro,-16.966160516080233,baseline,baseline
+310,Finland,NMC622,Pyro,-27.579309610131027,baseline,baseline
+311,Finland,NMC811,Pyro,-38.4622377903576,baseline,baseline
+312,France,LFP,Pyro,-281.492877253566,baseline,baseline
+313,France,NCA,Pyro,-4.2159622740302645,baseline,baseline
+314,France,NMC111,Pyro,-8.367626734854944,baseline,baseline
+315,France,NMC523,Pyro,-7.8308886412976975,baseline,baseline
+316,France,NMC622,Pyro,-13.663565747977083,baseline,baseline
+317,France,NMC811,Pyro,-19.727992308345218,baseline,baseline
+318,French Polynesia,LFP,Pyro,0.0,baseline,baseline
+319,French Polynesia,NCA,Pyro,-288.00173377652266,baseline,baseline
+320,French Polynesia,NMC111,Pyro,-686.648168484176,baseline,baseline
+321,French Polynesia,NMC523,Pyro,-611.2990605866238,baseline,baseline
+322,French Polynesia,NMC622,Pyro,-974.3482372765773,baseline,baseline
+323,French Polynesia,NMC811,Pyro,-1156.7676754183783,baseline,baseline
+324,Georgia,LFP,Pyro,0.0,baseline,baseline
+325,Georgia,NCA,Pyro,-549.197893934825,baseline,baseline
+326,Georgia,NMC111,Pyro,-1281.5953551451353,baseline,baseline
+327,Georgia,NMC523,Pyro,-1117.8434847629294,baseline,baseline
+328,Georgia,NMC622,Pyro,-1716.1056801764576,baseline,baseline
+329,Georgia,NMC811,Pyro,-2003.2985036390062,baseline,baseline
+330,Germany,LFP,Pyro,-196.42944327440674,baseline,baseline
+331,Germany,NCA,Pyro,-1.3489322318384878,baseline,baseline
+332,Germany,NMC111,Pyro,-4.352168636415589,baseline,baseline
+333,Germany,NMC523,Pyro,-4.104881609474186,baseline,baseline
+334,Germany,NMC622,Pyro,-7.985909941002883,baseline,baseline
+335,Germany,NMC811,Pyro,-12.1065931070519,baseline,baseline
+336,Ghana,LFP,Pyro,0.0,baseline,baseline
+337,Ghana,NCA,Pyro,-413.92819034324896,baseline,baseline
+338,Ghana,NMC111,Pyro,-729.5788992866529,baseline,baseline
+339,Ghana,NMC523,Pyro,-145.8258348192752,baseline,baseline
+340,Ghana,NMC622,Pyro,-216.74723913837752,baseline,baseline
+341,Ghana,NMC811,Pyro,-485.4711501856842,baseline,baseline
+342,Greece,LFP,Pyro,-195.71799339582378,baseline,baseline
+343,Greece,NCA,Pyro,-1.771608017334498,baseline,baseline
+344,Greece,NMC111,Pyro,-5.032304241694464,baseline,baseline
+345,Greece,NMC523,Pyro,-4.727834073102466,baseline,baseline
+346,Greece,NMC622,Pyro,-9.064651080346778,baseline,baseline
+347,Greece,NMC811,Pyro,-13.626355622555565,baseline,baseline
+348,Greenland,LFP,Pyro,0.0,baseline,baseline
+349,Greenland,NCA,Pyro,-8757.80953035754,baseline,baseline
+350,Greenland,NMC111,Pyro,-16874.507220808435,baseline,baseline
+351,Greenland,NMC523,Pyro,-18870.842754797304,baseline,baseline
+352,Greenland,NMC622,Pyro,-31601.96010052533,baseline,baseline
+353,Greenland,NMC811,Pyro,-39401.54445502381,baseline,baseline
+354,Grenada,LFP,Pyro,0.0,baseline,baseline
+355,Grenada,NCA,Pyro,-1145.5099494592762,baseline,baseline
+356,Grenada,NMC111,Pyro,-2842.327185398434,baseline,baseline
+357,Grenada,NMC523,Pyro,-2461.413612304842,baseline,baseline
+358,Grenada,NMC622,Pyro,-3909.76971849379,baseline,baseline
+359,Grenada,NMC811,Pyro,-4598.868136161125,baseline,baseline
+360,Guatemala,LFP,Pyro,0.0,baseline,baseline
+361,Guatemala,NCA,Pyro,-72.90792343035233,baseline,baseline
+362,Guatemala,NMC111,Pyro,-184.99093262074243,baseline,baseline
+363,Guatemala,NMC523,Pyro,-162.8086588975107,baseline,baseline
+364,Guatemala,NMC622,Pyro,-260.4782246532453,baseline,baseline
+365,Guatemala,NMC811,Pyro,-306.86535500644993,baseline,baseline
+366,Guinea,LFP,Pyro,0.0,baseline,baseline
+367,Guinea,NCA,Pyro,-3699.7883097722997,baseline,baseline
+368,Guinea,NMC111,Pyro,-8457.8384091717,baseline,baseline
+369,Guinea,NMC523,Pyro,-10451.987648963737,baseline,baseline
+370,Guinea,NMC622,Pyro,-16476.88464612356,baseline,baseline
+371,Guinea,NMC811,Pyro,-19119.031587122627,baseline,baseline
+372,Guyana,LFP,Pyro,0.0,baseline,baseline
+373,Guyana,NCA,Pyro,-172.03093416582973,baseline,baseline
+374,Guyana,NMC111,Pyro,-432.6551954181315,baseline,baseline
+375,Guyana,NMC523,Pyro,-375.1852363314585,baseline,baseline
+376,Guyana,NMC622,Pyro,-598.044913129598,baseline,baseline
+377,Guyana,NMC811,Pyro,-698.1782520938106,baseline,baseline
+378,Honduras,LFP,Pyro,0.0,baseline,baseline
+379,Honduras,NCA,Pyro,-278.8665614819346,baseline,baseline
+380,Honduras,NMC111,Pyro,-646.653492144557,baseline,baseline
+381,Honduras,NMC523,Pyro,-597.9797836080035,baseline,baseline
+382,Honduras,NMC622,Pyro,-972.3629860430084,baseline,baseline
+383,Honduras,NMC811,Pyro,-1213.7883711249485,baseline,baseline
+384,Hungary,LFP,Pyro,-1479.210382450048,baseline,baseline
+385,Hungary,NCA,Pyro,-41.266964428793315,baseline,baseline
+386,Hungary,NMC111,Pyro,-60.69192797678251,baseline,baseline
+387,Hungary,NMC523,Pyro,-56.567755616789995,baseline,baseline
+388,Hungary,NMC622,Pyro,-88.45037253168978,baseline,baseline
+389,Hungary,NMC811,Pyro,-119.57020811218013,baseline,baseline
+390,Iceland,LFP,Pyro,0.0,baseline,baseline
+391,Iceland,NCA,Pyro,-42.28623990158923,baseline,baseline
+392,Iceland,NMC111,Pyro,-101.74382780223195,baseline,baseline
+393,Iceland,NMC523,Pyro,-89.7209540066299,baseline,baseline
+394,Iceland,NMC622,Pyro,-138.71647698986158,baseline,baseline
+395,Iceland,NMC811,Pyro,-162.31674785213832,baseline,baseline
+396,India,LFP,Pyro,0.0,baseline,baseline
+397,India,NCA,Pyro,-2.506516069018506,baseline,baseline
+398,India,NMC111,Pyro,-20.259422119298073,baseline,baseline
+399,India,NMC523,Pyro,-16.353048199173443,baseline,baseline
+400,India,NMC622,Pyro,-33.19598064483118,baseline,baseline
+401,India,NMC811,Pyro,-41.53714303826943,baseline,baseline
+402,Indonesia,LFP,Pyro,0.0,baseline,baseline
+403,Indonesia,NCA,Pyro,-3.109999932738757,baseline,baseline
+404,Indonesia,NMC111,Pyro,-22.224128339653618,baseline,baseline
+405,Indonesia,NMC523,Pyro,-17.968848086598136,baseline,baseline
+406,Indonesia,NMC622,Pyro,-36.21718142264822,baseline,baseline
+407,Indonesia,NMC811,Pyro,-46.120112403421686,baseline,baseline
+408,Iran,LFP,Pyro,0.0,baseline,baseline
+409,Iran,NCA,Pyro,-562.0871839238862,baseline,baseline
+410,Iran,NMC111,Pyro,-822.1549522030091,baseline,baseline
+411,Iran,NMC523,Pyro,-1897.6346089959632,baseline,baseline
+412,Iran,NMC622,Pyro,-6194.494749770861,baseline,baseline
+413,Iran,NMC811,Pyro,0.0,baseline,baseline
+414,Ireland,LFP,Pyro,-953.5382738714429,baseline,baseline
+415,Ireland,NCA,Pyro,-26.613321124867046,baseline,baseline
+416,Ireland,NMC111,Pyro,-39.75131192281005,baseline,baseline
+417,Ireland,NMC523,Pyro,-37.121160012078974,baseline,baseline
+418,Ireland,NMC622,Pyro,-58.19468902062332,baseline,baseline
+419,Ireland,NMC811,Pyro,-78.80641893521357,baseline,baseline
+420,Israel,LFP,Pyro,0.0,baseline,baseline
+421,Israel,NCA,Pyro,-3.5316682814816573,baseline,baseline
+422,Israel,NMC111,Pyro,-15.215881379937255,baseline,baseline
+423,Israel,NMC523,Pyro,-13.141748752818591,baseline,baseline
+424,Israel,NMC622,Pyro,-22.041119329614652,baseline,baseline
+425,Israel,NMC811,Pyro,-26.101849832833743,baseline,baseline
+426,Italy,LFP,Pyro,-303.4338501635161,baseline,baseline
+427,Italy,NCA,Pyro,-5.055856259197236,baseline,baseline
+428,Italy,NMC111,Pyro,-9.577221287536226,baseline,baseline
+429,Italy,NMC523,Pyro,-8.976727010200477,baseline,baseline
+430,Italy,NMC622,Pyro,-15.456874970006163,baseline,baseline
+431,Italy,NMC811,Pyro,-22.05033926546572,baseline,baseline
+432,Jamaica,LFP,Pyro,0.0,baseline,baseline
+433,Jamaica,NCA,Pyro,-213.22664048006231,baseline,baseline
+434,Jamaica,NMC111,Pyro,-1884.588832303353,baseline,baseline
+435,Jamaica,NMC523,Pyro,-342.4977203827835,baseline,baseline
+436,Jamaica,NMC622,Pyro,-254.16270624587963,baseline,baseline
+437,Jamaica,NMC811,Pyro,-341.627865819194,baseline,baseline
+438,Japan,LFP,Pyro,0.0,baseline,baseline
+439,Japan,NCA,Pyro,-3.3155795381591644,baseline,baseline
+440,Japan,NMC111,Pyro,-17.80112997273934,baseline,baseline
+441,Japan,NMC523,Pyro,-14.763965664382727,baseline,baseline
+442,Japan,NMC622,Pyro,-27.001942178803642,baseline,baseline
+443,Japan,NMC811,Pyro,-33.53234497006235,baseline,baseline
+444,Jordan,LFP,Pyro,0.0,baseline,baseline
+445,Jordan,NCA,Pyro,-106.44524637952857,baseline,baseline
+446,Jordan,NMC111,Pyro,-239.00153338820306,baseline,baseline
+447,Jordan,NMC523,Pyro,-218.12479086740842,baseline,baseline
+448,Jordan,NMC622,Pyro,-342.53595520005086,baseline,baseline
+449,Jordan,NMC811,Pyro,-411.79116679927466,baseline,baseline
+450,Kazakhstan,LFP,Pyro,0.0,baseline,baseline
+451,Kazakhstan,NCA,Pyro,-70.60484021239004,baseline,baseline
+452,Kazakhstan,NMC111,Pyro,-162.40803183899231,baseline,baseline
+453,Kazakhstan,NMC523,Pyro,-154.39064169614983,baseline,baseline
+454,Kazakhstan,NMC622,Pyro,-250.5993720428452,baseline,baseline
+455,Kazakhstan,NMC811,Pyro,-309.7349667334776,baseline,baseline
+456,Kenya,LFP,Pyro,0.0,baseline,baseline
+457,Kenya,NCA,Pyro,-40.71343014152603,baseline,baseline
+458,Kenya,NMC111,Pyro,-106.7143552555424,baseline,baseline
+459,Kenya,NMC523,Pyro,-92.50541371694264,baseline,baseline
+460,Kenya,NMC622,Pyro,-147.82223732860905,baseline,baseline
+461,Kenya,NMC811,Pyro,-173.42297835114215,baseline,baseline
+462,Kiribati,LFP,Pyro,0.0,baseline,baseline
+463,Kiribati,NCA,Pyro,-7058.2970876033605,baseline,baseline
+464,Kiribati,NMC111,Pyro,-16375.735513417249,baseline,baseline
+465,Kiribati,NMC523,Pyro,-15365.803281287719,baseline,baseline
+466,Kiribati,NMC622,Pyro,-24296.365031917663,baseline,baseline
+467,Kiribati,NMC811,Pyro,-28578.621812019177,baseline,baseline
+468,Korea,LFP,Pyro,0.0,baseline,baseline
+469,Korea,NCA,Pyro,2.0699497454763196,baseline,baseline
+470,Korea,NMC111,Pyro,-3.203016290347973,baseline,baseline
+471,Korea,NMC523,Pyro,-2.4462304645329964,baseline,baseline
+472,Korea,NMC622,Pyro,-6.43366067612302,baseline,baseline
+473,Korea,NMC811,Pyro,-8.520008414642586,baseline,baseline
+474,Kuwait,LFP,Pyro,0.0,baseline,baseline
+475,Kuwait,NCA,Pyro,-486.92123373694585,baseline,baseline
+476,Kuwait,NMC111,Pyro,-743.4911550641648,baseline,baseline
+477,Kuwait,NMC523,Pyro,-900.7308080343082,baseline,baseline
+478,Kuwait,NMC622,Pyro,-403.6020727497435,baseline,baseline
+479,Kuwait,NMC811,Pyro,-167.72580284363906,baseline,baseline
+480,Kyrgyzstan,LFP,Pyro,0.0,baseline,baseline
+481,Kyrgyzstan,NCA,Pyro,-1658.4104505969099,baseline,baseline
+482,Kyrgyzstan,NMC111,Pyro,-2416.3464955274853,baseline,baseline
+483,Kyrgyzstan,NMC523,Pyro,-3608.7812206315493,baseline,baseline
+484,Kyrgyzstan,NMC622,Pyro,-6614.619757526003,baseline,baseline
+485,Kyrgyzstan,NMC811,Pyro,-258.48417130934206,baseline,baseline
+486,Lao People's Dem. Rep.,LFP,Pyro,0.0,baseline,baseline
+487,Lao People's Dem. Rep.,NCA,Pyro,-153.9847759754492,baseline,baseline
+488,Lao People's Dem. Rep.,NMC111,Pyro,-517.9948101996687,baseline,baseline
+489,Lao People's Dem. Rep.,NMC523,Pyro,-429.55752691937226,baseline,baseline
+490,Lao People's Dem. Rep.,NMC622,Pyro,-793.3051734920896,baseline,baseline
+491,Lao People's Dem. Rep.,NMC811,Pyro,-968.2557512744808,baseline,baseline
+492,Latvia,LFP,Pyro,-3889.160223201513,baseline,baseline
+493,Latvia,NCA,Pyro,-123.93232806466081,baseline,baseline
+494,Latvia,NMC111,Pyro,-176.1962807935453,baseline,baseline
+495,Latvia,NMC523,Pyro,-164.34674758350457,baseline,baseline
+496,Latvia,NMC622,Pyro,-251.6845207200832,baseline,baseline
+497,Latvia,NMC811,Pyro,-335.7393257120783,baseline,baseline
+498,Lebanon,LFP,Pyro,0.0,baseline,baseline
+499,Lebanon,NCA,Pyro,-70.50315615264212,baseline,baseline
+500,Lebanon,NMC111,Pyro,-169.97340889595014,baseline,baseline
+501,Lebanon,NMC523,Pyro,-148.76669626452076,baseline,baseline
+502,Lebanon,NMC622,Pyro,-230.22561926221647,baseline,baseline
+503,Lebanon,NMC811,Pyro,-265.66022102788276,baseline,baseline
+504,Lesotho,LFP,Pyro,0.0,baseline,baseline
+505,Lesotho,NCA,Pyro,-596.7100516703373,baseline,baseline
+506,Lesotho,NMC111,Pyro,-1449.9972147678097,baseline,baseline
+507,Lesotho,NMC523,Pyro,-1267.9759860245647,baseline,baseline
+508,Lesotho,NMC622,Pyro,-2002.611517231123,baseline,baseline
+509,Lesotho,NMC811,Pyro,-2370.350047314658,baseline,baseline
+510,Lithuania,LFP,Pyro,-2863.6264569123464,baseline,baseline
+511,Lithuania,NCA,Pyro,-89.90280615564234,baseline,baseline
+512,Lithuania,NMC111,Pyro,-128.5133635997304,baseline,baseline
+513,Lithuania,NMC523,Pyro,-119.88044683002289,baseline,baseline
+514,Lithuania,NMC622,Pyro,-184.08548510405416,baseline,baseline
+515,Lithuania,NMC811,Pyro,-245.9865233646329,baseline,baseline
+516,Luxembourg,LFP,Pyro,-2732.2503085598996,baseline,baseline
+517,Luxembourg,NCA,Pyro,-87.4691560462387,baseline,baseline
+518,Luxembourg,NMC111,Pyro,-124.77808755885835,baseline,baseline
+519,Luxembourg,NMC523,Pyro,-116.4582373351872,baseline,baseline
+520,Luxembourg,NMC622,Pyro,-178.32939881444304,baseline,baseline
+521,Luxembourg,NMC811,Pyro,-237.91173360570065,baseline,baseline
+522,Madagascar,LFP,Pyro,0.0,baseline,baseline
+523,Madagascar,NCA,Pyro,-334.7576285214229,baseline,baseline
+524,Madagascar,NMC111,Pyro,-806.0351324864479,baseline,baseline
+525,Madagascar,NMC523,Pyro,-710.8007103473691,baseline,baseline
+526,Madagascar,NMC622,Pyro,-1129.101746933971,baseline,baseline
+527,Madagascar,NMC811,Pyro,-1345.724603361384,baseline,baseline
+528,Malawi,LFP,Pyro,0.0,baseline,baseline
+529,Malawi,NCA,Pyro,-120.73690654202925,baseline,baseline
+530,Malawi,NMC111,Pyro,-293.18243993965046,baseline,baseline
+531,Malawi,NMC523,Pyro,-260.0285607794528,baseline,baseline
+532,Malawi,NMC622,Pyro,-415.32218433110796,baseline,baseline
+533,Malawi,NMC811,Pyro,-496.4020205221278,baseline,baseline
+534,Malaysia,LFP,Pyro,0.0,baseline,baseline
+535,Malaysia,NCA,Pyro,-3837.546835343439,baseline,baseline
+536,Malaysia,NMC111,Pyro,-9312.163511445122,baseline,baseline
+537,Malaysia,NMC523,Pyro,-12513.936603600452,baseline,baseline
+538,Malaysia,NMC622,Pyro,-24643.18398648343,baseline,baseline
+539,Malaysia,NMC811,Pyro,-30032.462704521342,baseline,baseline
+540,Maldives,LFP,Pyro,0.0,baseline,baseline
+541,Maldives,NCA,Pyro,-1918.6242284092123,baseline,baseline
+542,Maldives,NMC111,Pyro,-5808.701827813937,baseline,baseline
+543,Maldives,NMC523,Pyro,-5186.724806357594,baseline,baseline
+544,Maldives,NMC622,Pyro,-9664.309516914731,baseline,baseline
+545,Maldives,NMC811,Pyro,-12075.092002522491,baseline,baseline
+546,Mali,LFP,Pyro,0.0,baseline,baseline
+547,Mali,NCA,Pyro,-790.5236685460496,baseline,baseline
+548,Mali,NMC111,Pyro,-1873.7928918441753,baseline,baseline
+549,Mali,NMC523,Pyro,-1664.7706783875526,baseline,baseline
+550,Mali,NMC622,Pyro,-2650.7458916614514,baseline,baseline
+551,Mali,NMC811,Pyro,-3198.340683803891,baseline,baseline
+552,Malta,LFP,Pyro,-7173.584240568038,baseline,baseline
+553,Malta,NCA,Pyro,-221.89241686108366,baseline,baseline
+554,Malta,NMC111,Pyro,-314.95508491712656,baseline,baseline
+555,Malta,NMC523,Pyro,-293.4543826779041,baseline,baseline
+556,Malta,NMC622,Pyro,-450.5744364664022,baseline,baseline
+557,Malta,NMC811,Pyro,-602.2141626556416,baseline,baseline
+558,Mauritania,LFP,Pyro,0.0,baseline,baseline
+559,Mauritania,NCA,Pyro,-946.6790169180335,baseline,baseline
+560,Mauritania,NMC111,Pyro,-2444.0452875386945,baseline,baseline
+561,Mauritania,NMC523,Pyro,-2038.4868241960685,baseline,baseline
+562,Mauritania,NMC622,Pyro,-3150.379276432645,baseline,baseline
+563,Mauritania,NMC811,Pyro,-7663.407921379941,baseline,baseline
+564,Mauritius,LFP,Pyro,0.0,baseline,baseline
+565,Mauritius,NCA,Pyro,-229.77503558380647,baseline,baseline
+566,Mauritius,NMC111,Pyro,-561.8687983987786,baseline,baseline
+567,Mauritius,NMC523,Pyro,-491.1705822836411,baseline,baseline
+568,Mauritius,NMC622,Pyro,-778.1185572292454,baseline,baseline
+569,Mauritius,NMC811,Pyro,-916.1594201215141,baseline,baseline
+570,Mexico,LFP,Pyro,0.0,baseline,baseline
+571,Mexico,NCA,Pyro,-21.295710220205592,baseline,baseline
+572,Mexico,NMC111,Pyro,-60.452506786327476,baseline,baseline
+573,Mexico,NMC523,Pyro,-52.19483389944689,baseline,baseline
+574,Mexico,NMC622,Pyro,-84.9956348734557,baseline,baseline
+575,Mexico,NMC811,Pyro,-99.71579487282845,baseline,baseline
+576,Mongolia,LFP,Pyro,0.0,baseline,baseline
+577,Mongolia,NCA,Pyro,-600.0985834071535,baseline,baseline
+578,Mongolia,NMC111,Pyro,-1670.3661913942012,baseline,baseline
+579,Mongolia,NMC523,Pyro,-1474.0831353680946,baseline,baseline
+580,Mongolia,NMC622,Pyro,-2560.175839152956,baseline,baseline
+581,Mongolia,NMC811,Pyro,-3116.6941554945947,baseline,baseline
+582,Montenegro,LFP,Pyro,0.0,baseline,baseline
+583,Montenegro,NCA,Pyro,-598.6565034937582,baseline,baseline
+584,Montenegro,NMC111,Pyro,-1364.8109918344032,baseline,baseline
+585,Montenegro,NMC523,Pyro,-1205.9785405909709,baseline,baseline
+586,Montenegro,NMC622,Pyro,-1849.5552946459582,baseline,baseline
+587,Montenegro,NMC811,Pyro,-2150.930437074673,baseline,baseline
+588,Morocco,LFP,Pyro,0.0,baseline,baseline
+589,Morocco,NCA,Pyro,-124.72587196468317,baseline,baseline
+590,Morocco,NMC111,Pyro,-306.98360983632676,baseline,baseline
+591,Morocco,NMC523,Pyro,-269.38266060028224,baseline,baseline
+592,Morocco,NMC622,Pyro,-428.2089312364397,baseline,baseline
+593,Morocco,NMC811,Pyro,-510.01049308753414,baseline,baseline
+594,Mozambique,LFP,Pyro,0.0,baseline,baseline
+595,Mozambique,NCA,Pyro,-585.3327517238965,baseline,baseline
+596,Mozambique,NMC111,Pyro,-1053.4714296890863,baseline,baseline
+597,Mozambique,NMC523,Pyro,-1155.7967165630484,baseline,baseline
+598,Mozambique,NMC622,Pyro,-1994.8425953199378,baseline,baseline
+599,Mozambique,NMC811,Pyro,-3077.336131838875,baseline,baseline
+600,Myanmar,LFP,Pyro,0.0,baseline,baseline
+601,Myanmar,NCA,Pyro,-116.49352624652434,baseline,baseline
+602,Myanmar,NMC111,Pyro,-394.2387948161624,baseline,baseline
+603,Myanmar,NMC523,Pyro,-327.1313631158176,baseline,baseline
+604,Myanmar,NMC622,Pyro,-605.192566036009,baseline,baseline
+605,Myanmar,NMC811,Pyro,-746.2113216709456,baseline,baseline
+606,Namibia,LFP,Pyro,0.0,baseline,baseline
+607,Namibia,NCA,Pyro,-225.0206745472812,baseline,baseline
+608,Namibia,NMC111,Pyro,-547.0304610569635,baseline,baseline
+609,Namibia,NMC523,Pyro,-481.2299822277142,baseline,baseline
+610,Namibia,NMC622,Pyro,-763.3519270506846,baseline,baseline
+611,Namibia,NMC811,Pyro,-900.5135451090606,baseline,baseline
+612,Nepal,LFP,Pyro,0.0,baseline,baseline
+613,Nepal,NCA,Pyro,-687.9955182326603,baseline,baseline
+614,Nepal,NMC111,Pyro,-2021.655748902234,baseline,baseline
+615,Nepal,NMC523,Pyro,-1845.0703298845729,baseline,baseline
+616,Nepal,NMC622,Pyro,-3517.1681073296727,baseline,baseline
+617,Nepal,NMC811,Pyro,-4685.885029583394,baseline,baseline
+618,Netherlands,LFP,Pyro,-708.0984956312368,baseline,baseline
+619,Netherlands,NCA,Pyro,-17.90323110347911,baseline,baseline
+620,Netherlands,NMC111,Pyro,-27.72691904035981,baseline,baseline
+621,Netherlands,NMC523,Pyro,-25.410057056431622,baseline,baseline
+622,Netherlands,NMC622,Pyro,-40.38472193814769,baseline,baseline
+623,Netherlands,NMC811,Pyro,-55.92061458973153,baseline,baseline
+624,New Caledonia,LFP,Pyro,0.0,baseline,baseline
+625,New Caledonia,NCA,Pyro,-16006.952155296305,baseline,baseline
+626,New Caledonia,NMC111,Pyro,-24866.82254262254,baseline,baseline
+627,New Caledonia,NMC523,Pyro,0.0,baseline,baseline
+628,New Caledonia,NMC622,Pyro,0.0,baseline,baseline
+629,New Caledonia,NMC811,Pyro,0.0,baseline,baseline
+630,New Zealand,LFP,Pyro,0.0,baseline,baseline
+631,New Zealand,NCA,Pyro,-14.6212919526499,baseline,baseline
+632,New Zealand,NMC111,Pyro,-39.537878680536195,baseline,baseline
+633,New Zealand,NMC523,Pyro,-34.68841900936773,baseline,baseline
+634,New Zealand,NMC622,Pyro,-54.41826826364447,baseline,baseline
+635,New Zealand,NMC811,Pyro,-63.54733818867765,baseline,baseline
+636,Nicaragua,LFP,Pyro,0.0,baseline,baseline
+637,Nicaragua,NCA,Pyro,-159.64032150272726,baseline,baseline
+638,Nicaragua,NMC111,Pyro,-401.6287593182615,baseline,baseline
+639,Nicaragua,NMC523,Pyro,-348.112637257781,baseline,baseline
+640,Nicaragua,NMC622,Pyro,-555.4502372454901,baseline,baseline
+641,Nicaragua,NMC811,Pyro,-657.3750871325593,baseline,baseline
+642,Niger,LFP,Pyro,0.0,baseline,baseline
+643,Niger,NCA,Pyro,-355.5943841048199,baseline,baseline
+644,Niger,NMC111,Pyro,-865.2969267935121,baseline,baseline
+645,Niger,NMC523,Pyro,-757.6873837897524,baseline,baseline
+646,Niger,NMC622,Pyro,-1198.4521352433183,baseline,baseline
+647,Niger,NMC811,Pyro,-1420.853784582486,baseline,baseline
+648,Nigeria,LFP,Pyro,0.0,baseline,baseline
+649,Nigeria,NCA,Pyro,-17.41531762481921,baseline,baseline
+650,Nigeria,NMC111,Pyro,-49.87528760542753,baseline,baseline
+651,Nigeria,NMC523,Pyro,-43.23958542338398,baseline,baseline
+652,Nigeria,NMC622,Pyro,-70.23835810071004,baseline,baseline
+653,Nigeria,NMC811,Pyro,-83.05820024622844,baseline,baseline
+654,North Macedonia,LFP,Pyro,0.0,baseline,baseline
+655,North Macedonia,NCA,Pyro,-333.0950016349585,baseline,baseline
+656,North Macedonia,NMC111,Pyro,-714.8485312141433,baseline,baseline
+657,North Macedonia,NMC523,Pyro,-666.6445313458231,baseline,baseline
+658,North Macedonia,NMC622,Pyro,-1042.0985742720434,baseline,baseline
+659,North Macedonia,NMC811,Pyro,-1237.8095572989957,baseline,baseline
+660,Norway,LFP,Pyro,0.0,baseline,baseline
+661,Norway,NCA,Pyro,-4.101518278304326,baseline,baseline
+662,Norway,NMC111,Pyro,-15.732833528958292,baseline,baseline
+663,Norway,NMC523,Pyro,-13.52525046933539,baseline,baseline
+664,Norway,NMC622,Pyro,-22.32444588262132,baseline,baseline
+665,Norway,NMC811,Pyro,-27.18088458677462,baseline,baseline
+666,Oman,LFP,Pyro,0.0,baseline,baseline
+667,Oman,NCA,Pyro,-160.93948194307367,baseline,baseline
+668,Oman,NMC111,Pyro,-379.7983756555559,baseline,baseline
+669,Oman,NMC523,Pyro,-331.1097030100912,baseline,baseline
+670,Oman,NMC622,Pyro,-510.20840474098526,baseline,baseline
+671,Oman,NMC811,Pyro,-591.3742884862932,baseline,baseline
+672,Pakistan,LFP,Pyro,0.0,baseline,baseline
+673,Pakistan,NCA,Pyro,-25.02560841667244,baseline,baseline
+674,Pakistan,NMC111,Pyro,-94.25853328132233,baseline,baseline
+675,Pakistan,NMC523,Pyro,-77.73352082328967,baseline,baseline
+676,Pakistan,NMC622,Pyro,-146.08853617759203,baseline,baseline
+677,Pakistan,NMC811,Pyro,-179.79120653125503,baseline,baseline
+678,Palau,LFP,Pyro,0.0,baseline,baseline
+679,Palau,NCA,Pyro,-5943.454961547409,baseline,baseline
+680,Palau,NMC111,Pyro,-13778.724509756372,baseline,baseline
+681,Palau,NMC523,Pyro,-12973.659205972492,baseline,baseline
+682,Palau,NMC622,Pyro,-20611.384388331633,baseline,baseline
+683,Palau,NMC811,Pyro,-23933.296168566376,baseline,baseline
+684,Panama,LFP,Pyro,0.0,baseline,baseline
+685,Panama,NCA,Pyro,-40.47206562231377,baseline,baseline
+686,Panama,NMC111,Pyro,-1050.0433885225893,baseline,baseline
+687,Panama,NMC523,Pyro,-107.04711692930357,baseline,baseline
+688,Panama,NMC622,Pyro,-106.86317826391763,baseline,baseline
+689,Panama,NMC811,Pyro,0.0,baseline,baseline
+690,Papua New Guinea,LFP,Pyro,0.0,baseline,baseline
+691,Papua New Guinea,NCA,Pyro,0.0,baseline,baseline
+692,Papua New Guinea,NMC111,Pyro,0.0,baseline,baseline
+693,Papua New Guinea,NMC523,Pyro,0.0,baseline,baseline
+694,Papua New Guinea,NMC622,Pyro,0.0,baseline,baseline
+695,Papua New Guinea,NMC811,Pyro,0.0,baseline,baseline
+696,Paraguay,LFP,Pyro,0.0,baseline,baseline
+697,Paraguay,NCA,Pyro,-208.62970493377694,baseline,baseline
+698,Paraguay,NMC111,Pyro,-520.1978155914599,baseline,baseline
+699,Paraguay,NMC523,Pyro,-451.9277400320663,baseline,baseline
+700,Paraguay,NMC622,Pyro,-721.6998666243874,baseline,baseline
+701,Paraguay,NMC811,Pyro,-855.1569797866506,baseline,baseline
+702,Peru,LFP,Pyro,0.0,baseline,baseline
+703,Peru,NCA,Pyro,-53.98535794248623,baseline,baseline
+704,Peru,NMC111,Pyro,-135.78601344046197,baseline,baseline
+705,Peru,NMC523,Pyro,-121.3732675427996,baseline,baseline
+706,Peru,NMC622,Pyro,-197.05477386022739,baseline,baseline
+707,Peru,NMC811,Pyro,-239.20313360668808,baseline,baseline
+708,Philippines,LFP,Pyro,0.0,baseline,baseline
+709,Philippines,NCA,Pyro,-2.3913593538056146,baseline,baseline
+710,Philippines,NMC111,Pyro,-19.86789313417752,baseline,baseline
+711,Philippines,NMC523,Pyro,-16.0528295448947,baseline,baseline
+712,Philippines,NMC622,Pyro,-32.65713116644224,baseline,baseline
+713,Philippines,NMC811,Pyro,-40.95284254449962,baseline,baseline
+714,Poland,LFP,Pyro,-175.34232608536487,baseline,baseline
+715,Poland,NCA,Pyro,-0.6639066989780213,baseline,baseline
+716,Poland,NMC111,Pyro,-3.4774172362408486,baseline,baseline
+717,Poland,NMC523,Pyro,-3.2777020264177756,baseline,baseline
+718,Poland,NMC622,Pyro,-6.861928005102945,baseline,baseline
+719,Poland,NMC811,Pyro,-10.716878558429855,baseline,baseline
+720,Portugal,LFP,Pyro,-308.80250558747167,baseline,baseline
+721,Portugal,NCA,Pyro,-4.666445232206773,baseline,baseline
+722,Portugal,NMC111,Pyro,-9.065485210331119,baseline,baseline
+723,Portugal,NMC523,Pyro,-8.49231569520326,baseline,baseline
+724,Portugal,NMC622,Pyro,-14.808235731613044,baseline,baseline
+725,Portugal,NMC811,Pyro,-21.405946740496585,baseline,baseline
+726,Qatar,LFP,Pyro,0.0,baseline,baseline
+727,Qatar,NCA,Pyro,-367.2477917972628,baseline,baseline
+728,Qatar,NMC111,Pyro,-879.133023634647,baseline,baseline
+729,Qatar,NMC523,Pyro,-135.30337859537818,baseline,baseline
+730,Qatar,NMC622,Pyro,-140.15086393280959,baseline,baseline
+731,Qatar,NMC811,Pyro,0.0,baseline,baseline
+732,Rep. of Moldova,LFP,Pyro,0.0,baseline,baseline
+733,Rep. of Moldova,NCA,Pyro,-268.10360430125974,baseline,baseline
+734,Rep. of Moldova,NMC111,Pyro,-654.5364485400362,baseline,baseline
+735,Rep. of Moldova,NMC523,Pyro,-567.3439540556775,baseline,baseline
+736,Rep. of Moldova,NMC622,Pyro,-889.4634963982056,baseline,baseline
+737,Rep. of Moldova,NMC811,Pyro,-1034.824479133096,baseline,baseline
+738,Romania,LFP,Pyro,-4330.692677399131,baseline,baseline
+739,Romania,NCA,Pyro,-128.8414017958858,baseline,baseline
+740,Romania,NMC111,Pyro,-184.3604131918072,baseline,baseline
+741,Romania,NMC523,Pyro,-171.69690681892166,baseline,baseline
+742,Romania,NMC622,Pyro,-265.0819966729529,baseline,baseline
+743,Romania,NMC811,Pyro,-355.49145296979214,baseline,baseline
+744,Russian Federation,LFP,Pyro,0.0,baseline,baseline
+745,Russian Federation,NCA,Pyro,-7.97161194443413,baseline,baseline
+746,Russian Federation,NMC111,Pyro,-39.17139201864496,baseline,baseline
+747,Russian Federation,NMC523,Pyro,-30.89195516354519,baseline,baseline
+748,Russian Federation,NMC622,Pyro,-59.8436947560883,baseline,baseline
+749,Russian Federation,NMC811,Pyro,-75.21066763573027,baseline,baseline
+750,Rwanda,LFP,Pyro,0.0,baseline,baseline
+751,Rwanda,NCA,Pyro,-735.3436090482995,baseline,baseline
+752,Rwanda,NMC111,Pyro,-1688.3209547119707,baseline,baseline
+753,Rwanda,NMC523,Pyro,-1517.270856726047,baseline,baseline
+754,Rwanda,NMC622,Pyro,-2386.4360050155055,baseline,baseline
+755,Rwanda,NMC811,Pyro,0.0,baseline,baseline
+756,Saint Lucia,LFP,Pyro,0.0,baseline,baseline
+757,Saint Lucia,NCA,Pyro,-2120.726657575478,baseline,baseline
+758,Saint Lucia,NMC111,Pyro,-4817.855138126657,baseline,baseline
+759,Saint Lucia,NMC523,Pyro,-4451.642434273655,baseline,baseline
+760,Saint Lucia,NMC622,Pyro,-7268.407297435772,baseline,baseline
+761,Saint Lucia,NMC811,Pyro,-8969.610415012523,baseline,baseline
+762,Samoa,LFP,Pyro,0.0,baseline,baseline
+763,Samoa,NCA,Pyro,-7564.23973574763,baseline,baseline
+764,Samoa,NMC111,Pyro,-18192.020651945986,baseline,baseline
+765,Samoa,NMC523,Pyro,-15960.899098584556,baseline,baseline
+766,Samoa,NMC622,Pyro,-25242.744702180604,baseline,baseline
+767,Samoa,NMC811,Pyro,-29876.385600930364,baseline,baseline
+768,Saudi Arabia,LFP,Pyro,0.0,baseline,baseline
+769,Saudi Arabia,NCA,Pyro,-29.324590773932634,baseline,baseline
+770,Saudi Arabia,NMC111,Pyro,-73.001323311419,baseline,baseline
+771,Saudi Arabia,NMC523,Pyro,-65.15069247371537,baseline,baseline
+772,Saudi Arabia,NMC622,Pyro,-102.54669747002887,baseline,baseline
+773,Saudi Arabia,NMC811,Pyro,-122.2705172441327,baseline,baseline
+774,Senegal,LFP,Pyro,0.0,baseline,baseline
+775,Senegal,NCA,Pyro,-108.17790919876761,baseline,baseline
+776,Senegal,NMC111,Pyro,-270.8163366776559,baseline,baseline
+777,Senegal,NMC523,Pyro,-235.26373101155835,baseline,baseline
+778,Senegal,NMC622,Pyro,-372.72039781250254,baseline,baseline
+779,Senegal,NMC811,Pyro,-433.75959190357963,baseline,baseline
+780,Serbia,LFP,Pyro,0.0,baseline,baseline
+781,Serbia,NCA,Pyro,-113.34688821613152,baseline,baseline
+782,Serbia,NMC111,Pyro,-271.683786257251,baseline,baseline
+783,Serbia,NMC523,Pyro,-231.98237469675863,baseline,baseline
+784,Serbia,NMC622,Pyro,-357.59506440833746,baseline,baseline
+785,Serbia,NMC811,Pyro,-414.1230862131156,baseline,baseline
+786,Seychelles,LFP,Pyro,0.0,baseline,baseline
+787,Seychelles,NCA,Pyro,-1013.9714852970438,baseline,baseline
+788,Seychelles,NMC111,Pyro,-2444.885255644146,baseline,baseline
+789,Seychelles,NMC523,Pyro,-2144.3893858026395,baseline,baseline
+790,Seychelles,NMC622,Pyro,-3393.7391883397468,baseline,baseline
+791,Seychelles,NMC811,Pyro,-3958.6538901481067,baseline,baseline
+792,Sierra Leone,LFP,Pyro,0.0,baseline,baseline
+793,Sierra Leone,NCA,Pyro,-1621.3272733298995,baseline,baseline
+794,Sierra Leone,NMC111,Pyro,-3692.044159952771,baseline,baseline
+795,Sierra Leone,NMC523,Pyro,-3372.941272370297,baseline,baseline
+796,Sierra Leone,NMC622,Pyro,-5438.0487221691355,baseline,baseline
+797,Sierra Leone,NMC811,Pyro,-6557.314288481668,baseline,baseline
+798,Singapore,LFP,Pyro,0.0,baseline,baseline
+799,Singapore,NCA,Pyro,0.0,baseline,baseline
+800,Singapore,NMC111,Pyro,0.0,baseline,baseline
+801,Singapore,NMC523,Pyro,0.0,baseline,baseline
+802,Singapore,NMC622,Pyro,0.0,baseline,baseline
+803,Singapore,NMC811,Pyro,0.0,baseline,baseline
+804,Slovakia,LFP,Pyro,-197.14805709401352,baseline,baseline
+805,Slovakia,NCA,Pyro,-1.2510090338401778,baseline,baseline
+806,Slovakia,NMC111,Pyro,-4.252882562809968,baseline,baseline
+807,Slovakia,NMC523,Pyro,-4.009351730308323,baseline,baseline
+808,Slovakia,NMC622,Pyro,-7.930393390054872,baseline,baseline
+809,Slovakia,NMC811,Pyro,-12.123699677049789,baseline,baseline
+810,Slovenia,LFP,Pyro,-3187.4629385590792,baseline,baseline
+811,Slovenia,NCA,Pyro,-95.9066358002418,baseline,baseline
+812,Slovenia,NMC111,Pyro,-137.55519183253608,baseline,baseline
+813,Slovenia,NMC523,Pyro,-128.1904682524571,baseline,baseline
+814,Slovenia,NMC622,Pyro,-197.8424150416532,baseline,baseline
+815,Slovenia,NMC811,Pyro,-265.2765795355457,baseline,baseline
+816,Solomon Isds,LFP,Pyro,0.0,baseline,baseline
+817,Solomon Isds,NCA,Pyro,-6654.6010477576565,baseline,baseline
+818,Solomon Isds,NMC111,Pyro,-13968.638286925869,baseline,baseline
+819,Solomon Isds,NMC523,Pyro,-14304.624132477364,baseline,baseline
+820,Solomon Isds,NMC622,Pyro,-23122.547498892152,baseline,baseline
+821,Solomon Isds,NMC811,Pyro,-28381.826711204678,baseline,baseline
+822,South Africa,LFP,Pyro,0.0,baseline,baseline
+823,South Africa,NCA,Pyro,-327.99437190340416,baseline,baseline
+824,South Africa,NMC111,Pyro,-816.2095111760868,baseline,baseline
+825,South Africa,NMC523,Pyro,-696.8196238734888,baseline,baseline
+826,South Africa,NMC622,Pyro,-1098.310495645651,baseline,baseline
+827,South Africa,NMC811,Pyro,-1283.658862535708,baseline,baseline
+828,Spain,LFP,Pyro,-139.6017076216452,baseline,baseline
+829,Spain,NCA,Pyro,0.5198516493558365,baseline,baseline
+830,Spain,NMC111,Pyro,-1.7630221613906318,baseline,baseline
+831,Spain,NMC523,Pyro,-1.6873112535579284,baseline,baseline
+832,Spain,NMC622,Pyro,-4.3686524741224115,baseline,baseline
+833,Spain,NMC811,Pyro,-7.3715409694052765,baseline,baseline
+834,Sri Lanka,LFP,Pyro,0.0,baseline,baseline
+835,Sri Lanka,NCA,Pyro,-25.419894232491927,baseline,baseline
+836,Sri Lanka,NMC111,Pyro,-95.52828511359168,baseline,baseline
+837,Sri Lanka,NMC523,Pyro,-78.83347082504099,baseline,baseline
+838,Sri Lanka,NMC622,Pyro,-148.09891633914523,baseline,baseline
+839,Sri Lanka,NMC811,Pyro,-181.5938073881264,baseline,baseline
+840,State of Palestine,LFP,Pyro,0.0,baseline,baseline
+841,State of Palestine,NCA,Pyro,-1107.3215398567613,baseline,baseline
+842,State of Palestine,NMC111,Pyro,-2418.37332928837,baseline,baseline
+843,State of Palestine,NMC523,Pyro,-2228.9886097704293,baseline,baseline
+844,State of Palestine,NMC622,Pyro,-3472.214211797605,baseline,baseline
+845,State of Palestine,NMC811,Pyro,-4130.8211033863445,baseline,baseline
+846,Sudan,LFP,Pyro,0.0,baseline,baseline
+847,Sudan,NCA,Pyro,-2775.9650340487024,baseline,baseline
+848,Sudan,NMC111,Pyro,-6098.692849984132,baseline,baseline
+849,Sudan,NMC523,Pyro,-7181.7552259048625,baseline,baseline
+850,Sudan,NMC622,Pyro,-11487.798867681568,baseline,baseline
+851,Sudan,NMC811,Pyro,-13695.299509640623,baseline,baseline
+852,Sweden,LFP,Pyro,-221.48768676484784,baseline,baseline
+853,Sweden,NCA,Pyro,-2.633437234814356,baseline,baseline
+854,Sweden,NMC111,Pyro,-5.938048964927207,baseline,baseline
+855,Sweden,NMC523,Pyro,-5.603521062357256,baseline,baseline
+856,Sweden,NMC622,Pyro,-10.047995812504194,baseline,baseline
+857,Sweden,NMC811,Pyro,-14.882409134989167,baseline,baseline
+858,Switzerland,LFP,Pyro,0.0,baseline,baseline
+859,Switzerland,NCA,Pyro,-3.7157472955878634,baseline,baseline
+860,Switzerland,NMC111,Pyro,-14.74279106745309,baseline,baseline
+861,Switzerland,NMC523,Pyro,-12.801345972352848,baseline,baseline
+862,Switzerland,NMC622,Pyro,-21.00733183055097,baseline,baseline
+863,Switzerland,NMC811,Pyro,-24.843824837309036,baseline,baseline
+864,Tajikistan,LFP,Pyro,0.0,baseline,baseline
+865,Tajikistan,NCA,Pyro,-865.1377116299373,baseline,baseline
+866,Tajikistan,NMC111,Pyro,-2045.959361540404,baseline,baseline
+867,Tajikistan,NMC523,Pyro,-1820.6832842516822,baseline,baseline
+868,Tajikistan,NMC622,Pyro,-2900.680609845011,baseline,baseline
+869,Tajikistan,NMC811,Pyro,-3441.096868604333,baseline,baseline
+870,Thailand,LFP,Pyro,0.0,baseline,baseline
+871,Thailand,NCA,Pyro,-8.312319263789831,baseline,baseline
+872,Thailand,NMC111,Pyro,-37.02636448141694,baseline,baseline
+873,Thailand,NMC523,Pyro,-31.89441053555136,baseline,baseline
+874,Thailand,NMC622,Pyro,-62.6905596379481,baseline,baseline
+875,Thailand,NMC811,Pyro,-80.49883475766353,baseline,baseline
+876,Togo,LFP,Pyro,0.0,baseline,baseline
+877,Togo,NCA,Pyro,-311.4182905603918,baseline,baseline
+878,Togo,NMC111,Pyro,-739.399829761284,baseline,baseline
+879,Togo,NMC523,Pyro,-662.4916957323795,baseline,baseline
+880,Togo,NMC622,Pyro,-1046.8642368633093,baseline,baseline
+881,Togo,NMC811,Pyro,-1235.5456767954047,baseline,baseline
+882,Tonga,LFP,Pyro,0.0,baseline,baseline
+883,Tonga,NCA,Pyro,0.0,baseline,baseline
+884,Tonga,NMC111,Pyro,0.0,baseline,baseline
+885,Tonga,NMC523,Pyro,0.0,baseline,baseline
+886,Tonga,NMC622,Pyro,0.0,baseline,baseline
+887,Tonga,NMC811,Pyro,0.0,baseline,baseline
+888,Trinidad and Tobago,LFP,Pyro,0.0,baseline,baseline
+889,Trinidad and Tobago,NCA,Pyro,-260.2744196364153,baseline,baseline
+890,Trinidad and Tobago,NMC111,Pyro,-648.9377402899398,baseline,baseline
+891,Trinidad and Tobago,NMC523,Pyro,-563.7926856132375,baseline,baseline
+892,Trinidad and Tobago,NMC622,Pyro,-898.4373310111062,baseline,baseline
+893,Trinidad and Tobago,NMC811,Pyro,-1050.2407674195756,baseline,baseline
+894,Tunisia,LFP,Pyro,0.0,baseline,baseline
+895,Tunisia,NCA,Pyro,-389.6418511594188,baseline,baseline
+896,Tunisia,NMC111,Pyro,-944.6249399038456,baseline,baseline
+897,Tunisia,NMC523,Pyro,-828.1882921544706,baseline,baseline
+898,Tunisia,NMC622,Pyro,-1311.7511058688574,baseline,baseline
+899,Tunisia,NMC811,Pyro,-1560.6817245031666,baseline,baseline
+900,Turkey,LFP,Pyro,0.0,baseline,baseline
+901,Turkey,NCA,Pyro,-5.673940083730227,baseline,baseline
+902,Turkey,NMC111,Pyro,-20.413285510420252,baseline,baseline
+903,Turkey,NMC523,Pyro,-17.17220233770608,baseline,baseline
+904,Turkey,NMC622,Pyro,-28.062433098463696,baseline,baseline
+905,Turkey,NMC811,Pyro,-33.24118307971321,baseline,baseline
+906,USA,LFP,Pyro,-770.9545601854172,baseline,baseline
+907,USA,NCA,Pyro,3.888024071974258,baseline,baseline
+908,USA,NMC111,Pyro,0.710639073917453,baseline,baseline
+909,USA,NMC523,Pyro,0.6402338296688131,baseline,baseline
+910,USA,NMC622,Pyro,-0.8518864000561251,baseline,baseline
+911,USA,NMC811,Pyro,-0.23542961880724006,baseline,baseline
+912,Uganda,LFP,Pyro,0.0,baseline,baseline
+913,Uganda,NCA,Pyro,-28.442013496409707,baseline,baseline
+914,Uganda,NMC111,Pyro,-76.60179819051697,baseline,baseline
+915,Uganda,NMC523,Pyro,-66.54709671777178,baseline,baseline
+916,Uganda,NMC622,Pyro,-106.9989200444152,baseline,baseline
+917,Uganda,NMC811,Pyro,-126.22032124001154,baseline,baseline
+918,Ukraine,LFP,Pyro,0.0,baseline,baseline
+919,Ukraine,NCA,Pyro,-16.691659713654154,baseline,baseline
+920,Ukraine,NMC111,Pyro,-241.89819779311492,baseline,baseline
+921,Ukraine,NMC523,Pyro,-45.55932339223311,baseline,baseline
+922,Ukraine,NMC622,Pyro,-49.40365532144408,baseline,baseline
+923,Ukraine,NMC811,Pyro,0.0,baseline,baseline
+924,United Arab Emirates,LFP,Pyro,0.0,baseline,baseline
+925,United Arab Emirates,NCA,Pyro,-47.99707941213033,baseline,baseline
+926,United Arab Emirates,NMC111,Pyro,-119.73843845786183,baseline,baseline
+927,United Arab Emirates,NMC523,Pyro,-15.300495626775723,baseline,baseline
+928,United Arab Emirates,NMC622,Pyro,-13.971961315804375,baseline,baseline
+929,United Arab Emirates,NMC811,Pyro,0.0,baseline,baseline
+930,United Kingdom,LFP,Pyro,0.0,baseline,baseline
+931,United Kingdom,NCA,Pyro,2.358540325873044,baseline,baseline
+932,United Kingdom,NMC111,Pyro,-1.4988742587230317,baseline,baseline
+933,United Kingdom,NMC523,Pyro,-1.109646150614038,baseline,baseline
+934,United Kingdom,NMC622,Pyro,-3.4993097181586217,baseline,baseline
+935,United Kingdom,NMC811,Pyro,-4.758257475111091,baseline,baseline
+936,United Rep. of Tanzania,LFP,Pyro,0.0,baseline,baseline
+937,United Rep. of Tanzania,NCA,Pyro,-82.23272571917165,baseline,baseline
+938,United Rep. of Tanzania,NMC111,Pyro,-207.85443068571834,baseline,baseline
+939,United Rep. of Tanzania,NMC523,Pyro,-180.14515372103025,baseline,baseline
+940,United Rep. of Tanzania,NMC622,Pyro,-285.97579610334213,baseline,baseline
+941,United Rep. of Tanzania,NMC811,Pyro,-335.2154077045679,baseline,baseline
+942,Uruguay,LFP,Pyro,0.0,baseline,baseline
+943,Uruguay,NCA,Pyro,-320.56904849685657,baseline,baseline
+944,Uruguay,NMC111,Pyro,-759.3069090598573,baseline,baseline
+945,Uruguay,NMC523,Pyro,-686.074804987505,baseline,baseline
+946,Uruguay,NMC622,Pyro,-1108.1115974389754,baseline,baseline
+947,Uruguay,NMC811,Pyro,-1345.6573043614828,baseline,baseline
+948,Uzbekistan,LFP,Pyro,0.0,baseline,baseline
+949,Uzbekistan,NCA,Pyro,-161.86812728743593,baseline,baseline
+950,Uzbekistan,NMC111,Pyro,-400.4956248871116,baseline,baseline
+951,Uzbekistan,NMC523,Pyro,-348.6386486488163,baseline,baseline
+952,Uzbekistan,NMC622,Pyro,-551.7496179876134,baseline,baseline
+953,Uzbekistan,NMC811,Pyro,-647.0579658421001,baseline,baseline
+954,Viet Nam,LFP,Pyro,0.0,baseline,baseline
+955,Viet Nam,NCA,Pyro,8.25221827061187,baseline,baseline
+956,Viet Nam,NMC111,Pyro,14.22317446029935,baseline,baseline
+957,Viet Nam,NMC523,Pyro,12.764815666600384,baseline,baseline
+958,Viet Nam,NMC622,Pyro,20.823142885607606,baseline,baseline
+959,Viet Nam,NMC811,Pyro,26.28046886159504,baseline,baseline
+960,Yemen,LFP,Pyro,0.0,baseline,baseline
+961,Yemen,NCA,Pyro,-194.53849713186347,baseline,baseline
+962,Yemen,NMC111,Pyro,-454.89889191403944,baseline,baseline
+963,Yemen,NMC523,Pyro,-400.2414528451383,baseline,baseline
+964,Yemen,NMC622,Pyro,-616.7595224960635,baseline,baseline
+965,Yemen,NMC811,Pyro,-739.1704193349902,baseline,baseline
+966,Zambia,LFP,Pyro,0.0,baseline,baseline
+967,Zambia,NCA,Pyro,-794.7361609950804,baseline,baseline
+968,Zambia,NMC111,Pyro,-1583.055694489027,baseline,baseline
+969,Zambia,NMC523,Pyro,-308.6909502765511,baseline,baseline
+970,Zambia,NMC622,Pyro,-342.34780031479977,baseline,baseline
+971,Zambia,NMC811,Pyro,0.0,baseline,baseline
+972,Zimbabwe,LFP,Pyro,0.0,baseline,baseline
+973,Zimbabwe,NCA,Pyro,-14.03250205687265,baseline,baseline
+974,Zimbabwe,NMC111,Pyro,-94.43812865327827,baseline,baseline
+975,Zimbabwe,NMC523,Pyro,-22.13856612335895,baseline,baseline
+976,Zimbabwe,NMC622,Pyro,0.0,baseline,baseline
+977,Zimbabwe,NMC811,Pyro,0.0,baseline,baseline

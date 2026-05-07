@@ -1,0 +1,164 @@
+﻿region,Sub-region Name,area,iso3,continent,Country Code
+Aruba,Latin America and the Caribbean,other_america,ABW,America,ABW
+Afghanistan,Southern Asia,other_asia,AFG,Asia,AFG
+Angola,Sub-Saharan Africa,other_africa,AGO,Africa,AGO
+Albania,Southern Europe,other_europe,ALB,Europe,ALB
+Andorra,Southern Europe,other_europe,AND,Europe,AND
+United Arab Emirates,Western Asia,other_asia,ARE,Asia,ARE
+Argentina,Latin America and the Caribbean,other_america,ARG,America,ARG
+Armenia,Western Asia,other_asia,ARM,Asia,ARM
+Australia,Australia and New Zealand,Australia,AUS,Pacific,AUS
+Austria,Western Europe,other_europe,AUT,Europe,AUT
+Azerbaijan,Western Asia,other_asia,AZE,Asia,AZE
+Burundi,Sub-Saharan Africa,other_africa,BDI,Africa,BDI
+Belgium,Western Europe,other_europe,BEL,Europe,BEL
+Benin,Sub-Saharan Africa,other_africa,BEN,Africa,BEN
+Burkina Faso,Sub-Saharan Africa,other_africa,BFA,Africa,BFA
+Bangladesh,Southern Asia,other_asia,BGD,Asia,BGD
+Bulgaria,Eastern Europe,other_europe,BGR,Europe,BGR
+Bahrain,Western Asia,other_asia,BHR,Asia,BHR
+Bahamas,Latin America and the Caribbean,other_america,BHS,America,BHS
+Bosnia Herzegovina,Southern Europe,other_europe,BIH,Europe,BIH
+Belarus,Eastern Europe,other_europe,BLR,Europe,BLR
+Bermuda,Northern America,other_america,BMU,America,BMU
+Bolivia (Plurinational State of),Latin America and the Caribbean,other_america,BOL,America,BOL
+Brazil,Latin America and the Caribbean,Brazil,BRA,America,BRA
+Barbados,Latin America and the Caribbean,other_america,BRB,America,BRB
+Brunei Darussalam,South-eastern Asia,other_asia,BRN,Asia,BRN
+Botswana,Sub-Saharan Africa,other_africa,BWA,Africa,BWA
+Canada,Northern America,Canada,CAN,America,CAN
+Switzerland,Western Europe,other_europe,CHE,Europe,CHE
+Chile,Latin America and the Caribbean,other_america,CHL,America,CHL
+China,Eastern Asia,China,CHN,Asia,CHN
+C?te d'Ivoire,Sub-Saharan Africa,other_africa,CIV,Africa,CIV
+Cameroon,Sub-Saharan Africa,other_africa,CMR,Africa,CMR
+Congo,Sub-Saharan Africa,other_africa,COG,Africa,COG
+Colombia,Latin America and the Caribbean,other_america,COL,America,COL
+Comoros,Sub-Saharan Africa,other_africa,COM,Africa,COM
+Cabo Verde,Sub-Saharan Africa,other_africa,CPV,Africa,CPV
+Costa Rica,Latin America and the Caribbean,other_america,CRI,America,CRI
+Cayman Isds,Latin America and the Caribbean,other_america,CYM,America,CYM
+Cyprus,Western Asia,other_europe,CYP,Europe,CYP
+Czechia,Eastern Europe,Czechia,CZE,Europe,CZE
+Germany,Western Europe,Germany,DEU,Europe,DEU
+Denmark,Northern Europe,other_europe,DNK,Europe,DNK
+Dominican Rep.,Latin America and the Caribbean,other_america,DOM,America,DOM
+Algeria,Northern Africa,other_africa,DZA,Africa,DZA
+Ecuador,Latin America and the Caribbean,other_america,ECU,America,ECU
+Egypt,Northern Africa,other_africa,EGY,Africa,EGY
+Spain,Southern Europe,Spain,ESP,Europe,ESP
+Estonia,Northern Europe,other_europe,EST,Europe,EST
+Ethiopia,Sub-Saharan Africa,other_africa,ETH,Africa,ETH
+Finland,Northern Europe,other_europe,FIN,Europe,FIN
+Fiji,Melanesia,other_pacific,FJI,Pacific,FJI
+France,Western Europe,France,FRA,Europe,FRA
+United Kingdom,Northern Europe,United Kingdom,GBR,Europe,GBR
+Georgia,Western Asia,other_asia,GEO,Asia,GEO
+Ghana,Sub-Saharan Africa,other_africa,GHA,Africa,GHA
+Guinea,Sub-Saharan Africa,other_africa,GIN,Africa,GIN
+Greece,Southern Europe,other_europe,GRC,Europe,GRC
+Grenada,Latin America and the Caribbean,other_america,GRD,America,GRD
+Greenland,Northern America,other_america,GRL,America,GRL
+Guatemala,Latin America and the Caribbean,other_america,GTM,America,GTM
+Guyana,Latin America and the Caribbean,other_america,GUY,America,GUY
+Honduras,Latin America and the Caribbean,other_america,HND,America,HND
+Croatia,Southern Europe,other_europe,HRV,Europe,HRV
+Hungary,Eastern Europe,Hungary,HUN,Europe,HUN
+Indonesia,South-eastern Asia,other_asia,IDN,Asia,IDN
+India,Southern Asia,India,IND,Asia,IND
+Ireland,Northern Europe,other_europe,IRL,Europe,IRL
+Iran,Southern Asia,other_asia,IRN,Asia,IRN
+Iceland,Northern Europe,other_europe,ISL,Europe,ISL
+Israel,Western Asia,other_asia,ISR,Asia,ISR
+Italy,Southern Europe,Italy,ITA,Europe,ITA
+Jamaica,Latin America and the Caribbean,other_america,JAM,America,JAM
+Jordan,Western Asia,other_asia,JOR,Asia,JOR
+Japan,Eastern Asia,Japan,JPN,Asia,JPN
+Kazakhstan,Central Asia,other_asia,KAZ,Asia,KAZ
+Kenya,Sub-Saharan Africa,other_africa,KEN,Africa,KEN
+Kyrgyzstan,Central Asia,other_asia,KGZ,Asia,KGZ
+Cambodia,South-eastern Asia,other_asia,KHM,Asia,KHM
+Kiribati,Micronesia,other_pacific,KIR,Pacific,KIR
+Korea,Eastern Asia,Korea,KOR,Asia,KOR
+Kuwait,Western Asia,other_asia,KWT,Asia,KWT
+Lao People's Dem. Rep.,South-eastern Asia,other_asia,LAO,Asia,LAO
+Lebanon,Western Asia,other_asia,LBN,Asia,LBN
+Saint Lucia,Latin America and the Caribbean,other_america,LCA,America,LCA
+Sri Lanka,Southern Asia,other_asia,LKA,Asia,LKA
+Lesotho,Sub-Saharan Africa,other_africa,LSO,Africa,LSO
+Lithuania,Northern Europe,other_europe,LTU,Europe,LTU
+Luxembourg,Western Europe,other_europe,LUX,Europe,LUX
+Latvia,Northern Europe,other_europe,LVA,Europe,LVA
+Morocco,Northern Africa,other_africa,MAR,Africa,MAR
+Rep. of Moldova,Eastern Europe,other_europe,MDA,Europe,MDA
+Madagascar,Sub-Saharan Africa,other_africa,MDG,Africa,MDG
+Maldives,Southern Asia,other_asia,MDV,Asia,MDV
+Mexico,Latin America and the Caribbean,other_america,MEX,America,MEX
+North Macedonia,Southern Europe,other_europe,MKD,Europe,MKD
+Mali,Sub-Saharan Africa,other_africa,MLI,Africa,MLI
+Malta,Southern Europe,other_europe,MLT,Europe,MLT
+Mongolia,Eastern Asia,other_asia,MNG,Asia,MNG
+Mozambique,Sub-Saharan Africa,other_africa,MOZ,Africa,MOZ
+Mauritania,Sub-Saharan Africa,other_africa,MRT,Africa,MRT
+Mauritius,Sub-Saharan Africa,other_africa,MUS,Africa,MUS
+Malawi,Sub-Saharan Africa,other_africa,MWI,Africa,MWI
+Malaysia,South-eastern Asia,other_asia,MYS,Asia,MYS
+Namibia,Sub-Saharan Africa,other_africa,NAM,Africa,NAM
+New Caledonia,Melanesia,other_pacific,NCL,Pacific,NCL
+Niger,Sub-Saharan Africa,other_africa,NER,Africa,NER
+Nigeria,Sub-Saharan Africa,other_africa,NGA,Africa,NGA
+Nicaragua,Latin America and the Caribbean,other_america,NIC,America,NIC
+Netherlands,Western Europe,other_europe,NLD,Europe,NLD
+Norway,Northern Europe,Norway,NOR,Europe,NOR
+Nepal,Southern Asia,other_asia,NPL,Asia,NPL
+New Zealand,Australia and New Zealand,other_pacific,NZL,Pacific,NZL
+Oman,Western Asia,other_asia,OMN,Asia,OMN
+Pakistan,Southern Asia,other_asia,PAK,Asia,PAK
+State of Palestine,Western Asia,other_asia,PAL,Asia,PSE
+Panama,Latin America and the Caribbean,other_america,PAN,America,PAN
+Peru,Latin America and the Caribbean,other_america,PER,America,PER
+Philippines,South-eastern Asia,other_asia,PHL,Asia,PHL
+Palau,Micronesia,other_pacific,PLW,Pacific,PLW
+Papua New Guinea,Melanesia,other_pacific,PNG,Pacific,PNG
+Poland,Eastern Europe,Poland,POL,Europe,POL
+Portugal,Southern Europe,other_europe,PRT,Europe,PRT
+Paraguay,Latin America and the Caribbean,other_america,PRY,America,PRY
+French Polynesia,Polynesia,other_pacific,PYF,Pacific,PYF
+Qatar,Western Asia,other_asia,QAT,Asia,QAT
+Romania,Eastern Europe,other_europe,ROM,Europe,ROU
+Russian Federation,Eastern Europe,Russian Federation,RUS,Asia,RUS
+Rwanda,Sub-Saharan Africa,other_africa,RWA,Africa,RWA
+Saudi Arabia,Western Asia,other_asia,SAU,Asia,SAU
+Sudan,Northern Africa,other_africa,SDN,Africa,SDN
+Senegal,Sub-Saharan Africa,other_africa,SEN,Africa,SEN
+Singapore,South-eastern Asia,other_asia,SGP,Asia,SGP
+Solomon Isds,Melanesia,other_pacific,SLB,Pacific,SLB
+Sierra Leone,Sub-Saharan Africa,other_africa,SLE,Africa,SLE
+El Salvador,Latin America and the Caribbean,other_america,SLV,America,SLV
+Slovakia,Eastern Europe,Slovakia,SVK,Europe,SVK
+Slovenia,Southern Europe,other_europe,SVN,Europe,SVN
+Sweden,Northern Europe,Sweden,SWE,Europe,SWE
+Seychelles,Sub-Saharan Africa,other_africa,SYC,Africa,SYC
+Togo,Sub-Saharan Africa,other_africa,TGO,Africa,TGO
+Thailand,South-eastern Asia,Thailand,THA,Asia,THA
+Tajikistan,Central Asia,other_asia,TJK,Asia,TJK
+Tonga,Polynesia,other_pacific,TON,Pacific,TON
+Trinidad and Tobago,Latin America and the Caribbean,other_america,TTO,America,TTO
+Tunisia,Northern Africa,other_africa,TUN,Africa,TUN
+Turkey,Western Asia,Turkey,TUR,Europe,TUR
+United Rep. of Tanzania,Sub-Saharan Africa,other_africa,TZA,Africa,TZA
+Uganda,Sub-Saharan Africa,other_africa,UGA,Africa,UGA
+Ukraine,Eastern Europe,other_europe,UKR,Europe,UKR
+Uruguay,Latin America and the Caribbean,other_america,URY,America,URY
+USA,Northern America,USA,USA,America,USA
+Uzbekistan,Central Asia,other_asia,UZB,Asia,UZB
+Viet Nam,South-eastern Asia,Viet Nam,VNM,Asia,VNM
+Samoa,Polynesia,other_pacific,WSM,Pacific,WSM
+Yemen,Western Asia,other_asia,YEM,Asia,YEM
+Serbia,Southern Europe,Serbia,YUG,Europe,SRB
+South Africa,Sub-Saharan Africa,other_africa,ZAF,Africa,ZAF
+Zambia,Sub-Saharan Africa,other_africa,ZMB,Africa,ZMB
+Zimbabwe,Sub-Saharan Africa,other_africa,ZWE,Africa,ZWE
+Myanmar,South-eastern Asia,other_asia,MMR,Asia,MMR
+Montenegro,Southern Europe,other_america,MNE,America,MNE
+Eswatini,Sub-Saharan Africa,other_africa,SWZ,Africa,SWZ

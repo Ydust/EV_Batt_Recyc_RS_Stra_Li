@@ -1,0 +1,979 @@
+,country,type,recycling_m,net_profit,collection_scenario,recovery_efficiency_scenario
+0,Afghanistan,LFP,Hydro,0.0,baseline,baseline
+1,Afghanistan,NCA,Hydro,-4455.874165306741,baseline,baseline
+2,Afghanistan,NMC111,Hydro,-15912.653779603083,baseline,baseline
+3,Afghanistan,NMC523,Hydro,-13033.245322695848,baseline,baseline
+4,Afghanistan,NMC622,Hydro,-24995.835046977587,baseline,baseline
+5,Afghanistan,NMC811,Hydro,-111818.36632913942,baseline,baseline
+6,Albania,LFP,Hydro,-12221.374009450596,baseline,baseline
+7,Albania,NCA,Hydro,-282.7893609598003,baseline,baseline
+8,Albania,NMC111,Hydro,-413.6515323783645,baseline,baseline
+9,Albania,NMC523,Hydro,-383.09025080376387,baseline,baseline
+10,Albania,NMC622,Hydro,-610.3955702196556,baseline,baseline
+11,Albania,NMC811,Hydro,-835.9617053162256,baseline,baseline
+12,Algeria,LFP,Hydro,0.0,baseline,baseline
+13,Algeria,NCA,Hydro,-145.00632372718152,baseline,baseline
+14,Algeria,NMC111,Hydro,-311.444261831934,baseline,baseline
+15,Algeria,NMC523,Hydro,-333.52136430444773,baseline,baseline
+16,Algeria,NMC622,Hydro,-586.4572149528865,baseline,baseline
+17,Algeria,NMC811,Hydro,-737.5723333318555,baseline,baseline
+18,Andorra,LFP,Hydro,0.0,baseline,baseline
+19,Andorra,NCA,Hydro,-2928.980843167196,baseline,baseline
+20,Andorra,NMC111,Hydro,-5618.431034253499,baseline,baseline
+21,Andorra,NMC523,Hydro,-6419.147280343853,baseline,baseline
+22,Andorra,NMC622,Hydro,-10856.643680536901,baseline,baseline
+23,Andorra,NMC811,Hydro,-13659.52707746636,baseline,baseline
+24,Angola,LFP,Hydro,0.0,baseline,baseline
+25,Angola,NCA,Hydro,-772.7467338801587,baseline,baseline
+26,Angola,NMC111,Hydro,-1516.4643473374501,baseline,baseline
+27,Angola,NMC523,Hydro,-1798.3593745080768,baseline,baseline
+28,Angola,NMC622,Hydro,-3203.6564112396145,baseline,baseline
+29,Angola,NMC811,Hydro,-6267.7653976178335,baseline,baseline
+30,Argentina,LFP,Hydro,0.0,baseline,baseline
+31,Argentina,NCA,Hydro,-35.3353269969644,baseline,baseline
+32,Argentina,NMC111,Hydro,-95.9616858238024,baseline,baseline
+33,Argentina,NMC523,Hydro,-91.5113127778949,baseline,baseline
+34,Argentina,NMC622,Hydro,-154.7329173510273,baseline,baseline
+35,Argentina,NMC811,Hydro,-186.81044787396758,baseline,baseline
+36,Armenia,LFP,Hydro,0.0,baseline,baseline
+37,Armenia,NCA,Hydro,-95.80299964231915,baseline,baseline
+38,Armenia,NMC111,Hydro,-2026.7723993088805,baseline,baseline
+39,Armenia,NMC523,Hydro,-206.32264194653817,baseline,baseline
+40,Armenia,NMC622,Hydro,-242.26421502319155,baseline,baseline
+41,Armenia,NMC811,Hydro,0.0,baseline,baseline
+42,Aruba,LFP,Hydro,0.0,baseline,baseline
+43,Aruba,NCA,Hydro,-968.2918819120925,baseline,baseline
+44,Aruba,NMC111,Hydro,-2520.0455443648457,baseline,baseline
+45,Aruba,NMC523,Hydro,-2203.2329006950263,baseline,baseline
+46,Aruba,NMC622,Hydro,-106.91551657397392,baseline,baseline
+47,Aruba,NMC811,Hydro,0.0,baseline,baseline
+48,Australia,LFP,Hydro,0.0,baseline,baseline
+49,Australia,NCA,Hydro,1.1574519361068185,baseline,baseline
+50,Australia,NMC111,Hydro,-9.97535649974008,baseline,baseline
+51,Australia,NMC523,Hydro,-8.133881800267405,baseline,baseline
+52,Australia,NMC622,Hydro,-16.96767442513402,baseline,baseline
+53,Australia,NMC811,Hydro,-21.362098166904953,baseline,baseline
+54,Austria,LFP,Hydro,-254.37708658997994,baseline,baseline
+55,Austria,NCA,Hydro,1.7935063086797487,baseline,baseline
+56,Austria,NMC111,Hydro,-1.3998643393233674,baseline,baseline
+57,Austria,NMC523,Hydro,-1.297544824719639,baseline,baseline
+58,Austria,NMC622,Hydro,-5.778915404449228,baseline,baseline
+59,Austria,NMC811,Hydro,-10.890302555791063,baseline,baseline
+60,Azerbaijan,LFP,Hydro,0.0,baseline,baseline
+61,Azerbaijan,NCA,Hydro,-129.75842945071304,baseline,baseline
+62,Azerbaijan,NMC111,Hydro,-336.0571948391319,baseline,baseline
+63,Azerbaijan,NMC523,Hydro,-289.99358361674655,baseline,baseline
+64,Azerbaijan,NMC622,Hydro,-466.58883493389754,baseline,baseline
+65,Azerbaijan,NMC811,Hydro,-550.8230026375503,baseline,baseline
+66,Bahamas,LFP,Hydro,0.0,baseline,baseline
+67,Bahamas,NCA,Hydro,0.0,baseline,baseline
+68,Bahamas,NMC111,Hydro,0.0,baseline,baseline
+69,Bahamas,NMC523,Hydro,0.0,baseline,baseline
+70,Bahamas,NMC622,Hydro,0.0,baseline,baseline
+71,Bahamas,NMC811,Hydro,0.0,baseline,baseline
+72,Bahrain,LFP,Hydro,0.0,baseline,baseline
+73,Bahrain,NCA,Hydro,-1467.409092213234,baseline,baseline
+74,Bahrain,NMC111,Hydro,-2192.75068348669,baseline,baseline
+75,Bahrain,NMC523,Hydro,-2784.264695336864,baseline,baseline
+76,Bahrain,NMC622,Hydro,-908.6115315663899,baseline,baseline
+77,Bahrain,NMC811,Hydro,-2015.700929748257,baseline,baseline
+78,Bangladesh,LFP,Hydro,0.0,baseline,baseline
+79,Bangladesh,NCA,Hydro,-42157.99373115459,baseline,baseline
+80,Bangladesh,NMC111,Hydro,-97539.93038645617,baseline,baseline
+81,Bangladesh,NMC523,Hydro,-165404.67867079747,baseline,baseline
+82,Bangladesh,NMC622,Hydro,-350267.24876171804,baseline,baseline
+83,Bangladesh,NMC811,Hydro,-432655.4564466152,baseline,baseline
+84,Barbados,LFP,Hydro,0.0,baseline,baseline
+85,Barbados,NCA,Hydro,0.0,baseline,baseline
+86,Barbados,NMC111,Hydro,0.0,baseline,baseline
+87,Barbados,NMC523,Hydro,0.0,baseline,baseline
+88,Barbados,NMC622,Hydro,0.0,baseline,baseline
+89,Barbados,NMC811,Hydro,0.0,baseline,baseline
+90,Belarus,LFP,Hydro,0.0,baseline,baseline
+91,Belarus,NCA,Hydro,-59.046521254183034,baseline,baseline
+92,Belarus,NMC111,Hydro,-166.4628297253459,baseline,baseline
+93,Belarus,NMC523,Hydro,-142.42450138543293,baseline,baseline
+94,Belarus,NMC622,Hydro,-235.83039923129144,baseline,baseline
+95,Belarus,NMC811,Hydro,-280.7534429809191,baseline,baseline
+96,Belgium,LFP,Hydro,38.87374671307719,baseline,baseline
+97,Belgium,NCA,Hydro,9.181993572798989,baseline,baseline
+98,Belgium,NMC111,Hydro,9.214883698232217,baseline,baseline
+99,Belgium,NMC523,Hydro,8.542685095516962,baseline,baseline
+100,Belgium,NMC622,Hydro,9.67455665237242,baseline,baseline
+101,Belgium,NMC811,Hydro,10.155846069105362,baseline,baseline
+102,Benin,LFP,Hydro,0.0,baseline,baseline
+103,Benin,NCA,Hydro,-175.54867508698504,baseline,baseline
+104,Benin,NMC111,Hydro,-471.7519530686614,baseline,baseline
+105,Benin,NMC523,Hydro,-405.3470461796159,baseline,baseline
+106,Benin,NMC622,Hydro,-666.6388260971991,baseline,baseline
+107,Benin,NMC811,Hydro,-791.2596917744795,baseline,baseline
+108,Bermuda,LFP,Hydro,0.0,baseline,baseline
+109,Bermuda,NCA,Hydro,-375.21017363052044,baseline,baseline
+110,Bermuda,NMC111,Hydro,0.0,baseline,baseline
+111,Bermuda,NMC523,Hydro,-681.2616898789885,baseline,baseline
+112,Bermuda,NMC622,Hydro,-1414.6578178228456,baseline,baseline
+113,Bermuda,NMC811,Hydro,-3049.356712461818,baseline,baseline
+114,Bolivia (Plurinational State of),LFP,Hydro,0.0,baseline,baseline
+115,Bolivia (Plurinational State of),NCA,Hydro,-77.7351639847725,baseline,baseline
+116,Bolivia (Plurinational State of),NMC111,Hydro,-222.0461337202808,baseline,baseline
+117,Bolivia (Plurinational State of),NMC523,Hydro,-188.23180365742323,baseline,baseline
+118,Bolivia (Plurinational State of),NMC622,Hydro,-314.5573682952631,baseline,baseline
+119,Bolivia (Plurinational State of),NMC811,Hydro,-379.69079655896917,baseline,baseline
+120,Bosnia Herzegovina,LFP,Hydro,0.0,baseline,baseline
+121,Bosnia Herzegovina,NCA,Hydro,-294.2515877706236,baseline,baseline
+122,Bosnia Herzegovina,NMC111,Hydro,-741.2210879670472,baseline,baseline
+123,Bosnia Herzegovina,NMC523,Hydro,-636.2375993634702,baseline,baseline
+124,Bosnia Herzegovina,NMC622,Hydro,-1009.4019973922178,baseline,baseline
+125,Bosnia Herzegovina,NMC811,Hydro,-1189.4916586852783,baseline,baseline
+126,Botswana,LFP,Hydro,0.0,baseline,baseline
+127,Botswana,NCA,Hydro,-190.06403657644728,baseline,baseline
+128,Botswana,NMC111,Hydro,-509.83292378846556,baseline,baseline
+129,Botswana,NMC523,Hydro,-437.54109399469263,baseline,baseline
+130,Botswana,NMC622,Hydro,-718.8151006648728,baseline,baseline
+131,Botswana,NMC811,Hydro,-866.1232092799072,baseline,baseline
+132,Brazil,LFP,Hydro,0.0,baseline,baseline
+133,Brazil,NCA,Hydro,8.51101951307117,baseline,baseline
+134,Brazil,NMC111,Hydro,8.273341783421449,baseline,baseline
+135,Brazil,NMC523,Hydro,7.667348901684492,baseline,baseline
+136,Brazil,NMC622,Hydro,8.213434208983992,baseline,baseline
+137,Brazil,NMC811,Hydro,8.048325280928099,baseline,baseline
+138,Brunei Darussalam,LFP,Hydro,0.0,baseline,baseline
+139,Brunei Darussalam,NCA,Hydro,-5259.208833566573,baseline,baseline
+140,Brunei Darussalam,NMC111,Hydro,-17544.019045616355,baseline,baseline
+141,Brunei Darussalam,NMC523,Hydro,-15284.192116030288,baseline,baseline
+142,Brunei Darussalam,NMC622,Hydro,-29830.842204247383,baseline,baseline
+143,Brunei Darussalam,NMC811,Hydro,-38125.53450751674,baseline,baseline
+144,Bulgaria,LFP,Hydro,-6211.992792100763,baseline,baseline
+145,Bulgaria,NCA,Hydro,-110.9130394614988,baseline,baseline
+146,Bulgaria,NMC111,Hydro,-168.4795094870464,baseline,baseline
+147,Bulgaria,NMC523,Hydro,-155.30028430257747,baseline,baseline
+148,Bulgaria,NMC622,Hydro,-256.70526071452366,baseline,baseline
+149,Bulgaria,NMC811,Hydro,-359.90256189617344,baseline,baseline
+150,Burkina Faso,LFP,Hydro,0.0,baseline,baseline
+151,Burkina Faso,NCA,Hydro,-157.24769961302766,baseline,baseline
+152,Burkina Faso,NMC111,Hydro,-421.5241014348353,baseline,baseline
+153,Burkina Faso,NMC523,Hydro,-363.65297211306415,baseline,baseline
+154,Burkina Faso,NMC622,Hydro,-598.6030529608422,baseline,baseline
+155,Burkina Faso,NMC811,Hydro,-706.0645875786358,baseline,baseline
+156,Burundi,LFP,Hydro,0.0,baseline,baseline
+157,Burundi,NCA,Hydro,-338.2855019109336,baseline,baseline
+158,Burundi,NMC111,Hydro,-777.2832792560106,baseline,baseline
+159,Burundi,NMC523,Hydro,-731.0273564247499,baseline,baseline
+160,Burundi,NMC622,Hydro,-1259.532153330662,baseline,baseline
+161,Burundi,NMC811,Hydro,-1534.376257268199,baseline,baseline
+162,C?te d'Ivoire,LFP,Hydro,0.0,baseline,baseline
+163,C?te d'Ivoire,NCA,Hydro,-306.4760742008227,baseline,baseline
+164,C?te d'Ivoire,NMC111,Hydro,-714.3551711149461,baseline,baseline
+165,C?te d'Ivoire,NMC523,Hydro,-702.544813990082,baseline,baseline
+166,C?te d'Ivoire,NMC622,Hydro,-1189.0868257359307,baseline,baseline
+167,C?te d'Ivoire,NMC811,Hydro,-1485.0511044483671,baseline,baseline
+168,Cabo Verde,LFP,Hydro,0.0,baseline,baseline
+169,Cabo Verde,NCA,Hydro,-4338.017822427822,baseline,baseline
+170,Cabo Verde,NMC111,Hydro,-10620.866552164212,baseline,baseline
+171,Cabo Verde,NMC523,Hydro,-9589.105797277509,baseline,baseline
+172,Cabo Verde,NMC622,Hydro,-16007.638483029647,baseline,baseline
+173,Cabo Verde,NMC811,Hydro,-19631.173506987423,baseline,baseline
+174,Cambodia,LFP,Hydro,0.0,baseline,baseline
+175,Cambodia,NCA,Hydro,-295.3373189993408,baseline,baseline
+176,Cambodia,NMC111,Hydro,-1044.2349518276922,baseline,baseline
+177,Cambodia,NMC523,Hydro,-872.9448662728831,baseline,baseline
+178,Cambodia,NMC622,Hydro,-1697.4654319340711,baseline,baseline
+179,Cambodia,NMC811,Hydro,-2198.6013310960257,baseline,baseline
+180,Cameroon,LFP,Hydro,0.0,baseline,baseline
+181,Cameroon,NCA,Hydro,-3384.368570759993,baseline,baseline
+182,Cameroon,NMC111,Hydro,-4128.639702006851,baseline,baseline
+183,Cameroon,NMC523,Hydro,-7642.223704912319,baseline,baseline
+184,Cameroon,NMC622,Hydro,-18185.514012134994,baseline,baseline
+185,Cameroon,NMC811,Hydro,0.0,baseline,baseline
+186,Canada,LFP,Hydro,0.0,baseline,baseline
+187,Canada,NCA,Hydro,5.851591959182429,baseline,baseline
+188,Canada,NMC111,Hydro,1.6405692390748765,baseline,baseline
+189,Canada,NMC523,Hydro,1.9366522928397922,baseline,baseline
+190,Canada,NMC622,Hydro,-0.993887937886522,baseline,baseline
+191,Canada,NMC811,Hydro,-2.7515542956884382,baseline,baseline
+192,Cayman Isds,LFP,Hydro,0.0,baseline,baseline
+193,Cayman Isds,NCA,Hydro,0.0,baseline,baseline
+194,Cayman Isds,NMC111,Hydro,0.0,baseline,baseline
+195,Cayman Isds,NMC523,Hydro,0.0,baseline,baseline
+196,Cayman Isds,NMC622,Hydro,0.0,baseline,baseline
+197,Cayman Isds,NMC811,Hydro,0.0,baseline,baseline
+198,Chile,LFP,Hydro,0.0,baseline,baseline
+199,Chile,NCA,Hydro,-156.20322870081122,baseline,baseline
+200,Chile,NMC111,Hydro,-429.1536496686448,baseline,baseline
+201,Chile,NMC523,Hydro,-367.4338031223549,baseline,baseline
+202,Chile,NMC622,Hydro,-610.2345229002414,baseline,baseline
+203,Chile,NMC811,Hydro,-723.4602746408341,baseline,baseline
+204,China,LFP,Hydro,1.4953618981337662,baseline,baseline
+205,China,NCA,Hydro,7.561353559501829,baseline,baseline
+206,China,NMC111,Hydro,7.875276760500478,baseline,baseline
+207,China,NMC523,Hydro,6.877218900113927,baseline,baseline
+208,China,NMC622,Hydro,7.769549335332931,baseline,baseline
+209,China,NMC811,Hydro,7.429233207058442,baseline,baseline
+210,Colombia,LFP,Hydro,0.0,baseline,baseline
+211,Colombia,NCA,Hydro,-36.28579183832878,baseline,baseline
+212,Colombia,NMC111,Hydro,-111.72579954605563,baseline,baseline
+213,Colombia,NMC523,Hydro,-93.77002887820086,baseline,baseline
+214,Colombia,NMC622,Hydro,-158.81020326505129,baseline,baseline
+215,Colombia,NMC811,Hydro,-190.75900340437852,baseline,baseline
+216,Comoros,LFP,Hydro,0.0,baseline,baseline
+217,Comoros,NCA,Hydro,-10349.83862327554,baseline,baseline
+218,Comoros,NMC111,Hydro,-27010.528173054994,baseline,baseline
+219,Comoros,NMC523,Hydro,-23247.972268869078,baseline,baseline
+220,Comoros,NMC622,Hydro,-37985.799270446725,baseline,baseline
+221,Comoros,NMC811,Hydro,-46328.37648163972,baseline,baseline
+222,Congo,LFP,Hydro,0.0,baseline,baseline
+223,Congo,NCA,Hydro,-166.8940165625744,baseline,baseline
+224,Congo,NMC111,Hydro,-2346.148277591106,baseline,baseline
+225,Congo,NMC523,Hydro,-296.46336421297696,baseline,baseline
+226,Congo,NMC622,Hydro,-329.58229434192174,baseline,baseline
+227,Congo,NMC811,Hydro,0.0,baseline,baseline
+228,Costa Rica,LFP,Hydro,0.0,baseline,baseline
+229,Costa Rica,NCA,Hydro,-117.33183276064581,baseline,baseline
+230,Costa Rica,NMC111,Hydro,-303.87500799732413,baseline,baseline
+231,Costa Rica,NMC523,Hydro,-277.25965286280797,baseline,baseline
+232,Costa Rica,NMC622,Hydro,-468.8104958919569,baseline,baseline
+233,Costa Rica,NMC811,Hydro,-578.5346185228074,baseline,baseline
+234,Croatia,LFP,Hydro,-5114.114214516813,baseline,baseline
+235,Croatia,NCA,Hydro,-113.42784516020856,baseline,baseline
+236,Croatia,NMC111,Hydro,-168.39552957206436,baseline,baseline
+237,Croatia,NMC523,Hydro,-155.94365481006352,baseline,baseline
+238,Croatia,NMC622,Hydro,-250.81267714940927,baseline,baseline
+239,Croatia,NMC811,Hydro,-345.3354261148096,baseline,baseline
+240,Cyprus,LFP,Hydro,-6424.502895773363,baseline,baseline
+241,Cyprus,NCA,Hydro,-136.23716139404218,baseline,baseline
+242,Cyprus,NMC111,Hydro,-202.6147764220789,baseline,baseline
+243,Cyprus,NMC523,Hydro,-187.4167503482028,baseline,baseline
+244,Cyprus,NMC622,Hydro,-302.8819210812989,baseline,baseline
+245,Cyprus,NMC811,Hydro,-418.50970240833965,baseline,baseline
+246,Czechia,LFP,Hydro,30.6739929767491,baseline,baseline
+247,Czechia,NCA,Hydro,8.999162420577557,baseline,baseline
+248,Czechia,NMC111,Hydro,8.953888836371156,baseline,baseline
+249,Czechia,NMC523,Hydro,8.30182710164695,baseline,baseline
+250,Czechia,NMC622,Hydro,9.294418996911068,baseline,baseline
+251,Czechia,NMC811,Hydro,9.626853567395086,baseline,baseline
+252,Denmark,LFP,Hydro,-288.00679838226483,baseline,baseline
+253,Denmark,NCA,Hydro,1.2337661885424993,baseline,baseline
+254,Denmark,NMC111,Hydro,-2.2396379894595664,baseline,baseline
+255,Denmark,NMC523,Hydro,-2.0722353745033932,baseline,baseline
+256,Denmark,NMC622,Hydro,-7.024487291547262,baseline,baseline
+257,Denmark,NMC811,Hydro,-12.546638064405725,baseline,baseline
+258,Dominican Rep.,LFP,Hydro,0.0,baseline,baseline
+259,Dominican Rep.,NCA,Hydro,-100.51712062230091,baseline,baseline
+260,Dominican Rep.,NMC111,Hydro,-277.9783728931889,baseline,baseline
+261,Dominican Rep.,NMC523,Hydro,-240.476293152483,baseline,baseline
+262,Dominican Rep.,NMC622,Hydro,-401.991386869943,baseline,baseline
+263,Dominican Rep.,NMC811,Hydro,-484.13778792542956,baseline,baseline
+264,Ecuador,LFP,Hydro,0.0,baseline,baseline
+265,Ecuador,NCA,Hydro,-115.46610704697649,baseline,baseline
+266,Ecuador,NMC111,Hydro,-321.4066074919047,baseline,baseline
+267,Ecuador,NMC523,Hydro,-273.92876640970644,baseline,baseline
+268,Ecuador,NMC622,Hydro,-456.10950391850207,baseline,baseline
+269,Ecuador,NMC811,Hydro,-546.2496019549236,baseline,baseline
+270,Egypt,LFP,Hydro,0.0,baseline,baseline
+271,Egypt,NCA,Hydro,-40.2268122935775,baseline,baseline
+272,Egypt,NMC111,Hydro,-118.94533970657653,baseline,baseline
+273,Egypt,NMC523,Hydro,-101.67574406360914,baseline,baseline
+274,Egypt,NMC622,Hydro,-170.43379939285583,baseline,baseline
+275,Egypt,NMC811,Hydro,-206.0053169092605,baseline,baseline
+276,El Salvador,LFP,Hydro,0.0,baseline,baseline
+277,El Salvador,NCA,Hydro,-29.52229517283771,baseline,baseline
+278,El Salvador,NMC111,Hydro,-1057.0509802999952,baseline,baseline
+279,El Salvador,NMC523,Hydro,-71.25255244053176,baseline,baseline
+280,El Salvador,NMC622,Hydro,-64.66852593870412,baseline,baseline
+281,El Salvador,NMC811,Hydro,0.0,baseline,baseline
+282,Estonia,LFP,Hydro,-4594.170456039072,baseline,baseline
+283,Estonia,NCA,Hydro,-110.47546548339601,baseline,baseline
+284,Estonia,NMC111,Hydro,-162.71490137450868,baseline,baseline
+285,Estonia,NMC523,Hydro,-150.9579400639108,baseline,baseline
+286,Estonia,NMC622,Hydro,-240.4419728391284,baseline,baseline
+287,Estonia,NMC811,Hydro,-328.96225881349153,baseline,baseline
+288,Eswatini,LFP,Hydro,0.0,baseline,baseline
+289,Eswatini,NCA,Hydro,-2218.486430267498,baseline,baseline
+290,Eswatini,NMC111,Hydro,-5510.893581871228,baseline,baseline
+291,Eswatini,NMC523,Hydro,-4933.115463804952,baseline,baseline
+292,Eswatini,NMC622,Hydro,-8192.551175569255,baseline,baseline
+293,Eswatini,NMC811,Hydro,-9897.423712552842,baseline,baseline
+294,Ethiopia,LFP,Hydro,0.0,baseline,baseline
+295,Ethiopia,NCA,Hydro,-151.33626042966267,baseline,baseline
+296,Ethiopia,NMC111,Hydro,-381.71833637420866,baseline,baseline
+297,Ethiopia,NMC523,Hydro,-347.53980483501243,baseline,baseline
+298,Ethiopia,NMC622,Hydro,-582.3385738648792,baseline,baseline
+299,Ethiopia,NMC811,Hydro,-721.4310557813747,baseline,baseline
+300,Fiji,LFP,Hydro,0.0,baseline,baseline
+301,Fiji,NCA,Hydro,-37.828839072672054,baseline,baseline
+302,Fiji,NMC111,Hydro,-1699.805304528593,baseline,baseline
+303,Fiji,NMC523,Hydro,-90.23904550561447,baseline,baseline
+304,Fiji,NMC622,Hydro,-87.70678258766036,baseline,baseline
+305,Fiji,NMC811,Hydro,0.0,baseline,baseline
+306,Finland,LFP,Hydro,-470.1102358639616,baseline,baseline
+307,Finland,NCA,Hydro,-3.558703972367081,baseline,baseline
+308,Finland,NMC111,Hydro,-9.066064085633665,baseline,baseline
+309,Finland,NMC523,Hydro,-8.406952497679937,baseline,baseline
+310,Finland,NMC622,Hydro,-16.940324948577913,baseline,baseline
+311,Finland,NMC811,Hydro,-26.22518478283824,baseline,baseline
+312,France,LFP,Hydro,-241.28989080885256,baseline,baseline
+313,France,NCA,Hydro,2.171170614453786,baseline,baseline
+314,France,NMC111,Hydro,-0.8680159839966161,baseline,baseline
+315,France,NMC523,Hydro,-0.7905602285331248,baseline,baseline
+316,France,NMC622,Hydro,-4.983578993262443,baseline,baseline
+317,France,NMC811,Hydro,-9.79743416306945,baseline,baseline
+318,French Polynesia,LFP,Hydro,0.0,baseline,baseline
+319,French Polynesia,NCA,Hydro,-262.91302415666803,baseline,baseline
+320,French Polynesia,NMC111,Hydro,-677.0450679552926,baseline,baseline
+321,French Polynesia,NMC523,Hydro,-597.0031819644479,baseline,baseline
+322,French Polynesia,NMC622,Hydro,-989.5441877601422,baseline,baseline
+323,French Polynesia,NMC811,Hydro,-1191.7322878669627,baseline,baseline
+324,Georgia,LFP,Hydro,0.0,baseline,baseline
+325,Georgia,NCA,Hydro,-545.646495345938,baseline,baseline
+326,Georgia,NMC111,Hydro,-1377.2397527953847,baseline,baseline
+327,Georgia,NMC523,Hydro,-1186.5416266300297,baseline,baseline
+328,Georgia,NMC622,Hydro,-1893.8213400405457,baseline,baseline
+329,Georgia,NMC811,Hydro,-2241.9389860409533,baseline,baseline
+330,Germany,LFP,Hydro,-163.42066496904567,baseline,baseline
+331,Germany,NCA,Hydro,4.217663152323564,baseline,baseline
+332,Germany,NMC111,Hydro,2.0691004889968023,baseline,baseline
+333,Germany,NMC523,Hydro,1.9208552819251188,baseline,baseline
+334,Germany,NMC622,Hydro,-0.7247882192242859,baseline,baseline
+335,Germany,NMC811,Hydro,-3.9617823881832175,baseline,baseline
+336,Ghana,LFP,Hydro,0.0,baseline,baseline
+337,Ghana,NCA,Hydro,-390.68123187496406,baseline,baseline
+338,Ghana,NMC111,Hydro,-723.0855131354698,baseline,baseline
+339,Ghana,NMC523,Hydro,-124.22469216895662,baseline,baseline
+340,Ghana,NMC622,Hydro,-192.47836678208924,baseline,baseline
+341,Ghana,NMC811,Hydro,-464.8891182220956,baseline,baseline
+342,Greece,LFP,Hydro,-175.06754551549938,baseline,baseline
+343,Greece,NCA,Hydro,3.802851878347658,baseline,baseline
+344,Greece,NMC111,Hydro,1.3753452606649255,baseline,baseline
+345,Greece,NMC523,Hydro,1.2900984800014204,baseline,baseline
+346,Greece,NMC622,Hydro,-1.891345291748788,baseline,baseline
+347,Greece,NMC811,Hydro,-5.676456543573497,baseline,baseline
+348,Greenland,LFP,Hydro,0.0,baseline,baseline
+349,Greenland,NCA,Hydro,-9679.897817936717,baseline,baseline
+350,Greenland,NMC111,Hydro,-19450.10740729436,baseline,baseline
+351,Greenland,NMC523,Hydro,-21907.256841025774,baseline,baseline
+352,Greenland,NMC622,Hydro,-37914.7295107697,baseline,baseline
+353,Greenland,NMC811,Hydro,-47942.61194083665,baseline,baseline
+354,Grenada,LFP,Hydro,0.0,baseline,baseline
+355,Grenada,NCA,Hydro,-1185.2624470331928,baseline,baseline
+356,Grenada,NMC111,Hydro,-3168.8438187721067,baseline,baseline
+357,Grenada,NMC523,Hydro,-2712.322459351356,baseline,baseline
+358,Grenada,NMC622,Hydro,-4473.528032049789,baseline,baseline
+359,Grenada,NMC811,Hydro,-5331.809596844702,baseline,baseline
+360,Guatemala,LFP,Hydro,0.0,baseline,baseline
+361,Guatemala,NCA,Hydro,-56.67479959919443,baseline,baseline
+362,Guatemala,NMC111,Hydro,-161.99968505768695,baseline,baseline
+363,Guatemala,NMC523,Hydro,-140.84114310241,baseline,baseline
+364,Guatemala,NMC622,Hydro,-236.40936420892933,baseline,baseline
+365,Guatemala,NMC811,Hydro,-283.09157864814773,baseline,baseline
+366,Guinea,LFP,Hydro,0.0,baseline,baseline
+367,Guinea,NCA,Hydro,-4186.918722902084,baseline,baseline
+368,Guinea,NMC111,Hydro,-10223.456145483537,baseline,baseline
+369,Guinea,NMC523,Hydro,-12848.544832898191,baseline,baseline
+370,Guinea,NMC622,Hydro,-21000.848946367132,baseline,baseline
+371,Guinea,NMC811,Hydro,-24658.042971513496,baseline,baseline
+372,Guyana,LFP,Hydro,0.0,baseline,baseline
+373,Guyana,NCA,Hydro,-149.58875557998945,baseline,baseline
+374,Guyana,NMC111,Hydro,-411.54551174303145,baseline,baseline
+375,Guyana,NMC523,Hydro,-352.4973622078948,baseline,baseline
+376,Guyana,NMC622,Hydro,-585.5792662153532,baseline,baseline
+377,Guyana,NMC811,Hydro,-692.9774066962108,baseline,baseline
+378,Honduras,LFP,Hydro,0.0,baseline,baseline
+379,Honduras,NCA,Hydro,-254.75013481740822,baseline,baseline
+380,Honduras,NMC111,Hydro,-637.3031685102395,baseline,baseline
+381,Honduras,NMC523,Hydro,-585.5516109261962,baseline,baseline
+382,Honduras,NMC622,Hydro,-992.3834681124191,baseline,baseline
+383,Honduras,NMC811,Hydro,-1262.1105357943977,baseline,baseline
+384,Hungary,LFP,Hydro,-1587.3812910908434,baseline,baseline
+385,Hungary,NCA,Hydro,-28.63561824105162,baseline,baseline
+386,Hungary,NMC111,Hydro,-45.69031932491187,baseline,baseline
+387,Hungary,NMC523,Hydro,-42.28038950227418,baseline,baseline
+388,Hungary,NMC622,Hydro,-71.05333196473688,baseline,baseline
+389,Hungary,NMC811,Hydro,-100.24912893951797,baseline,baseline
+390,Iceland,LFP,Hydro,0.0,baseline,baseline
+391,Iceland,NCA,Hydro,-29.15358811256025,baseline,baseline
+392,Iceland,NMC111,Hydro,-81.47146025409964,baseline,baseline
+393,Iceland,NMC523,Hydro,-70.91799995764985,baseline,baseline
+394,Iceland,NMC622,Hydro,-115.43396403240578,baseline,baseline
+395,Iceland,NMC811,Hydro,-137.5255441775758,baseline,baseline
+396,India,LFP,Hydro,0.0,baseline,baseline
+397,India,NCA,Hydro,3.0977868252115917,baseline,baseline
+398,India,NMC111,Hydro,-11.00189422353368,baseline,baseline
+399,India,NMC523,Hydro,-8.102021619998132,baseline,baseline
+400,India,NMC622,Hydro,-21.972313116869792,baseline,baseline
+401,India,NMC811,Hydro,-29.2594110619792,baseline,baseline
+402,Indonesia,LFP,Hydro,0.0,baseline,baseline
+403,Indonesia,NCA,Hydro,2.639744482254445,baseline,baseline
+404,Indonesia,NMC111,Hydro,-12.625081568422665,baseline,baseline
+405,Indonesia,NMC523,Hydro,-9.419052015655257,baseline,baseline
+406,Indonesia,NMC622,Hydro,-24.54448865708739,baseline,baseline
+407,Indonesia,NMC811,Hydro,-33.217527695465,baseline,baseline
+408,Iran,LFP,Hydro,0.0,baseline,baseline
+409,Iran,NCA,Hydro,-532.904252646806,baseline,baseline
+410,Iran,NMC111,Hydro,-801.7230201001646,baseline,baseline
+411,Iran,NMC523,Hydro,-1965.1366251705447,baseline,baseline
+412,Iran,NMC622,Hydro,-6965.244869600087,baseline,baseline
+413,Iran,NMC811,Hydro,0.0,baseline,baseline
+414,Ireland,LFP,Hydro,-941.4328990819449,baseline,baseline
+415,Ireland,NCA,Hydro,-16.021021346437788,baseline,baseline
+416,Ireland,NMC111,Hydro,-26.993095606178333,baseline,baseline
+417,Ireland,NMC523,Hydro,-25.046617571768287,baseline,baseline
+418,Ireland,NMC622,Hydro,-42.997244620056925,baseline,baseline
+419,Ireland,NMC811,Hydro,-61.28353459145402,baseline,baseline
+420,Israel,LFP,Hydro,0.0,baseline,baseline
+421,Israel,NCA,Hydro,2.528721727467664,baseline,baseline
+422,Israel,NMC111,Hydro,-6.607760467031795,baseline,baseline
+423,Israel,NMC523,Hydro,-5.235891929440255,baseline,baseline
+424,Israel,NMC622,Hydro,-12.372654392432294,baseline,baseline
+425,Israel,NMC811,Hydro,-15.944670156101553,baseline,baseline
+426,Italy,LFP,Hydro,-266.0136956168412,baseline,baseline
+427,Italy,NCA,Hydro,1.5812917712710686,baseline,baseline
+428,Italy,NMC111,Hydro,-1.7572425325915086,baseline,baseline
+429,Italy,NMC523,Hydro,-1.6247388248489332,baseline,baseline
+430,Italy,NMC622,Hydro,-6.357344854363397,baseline,baseline
+431,Italy,NMC811,Hydro,-11.640560708582308,baseline,baseline
+432,Jamaica,LFP,Hydro,0.0,baseline,baseline
+433,Jamaica,NCA,Hydro,-189.66253669577063,baseline,baseline
+434,Jamaica,NMC111,Hydro,-2031.6653945469127,baseline,baseline
+435,Jamaica,NMC523,Hydro,-319.1030094183753,baseline,baseline
+436,Jamaica,NMC622,Hydro,-230.12437437148392,baseline,baseline
+437,Jamaica,NMC811,Hydro,-318.3235192889014,baseline,baseline
+438,Japan,LFP,Hydro,0.0,baseline,baseline
+439,Japan,NCA,Hydro,2.5559693080242516,baseline,baseline
+440,Japan,NMC111,Hydro,-8.936177905982094,baseline,baseline
+441,Japan,NMC523,Hydro,-6.73841961715629,baseline,baseline
+442,Japan,NMC622,Hydro,-16.823897626160743,baseline,baseline
+443,Japan,NMC811,Hydro,-22.61076508418792,baseline,baseline
+444,Jordan,LFP,Hydro,0.0,baseline,baseline
+445,Jordan,NCA,Hydro,-88.24795306758422,baseline,baseline
+446,Jordan,NMC111,Hydro,-218.2905736243577,baseline,baseline
+447,Jordan,NMC523,Hydro,-197.47793800057116,baseline,baseline
+448,Jordan,NMC622,Hydro,-324.9775478285976,baseline,baseline
+449,Jordan,NMC811,Hydro,-398.0545388432506,baseline,baseline
+450,Kazakhstan,LFP,Hydro,0.0,baseline,baseline
+451,Kazakhstan,NCA,Hydro,-54.46367795196602,baseline,baseline
+452,Kazakhstan,NMC111,Hydro,-139.7625061816988,baseline,baseline
+453,Kazakhstan,NMC523,Hydro,-132.36116977905675,baseline,baseline
+454,Kazakhstan,NMC622,Hydro,-225.7604470400137,baseline,baseline
+455,Kazakhstan,NMC811,Hydro,-284.88828710221975,baseline,baseline
+456,Kenya,LFP,Hydro,0.0,baseline,baseline
+457,Kenya,NCA,Hydro,-28.11389778012108,baseline,baseline
+458,Kenya,NMC111,Hydro,-87.31668082706474,baseline,baseline
+459,Kenya,NMC523,Hydro,-74.49469561103653,baseline,baseline
+460,Kenya,NMC622,Hydro,-126.03199627498039,baseline,baseline
+461,Kenya,NMC811,Hydro,-150.64825006001,baseline,baseline
+462,Kiribati,LFP,Hydro,0.0,baseline,baseline
+463,Kiribati,NCA,Hydro,-8410.052999877038,baseline,baseline
+464,Kiribati,NMC111,Hydro,-20861.547761005473,baseline,baseline
+465,Kiribati,NMC523,Hydro,-19476.350381044434,baseline,baseline
+466,Kiribati,NMC622,Hydro,-31936.87239581149,baseline,baseline
+467,Kiribati,NMC811,Hydro,-38052.98292992768,baseline,baseline
+468,Korea,LFP,Hydro,0.0,baseline,baseline
+469,Korea,NCA,Hydro,6.50260290774685,baseline,baseline
+470,Korea,NMC111,Hydro,2.6987361455425285,baseline,baseline
+471,Korea,NMC523,Hydro,2.9430066966812016,baseline,baseline
+472,Korea,NMC622,Hydro,0.07509365976292981,baseline,baseline
+473,Korea,NMC811,Hydro,-1.731796060536408,baseline,baseline
+474,Kuwait,LFP,Hydro,0.0,baseline,baseline
+475,Kuwait,NCA,Hydro,-478.221265571314,baseline,baseline
+476,Kuwait,NMC111,Hydro,-759.8794733653073,baseline,baseline
+477,Kuwait,NMC523,Hydro,-937.3285419250714,baseline,baseline
+478,Kuwait,NMC622,Hydro,-389.20951770281215,baseline,baseline
+479,Kuwait,NMC811,Hydro,-147.53181465818156,baseline,baseline
+480,Kyrgyzstan,LFP,Hydro,0.0,baseline,baseline
+481,Kyrgyzstan,NCA,Hydro,-1759.3560722928025,baseline,baseline
+482,Kyrgyzstan,NMC111,Hydro,-2642.3827248237208,baseline,baseline
+483,Kyrgyzstan,NMC523,Hydro,-4075.708770101564,baseline,baseline
+484,Kyrgyzstan,NMC622,Hydro,-7840.669892966307,baseline,baseline
+485,Kyrgyzstan,NMC811,Hydro,-233.73033117987686,baseline,baseline
+486,Lao People's Dem. Rep.,LFP,Hydro,0.0,baseline,baseline
+487,Lao People's Dem. Rep.,NCA,Hydro,-130.7296037691647,baseline,baseline
+488,Lao People's Dem. Rep.,NMC111,Hydro,-488.31480903360125,baseline,baseline
+489,Lao People's Dem. Rep.,NMC523,Hydro,-399.294112892035,baseline,baseline
+490,Lao People's Dem. Rep.,NMC622,Hydro,-772.4529742249214,baseline,baseline
+491,Lao People's Dem. Rep.,NMC811,Hydro,-956.8246436856452,baseline,baseline
+492,Latvia,LFP,Hydro,-4255.110940673552,baseline,baseline
+493,Latvia,NCA,Hydro,-101.77607935790184,baseline,baseline
+494,Latvia,NMC111,Hydro,-150.20866570084655,baseline,baseline
+495,Latvia,NMC523,Hydro,-139.35677663157105,baseline,baseline
+496,Latvia,NMC622,Hydro,-222.23736898457625,baseline,baseline
+497,Latvia,NMC811,Hydro,-304.26343990164185,baseline,baseline
+498,Lebanon,LFP,Hydro,0.0,baseline,baseline
+499,Lebanon,NCA,Hydro,-54.85224022946474,baseline,baseline
+500,Lebanon,NMC111,Hydro,-149.40805192128835,baseline,baseline
+501,Lebanon,NMC523,Hydro,-128.93113063267808,baseline,baseline
+502,Lebanon,NMC622,Hydro,-209.58961485783732,baseline,baseline
+503,Lebanon,NMC811,Hydro,-245.7222755617553,baseline,baseline
+504,Lesotho,LFP,Hydro,0.0,baseline,baseline
+505,Lesotho,NCA,Hydro,-581.5077338516663,baseline,baseline
+506,Lesotho,NMC111,Hydro,-1521.3376115152905,baseline,baseline
+507,Lesotho,NMC523,Hydro,-1316.0216797759947,baseline,baseline
+508,Lesotho,NMC622,Hydro,-2157.1631952312173,baseline,baseline
+509,Lesotho,NMC811,Hydro,-2588.400801084952,baseline,baseline
+510,Lithuania,LFP,Hydro,-3064.055372012527,baseline,baseline
+511,Lithuania,NCA,Hydro,-70.90101314829488,baseline,baseline
+512,Lithuania,NMC111,Hydro,-105.87289555712854,baseline,baseline
+513,Lithuania,NMC523,Hydro,-98.22162427948146,baseline,baseline
+514,Lithuania,NMC622,Hydro,-157.7799339314502,baseline,baseline
+515,Lithuania,NMC811,Hydro,-216.9092277392416,baseline,baseline
+516,Luxembourg,LFP,Hydro,-2985.7046544913082,baseline,baseline
+517,Luxembourg,NCA,Hydro,-69.23426606085428,baseline,baseline
+518,Luxembourg,NMC111,Hydro,-103.37624621151929,baseline,baseline
+519,Luxembourg,NMC523,Hydro,-95.92348156916877,baseline,baseline
+520,Luxembourg,NMC622,Hydro,-154.0086946611847,baseline,baseline
+521,Luxembourg,NMC811,Hydro,-211.7047579436792,baseline,baseline
+522,Madagascar,LFP,Hydro,0.0,baseline,baseline
+523,Madagascar,NCA,Hydro,-309.9263034507927,baseline,baseline
+524,Madagascar,NMC111,Hydro,-805.6030260607522,baseline,baseline
+525,Madagascar,NMC523,Hydro,-703.1252438618245,baseline,baseline
+526,Madagascar,NMC622,Hydro,-1160.758720024668,baseline,baseline
+527,Madagascar,NMC811,Hydro,-1403.675084740448,baseline,baseline
+528,Malawi,LFP,Hydro,0.0,baseline,baseline
+529,Malawi,NCA,Hydro,-100.4640204515267,baseline,baseline
+530,Malawi,NMC111,Hydro,-267.9569001332066,baseline,baseline
+531,Malawi,NMC523,Hydro,-235.16426951164956,baseline,baseline
+532,Malawi,NMC622,Hydro,-392.12906535761294,baseline,baseline
+533,Malawi,NMC811,Hydro,-476.2788131082187,baseline,baseline
+534,Malaysia,LFP,Hydro,0.0,baseline,baseline
+535,Malaysia,NCA,Hydro,-4179.958678212799,baseline,baseline
+536,Malaysia,NMC111,Hydro,-10786.104975768587,baseline,baseline
+537,Malaysia,NMC523,Hydro,-14793.990915227922,baseline,baseline
+538,Malaysia,NMC622,Hydro,-30528.38898313492,baseline,baseline
+539,Malaysia,NMC811,Hydro,-37715.86382729129,baseline,baseline
+540,Maldives,LFP,Hydro,0.0,baseline,baseline
+541,Maldives,NCA,Hydro,-1988.4089474159327,baseline,baseline
+542,Maldives,NMC111,Hydro,-6502.322686400301,baseline,baseline
+543,Maldives,NMC523,Hydro,-5760.929524669078,baseline,baseline
+544,Maldives,NMC622,Hydro,-11205.373710574093,baseline,baseline
+545,Maldives,NMC811,Hydro,-14217.124270749888,baseline,baseline
+546,Mali,LFP,Hydro,0.0,baseline,baseline
+547,Mali,NCA,Hydro,-788.9867211248699,baseline,baseline
+548,Mali,NMC111,Hydro,-2007.4091662692385,baseline,baseline
+549,Mali,NMC523,Hydro,-1766.62299796403,baseline,baseline
+550,Mali,NMC622,Hydro,-2920.5655879066667,baseline,baseline
+551,Mali,NMC811,Hydro,-3577.573003803469,baseline,baseline
+552,Malta,LFP,Hydro,-8656.953242611826,baseline,baseline
+553,Malta,NCA,Hydro,-197.96731818719428,baseline,baseline
+554,Malta,NMC111,Hydro,-290.7815694764384,baseline,baseline
+555,Malta,NMC523,Hydro,-269.31153235793596,baseline,baseline
+556,Malta,NMC622,Hydro,-430.32661422189136,baseline,baseline
+557,Malta,NMC811,Hydro,-590.432279463255,baseline,baseline
+558,Mauritania,LFP,Hydro,0.0,baseline,baseline
+559,Mauritania,NCA,Hydro,-959.1649860751677,baseline,baseline
+560,Mauritania,NMC111,Hydro,-2675.127919209673,baseline,baseline
+561,Mauritania,NMC523,Hydro,-2198.9621543783715,baseline,baseline
+562,Mauritania,NMC622,Hydro,-3519.50442438409,baseline,baseline
+563,Mauritania,NMC811,Hydro,-9191.075926371876,baseline,baseline
+564,Mauritius,LFP,Hydro,0.0,baseline,baseline
+565,Mauritius,NCA,Hydro,-205.20667087738337,baseline,baseline
+566,Mauritius,NMC111,Hydro,-544.5634811527756,baseline,baseline
+567,Mauritius,NMC523,Hydro,-470.7111851997184,baseline,baseline
+568,Mauritius,NMC622,Hydro,-775.5655628154949,baseline,baseline
+569,Mauritius,NMC811,Hydro,-925.8645741796612,baseline,baseline
+570,Mexico,LFP,Hydro,0.0,baseline,baseline
+571,Mexico,NCA,Hydro,-11.714981631373535,baseline,baseline
+572,Mexico,NMC111,Hydro,-45.42626764143596,baseline,baseline
+573,Mexico,NMC523,Hydro,-38.39141043580351,baseline,baseline
+574,Mexico,NMC622,Hydro,-67.72087027869667,baseline,baseline
+575,Mexico,NMC811,Hydro,-81.41211424546057,baseline,baseline
+576,Mongolia,LFP,Hydro,0.0,baseline,baseline
+577,Mongolia,NCA,Hydro,-599.7073561123887,baseline,baseline
+578,Mongolia,NMC111,Hydro,-1825.6826587276887,baseline,baseline
+579,Mongolia,NMC523,Hydro,-1594.0668522706806,baseline,baseline
+580,Mongolia,NMC622,Hydro,-2902.528375982481,baseline,baseline
+581,Mongolia,NMC811,Hydro,-3593.217064900759,baseline,baseline
+582,Montenegro,LFP,Hydro,0.0,baseline,baseline
+583,Montenegro,NCA,Hydro,-586.4861457217788,baseline,baseline
+584,Montenegro,NMC111,Hydro,-1434.9894345728328,baseline,baseline
+585,Montenegro,NMC523,Hydro,-1254.9774446281588,baseline,baseline
+586,Montenegro,NMC622,Hydro,-1995.0814611815774,baseline,baseline
+587,Montenegro,NMC811,Hydro,-2349.7051391944437,baseline,baseline
+588,Morocco,LFP,Hydro,0.0,baseline,baseline
+589,Morocco,NCA,Hydro,-104.19687227226562,baseline,baseline
+590,Morocco,NMC111,Hydro,-281.7931915745412,baseline,baseline
+591,Morocco,NMC523,Hydro,-244.4498843005019,baseline,baseline
+592,Morocco,NMC622,Hydro,-405.397667200269,baseline,baseline
+593,Morocco,NMC811,Hydro,-490.48602482429015,baseline,baseline
+594,Mozambique,LFP,Hydro,0.0,baseline,baseline
+595,Mozambique,NCA,Hydro,-569.477853081562,baseline,baseline
+596,Mozambique,NMC111,Hydro,-1076.6671267835231,baseline,baseline
+597,Mozambique,NMC523,Hydro,-1190.51096237689,baseline,baseline
+598,Mozambique,NMC622,Hydro,-2148.119817065324,baseline,baseline
+599,Mozambique,NMC811,Hydro,-3431.5997627738047,baseline,baseline
+600,Myanmar,LFP,Hydro,0.0,baseline,baseline
+601,Myanmar,NCA,Hydro,-95.96365953291361,baseline,baseline
+602,Myanmar,NMC111,Hydro,-363.7568685370018,baseline,baseline
+603,Myanmar,NMC523,Hydro,-297.51566192110363,baseline,baseline
+604,Myanmar,NMC622,Hydro,-577.5101162707953,baseline,baseline
+605,Myanmar,NMC811,Hydro,-723.4824223543669,baseline,baseline
+606,Namibia,LFP,Hydro,0.0,baseline,baseline
+607,Namibia,NCA,Hydro,-200.54134642940775,baseline,baseline
+608,Namibia,NMC111,Hydro,-528.9537098262742,baseline,baseline
+609,Namibia,NMC523,Hydro,-460.36178248692977,baseline,baseline
+610,Namibia,NMC622,Hydro,-759.6229723829551,baseline,baseline
+611,Namibia,NMC811,Hydro,-908.7525166251522,baseline,baseline
+612,Nepal,LFP,Hydro,0.0,baseline,baseline
+613,Nepal,NCA,Hydro,-662.2600668450854,baseline,baseline
+614,Nepal,NMC111,Hydro,-2102.717809548869,baseline,baseline
+615,Nepal,NMC523,Hydro,-1906.9278261929537,baseline,baseline
+616,Nepal,NMC622,Hydro,-3802.7484408875516,baseline,baseline
+617,Nepal,NMC811,Hydro,-5168.353764689151,baseline,baseline
+618,Netherlands,LFP,Hydro,-650.8091286710606,baseline,baseline
+619,Netherlands,NCA,Hydro,-8.123963392873442,baseline,baseline
+620,Netherlands,NMC111,Hydro,-15.786194924099409,baseline,baseline
+621,Netherlands,NMC523,Hydro,-14.25874568083002,baseline,baseline
+622,Netherlands,NMC622,Hydro,-26.06418887062792,baseline,baseline
+623,Netherlands,NMC811,Hydro,-38.94306200346981,baseline,baseline
+624,New Caledonia,LFP,Hydro,0.0,baseline,baseline
+625,New Caledonia,NCA,Hydro,-20355.205961948588,baseline,baseline
+626,New Caledonia,NMC111,Hydro,-32746.80275577481,baseline,baseline
+627,New Caledonia,NMC523,Hydro,0.0,baseline,baseline
+628,New Caledonia,NMC622,Hydro,0.0,baseline,baseline
+629,New Caledonia,NMC811,Hydro,0.0,baseline,baseline
+630,New Zealand,LFP,Hydro,0.0,baseline,baseline
+631,New Zealand,NCA,Hydro,-6.072172852091346,baseline,baseline
+632,New Zealand,NMC111,Hydro,-27.791769387491225,baseline,baseline
+633,New Zealand,NMC523,Hydro,-23.661813050339312,baseline,baseline
+634,New Zealand,NMC622,Hydro,-41.77556935734374,baseline,baseline
+635,New Zealand,NMC811,Hydro,-50.64212612196658,baseline,baseline
+636,Nicaragua,LFP,Hydro,0.0,baseline,baseline
+637,Nicaragua,NCA,Hydro,-137.67456384994827,baseline,baseline
+638,Nicaragua,NMC111,Hydro,-379.46379914825684,baseline,baseline
+639,Nicaragua,NMC523,Hydro,-324.8219779184562,baseline,baseline
+640,Nicaragua,NMC622,Hydro,-540.3838192997144,baseline,baseline
+641,Nicaragua,NMC811,Hydro,-649.1212735493364,baseline,baseline
+642,Niger,LFP,Hydro,0.0,baseline,baseline
+643,Niger,NCA,Hydro,-331.0482253645696,baseline,baseline
+644,Niger,NMC111,Hydro,-869.9924533100105,baseline,baseline
+645,Niger,NMC523,Hydro,-753.5500103704162,baseline,baseline
+646,Niger,NMC622,Hydro,-1238.1059744403424,baseline,baseline
+647,Niger,NMC811,Hydro,-1488.6192832132392,baseline,baseline
+648,Nigeria,LFP,Hydro,0.0,baseline,baseline
+649,Nigeria,NCA,Hydro,-8.5087599884287,baseline,baseline
+650,Nigeria,NMC111,Hydro,-35.99924327743741,baseline,baseline
+651,Nigeria,NMC523,Hydro,-30.502965596399306,baseline,baseline
+652,Nigeria,NMC622,Hydro,-54.207477175310764,baseline,baseline
+653,Nigeria,NMC811,Hydro,-65.95006347407862,baseline,baseline
+654,North Macedonia,LFP,Hydro,0.0,baseline,baseline
+655,North Macedonia,NCA,Hydro,-309.32735303662514,baseline,baseline
+656,North Macedonia,NMC111,Hydro,-711.1048414149251,baseline,baseline
+657,North Macedonia,NMC523,Hydro,-659.3183457915754,baseline,baseline
+658,North Macedonia,NMC622,Hydro,-1071.0546342957848,baseline,baseline
+659,North Macedonia,NMC811,Hydro,-1291.0754696748625,baseline,baseline
+660,Norway,LFP,Hydro,0.0,baseline,baseline
+661,Norway,NCA,Hydro,1.8837015861615825,baseline,baseline
+662,Norway,NMC111,Hydro,-7.179435896750955,baseline,baseline
+663,Norway,NMC523,Hydro,-5.717690030181392,baseline,baseline
+664,Norway,NMC622,Hydro,-12.636236691507621,baseline,baseline
+665,Norway,NMC811,Hydro,-16.769084127001264,baseline,baseline
+666,Oman,LFP,Hydro,0.0,baseline,baseline
+667,Oman,NCA,Hydro,-140.68014172501353,baseline,baseline
+668,Oman,NMC111,Hydro,-363.8966689466424,baseline,baseline
+669,Oman,NMC523,Hydro,-313.11535837388533,baseline,baseline
+670,Oman,NMC622,Hydro,-503.3405945588051,baseline,baseline
+671,Oman,NMC811,Hydro,-591.8437609920923,baseline,baseline
+672,Pakistan,LFP,Hydro,0.0,baseline,baseline
+673,Pakistan,NCA,Hydro,-15.005248344959906,baseline,baseline
+674,Pakistan,NMC111,Hydro,-75.55503437494265,baseline,baseline
+675,Pakistan,NMC523,Hydro,-60.962284474975924,baseline,baseline
+676,Pakistan,NMC622,Hydro,-123.34566957063983,baseline,baseline
+677,Pakistan,NMC811,Hydro,-155.1295863851842,baseline,baseline
+678,Palau,LFP,Hydro,0.0,baseline,baseline
+679,Palau,NCA,Hydro,-6985.39701496228,baseline,baseline
+680,Palau,NMC111,Hydro,-17314.024989257203,baseline,baseline
+681,Palau,NMC523,Hydro,-16224.712050014397,baseline,baseline
+682,Palau,NMC622,Hydro,-26741.66392397949,baseline,baseline
+683,Palau,NMC811,Hydro,-31422.20808973093,baseline,baseline
+684,Panama,LFP,Hydro,0.0,baseline,baseline
+685,Panama,NCA,Hydro,-27.962983094496792,baseline,baseline
+686,Panama,NMC111,Hydro,-1078.422570798455,baseline,baseline
+687,Panama,NMC523,Hydro,-88.12810771495707,baseline,baseline
+688,Panama,NMC622,Hydro,-87.86373702027878,baseline,baseline
+689,Panama,NMC811,Hydro,0.0,baseline,baseline
+690,Papua New Guinea,LFP,Hydro,0.0,baseline,baseline
+691,Papua New Guinea,NCA,Hydro,0.0,baseline,baseline
+692,Papua New Guinea,NMC111,Hydro,0.0,baseline,baseline
+693,Papua New Guinea,NMC523,Hydro,0.0,baseline,baseline
+694,Papua New Guinea,NMC622,Hydro,0.0,baseline,baseline
+695,Papua New Guinea,NMC811,Hydro,0.0,baseline,baseline
+696,Paraguay,LFP,Hydro,0.0,baseline,baseline
+697,Paraguay,NCA,Hydro,-185.1582384297968,baseline,baseline
+698,Paraguay,NMC111,Hydro,-503.0205574351234,baseline,baseline
+699,Paraguay,NMC523,Hydro,-431.783272974713,baseline,baseline
+700,Paraguay,NMC622,Hydro,-718.1903303300014,baseline,baseline
+701,Paraguay,NMC811,Hydro,-863.5288371535393,baseline,baseline
+702,Peru,LFP,Hydro,0.0,baseline,baseline
+703,Peru,NCA,Hydro,-39.77357380393638,baseline,baseline
+704,Peru,NMC111,Hydro,-114.83317132813328,baseline,baseline
+705,Peru,NMC523,Hydro,-101.50264310206722,baseline,baseline
+706,Peru,NMC622,Hydro,-173.88998040919878,baseline,baseline
+707,Peru,NMC811,Hydro,-215.4532842826196,baseline,baseline
+708,Philippines,LFP,Hydro,0.0,baseline,baseline
+709,Philippines,NCA,Hydro,3.186381360447754,baseline,baseline
+710,Philippines,NMC111,Hydro,-10.680834236492354,baseline,baseline
+711,Philippines,NMC523,Hydro,-7.858319023651122,baseline,baseline
+712,Philippines,NMC622,Hydro,-21.52077930235913,baseline,baseline
+713,Philippines,NMC811,Hydro,-28.765541745702144,baseline,baseline
+714,Poland,LFP,Hydro,-156.37503992352342,baseline,baseline
+715,Poland,NCA,Hydro,4.627687424328225,baseline,baseline
+716,Poland,NMC111,Hydro,2.5623614999029796,baseline,baseline
+717,Poland,NMC523,Hydro,2.391524078482445,baseline,baseline
+718,Poland,NMC622,Hydro,-0.16715993730082868,baseline,baseline
+719,Poland,NMC811,Hydro,-3.353383585654909,baseline,baseline
+720,Portugal,LFP,Hydro,-287.25775438280465,baseline,baseline
+721,Portugal,NCA,Hydro,1.6068833124798498,baseline,baseline
+722,Portugal,NMC111,Hydro,-1.766583129724654,baseline,baseline
+723,Portugal,NMC523,Hydro,-1.62529601563863,baseline,baseline
+724,Portugal,NMC622,Hydro,-6.477148684146991,baseline,baseline
+725,Portugal,NMC811,Hydro,-12.021225304513504,baseline,baseline
+726,Qatar,LFP,Hydro,0.0,baseline,baseline
+727,Qatar,NCA,Hydro,-350.8547136149459,baseline,baseline
+728,Qatar,NMC111,Hydro,-912.6236678957441,baseline,baseline
+729,Qatar,NMC523,Hydro,-115.91019090776393,baseline,baseline
+730,Qatar,NMC622,Hydro,-120.50688451878118,baseline,baseline
+731,Qatar,NMC811,Hydro,0.0,baseline,baseline
+732,Rep. of Moldova,LFP,Hydro,0.0,baseline,baseline
+733,Rep. of Moldova,NCA,Hydro,-245.00753208913008,baseline,baseline
+734,Rep. of Moldova,NMC111,Hydro,-649.7050433689287,baseline,baseline
+735,Rep. of Moldova,NMC523,Hydro,-556.2301979451769,baseline,baseline
+736,Rep. of Moldova,NMC622,Hydro,-907.1241454704082,baseline,baseline
+737,Rep. of Moldova,NMC811,Hydro,-1069.4041356079738,baseline,baseline
+738,Romania,LFP,Hydro,-4863.058422985898,baseline,baseline
+739,Romania,NCA,Hydro,-102.81652826114541,baseline,baseline
+740,Romania,NMC111,Hydro,-153.65938386877323,baseline,baseline
+741,Romania,NMC523,Hydro,-142.16564706759746,baseline,baseline
+742,Romania,NMC622,Hydro,-230.13874717250332,baseline,baseline
+743,Romania,NMC811,Hydro,-318.17910727747096,baseline,baseline
+744,Russian Federation,LFP,Hydro,0.0,baseline,baseline
+745,Russian Federation,NCA,Hydro,-1.1264962286184126,baseline,baseline
+746,Russian Federation,NMC111,Hydro,-26.936148279955944,baseline,baseline
+747,Russian Federation,NMC523,Hydro,-20.172021223577275,baseline,baseline
+748,Russian Federation,NMC622,Hydro,-45.08049221590235,baseline,baseline
+749,Russian Federation,NMC811,Hydro,-58.89548486772447,baseline,baseline
+750,Rwanda,LFP,Hydro,0.0,baseline,baseline
+751,Rwanda,NCA,Hydro,-729.4581862276546,baseline,baseline
+752,Rwanda,NMC111,Hydro,-1793.4790151808158,baseline,baseline
+753,Rwanda,NMC523,Hydro,-1598.0044253892852,baseline,baseline
+754,Rwanda,NMC622,Hydro,-2607.2266133639146,baseline,baseline
+755,Rwanda,NMC811,Hydro,0.0,baseline,baseline
+756,Saint Lucia,LFP,Hydro,0.0,baseline,baseline
+757,Saint Lucia,NCA,Hydro,-2308.6950662325003,baseline,baseline
+758,Saint Lucia,NMC111,Hydro,-5606.43452688547,baseline,baseline
+759,Saint Lucia,NMC523,Hydro,-5147.3601941970755,baseline,baseline
+760,Saint Lucia,NMC622,Hydro,-8744.188572871595,baseline,baseline
+761,Saint Lucia,NMC811,Hydro,-10975.640242664653,baseline,baseline
+762,Samoa,LFP,Hydro,0.0,baseline,baseline
+763,Samoa,NCA,Hydro,-9062.69251722172,baseline,baseline
+764,Samoa,NMC111,Hydro,-23369.7507558728,baseline,baseline
+765,Samoa,NMC523,Hydro,-20291.782679944605,baseline,baseline
+766,Samoa,NMC622,Hydro,-33281.63752914655,baseline,baseline
+767,Samoa,NMC811,Hydro,-39921.40246853059,baseline,baseline
+768,Saudi Arabia,LFP,Hydro,0.0,baseline,baseline
+769,Saudi Arabia,NCA,Hydro,-18.404191581651062,baseline,baseline
+770,Saudi Arabia,NMC111,Hydro,-57.0383260561199,baseline,baseline
+771,Saudi Arabia,NMC523,Hydro,-50.15716355699573,baseline,baseline
+772,Saudi Arabia,NMC622,Hydro,-84.6263159331005,baseline,baseline
+773,Saudi Arabia,NMC811,Hydro,-103.49554070324668,baseline,baseline
+774,Senegal,LFP,Hydro,0.0,baseline,baseline
+775,Senegal,NCA,Hydro,-88.77397057898487,baseline,baseline
+776,Senegal,NMC111,Hydro,-245.64270455760197,baseline,baseline
+777,Senegal,NMC523,Hydro,-210.70882129516923,baseline,baseline
+778,Senegal,NMC622,Hydro,-348.49974348108356,baseline,baseline
+779,Senegal,NMC811,Hydro,-411.2871998926405,baseline,baseline
+780,Serbia,LFP,Hydro,0.0,baseline,baseline
+781,Serbia,NCA,Hydro,-94.72819518583952,baseline,baseline
+782,Serbia,NMC111,Hydro,-251.26434901653792,baseline,baseline
+783,Serbia,NMC523,Hydro,-211.20311797379244,baseline,baseline
+784,Serbia,NMC622,Hydro,-340.27310465418765,baseline,baseline
+785,Serbia,NMC811,Hydro,-399.9472929283338,baseline,baseline
+786,Seychelles,LFP,Hydro,0.0,baseline,baseline
+787,Seychelles,NCA,Hydro,-1033.2097397810617,baseline,baseline
+788,Seychelles,NMC111,Hydro,-2676.121380514982,baseline,baseline
+789,Seychelles,NMC523,Hydro,-2322.6778335720014,baseline,baseline
+790,Seychelles,NMC622,Hydro,-3814.0524562772434,baseline,baseline
+791,Seychelles,NMC811,Hydro,-4504.244403271116,baseline,baseline
+792,Sierra Leone,LFP,Hydro,0.0,baseline,baseline
+793,Sierra Leone,NCA,Hydro,-1716.85913083233,baseline,baseline
+794,Sierra Leone,NMC111,Hydro,-4177.2101047481965,baseline,baseline
+795,Sierra Leone,NMC523,Hydro,-3788.7971723627334,baseline,baseline
+796,Sierra Leone,NMC622,Hydro,-6346.18201543028,baseline,baseline
+797,Sierra Leone,NMC811,Hydro,-7767.511899804769,baseline,baseline
+798,Singapore,LFP,Hydro,0.0,baseline,baseline
+799,Singapore,NCA,Hydro,0.0,baseline,baseline
+800,Singapore,NMC111,Hydro,0.0,baseline,baseline
+801,Singapore,NMC523,Hydro,0.0,baseline,baseline
+802,Singapore,NMC622,Hydro,0.0,baseline,baseline
+803,Singapore,NMC811,Hydro,0.0,baseline,baseline
+804,Slovakia,LFP,Hydro,27.83926802480539,baseline,baseline
+805,Slovakia,NCA,Hydro,8.921170993702995,baseline,baseline
+806,Slovakia,NMC111,Hydro,8.84215971551103,baseline,baseline
+807,Slovakia,NMC523,Hydro,8.198111769284797,baseline,baseline
+808,Slovakia,NMC622,Hydro,9.132734358944186,baseline,baseline
+809,Slovakia,NMC811,Hydro,9.408982302983693,baseline,baseline
+810,Slovenia,LFP,Hydro,-3598.9947803729187,baseline,baseline
+811,Slovenia,NCA,Hydro,-77.48710912402036,baseline,baseline
+812,Slovenia,NMC111,Hydro,-116.31478014076042,baseline,baseline
+813,Slovenia,NMC523,Hydro,-107.71923913254703,baseline,baseline
+814,Slovenia,NMC622,Hydro,-174.45616081757737,baseline,baseline
+815,Slovenia,NMC811,Hydro,-241.17953592427023,baseline,baseline
+816,Solomon Isds,LFP,Hydro,0.0,baseline,baseline
+817,Solomon Isds,NCA,Hydro,-7891.947749247164,baseline,baseline
+818,Solomon Isds,NMC111,Hydro,-17571.765550434655,baseline,baseline
+819,Solomon Isds,NMC523,Hydro,-18028.53002229448,baseline,baseline
+820,Solomon Isds,NMC622,Hydro,-30274.707073258756,baseline,baseline
+821,Solomon Isds,NMC811,Hydro,-37770.232192675954,baseline,baseline
+822,South Africa,LFP,Hydro,0.0,baseline,baseline
+823,South Africa,NCA,Hydro,-303.09648204955636,baseline,baseline
+824,South Africa,NMC111,Hydro,-816.6380078981074,baseline,baseline
+825,South Africa,NMC523,Hydro,-688.1442008224664,baseline,baseline
+826,South Africa,NMC622,Hydro,-1126.5396223593916,baseline,baseline
+827,South Africa,NMC811,Hydro,-1333.7843538996483,baseline,baseline
+828,Spain,LFP,Hydro,-120.74804617817045,baseline,baseline
+829,Spain,NCA,Hydro,5.4302643590676745,baseline,baseline
+830,Spain,NMC111,Hydro,3.776541428243842,baseline,baseline
+831,Spain,NMC523,Hydro,3.508699716580763,baseline,baseline
+832,Spain,NMC622,Hydro,1.6820516997520232,baseline,baseline
+833,Spain,NMC811,Hydro,-0.7855975747649118,baseline,baseline
+834,Sri Lanka,LFP,Hydro,0.0,baseline,baseline
+835,Sri Lanka,NCA,Hydro,-15.334152211279708,baseline,baseline
+836,Sri Lanka,NMC111,Hydro,-76.7043868107506,baseline,baseline
+837,Sri Lanka,NMC523,Hydro,-61.94523600264835,baseline,baseline
+838,Sri Lanka,NMC622,Hydro,-125.2189327452845,baseline,baseline
+839,Sri Lanka,NMC811,Hydro,-156.83244652015335,baseline,baseline
+840,State of Palestine,LFP,Hydro,0.0,baseline,baseline
+841,State of Palestine,NCA,Hydro,-1174.3957635975812,baseline,baseline
+842,State of Palestine,NMC111,Hydro,-2752.2357255746015,baseline,baseline
+843,State of Palestine,NMC523,Hydro,-2518.3544572925252,baseline,baseline
+844,State of Palestine,NMC622,Hydro,-4081.716335377442,baseline,baseline
+845,State of Palestine,NMC811,Hydro,-4931.874939315045,baseline,baseline
+846,Sudan,LFP,Hydro,0.0,baseline,baseline
+847,Sudan,NCA,Hydro,-3069.9550460144187,baseline,baseline
+848,Sudan,NMC111,Hydro,-7182.322777796189,baseline,baseline
+849,Sudan,NMC523,Hydro,-8568.828781777493,baseline,baseline
+850,Sudan,NMC622,Hydro,-14228.387557844171,baseline,baseline
+851,Sudan,NMC811,Hydro,-17201.22109331377,baseline,baseline
+852,Sweden,LFP,Hydro,-195.34751539280592,baseline,baseline
+853,Sweden,NCA,Hydro,2.9007718023099858,baseline,baseline
+854,Sweden,NMC111,Hydro,0.3947811265929411,baseline,baseline
+855,Sweden,NMC523,Hydro,0.3469733236383566,baseline,baseline
+856,Sweden,NMC622,Hydro,-2.91198510700518,baseline,baseline
+857,Sweden,NMC811,Hydro,-6.88057037158654,baseline,baseline
+858,Switzerland,LFP,Hydro,0.0,baseline,baseline
+859,Switzerland,NCA,Hydro,2.122900062506792,baseline,baseline
+860,Switzerland,NMC111,Hydro,-6.431003307616852,baseline,baseline
+861,Switzerland,NMC523,Hydro,-5.190502439400215,baseline,baseline
+862,Switzerland,NMC622,Hydro,-11.580130257687765,baseline,baseline
+863,Switzerland,NMC811,Hydro,-14.844077909495331,baseline,baseline
+864,Tajikistan,LFP,Hydro,0.0,baseline,baseline
+865,Tajikistan,NCA,Hydro,-869.9995147652287,baseline,baseline
+866,Tajikistan,NMC111,Hydro,-2207.502839802775,baseline,baseline
+867,Tajikistan,NMC523,Hydro,-1946.1478305692408,baseline,baseline
+868,Tajikistan,NMC622,Hydro,-3219.154268690632,baseline,baseline
+869,Tajikistan,NMC811,Hydro,-3871.726831841409,baseline,baseline
+870,Thailand,LFP,Hydro,0.0,baseline,baseline
+871,Thailand,NCA,Hydro,-1.3992113170351264,baseline,baseline
+872,Thailand,NMC111,Hydro,-25.075043262810766,baseline,baseline
+873,Thailand,NMC523,Hydro,-21.001958835598344,baseline,baseline
+874,Thailand,NMC622,Hydro,-47.52319966795997,baseline,baseline
+875,Thailand,NMC811,Hydro,-63.52915617196745,baseline,baseline
+876,Togo,LFP,Hydro,0.0,baseline,baseline
+877,Togo,NCA,Hydro,-286.3895668621567,baseline,baseline
+878,Togo,NMC111,Hydro,-733.6483359254147,baseline,baseline
+879,Togo,NMC523,Hydro,-651.4447168344408,baseline,baseline
+880,Togo,NMC622,Hydro,-1069.5254462262035,baseline,baseline
+881,Togo,NMC811,Hydro,-1279.7844778821204,baseline,baseline
+882,Tonga,LFP,Hydro,0.0,baseline,baseline
+883,Tonga,NCA,Hydro,0.0,baseline,baseline
+884,Tonga,NMC111,Hydro,0.0,baseline,baseline
+885,Tonga,NMC523,Hydro,0.0,baseline,baseline
+886,Tonga,NMC622,Hydro,0.0,baseline,baseline
+887,Tonga,NMC811,Hydro,0.0,baseline,baseline
+888,Trinidad and Tobago,LFP,Hydro,0.0,baseline,baseline
+889,Trinidad and Tobago,NCA,Hydro,-236.177497942661,baseline,baseline
+890,Trinidad and Tobago,NMC111,Hydro,-639.7495012327403,baseline,baseline
+891,Trinidad and Tobago,NMC523,Hydro,-549.2580893661855,baseline,baseline
+892,Trinidad and Tobago,NMC622,Hydro,-910.853335296216,baseline,baseline
+893,Trinidad and Tobago,NMC811,Hydro,-1078.9716921643133,baseline,baseline
+894,Tunisia,LFP,Hydro,0.0,baseline,baseline
+895,Tunisia,NCA,Hydro,-365.76826092308977,baseline,baseline
+896,Tunisia,NMC111,Hydro,-956.7269881713437,baseline,baseline
+897,Tunisia,NMC523,Hydro,-829.8313171711827,baseline,baseline
+898,Tunisia,NMC622,Hydro,-1365.2241922247788,baseline,baseline
+899,Tunisia,NMC811,Hydro,-1647.649685133992,baseline,baseline
+900,Turkey,LFP,Hydro,0.0,baseline,baseline
+901,Turkey,NCA,Hydro,0.8478102937467992,baseline,baseline
+902,Turkey,NMC111,Hydro,-10.926947731879803,baseline,baseline
+903,Turkey,NMC523,Hydro,-8.552661140495426,baseline,baseline
+904,Turkey,NMC622,Hydro,-17.480197205922362,baseline,baseline
+905,Turkey,NMC811,Hydro,-22.057537003198618,baseline,baseline
+906,USA,LFP,Hydro,-724.5734362455257,baseline,baseline
+907,USA,NCA,Hydro,7.618772372178747,baseline,baseline
+908,USA,NMC111,Hydro,5.396905629278952,baseline,baseline
+909,USA,NMC523,Hydro,5.0194252866104785,baseline,baseline
+910,USA,NMC622,Hydro,4.114017633545707,baseline,baseline
+911,USA,NMC811,Hydro,4.391603974710386,baseline,baseline
+912,Uganda,LFP,Hydro,0.0,baseline,baseline
+913,Uganda,NCA,Hydro,-17.651846673774735,baseline,baseline
+914,Uganda,NMC111,Hydro,-59.77251545433904,baseline,baseline
+915,Uganda,NMC523,Hydro,-51.010539771693836,baseline,baseline
+916,Uganda,NMC622,Hydro,-87.74208246083481,baseline,baseline
+917,Uganda,NMC811,Hydro,-105.82153956000651,baseline,baseline
+918,Ukraine,LFP,Hydro,0.0,baseline,baseline
+919,Ukraine,NCA,Hydro,-7.904512899017279,baseline,baseline
+920,Ukraine,NMC111,Hydro,-218.6522969214945,baseline,baseline
+921,Ukraine,NMC523,Hydro,-32.58860267495394,baseline,baseline
+922,Ukraine,NMC622,Hydro,-35.84113448025313,baseline,baseline
+923,Ukraine,NMC811,Hydro,0.0,baseline,baseline
+924,United Arab Emirates,LFP,Hydro,0.0,baseline,baseline
+925,United Arab Emirates,NCA,Hydro,-34.621445405749036,baseline,baseline
+926,United Arab Emirates,NMC111,Hydro,-100.74856932526171,baseline,baseline
+927,United Arab Emirates,NMC523,Hydro,-6.97372485403308,baseline,baseline
+928,United Arab Emirates,NMC622,Hydro,-5.760949815883473,baseline,baseline
+929,United Arab Emirates,NMC811,Hydro,0.0,baseline,baseline
+930,United Kingdom,LFP,Hydro,0.0,baseline,baseline
+931,United Kingdom,NCA,Hydro,6.720697131486366,baseline,baseline
+932,United Kingdom,NMC111,Hydro,3.9665620714930174,baseline,baseline
+933,United Kingdom,NMC523,Hydro,3.926274265803025,baseline,baseline
+934,United Kingdom,NMC622,Hydro,2.3317102967212664,baseline,baseline
+935,United Kingdom,NMC811,Hydro,1.2101425388025884,baseline,baseline
+936,United Rep. of Tanzania,LFP,Hydro,0.0,baseline,baseline
+937,United Rep. of Tanzania,NCA,Hydro,-64.96211051023144,baseline,baseline
+938,United Rep. of Tanzania,NMC111,Hydro,-183.63632383042835,baseline,baseline
+939,United Rep. of Tanzania,NMC523,Hydro,-157.02861013663693,baseline,baseline
+940,United Rep. of Tanzania,NMC622,Hydro,-260.91634804003195,baseline,baseline
+941,United Rep. of Tanzania,NMC811,Hydro,-310.57684114848905,baseline,baseline
+942,Uruguay,LFP,Hydro,0.0,baseline,baseline
+943,Uruguay,NCA,Hydro,-296.8268510006247,baseline,baseline
+944,Uruguay,NMC111,Hydro,-758.831647398979,baseline,baseline
+945,Uruguay,NMC523,Hydro,-679.9044312916778,baseline,baseline
+946,Uruguay,NMC622,Hydro,-1143.432728281159,baseline,baseline
+947,Uruguay,NMC811,Hydro,-1411.2690507568195,baseline,baseline
+948,Uzbekistan,LFP,Hydro,0.0,baseline,baseline
+949,Uzbekistan,NCA,Hydro,-139.36157246377803,baseline,baseline
+950,Uzbekistan,NMC111,Hydro,-376.73786824338237,baseline,baseline
+951,Uzbekistan,NMC523,Hydro,-324.0676205154565,baseline,baseline
+952,Uzbekistan,NMC622,Hydro,-534.0807695961215,baseline,baseline
+953,Uzbekistan,NMC811,Hydro,-635.117282095615,baseline,baseline
+954,Viet Nam,LFP,Hydro,0.0,baseline,baseline
+955,Viet Nam,NCA,Hydro,11.090105856231435,baseline,baseline
+956,Viet Nam,NMC111,Hydro,16.666598717264314,baseline,baseline
+957,Viet Nam,NMC523,Hydro,15.041283660246549,baseline,baseline
+958,Viet Nam,NMC622,Hydro,22.871626096500528,baseline,baseline
+959,Viet Nam,NMC811,Hydro,28.11400563480432,baseline,baseline
+960,Yemen,LFP,Hydro,0.0,baseline,baseline
+961,Yemen,NCA,Hydro,-173.82046199257385,baseline,baseline
+962,Yemen,NMC111,Hydro,-443.6679277706161,baseline,baseline
+963,Yemen,NMC523,Hydro,-385.695091638418,baseline,baseline
+964,Yemen,NMC622,Hydro,-619.5379673132686,baseline,baseline
+965,Yemen,NMC811,Hydro,-755.3813697604068,baseline,baseline
+966,Zambia,LFP,Hydro,0.0,baseline,baseline
+967,Zambia,NCA,Hydro,-793.5449439087115,baseline,baseline
+968,Zambia,NMC111,Hydro,-1672.8745843234906,baseline,baseline
+969,Zambia,NMC523,Hydro,-283.73732495567475,baseline,baseline
+970,Zambia,NMC622,Hydro,-317.6300570714155,baseline,baseline
+971,Zambia,NMC811,Hydro,0.0,baseline,baseline
+972,Zimbabwe,LFP,Hydro,0.0,baseline,baseline
+973,Zimbabwe,NCA,Hydro,-5.768218964337812,baseline,baseline
+974,Zimbabwe,NMC111,Hydro,-76.00538959010996,baseline,baseline
+975,Zimbabwe,NMC523,Hydro,-12.627460343461204,baseline,baseline
+976,Zimbabwe,NMC622,Hydro,0.0,baseline,baseline
+977,Zimbabwe,NMC811,Hydro,0.0,baseline,baseline

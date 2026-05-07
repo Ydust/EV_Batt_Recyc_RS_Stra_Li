@@ -1,0 +1,979 @@
+,country,type,recycling_m,net_profit,collection_scenario,recovery_efficiency_scenario
+0,Afghanistan,LFP,Hydro,0.0,high_collection,baseline
+1,Afghanistan,NCA,Hydro,-380948.7694678584,high_collection,baseline
+2,Afghanistan,NMC111,Hydro,-1358569.7074591122,high_collection,baseline
+3,Afghanistan,NMC523,Hydro,-1112809.9262469371,high_collection,baseline
+4,Afghanistan,NMC622,Hydro,0.0,high_collection,baseline
+5,Afghanistan,NMC811,Hydro,0.0,high_collection,baseline
+6,Albania,LFP,Hydro,-609.1647133051514,high_collection,baseline
+7,Albania,NCA,Hydro,-6.137558748721957,high_collection,baseline
+8,Albania,NMC111,Hydro,-13.00981788112292,high_collection,baseline
+9,Albania,NMC523,Hydro,-12.035679355618763,high_collection,baseline
+10,Albania,NMC622,Hydro,-22.969010455452807,high_collection,baseline
+11,Albania,NMC811,Hydro,-34.39752355848301,high_collection,baseline
+12,Algeria,LFP,Hydro,0.0,high_collection,baseline
+13,Algeria,NCA,Hydro,-31.47887429013923,high_collection,baseline
+14,Algeria,NMC111,Hydro,-91.96204666421387,high_collection,baseline
+15,Algeria,NMC523,Hydro,-82.33141164668926,high_collection,baseline
+16,Algeria,NMC622,Hydro,-140.10732923134717,high_collection,baseline
+17,Algeria,NMC811,Hydro,-167.41532037623915,high_collection,baseline
+18,Andorra,LFP,Hydro,0.0,high_collection,baseline
+19,Andorra,NCA,Hydro,-928.6680387094558,high_collection,baseline
+20,Andorra,NMC111,Hydro,-2184.8082795172186,high_collection,baseline
+21,Andorra,NMC523,Hydro,-2004.1381266680633,high_collection,baseline
+22,Andorra,NMC622,Hydro,-3206.2444371806264,high_collection,baseline
+23,Andorra,NMC811,Hydro,-3758.39460145233,high_collection,baseline
+24,Angola,LFP,Hydro,0.0,high_collection,baseline
+25,Angola,NCA,Hydro,-97.60165262595116,high_collection,baseline
+26,Angola,NMC111,Hydro,-263.6234862366289,high_collection,baseline
+27,Angola,NMC523,Hydro,-231.5320066194533,high_collection,baseline
+28,Angola,NMC622,Hydro,-383.8669536639713,high_collection,baseline
+29,Angola,NMC811,Hydro,-455.17561006850593,high_collection,baseline
+30,Argentina,LFP,Hydro,0.0,high_collection,baseline
+31,Argentina,NCA,Hydro,-4.151652645633986,high_collection,baseline
+32,Argentina,NMC111,Hydro,-24.499441801117886,high_collection,baseline
+33,Argentina,NMC523,Hydro,-21.19794022254713,high_collection,baseline
+34,Argentina,NMC622,Hydro,-39.55198177786484,high_collection,baseline
+35,Argentina,NMC811,Hydro,-48.40544358438151,high_collection,baseline
+36,Armenia,LFP,Hydro,0.0,high_collection,baseline
+37,Armenia,NCA,Hydro,-1934.9977394594068,high_collection,baseline
+38,Armenia,NMC111,Hydro,-3265.9911657026223,high_collection,baseline
+39,Armenia,NMC523,Hydro,-4098.611606114174,high_collection,baseline
+40,Armenia,NMC622,Hydro,-7372.342128889529,high_collection,baseline
+41,Armenia,NMC811,Hydro,-12568.047438481179,high_collection,baseline
+42,Aruba,LFP,Hydro,0.0,high_collection,baseline
+43,Aruba,NCA,Hydro,-3735.9437752058607,high_collection,baseline
+44,Aruba,NMC111,Hydro,-5311.196772589863,high_collection,baseline
+45,Aruba,NMC523,Hydro,-7349.138199070075,high_collection,baseline
+46,Aruba,NMC622,Hydro,-15113.483269554958,high_collection,baseline
+47,Aruba,NMC811,Hydro,-26768.456126191646,high_collection,baseline
+48,Australia,LFP,Hydro,0.0,high_collection,baseline
+49,Australia,NCA,Hydro,8.796826070559016,high_collection,baseline
+50,Australia,NMC111,Hydro,9.043720879795307,high_collection,baseline
+51,Australia,NMC523,Hydro,8.330573497416987,high_collection,baseline
+52,Australia,NMC622,Hydro,9.294298939351435,high_collection,baseline
+53,Australia,NMC811,Hydro,9.312647462452459,high_collection,baseline
+54,Austria,LFP,Hydro,-180.6373339441977,high_collection,baseline
+55,Austria,NCA,Hydro,3.995890388523869,high_collection,baseline
+56,Austria,NMC111,Hydro,1.7599732705397646,high_collection,baseline
+57,Austria,NMC523,Hydro,1.6219818377537414,high_collection,baseline
+58,Austria,NMC622,Hydro,-1.2034947395371178,high_collection,baseline
+59,Austria,NMC811,Hydro,-4.618307846975109,high_collection,baseline
+60,Azerbaijan,LFP,Hydro,0.0,high_collection,baseline
+61,Azerbaijan,NCA,Hydro,-18.11608968159031,high_collection,baseline
+62,Azerbaijan,NMC111,Hydro,-57.85179769906097,high_collection,baseline
+63,Azerbaijan,NMC523,Hydro,-49.73216021864835,high_collection,baseline
+64,Azerbaijan,NMC622,Hydro,-83.35933284718156,high_collection,baseline
+65,Azerbaijan,NMC811,Hydro,-98.58087850080268,high_collection,baseline
+66,Bahamas,LFP,Hydro,0.0,high_collection,baseline
+67,Bahamas,NCA,Hydro,-66606.06862422172,high_collection,baseline
+68,Bahamas,NMC111,Hydro,0.0,high_collection,baseline
+69,Bahamas,NMC523,Hydro,0.0,high_collection,baseline
+70,Bahamas,NMC622,Hydro,0.0,high_collection,baseline
+71,Bahamas,NMC811,Hydro,0.0,high_collection,baseline
+72,Bahrain,LFP,Hydro,0.0,high_collection,baseline
+73,Bahrain,NCA,Hydro,-1902.329988181257,high_collection,baseline
+74,Bahrain,NMC111,Hydro,-2489.6271039931507,high_collection,baseline
+75,Bahrain,NMC523,Hydro,-3584.8862239136997,high_collection,baseline
+76,Bahrain,NMC622,Hydro,-7659.217803374415,high_collection,baseline
+77,Bahrain,NMC811,Hydro,-35623.67467282059,high_collection,baseline
+78,Bangladesh,LFP,Hydro,0.0,high_collection,baseline
+79,Bangladesh,NCA,Hydro,-9109.002929893179,high_collection,baseline
+80,Bangladesh,NMC111,Hydro,-27330.871935211453,high_collection,baseline
+81,Bangladesh,NMC523,Hydro,-29198.362372912565,high_collection,baseline
+82,Bangladesh,NMC622,Hydro,-57457.49019029331,high_collection,baseline
+83,Bangladesh,NMC811,Hydro,-70974.11056557881,high_collection,baseline
+84,Barbados,LFP,Hydro,0.0,high_collection,baseline
+85,Barbados,NCA,Hydro,-11257.51119846766,high_collection,baseline
+86,Barbados,NMC111,Hydro,-29907.572574787217,high_collection,baseline
+87,Barbados,NMC523,Hydro,-25657.287824903837,high_collection,baseline
+88,Barbados,NMC622,Hydro,-42304.82441432665,high_collection,baseline
+89,Barbados,NMC811,Hydro,-51457.59648259759,high_collection,baseline
+90,Belarus,LFP,Hydro,0.0,high_collection,baseline
+91,Belarus,NCA,Hydro,-4.195585992997662,high_collection,baseline
+92,Belarus,NMC111,Hydro,-24.50141688575558,high_collection,baseline
+93,Belarus,NMC523,Hydro,-20.611989648733655,high_collection,baseline
+94,Belarus,NMC622,Hydro,-37.776372371494375,high_collection,baseline
+95,Belarus,NMC811,Hydro,-45.83288870076086,high_collection,baseline
+96,Belgium,LFP,Hydro,117.56381412447445,high_collection,baseline
+97,Belgium,NCA,Hydro,10.847548476573555,high_collection,baseline
+98,Belgium,NMC111,Hydro,11.624993903683418,high_collection,baseline
+99,Belgium,NMC523,Hydro,10.778790998654232,high_collection,baseline
+100,Belgium,NMC622,Hydro,13.209833628772909,high_collection,baseline
+101,Belgium,NMC811,Hydro,14.957075358506856,high_collection,baseline
+102,Benin,LFP,Hydro,0.0,high_collection,baseline
+103,Benin,NCA,Hydro,-7.239493473158037,high_collection,baseline
+104,Benin,NMC111,Hydro,-32.81669747857681,high_collection,baseline
+105,Benin,NMC523,Hydro,-27.682751767008078,high_collection,baseline
+106,Benin,NMC622,Hydro,-49.5425536692509,high_collection,baseline
+107,Benin,NMC811,Hydro,-59.68772198805559,high_collection,baseline
+108,Bermuda,LFP,Hydro,0.0,high_collection,baseline
+109,Bermuda,NCA,Hydro,-2302.066179367199,high_collection,baseline
+110,Bermuda,NMC111,Hydro,-3177.206207082812,high_collection,baseline
+111,Bermuda,NMC523,Hydro,-4046.523992816826,high_collection,baseline
+112,Bermuda,NMC622,Hydro,-8765.42203125744,high_collection,baseline
+113,Bermuda,NMC811,Hydro,-41973.27278746153,high_collection,baseline
+114,Bolivia (Plurinational State of),LFP,Hydro,0.0,high_collection,baseline
+115,Bolivia (Plurinational State of),NCA,Hydro,-9.08632668258345,high_collection,baseline
+116,Bolivia (Plurinational State of),NMC111,Hydro,-38.35080401126075,high_collection,baseline
+117,Bolivia (Plurinational State of),NMC523,Hydro,-32.42761443057912,high_collection,baseline
+118,Bolivia (Plurinational State of),NMC622,Hydro,-57.92404963464895,high_collection,baseline
+119,Bolivia (Plurinational State of),NMC811,Hydro,-69.82625012628782,high_collection,baseline
+120,Bosnia Herzegovina,LFP,Hydro,0.0,high_collection,baseline
+121,Bosnia Herzegovina,NCA,Hydro,-67.95064710593167,high_collection,baseline
+122,Bosnia Herzegovina,NMC111,Hydro,-178.63793695277428,high_collection,baseline
+123,Bosnia Herzegovina,NMC523,Hydro,-155.37070526770162,high_collection,baseline
+124,Bosnia Herzegovina,NMC622,Hydro,-250.0776284049455,high_collection,baseline
+125,Bosnia Herzegovina,NMC811,Hydro,-292.0990246548664,high_collection,baseline
+126,Botswana,LFP,Hydro,0.0,high_collection,baseline
+127,Botswana,NCA,Hydro,-49.991006826052434,high_collection,baseline
+128,Botswana,NMC111,Hydro,-143.30535262186783,high_collection,baseline
+129,Botswana,NMC523,Hydro,-123.45491621297289,high_collection,baseline
+130,Botswana,NMC622,Hydro,-206.4024118506459,high_collection,baseline
+131,Botswana,NMC811,Hydro,-244.3959421041446,high_collection,baseline
+132,Brazil,LFP,Hydro,0.0,high_collection,baseline
+133,Brazil,NCA,Hydro,8.448123134214132,high_collection,baseline
+134,Brazil,NMC111,Hydro,8.106324543262646,high_collection,baseline
+135,Brazil,NMC523,Hydro,7.524065919324413,high_collection,baseline
+136,Brazil,NMC622,Hydro,7.977208265250905,high_collection,baseline
+137,Brazil,NMC811,Hydro,7.7704720524868565,high_collection,baseline
+138,Brunei Darussalam,LFP,Hydro,0.0,high_collection,baseline
+139,Brunei Darussalam,NCA,Hydro,-1230.4376140085226,high_collection,baseline
+140,Brunei Darussalam,NMC111,Hydro,-4349.44388346619,high_collection,baseline
+141,Brunei Darussalam,NMC523,Hydro,-3619.769525752944,high_collection,baseline
+142,Brunei Darussalam,NMC622,Hydro,-6969.144758081612,high_collection,baseline
+143,Brunei Darussalam,NMC811,Hydro,-8641.433953064614,high_collection,baseline
+144,Bulgaria,LFP,Hydro,-286.6873613993307,high_collection,baseline
+145,Bulgaria,NCA,Hydro,2.923582641062618,high_collection,baseline
+146,Bulgaria,NMC111,Hydro,-0.06998382107308565,high_collection,baseline
+147,Bulgaria,NMC523,Hydro,-0.01541653529951681,high_collection,baseline
+148,Bulgaria,NMC622,Hydro,-4.278310549619283,high_collection,baseline
+149,Bulgaria,NMC811,Hydro,-9.233532188935166,high_collection,baseline
+150,Burkina Faso,LFP,Hydro,0.0,high_collection,baseline
+151,Burkina Faso,NCA,Hydro,-18.603735874886098,high_collection,baseline
+152,Burkina Faso,NMC111,Hydro,-62.345903162458825,high_collection,baseline
+153,Burkina Faso,NMC523,Hydro,-53.17531652022065,high_collection,baseline
+154,Burkina Faso,NMC622,Hydro,-91.23048618201261,high_collection,baseline
+155,Burkina Faso,NMC811,Hydro,-108.61053375363801,high_collection,baseline
+156,Burundi,LFP,Hydro,0.0,high_collection,baseline
+157,Burundi,NCA,Hydro,-58.60026892946841,high_collection,baseline
+158,Burundi,NMC111,Hydro,-164.6446467709078,high_collection,baseline
+159,Burundi,NMC523,Hydro,-142.30045481591176,high_collection,baseline
+160,Burundi,NMC622,Hydro,-237.79272398417302,high_collection,baseline
+161,Burundi,NMC811,Hydro,-281.1987362673957,high_collection,baseline
+162,C?te d'Ivoire,LFP,Hydro,0.0,high_collection,baseline
+163,C?te d'Ivoire,NCA,Hydro,-65.76984953956749,high_collection,baseline
+164,C?te d'Ivoire,NMC111,Hydro,-182.15384682233724,high_collection,baseline
+165,C?te d'Ivoire,NMC523,Hydro,-159.4617284135391,high_collection,baseline
+166,C?te d'Ivoire,NMC622,Hydro,-265.71232557517186,high_collection,baseline
+167,C?te d'Ivoire,NMC811,Hydro,-314.24975870977397,high_collection,baseline
+168,Cabo Verde,LFP,Hydro,0.0,high_collection,baseline
+169,Cabo Verde,NCA,Hydro,-737.4906874475871,high_collection,baseline
+170,Cabo Verde,NMC111,Hydro,-1932.3559506364707,high_collection,baseline
+171,Cabo Verde,NMC523,Hydro,-1665.546999449067,high_collection,baseline
+172,Cabo Verde,NMC622,Hydro,-2727.812165113268,high_collection,baseline
+173,Cabo Verde,NMC811,Hydro,-3205.324768771152,high_collection,baseline
+174,Cambodia,LFP,Hydro,0.0,high_collection,baseline
+175,Cambodia,NCA,Hydro,-16.122993557331185,high_collection,baseline
+176,Cambodia,NMC111,Hydro,-79.4616336754213,high_collection,baseline
+177,Cambodia,NMC523,Hydro,-64.27134542621907,high_collection,baseline
+178,Cambodia,NMC622,Hydro,-129.7948116267302,high_collection,baseline
+179,Cambodia,NMC811,Hydro,-162.59443886504786,high_collection,baseline
+180,Cameroon,LFP,Hydro,0.0,high_collection,baseline
+181,Cameroon,NCA,Hydro,-3334.6971585799974,high_collection,baseline
+182,Cameroon,NMC111,Hydro,-4120.424017472728,high_collection,baseline
+183,Cameroon,NMC523,Hydro,-7959.986176643357,high_collection,baseline
+184,Cameroon,NMC622,Hydro,-18819.68866716685,high_collection,baseline
+185,Cameroon,NMC811,Hydro,0.0,high_collection,baseline
+186,Canada,LFP,Hydro,0.0,high_collection,baseline
+187,Canada,NCA,Hydro,6.298026136339264,high_collection,baseline
+188,Canada,NMC111,Hydro,2.8400203271648796,high_collection,baseline
+189,Canada,NMC523,Hydro,2.9617567283399695,high_collection,baseline
+190,Canada,NMC622,Hydro,0.6948153613324387,high_collection,baseline
+191,Canada,NMC811,Hydro,-0.7113302520560633,high_collection,baseline
+192,Cayman Isds,LFP,Hydro,0.0,high_collection,baseline
+193,Cayman Isds,NCA,Hydro,0.0,high_collection,baseline
+194,Cayman Isds,NMC111,Hydro,0.0,high_collection,baseline
+195,Cayman Isds,NMC523,Hydro,0.0,high_collection,baseline
+196,Cayman Isds,NMC622,Hydro,0.0,high_collection,baseline
+197,Cayman Isds,NMC811,Hydro,0.0,high_collection,baseline
+198,Chile,LFP,Hydro,0.0,high_collection,baseline
+199,Chile,NCA,Hydro,-8.78659271732631,high_collection,baseline
+200,Chile,NMC111,Hydro,-37.629579836298404,high_collection,baseline
+201,Chile,NMC523,Hydro,-31.722214825785247,high_collection,baseline
+202,Chile,NMC622,Hydro,-56.72408754084497,high_collection,baseline
+203,Chile,NMC811,Hydro,-68.33540406755785,high_collection,baseline
+204,China,LFP,Hydro,1.4654544257798776,high_collection,baseline
+205,China,NCA,Hydro,8.240420863681104,high_collection,baseline
+206,China,NMC111,Hydro,7.9595179663429345,high_collection,baseline
+207,China,NMC523,Hydro,7.336653923397822,high_collection,baseline
+208,China,NMC622,Hydro,7.831453940011446,high_collection,baseline
+209,China,NMC811,Hydro,7.610788907879412,high_collection,baseline
+210,Colombia,LFP,Hydro,0.0,high_collection,baseline
+211,Colombia,NCA,Hydro,-3.68073766228431,high_collection,baseline
+212,Colombia,NMC111,Hydro,-23.85566198789568,high_collection,baseline
+213,Colombia,NMC523,Hydro,-20.103906824726494,high_collection,baseline
+214,Colombia,NMC622,Hydro,-37.62840858642979,high_collection,baseline
+215,Colombia,NMC811,Hydro,-45.97363487494271,high_collection,baseline
+216,Comoros,LFP,Hydro,0.0,high_collection,baseline
+217,Comoros,NCA,Hydro,-1201.9563842590642,high_collection,baseline
+218,Comoros,NMC111,Hydro,-3149.414225729789,high_collection,baseline
+219,Comoros,NMC523,Hydro,-2709.0489064451817,high_collection,baseline
+220,Comoros,NMC622,Hydro,-4430.236721535073,high_collection,baseline
+221,Comoros,NMC811,Hydro,-5198.890943695354,high_collection,baseline
+222,Congo,LFP,Hydro,0.0,high_collection,baseline
+223,Congo,NCA,Hydro,-2142.484357138064,high_collection,baseline
+224,Congo,NMC111,Hydro,-3370.624733271656,high_collection,baseline
+225,Congo,NMC523,Hydro,-4992.850640898044,high_collection,baseline
+226,Congo,NMC622,Hydro,-9575.28946904867,high_collection,baseline
+227,Congo,NMC811,Hydro,-15478.736900345171,high_collection,baseline
+228,Costa Rica,LFP,Hydro,0.0,high_collection,baseline
+229,Costa Rica,NCA,Hydro,-19.361022444791782,high_collection,baseline
+230,Costa Rica,NMC111,Hydro,-65.0947503778575,high_collection,baseline
+231,Costa Rica,NMC523,Hydro,-55.84001311399622,high_collection,baseline
+232,Costa Rica,NMC622,Hydro,-96.65782860220882,high_collection,baseline
+233,Costa Rica,NMC811,Hydro,-115.67036789386708,high_collection,baseline
+234,Croatia,LFP,Hydro,-294.66183159996535,high_collection,baseline
+235,Croatia,NCA,Hydro,1.4184522618271362,high_collection,baseline
+236,Croatia,NMC111,Hydro,-2.0774247489253614,high_collection,baseline
+237,Croatia,NMC523,Hydro,-1.9081089438620253,high_collection,baseline
+238,Croatia,NMC622,Hydro,-6.954788469662963,high_collection,baseline
+239,Croatia,NMC811,Hydro,-12.581283745433312,high_collection,baseline
+240,Cyprus,LFP,Hydro,-742.5959423415557,high_collection,baseline
+241,Cyprus,NCA,Hydro,-8.164734830500535,high_collection,baseline
+242,Cyprus,NMC111,Hydro,-16.096056832246163,high_collection,baseline
+243,Cyprus,NMC523,Hydro,-14.866056037854866,high_collection,baseline
+244,Cyprus,NMC622,Hydro,-27.722880135822038,high_collection,baseline
+245,Cyprus,NMC811,Hydro,-41.12551124768856,high_collection,baseline
+246,Czechia,LFP,Hydro,-10.470454834561824,high_collection,baseline
+247,Czechia,NCA,Hydro,8.028395418756647,high_collection,baseline
+248,Czechia,NMC111,Hydro,7.547355633942114,high_collection,baseline
+249,Czechia,NMC523,Hydro,6.999297783416374,high_collection,baseline
+250,Czechia,NMC622,Hydro,7.231338392619747,high_collection,baseline
+251,Czechia,NMC811,Hydro,6.811779807231146,high_collection,baseline
+252,Denmark,LFP,Hydro,-254.24282740955468,high_collection,baseline
+253,Denmark,NCA,Hydro,2.4248390449236985,high_collection,baseline
+254,Denmark,NMC111,Hydro,-0.5160709256931635,high_collection,baseline
+255,Denmark,NMC523,Hydro,-0.4922809577321437,high_collection,baseline
+256,Denmark,NMC622,Hydro,-4.554348809194831,high_collection,baseline
+257,Denmark,NMC811,Hydro,-9.185226877573312,high_collection,baseline
+258,Dominican Rep.,LFP,Hydro,0.0,high_collection,baseline
+259,Dominican Rep.,NCA,Hydro,-7.85907408266003,high_collection,baseline
+260,Dominican Rep.,NMC111,Hydro,-35.155721137389655,high_collection,baseline
+261,Dominican Rep.,NMC523,Hydro,-29.626966076432183,high_collection,baseline
+262,Dominican Rep.,NMC622,Hydro,-53.28341217126609,high_collection,baseline
+263,Dominican Rep.,NMC811,Hydro,-64.3166428681668,high_collection,baseline
+264,Ecuador,LFP,Hydro,0.0,high_collection,baseline
+265,Ecuador,NCA,Hydro,-14.480730703426072,high_collection,baseline
+266,Ecuador,NMC111,Hydro,-52.633089892045106,high_collection,baseline
+267,Ecuador,NMC523,Hydro,-44.70356089152243,high_collection,baseline
+268,Ecuador,NMC622,Hydro,-78.18062943796396,high_collection,baseline
+269,Ecuador,NMC811,Hydro,-93.66075047072096,high_collection,baseline
+270,Egypt,LFP,Hydro,0.0,high_collection,baseline
+271,Egypt,NCA,Hydro,2.6231970030015788,high_collection,baseline
+272,Egypt,NMC111,Hydro,-7.086592751186686,high_collection,baseline
+273,Egypt,NMC523,Hydro,-5.548443956595364,high_collection,baseline
+274,Egypt,NMC622,Hydro,-13.380965953593188,high_collection,baseline
+275,Egypt,NMC811,Hydro,-17.283575982020423,high_collection,baseline
+276,El Salvador,LFP,Hydro,0.0,high_collection,baseline
+277,El Salvador,NCA,Hydro,-1105.9645767375803,high_collection,baseline
+278,El Salvador,NMC111,Hydro,-1952.9591259243184,high_collection,baseline
+279,El Salvador,NMC523,Hydro,-2511.5936897117617,high_collection,baseline
+280,El Salvador,NMC622,Hydro,-4715.090511038339,high_collection,baseline
+281,El Salvador,NMC811,Hydro,-7536.262735717553,high_collection,baseline
+282,Estonia,LFP,Hydro,-629.3948084772736,high_collection,baseline
+283,Estonia,NCA,Hydro,-7.720129320404453,high_collection,baseline
+284,Estonia,NMC111,Hydro,-15.123098471851918,high_collection,baseline
+285,Estonia,NMC523,Hydro,-14.02779420531561,high_collection,baseline
+286,Estonia,NMC622,Hydro,-25.799081008445853,high_collection,baseline
+287,Estonia,NMC811,Hydro,-37.95675582448845,high_collection,baseline
+288,Eswatini,LFP,Hydro,0.0,high_collection,baseline
+289,Eswatini,NCA,Hydro,-456.53430082669024,high_collection,baseline
+290,Eswatini,NMC111,Hydro,-1198.6814870037979,high_collection,baseline
+291,Eswatini,NMC523,Hydro,-1035.6642389265928,high_collection,baseline
+292,Eswatini,NMC622,Hydro,-1698.660486508039,high_collection,baseline
+293,Eswatini,NMC811,Hydro,-1996.9539025277677,high_collection,baseline
+294,Ethiopia,LFP,Hydro,0.0,high_collection,baseline
+295,Ethiopia,NCA,Hydro,-27.346077436583464,high_collection,baseline
+296,Ethiopia,NMC111,Hydro,-84.519889505371,high_collection,baseline
+297,Ethiopia,NMC523,Hydro,-72.86665775486692,high_collection,baseline
+298,Ethiopia,NMC622,Hydro,-123.61188436737397,high_collection,baseline
+299,Ethiopia,NMC811,Hydro,-146.88362106393134,high_collection,baseline
+300,Fiji,LFP,Hydro,0.0,high_collection,baseline
+301,Fiji,NCA,Hydro,-1865.7472644753827,high_collection,baseline
+302,Fiji,NMC111,Hydro,-3385.533960069093,high_collection,baseline
+303,Fiji,NMC523,Hydro,-4199.358299574088,high_collection,baseline
+304,Fiji,NMC622,Hydro,-7433.881246884989,high_collection,baseline
+305,Fiji,NMC811,Hydro,-11055.512328527779,high_collection,baseline
+306,Finland,LFP,Hydro,-752.6297785100631,high_collection,baseline
+307,Finland,NCA,Hydro,-10.31914601188807,high_collection,baseline
+308,Finland,NMC111,Hydro,-18.810381045612264,high_collection,baseline
+309,Finland,NMC523,Hydro,-17.458006344431535,high_collection,baseline
+310,Finland,NMC622,Hydro,-31.103616813911945,high_collection,baseline
+311,Finland,NMC811,Hydro,-45.088103301238824,high_collection,baseline
+312,France,LFP,Hydro,-165.69830994224642,high_collection,baseline
+313,France,NCA,Hydro,4.33122763991386,high_collection,baseline
+314,France,NMC111,Hydro,2.2340964965782804,high_collection,baseline
+315,France,NMC523,Hydro,2.0680891401775034,high_collection,baseline
+316,France,NMC622,Hydro,-0.5012174383696872,high_collection,baseline
+317,France,NMC811,Hydro,-3.6559218706583505,high_collection,baseline
+318,French Polynesia,LFP,Hydro,0.0,high_collection,baseline
+319,French Polynesia,NCA,Hydro,-41.11486468246649,high_collection,baseline
+320,French Polynesia,NMC111,Hydro,-120.88622904501855,high_collection,baseline
+321,French Polynesia,NMC523,Hydro,-103.671949497202,high_collection,baseline
+322,French Polynesia,NMC622,Hydro,-173.8041812217779,high_collection,baseline
+323,French Polynesia,NMC811,Hydro,-205.61395335526183,high_collection,baseline
+324,Georgia,LFP,Hydro,0.0,high_collection,baseline
+325,Georgia,NCA,Hydro,-144.22800522027615,high_collection,baseline
+326,Georgia,NMC111,Hydro,-369.60764964144977,high_collection,baseline
+327,Georgia,NMC523,Hydro,-321.30948803692996,high_collection,baseline
+328,Georgia,NMC622,Hydro,-517.1648331015332,high_collection,baseline
+329,Georgia,NMC811,Hydro,-604.50230548069,high_collection,baseline
+330,Germany,LFP,Hydro,-46.22829327650693,high_collection,baseline
+331,Germany,NCA,Hydro,7.221445028676153,high_collection,baseline
+332,Germany,NMC111,Hydro,6.383934202329628,high_collection,baseline
+333,Germany,NMC523,Hydro,5.919308878140028,high_collection,baseline
+334,Germany,NMC622,Hydro,5.529751853555349,high_collection,baseline
+335,Germany,NMC811,Hydro,4.502701544449852,high_collection,baseline
+336,Ghana,LFP,Hydro,0.0,high_collection,baseline
+337,Ghana,NCA,Hydro,-517.4255132843718,high_collection,baseline
+338,Ghana,NMC111,Hydro,-849.2003654886936,high_collection,baseline
+339,Ghana,NMC523,Hydro,-1304.1839793601264,high_collection,baseline
+340,Ghana,NMC622,Hydro,-2664.0344621682175,high_collection,baseline
+341,Ghana,NMC811,Hydro,-10967.956854051388,high_collection,baseline
+342,Greece,LFP,Hydro,-176.88124656970362,high_collection,baseline
+343,Greece,NCA,Hydro,4.615567162125474,high_collection,baseline
+344,Greece,NMC111,Hydro,2.553119937823813,high_collection,baseline
+345,Greece,NMC523,Hydro,2.3807598298659682,high_collection,baseline
+346,Greece,NMC622,Hydro,-0.16536077960644846,high_collection,baseline
+347,Greece,NMC811,Hydro,-3.3271413789577853,high_collection,baseline
+348,Greenland,LFP,Hydro,0.0,high_collection,baseline
+349,Greenland,NCA,Hydro,-2857.3818994704425,high_collection,baseline
+350,Greenland,NMC111,Hydro,-6988.777551885458,high_collection,baseline
+351,Greenland,NMC523,Hydro,-6377.451537832362,high_collection,baseline
+352,Greenland,NMC622,Hydro,-10412.961218324173,high_collection,baseline
+353,Greenland,NMC811,Hydro,-12290.449043063782,high_collection,baseline
+354,Grenada,LFP,Hydro,0.0,high_collection,baseline
+355,Grenada,NCA,Hydro,-150.53293244981438,high_collection,baseline
+356,Grenada,NMC111,Hydro,-413.8611896179844,high_collection,baseline
+357,Grenada,NMC523,Hydro,-354.61917468224163,high_collection,baseline
+358,Grenada,NMC622,Hydro,-589.1570914273415,high_collection,baseline
+359,Grenada,NMC811,Hydro,-694.7514977907573,high_collection,baseline
+360,Guatemala,LFP,Hydro,0.0,high_collection,baseline
+361,Guatemala,NCA,Hydro,-2.929453694358944,high_collection,baseline
+362,Guatemala,NMC111,Hydro,-22.016102756601413,high_collection,baseline
+363,Guatemala,NMC523,Hydro,-18.37746910046412,high_collection,baseline
+364,Guatemala,NMC622,Hydro,-34.7610933906392,high_collection,baseline
+365,Guatemala,NMC811,Hydro,-42.54971566284842,high_collection,baseline
+366,Guinea,LFP,Hydro,0.0,high_collection,baseline
+367,Guinea,NCA,Hydro,-1293.3920158977064,high_collection,baseline
+368,Guinea,NMC111,Hydro,-3290.1504798093847,high_collection,baseline
+369,Guinea,NMC523,Hydro,-3285.20564291993,high_collection,baseline
+370,Guinea,NMC622,Hydro,-5371.771374821159,high_collection,baseline
+371,Guinea,NMC811,Hydro,-6302.310733356196,high_collection,baseline
+372,Guyana,LFP,Hydro,0.0,high_collection,baseline
+373,Guyana,NCA,Hydro,-7.858335705901119,high_collection,baseline
+374,Guyana,NMC111,Hydro,-35.193919377284956,high_collection,baseline
+375,Guyana,NMC523,Hydro,-29.623431849005442,high_collection,baseline
+376,Guyana,NMC622,Hydro,-53.26675136276316,high_collection,baseline
+377,Guyana,NMC811,Hydro,-64.26431962519945,high_collection,baseline
+378,Honduras,LFP,Hydro,0.0,high_collection,baseline
+379,Honduras,NCA,Hydro,-46.58069095093858,high_collection,baseline
+380,Honduras,NMC111,Hydro,-136.94682727332417,high_collection,baseline
+381,Honduras,NMC523,Hydro,-117.78778489087092,high_collection,baseline
+382,Honduras,NMC622,Hydro,-199.0027340095227,high_collection,baseline
+383,Honduras,NMC811,Hydro,-236.446252928718,high_collection,baseline
+384,Hungary,LFP,Hydro,-190.9707226936341,high_collection,baseline
+385,Hungary,NCA,Hydro,3.926987676412922,high_collection,baseline
+386,Hungary,NMC111,Hydro,1.5719479582806264,high_collection,baseline
+387,Hungary,NMC523,Hydro,1.4705541954137171,high_collection,baseline
+388,Hungary,NMC622,Hydro,-1.5818964184211135,high_collection,baseline
+389,Hungary,NMC811,Hydro,-5.249042813640194,high_collection,baseline
+390,Iceland,LFP,Hydro,0.0,high_collection,baseline
+391,Iceland,NCA,Hydro,-20.644754916749047,high_collection,baseline
+392,Iceland,NMC111,Hydro,-60.720966468513595,high_collection,baseline
+393,Iceland,NMC523,Hydro,-53.25683297870972,high_collection,baseline
+394,Iceland,NMC622,Hydro,-87.74981625505208,high_collection,baseline
+395,Iceland,NMC811,Hydro,-103.7114966681875,high_collection,baseline
+396,India,LFP,Hydro,0.0,high_collection,baseline
+397,India,NCA,Hydro,8.109759571604073,high_collection,baseline
+398,India,NMC111,Hydro,7.375598921967362,high_collection,baseline
+399,India,NMC523,Hydro,6.89190058769331,high_collection,baseline
+400,India,NMC622,Hydro,6.935893958740196,high_collection,baseline
+401,India,NMC811,Hydro,6.528164493274803,high_collection,baseline
+402,Indonesia,LFP,Hydro,0.0,high_collection,baseline
+403,Indonesia,NCA,Hydro,7.22717440853163,high_collection,baseline
+404,Indonesia,NMC111,Hydro,3.778652906987676,high_collection,baseline
+405,Indonesia,NMC523,Hydro,3.9631456976488573,high_collection,baseline
+406,Indonesia,NMC622,Hydro,1.13875063917947,high_collection,baseline
+407,Indonesia,NMC811,Hydro,-0.6995636745476584,high_collection,baseline
+408,Iran,LFP,Hydro,0.0,high_collection,baseline
+409,Iran,NCA,Hydro,-449.531564865199,high_collection,baseline
+410,Iran,NMC111,Hydro,-743.70842903925,high_collection,baseline
+411,Iran,NMC523,Hydro,-2109.644088155278,high_collection,baseline
+412,Iran,NMC622,Hydro,-7679.427071655526,high_collection,baseline
+413,Iran,NMC811,Hydro,-116254.56786299562,high_collection,baseline
+414,Ireland,LFP,Hydro,-218.57196891125935,high_collection,baseline
+415,Ireland,NCA,Hydro,2.761234238385504,high_collection,baseline
+416,Ireland,NMC111,Hydro,-0.017158252001213098,high_collection,baseline
+417,Ireland,NMC523,Hydro,-0.01964778417902699,high_collection,baseline
+418,Ireland,NMC622,Hydro,-3.7650630409275743,high_collection,baseline
+419,Ireland,NMC811,Hydro,-8.072239606734856,high_collection,baseline
+420,Israel,LFP,Hydro,0.0,high_collection,baseline
+421,Israel,NCA,Hydro,5.37501438546005,high_collection,baseline
+422,Israel,NMC111,Hydro,0.46423930566285776,high_collection,baseline
+423,Israel,NMC523,Hydro,0.898833894336061,high_collection,baseline
+424,Israel,NMC622,Hydro,-2.5876924527447773,high_collection,baseline
+425,Israel,NMC811,Hydro,-4.523888045969899,high_collection,baseline
+426,Italy,LFP,Hydro,-57.66303079297003,high_collection,baseline
+427,Italy,NCA,Hydro,7.001072778075685,high_collection,baseline
+428,Italy,NMC111,Hydro,6.066469316662178,high_collection,baseline
+429,Italy,NMC523,Hydro,5.626178272057043,high_collection,baseline
+430,Italy,NMC622,Hydro,5.0698530650796085,high_collection,baseline
+431,Italy,NMC811,Hydro,3.8764165260317798,high_collection,baseline
+432,Jamaica,LFP,Hydro,0.0,high_collection,baseline
+433,Jamaica,NCA,Hydro,-1507.9201607040181,high_collection,baseline
+434,Jamaica,NMC111,Hydro,-2627.8231988089806,high_collection,baseline
+435,Jamaica,NMC523,Hydro,-3757.9122326296488,high_collection,baseline
+436,Jamaica,NMC622,Hydro,-7179.841465661194,high_collection,baseline
+437,Jamaica,NMC811,Hydro,-18984.872297938455,high_collection,baseline
+438,Japan,LFP,Hydro,0.0,high_collection,baseline
+439,Japan,NCA,Hydro,6.503725476242432,high_collection,baseline
+440,Japan,NMC111,Hydro,2.876842846447209,high_collection,baseline
+441,Japan,NMC523,Hydro,3.065743617609823,high_collection,baseline
+442,Japan,NMC622,Hydro,0.3684317676866974,high_collection,baseline
+443,Japan,NMC811,Hydro,-1.3107380475272996,high_collection,baseline
+444,Jordan,LFP,Hydro,0.0,high_collection,baseline
+445,Jordan,NCA,Hydro,-10.480168035877874,high_collection,baseline
+446,Jordan,NMC111,Hydro,-38.79381626081786,high_collection,baseline
+447,Jordan,NMC523,Hydro,-33.24578206183097,high_collection,baseline
+448,Jordan,NMC622,Hydro,-57.10234469709252,high_collection,baseline
+449,Jordan,NMC811,Hydro,-68.06733688506985,high_collection,baseline
+450,Kazakhstan,LFP,Hydro,0.0,high_collection,baseline
+451,Kazakhstan,NCA,Hydro,-8.12243376764755,high_collection,baseline
+452,Kazakhstan,NMC111,Hydro,-34.46638276703759,high_collection,baseline
+453,Kazakhstan,NMC523,Hydro,-29.686978319564325,high_collection,baseline
+454,Kazakhstan,NMC622,Hydro,-53.001771689292354,high_collection,baseline
+455,Kazakhstan,NMC811,Hydro,-64.06289335735221,high_collection,baseline
+456,Kenya,LFP,Hydro,0.0,high_collection,baseline
+457,Kenya,NCA,Hydro,4.816558531908573,high_collection,baseline
+458,Kenya,NMC111,Hydro,-1.3662336370567143,high_collection,baseline
+459,Kenya,NMC523,Hydro,-0.6261138418551049,high_collection,baseline
+460,Kenya,NMC622,Hydro,-5.338605547758943,high_collection,baseline
+461,Kenya,NMC811,Hydro,-7.846531183301433,high_collection,baseline
+462,Kiribati,LFP,Hydro,0.0,high_collection,baseline
+463,Kiribati,NCA,Hydro,-1855.9897962613138,high_collection,baseline
+464,Kiribati,NMC111,Hydro,-4817.083787883686,high_collection,baseline
+465,Kiribati,NMC523,Hydro,-4203.388449071134,high_collection,baseline
+466,Kiribati,NMC622,Hydro,-6874.47929188389,high_collection,baseline
+467,Kiribati,NMC811,Hydro,-8079.888934936886,high_collection,baseline
+468,Korea,LFP,Hydro,0.0,high_collection,baseline
+469,Korea,NCA,Hydro,7.5681355858487045,high_collection,baseline
+470,Korea,NMC111,Hydro,6.047034303676502,high_collection,baseline
+471,Korea,NMC523,Hydro,5.746304885655107,high_collection,baseline
+472,Korea,NMC622,Hydro,5.069699176082887,high_collection,baseline
+473,Korea,NMC811,Hydro,4.334974445470578,high_collection,baseline
+474,Kuwait,LFP,Hydro,0.0,high_collection,baseline
+475,Kuwait,NCA,Hydro,-672.4107999494286,high_collection,baseline
+476,Kuwait,NMC111,Hydro,-884.5785922240527,high_collection,baseline
+477,Kuwait,NMC523,Hydro,-1302.4038180025746,high_collection,baseline
+478,Kuwait,NMC622,Hydro,-2722.2367555459336,high_collection,baseline
+479,Kuwait,NMC811,Hydro,-8246.601148957769,high_collection,baseline
+480,Kyrgyzstan,LFP,Hydro,0.0,high_collection,baseline
+481,Kyrgyzstan,NCA,Hydro,-2062.555025438741,high_collection,baseline
+482,Kyrgyzstan,NMC111,Hydro,-2741.7560994229375,high_collection,baseline
+483,Kyrgyzstan,NMC523,Hydro,-5198.88593699957,high_collection,baseline
+484,Kyrgyzstan,NMC622,Hydro,-10943.500408202759,high_collection,baseline
+485,Kyrgyzstan,NMC811,Hydro,-40600.64127521678,high_collection,baseline
+486,Lao People's Dem. Rep.,LFP,Hydro,0.0,high_collection,baseline
+487,Lao People's Dem. Rep.,NCA,Hydro,5.53034841783259,high_collection,baseline
+488,Lao People's Dem. Rep.,NMC111,Hydro,-2.3050459646352923,high_collection,baseline
+489,Lao People's Dem. Rep.,NMC523,Hydro,-1.0032483455795198,high_collection,baseline
+490,Lao People's Dem. Rep.,NMC622,Hydro,-8.377843921464349,high_collection,baseline
+491,Lao People's Dem. Rep.,NMC811,Hydro,-12.433600569317472,high_collection,baseline
+492,Latvia,LFP,Hydro,-543.6343706610246,high_collection,baseline
+493,Latvia,NCA,Hydro,-5.575700332978137,high_collection,baseline
+494,Latvia,NMC111,Hydro,-12.030858446332257,high_collection,baseline
+495,Latvia,NMC523,Hydro,-11.160468395045774,high_collection,baseline
+496,Latvia,NMC622,Hydro,-21.286049163282698,high_collection,baseline
+497,Latvia,NMC811,Hydro,-31.83373196680985,high_collection,baseline
+498,Lebanon,LFP,Hydro,0.0,high_collection,baseline
+499,Lebanon,NCA,Hydro,3.911646403430413,high_collection,baseline
+500,Lebanon,NMC111,Hydro,-3.1780240815219187,high_collection,baseline
+501,Lebanon,NMC523,Hydro,-2.256817241540368,high_collection,baseline
+502,Lebanon,NMC622,Hydro,-7.618134898827831,high_collection,baseline
+503,Lebanon,NMC811,Hydro,-10.374331921413289,high_collection,baseline
+504,Lesotho,LFP,Hydro,0.0,high_collection,baseline
+505,Lesotho,NCA,Hydro,-67.65004071440478,high_collection,baseline
+506,Lesotho,NMC111,Hydro,-190.31932791849547,high_collection,baseline
+507,Lesotho,NMC523,Hydro,-163.2617198449658,high_collection,baseline
+508,Lesotho,NMC622,Hydro,-271.0659530299153,high_collection,baseline
+509,Lesotho,NMC811,Hydro,-319.5783608509957,high_collection,baseline
+510,Lithuania,LFP,Hydro,-407.2867092455815,high_collection,baseline
+511,Lithuania,NCA,Hydro,-2.03152203503004,high_collection,baseline
+512,Lithuania,NMC111,Hydro,-6.952183403230064,high_collection,baseline
+513,Lithuania,NMC523,Hydro,-6.446643421923657,high_collection,baseline
+514,Lithuania,NMC622,Hydro,-13.919850153412684,high_collection,baseline
+515,Lithuania,NMC811,Hydro,-21.87506232055263,high_collection,baseline
+516,Luxembourg,LFP,Hydro,-788.7563008863174,high_collection,baseline
+517,Luxembourg,NCA,Hydro,-11.56303931907743,high_collection,baseline
+518,Luxembourg,NMC111,Hydro,-20.620135382538507,high_collection,baseline
+519,Luxembourg,NMC523,Hydro,-19.13311860161199,high_collection,baseline
+520,Luxembourg,NMC622,Hydro,-33.75956937212518,high_collection,baseline
+521,Luxembourg,NMC811,Hydro,-48.69783475224894,high_collection,baseline
+522,Madagascar,LFP,Hydro,0.0,high_collection,baseline
+523,Madagascar,NCA,Hydro,-33.67881825210673,high_collection,baseline
+524,Madagascar,NMC111,Hydro,-101.72522760502552,high_collection,baseline
+525,Madagascar,NMC523,Hydro,-87.0046760912162,high_collection,baseline
+526,Madagascar,NMC622,Hydro,-146.48857636450816,high_collection,baseline
+527,Madagascar,NMC811,Hydro,-173.46429324998698,high_collection,baseline
+528,Malawi,LFP,Hydro,0.0,high_collection,baseline
+529,Malawi,NCA,Hydro,-8.906557298945128,high_collection,baseline
+530,Malawi,NMC111,Hydro,-37.092424825467766,high_collection,baseline
+531,Malawi,NMC523,Hydro,-31.414348458843598,high_collection,baseline
+532,Malawi,NMC622,Hydro,-55.66827502186749,high_collection,baseline
+533,Malawi,NMC811,Hydro,-66.9280700548055,high_collection,baseline
+534,Malaysia,LFP,Hydro,0.0,high_collection,baseline
+535,Malaysia,NCA,Hydro,-792.2108586032447,high_collection,baseline
+536,Malaysia,NMC111,Hydro,-2555.362625525833,high_collection,baseline
+537,Malaysia,NMC523,Hydro,-2458.050054675085,high_collection,baseline
+538,Malaysia,NMC622,Hydro,-4807.228164819137,high_collection,baseline
+539,Malaysia,NMC811,Hydro,-5940.777335793337,high_collection,baseline
+540,Maldives,LFP,Hydro,0.0,high_collection,baseline
+541,Maldives,NCA,Hydro,-218.0761683229167,high_collection,baseline
+542,Maldives,NMC111,Hydro,-794.6675210640379,high_collection,baseline
+543,Maldives,NMC523,Hydro,-653.3757982905986,high_collection,baseline
+544,Maldives,NMC622,Hydro,-1261.342643127804,high_collection,baseline
+545,Maldives,NMC811,Hydro,-1564.1226778577097,high_collection,baseline
+546,Mali,LFP,Hydro,0.0,high_collection,baseline
+547,Mali,NCA,Hydro,-106.12116078406994,high_collection,baseline
+548,Mali,NMC111,Hydro,-290.4385663998014,high_collection,baseline
+549,Mali,NMC523,Hydro,-249.52060719154912,high_collection,baseline
+550,Mali,NMC622,Hydro,-412.1188394162565,high_collection,baseline
+551,Mali,NMC811,Hydro,-485.30100647606116,high_collection,baseline
+552,Malta,LFP,Hydro,-1195.0655655317648,high_collection,baseline
+553,Malta,NCA,Hydro,-19.781952037561535,high_collection,baseline
+554,Malta,NMC111,Hydro,-32.781719720762275,high_collection,baseline
+555,Malta,NMC523,Hydro,-30.347931780065252,high_collection,baseline
+556,Malta,NMC622,Hydro,-51.976979248576924,high_collection,baseline
+557,Malta,NMC811,Hydro,-73.95046958257217,high_collection,baseline
+558,Mauritania,LFP,Hydro,0.0,high_collection,baseline
+559,Mauritania,NCA,Hydro,-26584.466580875185,high_collection,baseline
+560,Mauritania,NMC111,Hydro,-64646.56153649751,high_collection,baseline
+561,Mauritania,NMC523,Hydro,-58604.74067802485,high_collection,baseline
+562,Mauritania,NMC622,Hydro,0.0,high_collection,baseline
+563,Mauritania,NMC811,Hydro,0.0,high_collection,baseline
+564,Mauritius,LFP,Hydro,0.0,high_collection,baseline
+565,Mauritius,NCA,Hydro,-26.627426797269315,high_collection,baseline
+566,Mauritius,NMC111,Hydro,-83.29093749109681,high_collection,baseline
+567,Mauritius,NMC523,Hydro,-71.17474305437035,high_collection,baseline
+568,Mauritius,NMC622,Hydro,-120.64191115954215,high_collection,baseline
+569,Mauritius,NMC811,Hydro,-143.17170723565513,high_collection,baseline
+570,Mexico,LFP,Hydro,0.0,high_collection,baseline
+571,Mexico,NCA,Hydro,6.91218935744061,high_collection,baseline
+572,Mexico,NMC111,Hydro,4.041616510767184,high_collection,baseline
+573,Mexico,NMC523,Hydro,4.035618467372952,high_collection,baseline
+574,Mexico,NMC622,Hydro,2.231648648309828,high_collection,baseline
+575,Mexico,NMC811,Hydro,1.014433501601543,high_collection,baseline
+576,Mongolia,LFP,Hydro,0.0,high_collection,baseline
+577,Mongolia,NCA,Hydro,-62.6559788750389,high_collection,baseline
+578,Mongolia,NMC111,Hydro,-217.11236522652618,high_collection,baseline
+579,Mongolia,NMC523,Hydro,-180.78524023717924,high_collection,baseline
+580,Mongolia,NMC622,Hydro,-332.55712368379744,high_collection,baseline
+581,Mongolia,NMC811,Hydro,-405.34408704480677,high_collection,baseline
+582,Montenegro,LFP,Hydro,0.0,high_collection,baseline
+583,Montenegro,NCA,Hydro,-117.89225002105238,high_collection,baseline
+584,Montenegro,NMC111,Hydro,-300.89303996632293,high_collection,baseline
+585,Montenegro,NMC523,Hydro,-261.5406117230132,high_collection,baseline
+586,Montenegro,NMC622,Hydro,-418.21501177983185,high_collection,baseline
+587,Montenegro,NMC811,Hydro,-487.48302584740156,high_collection,baseline
+588,Morocco,LFP,Hydro,0.0,high_collection,baseline
+589,Morocco,NCA,Hydro,-7.55314109514053,high_collection,baseline
+590,Morocco,NMC111,Hydro,-33.60269853641265,high_collection,baseline
+591,Morocco,NMC523,Hydro,-28.382680349153908,high_collection,baseline
+592,Morocco,NMC622,Hydro,-50.6984005988062,high_collection,baseline
+593,Morocco,NMC811,Hydro,-61.07268917628215,high_collection,baseline
+594,Mozambique,LFP,Hydro,0.0,high_collection,baseline
+595,Mozambique,NCA,Hydro,-5830.954555611114,high_collection,baseline
+596,Mozambique,NMC111,Hydro,-7905.111775180857,high_collection,baseline
+597,Mozambique,NMC523,Hydro,-10373.166705274713,high_collection,baseline
+598,Mozambique,NMC622,Hydro,-22751.455612703976,high_collection,baseline
+599,Mozambique,NMC811,Hydro,-86979.7308480432,high_collection,baseline
+600,Myanmar,LFP,Hydro,0.0,high_collection,baseline
+601,Myanmar,NCA,Hydro,2.3349484790553436,high_collection,baseline
+602,Myanmar,NMC111,Hydro,-13.699317441403336,high_collection,baseline
+603,Myanmar,NMC523,Hydro,-10.340903882142966,high_collection,baseline
+604,Myanmar,NMC622,Hydro,-26.29373466708723,high_collection,baseline
+605,Myanmar,NMC811,Hydro,-34.578032368337176,high_collection,baseline
+606,Namibia,LFP,Hydro,0.0,high_collection,baseline
+607,Namibia,NCA,Hydro,-23.358637179140818,high_collection,baseline
+608,Namibia,NMC111,Hydro,-74.78387028014737,high_collection,baseline
+609,Namibia,NMC523,Hydro,-63.855281026172285,high_collection,baseline
+610,Namibia,NMC622,Hydro,-108.66718460949163,high_collection,baseline
+611,Namibia,NMC811,Hydro,-129.07918029737652,high_collection,baseline
+612,Nepal,LFP,Hydro,0.0,high_collection,baseline
+613,Nepal,NCA,Hydro,-79.67536920936487,high_collection,baseline
+614,Nepal,NMC111,Hydro,-302.46833908857343,high_collection,baseline
+615,Nepal,NMC523,Hydro,-249.57854653591733,high_collection,baseline
+616,Nepal,NMC622,Hydro,-486.50011224558426,high_collection,baseline
+617,Nepal,NMC811,Hydro,-605.8928785455723,high_collection,baseline
+618,Netherlands,LFP,Hydro,-111.44425469923769,high_collection,baseline
+619,Netherlands,NCA,Hydro,5.549328237097637,high_collection,baseline
+620,Netherlands,NMC111,Hydro,4.003117410934951,high_collection,baseline
+621,Netherlands,NMC523,Hydro,3.7048896898559103,high_collection,baseline
+622,Netherlands,NMC622,Hydro,2.0921128250291963,high_collection,baseline
+623,Netherlands,NMC811,Hydro,-0.125718181569417,high_collection,baseline
+624,New Caledonia,LFP,Hydro,0.0,high_collection,baseline
+625,New Caledonia,NCA,Hydro,-12280.832115153424,high_collection,baseline
+626,New Caledonia,NMC111,Hydro,-20398.399110775135,high_collection,baseline
+627,New Caledonia,NMC523,Hydro,0.0,high_collection,baseline
+628,New Caledonia,NMC622,Hydro,0.0,high_collection,baseline
+629,New Caledonia,NMC811,Hydro,0.0,high_collection,baseline
+630,New Zealand,LFP,Hydro,0.0,high_collection,baseline
+631,New Zealand,NCA,Hydro,3.2603988422614965,high_collection,baseline
+632,New Zealand,NMC111,Hydro,-4.67387723207522,high_collection,baseline
+633,New Zealand,NMC523,Hydro,-3.5748997336492168,high_collection,baseline
+634,New Zealand,NMC622,Hydro,-9.682083662303722,high_collection,baseline
+635,New Zealand,NMC811,Hydro,-12.776665977176002,high_collection,baseline
+636,Nicaragua,LFP,Hydro,0.0,high_collection,baseline
+637,Nicaragua,NCA,Hydro,-16.396994592223255,high_collection,baseline
+638,Nicaragua,NMC111,Hydro,-57.79389778840752,high_collection,baseline
+639,Nicaragua,NMC523,Hydro,-49.06844560036771,high_collection,baseline
+640,Nicaragua,NMC622,Hydro,-85.3530846991177,high_collection,baseline
+641,Nicaragua,NMC811,Hydro,-102.08105781018601,high_collection,baseline
+642,Niger,LFP,Hydro,0.0,high_collection,baseline
+643,Niger,NCA,Hydro,-34.28293697045442,high_collection,baseline
+644,Niger,NMC111,Hydro,-103.31968574187086,high_collection,baseline
+645,Niger,NMC523,Hydro,-88.37453050433538,high_collection,baseline
+646,Niger,NMC622,Hydro,-148.7101967966246,high_collection,baseline
+647,Niger,NMC811,Hydro,-176.04190600384865,high_collection,baseline
+648,Nigeria,LFP,Hydro,0.0,high_collection,baseline
+649,Nigeria,NCA,Hydro,6.978037950527202,high_collection,baseline
+650,Nigeria,NMC111,Hydro,4.271422248858203,high_collection,baseline
+651,Nigeria,NMC523,Hydro,4.22479728452152,high_collection,baseline
+652,Nigeria,NMC622,Hydro,2.5868592507298462,high_collection,baseline
+653,Nigeria,NMC811,Hydro,1.44872425651793,high_collection,baseline
+654,North Macedonia,LFP,Hydro,0.0,high_collection,baseline
+655,North Macedonia,NCA,Hydro,-68.71676073901722,high_collection,baseline
+656,North Macedonia,NMC111,Hydro,-179.44004549917918,high_collection,baseline
+657,North Macedonia,NMC523,Hydro,-156.75524892135815,high_collection,baseline
+658,North Macedonia,NMC622,Hydro,-252.6137659888602,high_collection,baseline
+659,North Macedonia,NMC811,Hydro,-295.5262489498551,high_collection,baseline
+660,Norway,LFP,Hydro,0.0,high_collection,baseline
+661,Norway,NCA,Hydro,3.135098826062075,high_collection,baseline
+662,Norway,NMC111,Hydro,-3.995664103692728,high_collection,baseline
+663,Norway,NMC523,Hydro,-3.2544219067849154,high_collection,baseline
+664,Norway,NMC622,Hydro,-8.798107473927923,high_collection,baseline
+665,Norway,NMC811,Hydro,-11.746920758894985,high_collection,baseline
+666,Oman,LFP,Hydro,0.0,high_collection,baseline
+667,Oman,NCA,Hydro,-24.990014259486493,high_collection,baseline
+668,Oman,NMC111,Hydro,-74.89011351088868,high_collection,baseline
+669,Oman,NMC523,Hydro,-64.56859503911518,high_collection,baseline
+670,Oman,NMC622,Hydro,-107.03002173013459,high_collection,baseline
+671,Oman,NMC811,Hydro,-126.14344986793746,high_collection,baseline
+672,Pakistan,LFP,Hydro,0.0,high_collection,baseline
+673,Pakistan,NCA,Hydro,7.677032913757845,high_collection,baseline
+674,Pakistan,NMC111,Hydro,5.358672191670374,high_collection,baseline
+675,Pakistan,NMC523,Hydro,5.27304568956248,high_collection,baseline
+676,Pakistan,NMC622,Hydro,3.6624266614096523,high_collection,baseline
+677,Pakistan,NMC811,Hydro,2.440999504011276,high_collection,baseline
+678,Palau,LFP,Hydro,0.0,high_collection,baseline
+679,Palau,NCA,Hydro,-1655.0657166380247,high_collection,baseline
+680,Palau,NMC111,Hydro,-4285.471006743425,high_collection,baseline
+681,Palau,NMC523,Hydro,-3758.567197692155,high_collection,baseline
+682,Palau,NMC622,Hydro,-6153.1986590836705,high_collection,baseline
+683,Palau,NMC811,Hydro,-7218.550286558634,high_collection,baseline
+684,Panama,LFP,Hydro,0.0,high_collection,baseline
+685,Panama,NCA,Hydro,-1185.9273519596036,high_collection,baseline
+686,Panama,NMC111,Hydro,-2025.1743698618225,high_collection,baseline
+687,Panama,NMC523,Hydro,-2535.4647610537954,high_collection,baseline
+688,Panama,NMC622,Hydro,-4827.230632295549,high_collection,baseline
+689,Panama,NMC811,Hydro,-8535.262051732674,high_collection,baseline
+690,Papua New Guinea,LFP,Hydro,0.0,high_collection,baseline
+691,Papua New Guinea,NCA,Hydro,0.0,high_collection,baseline
+692,Papua New Guinea,NMC111,Hydro,0.0,high_collection,baseline
+693,Papua New Guinea,NMC523,Hydro,0.0,high_collection,baseline
+694,Papua New Guinea,NMC622,Hydro,0.0,high_collection,baseline
+695,Papua New Guinea,NMC811,Hydro,0.0,high_collection,baseline
+696,Paraguay,LFP,Hydro,0.0,high_collection,baseline
+697,Paraguay,NCA,Hydro,-31.251106095067392,high_collection,baseline
+698,Paraguay,NMC111,Hydro,-97.04967531711426,high_collection,baseline
+699,Paraguay,NMC523,Hydro,-82.90735740010388,high_collection,baseline
+700,Paraguay,NMC622,Hydro,-141.21409453645734,high_collection,baseline
+701,Paraguay,NMC811,Hydro,-167.94194245888718,high_collection,baseline
+702,Peru,LFP,Hydro,0.0,high_collection,baseline
+703,Peru,NCA,Hydro,-0.7640126126762503,high_collection,baseline
+704,Peru,NMC111,Hydro,-16.26449342791652,high_collection,baseline
+705,Peru,NMC523,Hydro,-13.456791555474462,high_collection,baseline
+706,Peru,NMC622,Hydro,-26.644492843328116,high_collection,baseline
+707,Peru,NMC811,Hydro,-33.01847329018115,high_collection,baseline
+708,Philippines,LFP,Hydro,0.0,high_collection,baseline
+709,Philippines,NCA,Hydro,8.26496526746695,high_collection,baseline
+710,Philippines,NMC111,Hydro,7.454681642224251,high_collection,baseline
+711,Philippines,NMC523,Hydro,6.9901107856882945,high_collection,baseline
+712,Philippines,NMC622,Hydro,6.954318606335855,high_collection,baseline
+713,Philippines,NMC811,Hydro,6.5072555697077,high_collection,baseline
+714,Poland,LFP,Hydro,-264.03843660307285,high_collection,baseline
+715,Poland,NCA,Hydro,2.5794346035939637,high_collection,baseline
+716,Poland,NMC111,Hydro,-0.41962112155406084,high_collection,baseline
+717,Poland,NMC523,Hydro,-0.36800111707316346,high_collection,baseline
+718,Poland,NMC622,Hydro,-4.559585285307047,high_collection,baseline
+719,Poland,NMC811,Hydro,-9.355753383795323,high_collection,baseline
+720,Portugal,LFP,Hydro,-170.54549446635755,high_collection,baseline
+721,Portugal,NCA,Hydro,4.593719914587219,high_collection,baseline
+722,Portugal,NMC111,Hydro,2.548825613183678,high_collection,baseline
+723,Portugal,NMC523,Hydro,2.3711076842787286,high_collection,baseline
+724,Portugal,NMC622,Hydro,-0.14326400280612575,high_collection,baseline
+725,Portugal,NMC811,Hydro,-3.2785692678502447,high_collection,baseline
+726,Qatar,LFP,Hydro,0.0,high_collection,baseline
+727,Qatar,NCA,Hydro,-751.9869139137908,high_collection,baseline
+728,Qatar,NMC111,Hydro,-1190.1913166010995,high_collection,baseline
+729,Qatar,NMC523,Hydro,-1639.2578488714053,high_collection,baseline
+730,Qatar,NMC622,Hydro,-3171.137118815907,high_collection,baseline
+731,Qatar,NMC811,Hydro,-5638.003374971762,high_collection,baseline
+732,Rep. of Moldova,LFP,Hydro,0.0,high_collection,baseline
+733,Rep. of Moldova,NCA,Hydro,-40.848066381696704,high_collection,baseline
+734,Rep. of Moldova,NMC111,Hydro,-119.01095358838681,high_collection,baseline
+735,Rep. of Moldova,NMC523,Hydro,-102.17180713725975,high_collection,baseline
+736,Rep. of Moldova,NMC622,Hydro,-170.4032056212356,high_collection,baseline
+737,Rep. of Moldova,NMC811,Hydro,-201.1907280847708,high_collection,baseline
+738,Romania,LFP,Hydro,-10.408050170110403,high_collection,baseline
+739,Romania,NCA,Hydro,8.036617825735707,high_collection,baseline
+740,Romania,NMC111,Hydro,7.557790739000916,high_collection,baseline
+741,Romania,NMC523,Hydro,7.009245149418429,high_collection,baseline
+742,Romania,NMC622,Hydro,7.244390822311418,high_collection,baseline
+743,Romania,NMC811,Hydro,6.827078699774028,high_collection,baseline
+744,Russian Federation,LFP,Hydro,0.0,high_collection,baseline
+745,Russian Federation,NCA,Hydro,6.478231359557929,high_collection,baseline
+746,Russian Federation,NMC111,Hydro,1.496172769706254,high_collection,baseline
+747,Russian Federation,NMC523,Hydro,2.089697015497501,high_collection,baseline
+748,Russian Federation,NMC622,Hydro,-2.2993587287448696,high_collection,baseline
+749,Russian Federation,NMC811,Hydro,-4.88129044368083,high_collection,baseline
+750,Rwanda,LFP,Hydro,0.0,high_collection,baseline
+751,Rwanda,NCA,Hydro,-1317.6293395780772,high_collection,baseline
+752,Rwanda,NMC111,Hydro,-1917.9199632976038,high_collection,baseline
+753,Rwanda,NMC523,Hydro,-3444.3746933566063,high_collection,baseline
+754,Rwanda,NMC622,Hydro,-6395.748305854988,high_collection,baseline
+755,Rwanda,NMC811,Hydro,-12657.904059164843,high_collection,baseline
+756,Saint Lucia,LFP,Hydro,0.0,high_collection,baseline
+757,Saint Lucia,NCA,Hydro,-438.9334625811101,high_collection,baseline
+758,Saint Lucia,NMC111,Hydro,-1171.5102203239362,high_collection,baseline
+759,Saint Lucia,NMC523,Hydro,-1010.1395432578338,high_collection,baseline
+760,Saint Lucia,NMC622,Hydro,-1673.2609622598916,high_collection,baseline
+761,Saint Lucia,NMC811,Hydro,-1975.2152410093795,high_collection,baseline
+762,Samoa,LFP,Hydro,0.0,high_collection,baseline
+763,Samoa,NCA,Hydro,-1732.3279078486978,high_collection,baseline
+764,Samoa,NMC111,Hydro,-4518.944095646843,high_collection,baseline
+765,Samoa,NMC523,Hydro,-3896.277104631567,high_collection,baseline
+766,Samoa,NMC622,Hydro,-6375.9396016134815,high_collection,baseline
+767,Samoa,NMC811,Hydro,-7489.082641121924,high_collection,baseline
+768,Saudi Arabia,LFP,Hydro,0.0,high_collection,baseline
+769,Saudi Arabia,NCA,Hydro,2.8841245179368062,high_collection,baseline
+770,Saudi Arabia,NMC111,Hydro,-5.70084973282745,high_collection,baseline
+771,Saudi Arabia,NMC523,Hydro,-4.471527354183555,high_collection,baseline
+772,Saudi Arabia,NMC622,Hydro,-11.16020980267689,high_collection,baseline
+773,Saudi Arabia,NMC811,Hydro,-14.51935422148206,high_collection,baseline
+774,Senegal,LFP,Hydro,0.0,high_collection,baseline
+775,Senegal,NCA,Hydro,1.8230386241632042,high_collection,baseline
+776,Senegal,NMC111,Hydro,-9.17540576452148,high_collection,baseline
+777,Senegal,NMC523,Hydro,-7.343981340059068,high_collection,baseline
+778,Senegal,NMC622,Hydro,-16.314144561229227,high_collection,baseline
+779,Senegal,NMC811,Hydro,-20.71654985148725,high_collection,baseline
+780,Serbia,LFP,Hydro,0.0,high_collection,baseline
+781,Serbia,NCA,Hydro,-22.703553863974918,high_collection,baseline
+782,Serbia,NMC111,Hydro,-69.01820076405889,high_collection,baseline
+783,Serbia,NMC523,Hydro,-59.408810393698985,high_collection,baseline
+784,Serbia,NMC622,Hydro,-98.61810634572016,high_collection,baseline
+785,Serbia,NMC811,Hydro,-116.15839027743027,high_collection,baseline
+786,Seychelles,LFP,Hydro,0.0,high_collection,baseline
+787,Seychelles,NCA,Hydro,-108.30977981325813,high_collection,baseline
+788,Seychelles,NMC111,Hydro,-296.3922750533384,high_collection,baseline
+789,Seychelles,NMC523,Hydro,-254.49008719210707,high_collection,baseline
+790,Seychelles,NMC622,Hydro,-420.1282594775141,high_collection,baseline
+791,Seychelles,NMC811,Hydro,-494.33861073460133,high_collection,baseline
+792,Sierra Leone,LFP,Hydro,0.0,high_collection,baseline
+793,Sierra Leone,NCA,Hydro,-277.6534884281127,high_collection,baseline
+794,Sierra Leone,NMC111,Hydro,-736.019181079352,high_collection,baseline
+795,Sierra Leone,NMC523,Hydro,-634.056872347235,high_collection,baseline
+796,Sierra Leone,NMC622,Hydro,-1041.2096842561332,high_collection,baseline
+797,Sierra Leone,NMC811,Hydro,-1224.5702286965989,high_collection,baseline
+798,Singapore,LFP,Hydro,0.0,high_collection,baseline
+799,Singapore,NCA,Hydro,0.0,high_collection,baseline
+800,Singapore,NMC111,Hydro,0.0,high_collection,baseline
+801,Singapore,NMC523,Hydro,0.0,high_collection,baseline
+802,Singapore,NMC622,Hydro,0.0,high_collection,baseline
+803,Singapore,NMC811,Hydro,0.0,high_collection,baseline
+804,Slovakia,LFP,Hydro,-27.81821980198166,high_collection,baseline
+805,Slovakia,NCA,Hydro,7.644832873738108,high_collection,baseline
+806,Slovakia,NMC111,Hydro,6.990103713035936,high_collection,baseline
+807,Slovakia,NMC523,Hydro,6.483495558748732,high_collection,baseline
+808,Slovakia,NMC622,Hydro,6.411698963511334,high_collection,baseline
+809,Slovakia,NMC811,Hydro,5.691770515419957,high_collection,baseline
+810,Slovenia,LFP,Hydro,-484.5542280997762,high_collection,baseline
+811,Slovenia,NCA,Hydro,-3.0647158850070872,high_collection,baseline
+812,Slovenia,NMC111,Hydro,-8.554595639866424,high_collection,baseline
+813,Slovenia,NMC523,Hydro,-7.909895660600704,high_collection,baseline
+814,Slovenia,NMC622,Hydro,-16.430138019859644,high_collection,baseline
+815,Slovenia,NMC811,Hydro,-25.47995023194414,high_collection,baseline
+816,Solomon Isds,LFP,Hydro,0.0,high_collection,baseline
+817,Solomon Isds,NCA,Hydro,-1889.4974918494177,high_collection,baseline
+818,Solomon Isds,NMC111,Hydro,-4829.115468658721,high_collection,baseline
+819,Solomon Isds,NMC523,Hydro,-4266.553378515423,high_collection,baseline
+820,Solomon Isds,NMC622,Hydro,-6995.644414722247,high_collection,baseline
+821,Solomon Isds,NMC811,Hydro,-8264.375237637576,high_collection,baseline
+822,South Africa,LFP,Hydro,0.0,high_collection,baseline
+823,South Africa,NCA,Hydro,-57.83188748159548,high_collection,baseline
+824,South Africa,NMC111,Hydro,-163.9598420572312,high_collection,baseline
+825,South Africa,NMC523,Hydro,-141.24339618027255,high_collection,baseline
+826,South Africa,NMC622,Hydro,-235.26850290275843,high_collection,baseline
+827,South Africa,NMC811,Hydro,-277.85202195382186,high_collection,baseline
+828,Spain,LFP,Hydro,-56.58268204278541,high_collection,baseline
+829,Spain,NCA,Hydro,7.081354763442697,high_collection,baseline
+830,Spain,NMC111,Hydro,6.141096474894464,high_collection,baseline
+831,Spain,NMC523,Hydro,5.7015588136188455,high_collection,baseline
+832,Spain,NMC622,Hydro,5.120153630555202,high_collection,baseline
+833,Spain,NMC811,Hydro,3.8980845114440346,high_collection,baseline
+834,Sri Lanka,LFP,Hydro,0.0,high_collection,baseline
+835,Sri Lanka,NCA,Hydro,8.145977218643147,high_collection,baseline
+836,Sri Lanka,NMC111,Hydro,7.030780017053498,high_collection,baseline
+837,Sri Lanka,NMC523,Hydro,6.642858909150861,high_collection,baseline
+838,Sri Lanka,NMC622,Hydro,6.288946670356746,high_collection,baseline
+839,Sri Lanka,NMC811,Hydro,5.68559764345145,high_collection,baseline
+840,State of Palestine,LFP,Hydro,0.0,high_collection,baseline
+841,State of Palestine,NCA,Hydro,-252.92148892594346,high_collection,baseline
+842,State of Palestine,NMC111,Hydro,-637.7072219758052,high_collection,baseline
+843,State of Palestine,NMC523,Hydro,-555.8074919429786,high_collection,baseline
+844,State of Palestine,NMC622,Hydro,-891.5086147778637,high_collection,baseline
+845,State of Palestine,NMC811,Hydro,-1040.9018801774694,high_collection,baseline
+846,Sudan,LFP,Hydro,0.0,high_collection,baseline
+847,Sudan,NCA,Hydro,-936.584660082969,high_collection,baseline
+848,Sudan,NMC111,Hydro,-2390.7797223310786,high_collection,baseline
+849,Sudan,NMC523,Hydro,-2282.9526584298137,high_collection,baseline
+850,Sudan,NMC622,Hydro,-3741.8331019594943,high_collection,baseline
+851,Sudan,NMC811,Hydro,-4408.815551341974,high_collection,baseline
+852,Sweden,LFP,Hydro,-160.06891489040768,high_collection,baseline
+853,Sweden,NCA,Hydro,4.307754751330758,high_collection,baseline
+854,Sweden,NMC111,Hydro,2.2836350420843363,high_collection,baseline
+855,Sweden,NMC523,Hydro,2.0956280691759837,high_collection,baseline
+856,Sweden,NMC622,Hydro,-0.3395865269527104,high_collection,baseline
+857,Sweden,NMC811,Hydro,-3.3688116274480797,high_collection,baseline
+858,Switzerland,LFP,Hydro,0.0,high_collection,baseline
+859,Switzerland,NCA,Hydro,4.462835564205863,high_collection,baseline
+860,Switzerland,NMC111,Hydro,-0.9040446211521664,high_collection,baseline
+861,Switzerland,NMC523,Hydro,-0.38846717941224923,high_collection,baseline
+862,Switzerland,NMC622,Hydro,-4.125060626718864,high_collection,baseline
+863,Switzerland,NMC811,Hydro,-6.129021493980378,high_collection,baseline
+864,Tajikistan,LFP,Hydro,0.0,high_collection,baseline
+865,Tajikistan,NCA,Hydro,-119.19297972672702,high_collection,baseline
+866,Tajikistan,NMC111,Hydro,-324.4926791857236,high_collection,baseline
+867,Tajikistan,NMC523,Hydro,-278.8477919084867,high_collection,baseline
+868,Tajikistan,NMC622,Hydro,-460.05397151466525,high_collection,baseline
+869,Tajikistan,NMC811,Hydro,-541.4541525417285,high_collection,baseline
+870,Thailand,LFP,Hydro,0.0,high_collection,baseline
+871,Thailand,NCA,Hydro,6.679443104145181,high_collection,baseline
+872,Thailand,NMC111,Hydro,1.9527082751009204,high_collection,baseline
+873,Thailand,NMC523,Hydro,2.457759218809555,high_collection,baseline
+874,Thailand,NMC622,Hydro,-1.6923507033526268,high_collection,baseline
+875,Thailand,NMC811,Hydro,-4.169896898560355,high_collection,baseline
+876,Togo,LFP,Hydro,0.0,high_collection,baseline
+877,Togo,NCA,Hydro,-44.11421107961256,high_collection,baseline
+878,Togo,NMC111,Hydro,-128.60359560569484,high_collection,baseline
+879,Togo,NMC523,Hydro,-110.42254783797256,high_collection,baseline
+880,Togo,NMC622,Hydro,-184.84168707526396,high_collection,baseline
+881,Togo,NMC811,Hydro,-218.5825149007373,high_collection,baseline
+882,Tonga,LFP,Hydro,0.0,high_collection,baseline
+883,Tonga,NCA,Hydro,0.0,high_collection,baseline
+884,Tonga,NMC111,Hydro,0.0,high_collection,baseline
+885,Tonga,NMC523,Hydro,0.0,high_collection,baseline
+886,Tonga,NMC622,Hydro,0.0,high_collection,baseline
+887,Tonga,NMC811,Hydro,0.0,high_collection,baseline
+888,Trinidad and Tobago,LFP,Hydro,0.0,high_collection,baseline
+889,Trinidad and Tobago,NCA,Hydro,-22.1944597317286,high_collection,baseline
+890,Trinidad and Tobago,NMC111,Hydro,-73.22971465850034,high_collection,baseline
+891,Trinidad and Tobago,NMC523,Hydro,-62.27571150036713,high_collection,baseline
+892,Trinidad and Tobago,NMC622,Hydro,-107.11338025672032,high_collection,baseline
+893,Trinidad and Tobago,NMC811,Hydro,-127.62344428518848,high_collection,baseline
+894,Tunisia,LFP,Hydro,0.0,high_collection,baseline
+895,Tunisia,NCA,Hydro,-76.85832724220708,high_collection,baseline
+896,Tunisia,NMC111,Hydro,-213.2082987146623,high_collection,baseline
+897,Tunisia,NMC523,Hydro,-183.8577451608524,high_collection,baseline
+898,Tunisia,NMC622,Hydro,-305.1429291357674,high_collection,baseline
+899,Tunisia,NMC811,Hydro,-360.23704369747503,high_collection,baseline
+900,Turkey,LFP,Hydro,0.0,high_collection,baseline
+901,Turkey,NCA,Hydro,9.05588221444795,high_collection,baseline
+902,Turkey,NMC111,Hydro,9.815878316394818,high_collection,baseline
+903,Turkey,NMC523,Hydro,8.986426060687718,high_collection,baseline
+904,Turkey,NMC622,Hydro,10.394556148664849,high_collection,baseline
+905,Turkey,NMC811,Hydro,10.608735466280207,high_collection,baseline
+906,USA,LFP,Hydro,-2866.935646683207,high_collection,baseline
+907,USA,NCA,Hydro,7.863209508345883,high_collection,baseline
+908,USA,NMC111,Hydro,5.801245378524914,high_collection,baseline
+909,USA,NMC523,Hydro,5.391656103602159,high_collection,baseline
+910,USA,NMC622,Hydro,4.59362426356693,high_collection,baseline
+911,USA,NMC811,Hydro,4.861905890208862,high_collection,baseline
+912,Uganda,LFP,Hydro,0.0,high_collection,baseline
+913,Uganda,NCA,Hydro,5.937073695199307,high_collection,baseline
+914,Uganda,NMC111,Hydro,1.5562497134503666,high_collection,baseline
+915,Uganda,NMC523,Hydro,1.8886452737114423,high_collection,baseline
+916,Uganda,NMC622,Hydro,-1.2299731587633023,high_collection,baseline
+917,Uganda,NMC811,Hydro,-3.027858512296799,high_collection,baseline
+918,Ukraine,LFP,Hydro,0.0,high_collection,baseline
+919,Ukraine,NCA,Hydro,-190.42331809600628,high_collection,baseline
+920,Ukraine,NMC111,Hydro,-290.12573075993265,high_collection,baseline
+921,Ukraine,NMC523,Hydro,-381.11848888856287,high_collection,baseline
+922,Ukraine,NMC622,Hydro,-783.6134876721628,high_collection,baseline
+923,Ukraine,NMC811,Hydro,-1600.4629354595802,high_collection,baseline
+924,United Arab Emirates,LFP,Hydro,0.0,high_collection,baseline
+925,United Arab Emirates,NCA,Hydro,-81.99688132362498,high_collection,baseline
+926,United Arab Emirates,NMC111,Hydro,-133.90407967385613,high_collection,baseline
+927,United Arab Emirates,NMC523,Hydro,-189.05779945261693,high_collection,baseline
+928,United Arab Emirates,NMC622,Hydro,-378.25162224097556,high_collection,baseline
+929,United Arab Emirates,NMC811,Hydro,-677.0174398620537,high_collection,baseline
+930,United Kingdom,LFP,Hydro,0.0,high_collection,baseline
+931,United Kingdom,NCA,Hydro,7.503976937198927,high_collection,baseline
+932,United Kingdom,NMC111,Hydro,5.876180096681303,high_collection,baseline
+933,United Kingdom,NMC523,Hydro,5.578943412094988,high_collection,baseline
+934,United Kingdom,NMC622,Hydro,4.940511817708284,high_collection,baseline
+935,United Kingdom,NMC811,Hydro,4.260347843885693,high_collection,baseline
+936,United Rep. of Tanzania,LFP,Hydro,0.0,high_collection,baseline
+937,United Rep. of Tanzania,NCA,Hydro,-3.098016835427991,high_collection,baseline
+938,United Rep. of Tanzania,NMC111,Hydro,-21.981119983569762,high_collection,baseline
+939,United Rep. of Tanzania,NMC523,Hydro,-18.384834395044763,high_collection,baseline
+940,United Rep. of Tanzania,NMC622,Hydro,-34.36379190850887,high_collection,baseline
+941,United Rep. of Tanzania,NMC811,Hydro,-41.90687002388285,high_collection,baseline
+942,Uruguay,LFP,Hydro,0.0,high_collection,baseline
+943,Uruguay,NCA,Hydro,-58.279045585016526,high_collection,baseline
+944,Uruguay,NMC111,Hydro,-167.44540526808967,high_collection,baseline
+945,Uruguay,NMC523,Hydro,-143.94512354404637,high_collection,baseline
+946,Uruguay,NMC622,Hydro,-241.85054466036894,high_collection,baseline
+947,Uruguay,NMC811,Hydro,-286.69850154010066,high_collection,baseline
+948,Uzbekistan,LFP,Hydro,0.0,high_collection,baseline
+949,Uzbekistan,NCA,Hydro,-9.260507944143622,high_collection,baseline
+950,Uzbekistan,NMC111,Hydro,-38.073509253546696,high_collection,baseline
+951,Uzbekistan,NMC523,Hydro,-32.21396741732884,high_collection,baseline
+952,Uzbekistan,NMC622,Hydro,-56.952827366081536,high_collection,baseline
+953,Uzbekistan,NMC811,Hydro,-68.39140552957105,high_collection,baseline
+954,Viet Nam,LFP,Hydro,0.0,high_collection,baseline
+955,Viet Nam,NCA,Hydro,9.016664323629854,high_collection,baseline
+956,Viet Nam,NMC111,Hydro,10.139935244019384,high_collection,baseline
+957,Viet Nam,NMC523,Hydro,9.199573792623722,high_collection,baseline
+958,Viet Nam,NMC622,Hydro,11.204285455442818,high_collection,baseline
+959,Viet Nam,NMC811,Hydro,11.765088488629788,high_collection,baseline
+960,Yemen,LFP,Hydro,0.0,high_collection,baseline
+961,Yemen,NCA,Hydro,-18.750121199762727,high_collection,baseline
+962,Yemen,NMC111,Hydro,-59.535853254497056,high_collection,baseline
+963,Yemen,NMC523,Hydro,-51.1228013668663,high_collection,baseline
+964,Yemen,NMC622,Hydro,-85.534824966036,high_collection,baseline
+965,Yemen,NMC811,Hydro,-101.08718019638027,high_collection,baseline
+966,Zambia,LFP,Hydro,0.0,high_collection,baseline
+967,Zambia,NCA,Hydro,-1104.6142996865353,high_collection,baseline
+968,Zambia,NMC111,Hydro,-1825.244323883856,high_collection,baseline
+969,Zambia,NMC523,Hydro,-3223.232909648103,high_collection,baseline
+970,Zambia,NMC622,Hydro,-6489.71672108875,high_collection,baseline
+971,Zambia,NMC811,Hydro,-13758.18309111681,high_collection,baseline
+972,Zimbabwe,LFP,Hydro,0.0,high_collection,baseline
+973,Zimbabwe,NCA,Hydro,-868.887551921381,high_collection,baseline
+974,Zimbabwe,NMC111,Hydro,-1937.4007438231422,high_collection,baseline
+975,Zimbabwe,NMC523,Hydro,-1960.8522591867727,high_collection,baseline
+976,Zimbabwe,NMC622,Hydro,-3266.806823741505,high_collection,baseline
+977,Zimbabwe,NMC811,Hydro,-4676.127801536529,high_collection,baseline

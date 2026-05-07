@@ -1,0 +1,59 @@
+year,source_iso3,destination_iso3,critical_route_strict_policy,open_policy,delta_scrap_t,source_country,destination_country,route,change_type
+2045,IND,CHN,0.0,19916733.491700303,-19916733.491700303,India,China,India -> China,reduced_or_removed
+2045,USA,KOR,0.0,10781854.285446748,-10781854.285446748,USA,Korea,USA -> Korea,reduced_or_removed
+2045,CAN,KOR,0.0,1333291.3881328288,-1333291.3881328288,Canada,Korea,Canada -> Korea,reduced_or_removed
+2045,BRA,RUS,0.0,1014372.9220415764,-1014372.9220415764,Brazil,Russian Federation,Brazil -> Russian Federation,reduced_or_removed
+2045,IND,THA,0.0,955928.832265047,-955928.832265047,India,Thailand,India -> Thailand,reduced_or_removed
+2045,BRA,CHN,0.0,587125.3445928518,-587125.3445928518,Brazil,China,Brazil -> China,reduced_or_removed
+2045,TUR,KOR,0.0,403146.4626443089,-403146.4626443089,Turkey,Korea,Turkey -> Korea,reduced_or_removed
+2045,ROM,CHN,0.0,396732.2379138359,-396732.2379138359,Romania,China,Romania -> China,reduced_or_removed
+2045,DEU,KOR,0.0,324541.916857868,-324541.916857868,Germany,Korea,Germany -> Korea,reduced_or_removed
+2045,GBR,KOR,0.0,279087.21383430663,-279087.21383430663,United Kingdom,Korea,United Kingdom -> Korea,reduced_or_removed
+2045,FRA,KOR,0.0,276945.56491092686,-276945.56491092686,France,Korea,France -> Korea,reduced_or_removed
+2045,CZE,KOR,0.0,216341.7230658938,-216341.7230658938,Czechia,Korea,Czechia -> Korea,reduced_or_removed
+2045,VNM,THA,0.0,46695.08546051233,-46695.08546051233,Viet Nam,Thailand,Viet Nam -> Thailand,reduced_or_removed
+2045,IND,VNM,121602.7934808336,0.0,121602.7934808336,India,Viet Nam,India -> Viet Nam,new_or_increased
+2045,VNM,CHN,168297.87894134593,0.0,168297.87894134593,Viet Nam,China,Viet Nam -> China,new_or_increased
+2045,JPN,KOR,174246.60495748706,0.0,174246.60495748706,Japan,Korea,Japan -> Korea,new_or_increased
+2045,RUS,CHN,181387.88051995405,0.0,181387.88051995405,Russian Federation,China,Russian Federation -> China,new_or_increased
+2045,THA,CHN,193136.88483597105,0.0,193136.88483597105,Thailand,China,Thailand -> China,new_or_increased
+2045,CZE,JPN,216341.7230658938,0.0,216341.7230658938,Czechia,Japan,Czechia -> Japan,new_or_increased
+2045,FRA,JPN,276945.56491092686,0.0,276945.56491092686,France,Japan,France -> Japan,new_or_increased
+2045,GBR,JPN,279087.21383430663,0.0,279087.21383430663,United Kingdom,Japan,United Kingdom -> Japan,new_or_increased
+2045,DEU,JPN,324541.916857868,0.0,324541.916857868,Germany,Japan,Germany -> Japan,new_or_increased
+2045,ROM,RUS,396732.2379138359,0.0,396732.2379138359,Romania,Russian Federation,Romania -> Russian Federation,new_or_increased
+2045,TUR,JPN,403146.4626443089,0.0,403146.4626443089,Turkey,Japan,Turkey -> Japan,new_or_increased
+2045,BRA,KOR,405737.4640728978,0.0,405737.4640728978,Brazil,Korea,Brazil -> Korea,new_or_increased
+2045,IND,RUS,799028.5646476945,0.0,799028.5646476945,India,Russian Federation,India -> Russian Federation,new_or_increased
+2045,BRA,THA,1195760.8025615304,0.0,1195760.8025615304,Brazil,Thailand,Brazil -> Thailand,new_or_increased
+2045,USA,JPN,5877173.256523934,0.0,5877173.256523934,USA,Japan,USA -> Japan,new_or_increased
+2045,IND,KOR,19952030.965836823,0.0,19952030.965836823,India,Korea,India -> Korea,new_or_increased
+2050,IND,CHN,0.0,31427061.734604444,-31427061.734604444,India,China,India -> China,reduced_or_removed
+2050,USA,KOR,0.0,11515432.659504289,-11515432.659504289,USA,Korea,USA -> Korea,reduced_or_removed
+2050,CAN,KOR,0.0,1403175.3700929824,-1403175.3700929824,Canada,Korea,Canada -> Korea,reduced_or_removed
+2050,BRA,RUS,0.0,1066515.205718929,-1066515.205718929,Brazil,Russian Federation,Brazil -> Russian Federation,reduced_or_removed
+2050,IND,THA,0.0,1002196.3776148914,-1002196.3776148914,India,Thailand,India -> Thailand,reduced_or_removed
+2050,TUR,KOR,0.0,844519.775970829,-844519.775970829,Turkey,Korea,Turkey -> Korea,reduced_or_removed
+2050,BRA,CHN,0.0,568243.6022166666,-568243.6022166666,Brazil,China,Brazil -> China,reduced_or_removed
+2050,ROM,CHN,0.0,395606.81142252334,-395606.81142252334,Romania,China,Romania -> China,reduced_or_removed
+2050,DEU,KOR,0.0,297977.1738769626,-297977.1738769626,Germany,Korea,Germany -> Korea,reduced_or_removed
+2050,GBR,KOR,0.0,281317.5411254553,-281317.5411254553,United Kingdom,Korea,United Kingdom -> Korea,reduced_or_removed
+2050,FRA,KOR,0.0,263787.2025588353,-263787.2025588353,France,Korea,France -> Korea,reduced_or_removed
+2050,CZE,KOR,0.0,238124.22770767732,-238124.22770767732,Czechia,Korea,Czechia -> Korea,reduced_or_removed
+2050,VNM,THA,0.0,66990.4337645836,-66990.4337645836,Viet Nam,Thailand,Viet Nam -> Thailand,reduced_or_removed
+2050,IND,VNM,149867.84533198277,0.0,149867.84533198277,India,Viet Nam,India -> Viet Nam,new_or_increased
+2050,BRA,KOR,161058.32883776492,0.0,161058.32883776492,Brazil,Korea,Brazil -> Korea,new_or_increased
+2050,VNM,CHN,216858.2790965664,0.0,216858.2790965664,Viet Nam,China,Viet Nam -> China,new_or_increased
+2050,CZE,JPN,238124.22770767732,0.0,238124.22770767732,Czechia,Japan,Czechia -> Japan,new_or_increased
+2050,JPN,KOR,261010.4702487817,0.0,261010.4702487817,Japan,Korea,Japan -> Korea,new_or_increased
+2050,FRA,JPN,263787.2025588353,0.0,263787.2025588353,France,Japan,France -> Japan,new_or_increased
+2050,GBR,JPN,281317.5411254553,0.0,281317.5411254553,United Kingdom,Japan,United Kingdom -> Japan,new_or_increased
+2050,DEU,JPN,297977.1738769626,0.0,297977.1738769626,Germany,Japan,Germany -> Japan,new_or_increased
+2050,ROM,RUS,395606.81142252334,0.0,395606.81142252334,Romania,Russian Federation,Romania -> Russian Federation,new_or_increased
+2050,THA,CHN,404513.66771835554,0.0,404513.66771835554,Thailand,China,Thailand -> China,new_or_increased
+2050,RUS,CHN,407185.2733789017,0.0,407185.2733789017,Russian Federation,China,Russian Federation -> China,new_or_increased
+2050,TUR,JPN,844519.775970829,0.0,844519.775970829,Turkey,Japan,Turkey -> Japan,new_or_increased
+2050,IND,RUS,1078093.6676753073,0.0,1078093.6676753073,India,Russian Federation,India -> Russian Federation,new_or_increased
+2050,BRA,THA,1473700.4790978306,0.0,1473700.4790978306,Brazil,Thailand,Brazil -> Thailand,new_or_increased
+2050,USA,JPN,7166256.695567195,0.0,7166256.695567195,USA,Japan,USA -> Japan,new_or_increased
+2050,IND,KOR,31201296.599212047,0.0,31201296.599212047,India,Korea,India -> Korea,new_or_increased

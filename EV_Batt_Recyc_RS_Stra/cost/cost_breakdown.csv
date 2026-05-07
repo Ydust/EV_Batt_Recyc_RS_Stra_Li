@@ -1,0 +1,16 @@
+﻿country,utility,materials,labour,general_expenses,sum,recycling_m
+China,0,0.24,0.024,2.016,2.28,Direct
+Korea,0.048,0.24,0.048,2.664,3,Direct
+USA,0.048,0.24,0.096,3.336,3.72,Direct
+Belgium,0.048,0.24,0.36,3.672,4.32,Direct
+United Kingdom,0.048,0.24,0.24,3.552,4.08,Direct
+China,0.048,0.552,0.024,1.296,1.92,Hydro
+Korea,0.048,0.552,0.072,1.728,2.4,Hydro
+USA,0.048,0.552,0.12,2.28,3,Hydro
+Belgium,0.048,0.552,0.312,2.448,3.36,Hydro
+United Kingdom,0.048,0.552,0.192,2.568,3.36,Hydro
+China,0.12,0.12,0.048,2.232,2.52,Pyro
+Korea,0.12,0.12,0.12,3,3.36,Pyro
+USA,0.12,0.12,0.36,3.72,4.32,Pyro
+Belgium,0.24,0.12,0.504,4.176,5.04,Pyro
+United Kingdom,0.24,0.12,0.36,4.08,4.8,Pyro

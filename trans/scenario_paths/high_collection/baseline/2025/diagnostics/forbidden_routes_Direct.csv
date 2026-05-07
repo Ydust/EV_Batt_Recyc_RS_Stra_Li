@@ -1,0 +1,394 @@
+source_iso3,destination_iso3,scenario,forbidden,policy_penalty_usd_per_t,approval_delay_days,modeled_policy_cost_per_kg,source_basis,notes
+SAU,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BFA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+FRA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MDG,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PAK,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SLE,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BRA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ABW,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+NAM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+RWA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+LBN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PAL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+KEN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+IDN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+IRN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SWZ,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ITA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BEL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+GBR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+LCA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+URY,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+LTU,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+RUS,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BOL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SVK,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PYF,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+THA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ISL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+LKA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BRN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+UGA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+YUG,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CHL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+NGA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ZAF,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ALB,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+AGO,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PAN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+TUN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BGD,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CHN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MDV,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+GRD,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+IND,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+HRV,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ETH,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+TTO,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CIV,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+GUY,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+LAO,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BEN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BLR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+WSM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ESP,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+DEU,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ECU,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+UKR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CRI,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SWE,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+KWT,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+NCL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MLT,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SVN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+COG,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+JPN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+KGZ,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SLV,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ARE,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BDI,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+NER,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+POL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+JOR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+OMN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MDA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+NOR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+GRL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+COM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+DNK,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+NPL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+KIR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BWA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SLB,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ARG,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+GHA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+HUN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BMU,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SYC,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BHR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+FIN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+IRL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MNG,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+NZL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+EST,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ARM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+TON,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+DZA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PRY,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+TZA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+KOR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SEN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+KHM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+TUR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+AUT,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PER,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+FJI,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ZWE,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CYP,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+GRC,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+NIC,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CHE,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PLW,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PRT,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+AZE,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CZE,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MYS,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+GTM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+AFG,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+NLD,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ISR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+AND,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ROM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+COL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PNG,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+QAT,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+KAZ,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+AUS,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MKD,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CPV,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+GEO,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BRB,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+LVA,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CAN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MLI,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+DOM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+JAM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MRT,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SDN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MMR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+ZMB,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CMR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BHS,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+TJK,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+VNM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+PHL,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+HND,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MAR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+CYM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MWI,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+GIN,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+EGY,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+TGO,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+UZB,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MUS,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BIH,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+YEM,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+LUX,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MOZ,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+BGR,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+SGP,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+LSO,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+MEX,USA,baseline,1,0.0,0.0,0.0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+FIN,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FIN,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FIN,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FIN,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FIN,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FIN,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FIN,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FIN,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+IRL,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+IRL,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+IRL,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+IRL,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+IRL,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+IRL,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+IRL,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+IRL,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FRA,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FRA,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FRA,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FRA,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FRA,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FRA,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FRA,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+FRA,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NZL,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NZL,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NZL,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NZL,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NZL,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NZL,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NZL,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NZL,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CAN,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CAN,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CAN,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CAN,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CAN,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CAN,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CAN,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CAN,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+USA,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+USA,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+USA,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+USA,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+USA,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+USA,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+USA,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+USA,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+KOR,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+KOR,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+KOR,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+KOR,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+KOR,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+KOR,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+KOR,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+KOR,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+TUR,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+TUR,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+TUR,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+TUR,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+TUR,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+TUR,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+TUR,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+TUR,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUT,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUT,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUT,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUT,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUT,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUT,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUT,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUT,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ESP,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ESP,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ESP,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ESP,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ESP,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ESP,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ESP,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ESP,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DEU,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DEU,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DEU,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DEU,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DEU,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DEU,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DEU,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DEU,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GRC,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GRC,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GRC,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GRC,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GRC,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GRC,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GRC,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GRC,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ITA,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ITA,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ITA,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ITA,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ITA,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ITA,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ITA,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ITA,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CHE,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CHE,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CHE,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CHE,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CHE,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CHE,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CHE,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CHE,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SWE,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SWE,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SWE,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SWE,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SWE,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SWE,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SWE,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SWE,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+BEL,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+BEL,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+BEL,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+BEL,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+BEL,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+BEL,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+BEL,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+BEL,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GBR,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GBR,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GBR,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GBR,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GBR,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GBR,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GBR,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+GBR,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+PRT,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+PRT,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+PRT,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+PRT,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+PRT,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+PRT,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+PRT,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+PRT,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CZE,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CZE,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CZE,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CZE,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CZE,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CZE,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CZE,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+CZE,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+JPN,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+JPN,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+JPN,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+JPN,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+JPN,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+JPN,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+JPN,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+JPN,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NLD,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NLD,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NLD,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NLD,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NLD,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NLD,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NLD,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NLD,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SVK,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SVK,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SVK,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SVK,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SVK,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SVK,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SVK,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+SVK,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+POL,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+POL,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+POL,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+POL,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+POL,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+POL,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+POL,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+POL,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NOR,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NOR,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NOR,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NOR,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NOR,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NOR,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NOR,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+NOR,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ISL,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ISL,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ISL,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ISL,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ISL,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ISL,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ISL,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+ISL,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DNK,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DNK,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DNK,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DNK,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DNK,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DNK,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DNK,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+DNK,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+LUX,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+LUX,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+LUX,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+LUX,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+LUX,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+LUX,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+LUX,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+LUX,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUS,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUS,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUS,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUS,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUS,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUS,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUS,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+AUS,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+HUN,YUG,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+HUN,RUS,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+HUN,CHN,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+HUN,VNM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+HUN,IND,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+HUN,ROM,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+HUN,THA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+HUN,BRA,baseline,1,0.0,0.0,0.0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.

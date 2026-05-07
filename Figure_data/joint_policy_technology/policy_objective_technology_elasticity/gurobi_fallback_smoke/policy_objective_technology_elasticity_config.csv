@@ -1,0 +1,2 @@
+years,policies,target_shares,target_mode,target_names,mc_draws,random_seed,cost_noise_sd,recovery_noise_sd,solver_methods
+2050,strict_policy,0.95,aggregate,China,1,20260507,0.0,0.0,"gurobi,highs,highs-ds,highs-ipm"

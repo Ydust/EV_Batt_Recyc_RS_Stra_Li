@@ -1,0 +1,169 @@
+year,source_iso3,destination_iso3,critical_route_policy,reference_policy,delta_scrap_t,source_country,destination_country,route,change_type
+2045,IND,CHN,0.0,20872662.32396535,-20872662.32396535,India,China,India -> China,reduced_or_removed
+2045,USA,KOR,0.0,10781854.285446748,-10781854.285446748,USA,Korea,USA -> Korea,reduced_or_removed
+2045,PAK,CHN,0.0,4524611.012392484,-4524611.012392484,Pakistan,China,Pakistan -> China,reduced_or_removed
+2045,NGA,CHN,0.0,4129433.2033760897,-4129433.2033760897,Nigeria,China,Nigeria -> China,reduced_or_removed
+2045,PHL,CHN,0.0,2610227.4130937792,-2610227.4130937792,Philippines,China,Philippines -> China,reduced_or_removed
+2045,CAN,KOR,0.0,1333291.3881328288,-1333291.3881328288,Canada,Korea,Canada -> Korea,reduced_or_removed
+2045,BRA,CHN,0.0,1290326.6726465232,-1290326.6726465232,Brazil,China,Brazil -> China,reduced_or_removed
+2045,UGA,CHN,0.0,1104689.323666125,-1104689.323666125,Uganda,China,Uganda -> China,reduced_or_removed
+2045,KEN,CHN,0.0,912206.5764505442,-912206.5764505442,Kenya,China,Kenya -> China,reduced_or_removed
+2045,MEX,CHN,0.0,824909.2027905418,-824909.2027905418,Mexico,China,Mexico -> China,reduced_or_removed
+2045,EGY,CHN,0.0,527520.6393664465,-527520.6393664465,Egypt,China,Egypt -> China,reduced_or_removed
+2045,SEN,RUS,0.0,460388.8303495485,-460388.8303495485,Senegal,Russian Federation,Senegal -> Russian Federation,reduced_or_removed
+2045,TUR,KOR,0.0,403146.4626443089,-403146.4626443089,Turkey,Korea,Turkey -> Korea,reduced_or_removed
+2045,LKA,THA,0.0,358421.6339739513,-358421.6339739513,Sri Lanka,Thailand,Sri Lanka -> Thailand,reduced_or_removed
+2045,MMR,THA,0.0,326110.80184588267,-326110.80184588267,Myanmar,Thailand,Myanmar -> Thailand,reduced_or_removed
+2045,IDN,THA,0.0,164729.9307238105,-164729.9307238105,Indonesia,Thailand,Indonesia -> Thailand,reduced_or_removed
+2045,MAR,RUS,0.0,85044.00909429761,-85044.00909429761,Morocco,Russian Federation,Morocco -> Russian Federation,reduced_or_removed
+2045,HRV,RUS,0.0,64519.17392073813,-64519.17392073813,Croatia,Russian Federation,Croatia -> Russian Federation,reduced_or_removed
+2045,BLR,RUS,0.0,56695.82277749589,-56695.82277749589,Belarus,Russian Federation,Belarus -> Russian Federation,reduced_or_removed
+2045,KHM,THA,0.0,43186.80794783271,-43186.80794783271,Cambodia,Thailand,Cambodia -> Thailand,reduced_or_removed
+2045,MDG,THA,0.0,26323.728260405605,-26323.728260405605,Madagascar,Thailand,Madagascar -> Thailand,reduced_or_removed
+2045,MWI,THA,0.0,25653.49626220285,-25653.49626220285,Malawi,Thailand,Malawi -> Thailand,reduced_or_removed
+2045,NAM,THA,0.0,21523.39337578653,-21523.39337578653,Namibia,Thailand,Namibia -> Thailand,reduced_or_removed
+2045,ARG,RUS,0.0,15608.579717049166,-15608.579717049166,Argentina,Russian Federation,Argentina -> Russian Federation,reduced_or_removed
+2045,MUS,THA,0.0,12164.605591638612,-12164.605591638612,Mauritius,Thailand,Mauritius -> Thailand,reduced_or_removed
+2045,LSO,THA,0.0,10756.24679356979,-10756.24679356979,Lesotho,Thailand,Lesotho -> Thailand,reduced_or_removed
+2045,LTU,RUS,0.0,9163.393855146296,-9163.393855146296,Lithuania,Russian Federation,Lithuania -> Russian Federation,reduced_or_removed
+2045,SVN,RUS,0.0,8177.708494796552,-8177.708494796552,Slovenia,Russian Federation,Slovenia -> Russian Federation,reduced_or_removed
+2045,ZAF,THA,0.0,4342.6948632679205,-4342.6948632679205,South Africa,Thailand,South Africa -> Thailand,reduced_or_removed
+2045,DZA,RUS,0.0,3384.355403934758,-3384.355403934758,Algeria,Russian Federation,Algeria -> Russian Federation,reduced_or_removed
+2045,URY,THA,0.0,3204.5129258775896,-3204.5129258775896,Uruguay,Thailand,Uruguay -> Thailand,reduced_or_removed
+2045,SYC,THA,0.0,1945.3986281142625,-1945.3986281142625,Seychelles,Thailand,Seychelles -> Thailand,reduced_or_removed
+2045,MDV,THA,0.0,1898.005409099813,-1898.005409099813,Maldives,Thailand,Maldives -> Thailand,reduced_or_removed
+2045,BWA,THA,0.0,1638.4850057413396,-1638.4850057413396,Botswana,Thailand,Botswana -> Thailand,reduced_or_removed
+2045,COM,THA,0.0,311.3884571479009,-311.3884571479009,Comoros,Thailand,Comoros -> Thailand,reduced_or_removed
+2045,SWZ,THA,0.0,263.12262337134155,-263.12262337134155,Eswatini,Thailand,Eswatini -> Thailand,reduced_or_removed
+2045,CPV,RUS,0.0,203.0179898643226,-203.0179898643226,Cabo Verde,Russian Federation,Cabo Verde -> Russian Federation,reduced_or_removed
+2045,MYS,THA,0.0,122.76966900859078,-122.76966900859078,Malaysia,Thailand,Malaysia -> Thailand,reduced_or_removed
+2045,ZWE,THA,0.0,26.106183490981746,-26.106183490981746,Zimbabwe,Thailand,Zimbabwe -> Thailand,reduced_or_removed
+2045,AND,RUS,0.0,16.350234471049895,-16.350234471049895,Andorra,Russian Federation,Andorra -> Russian Federation,reduced_or_removed
+2045,MOZ,THA,0.0,0.789185359035286,-0.789185359035286,Mozambique,Thailand,Mozambique -> Thailand,reduced_or_removed
+2045,MRT,RUS,0.0,0.0862163290602466,-0.0862163290602466,Mauritania,Russian Federation,Mauritania -> Russian Federation,reduced_or_removed
+2045,MRT,CHN,0.0862163290602466,0.0,0.0862163290602466,Mauritania,China,Mauritania -> China,new_or_increased
+2045,MOZ,CHN,0.789185359035286,0.0,0.789185359035286,Mozambique,China,Mozambique -> China,new_or_increased
+2045,AND,CHN,16.350234471049895,0.0,16.350234471049895,Andorra,China,Andorra -> China,new_or_increased
+2045,ZWE,CHN,26.106183490981746,0.0,26.106183490981746,Zimbabwe,China,Zimbabwe -> China,new_or_increased
+2045,MYS,CHN,122.76966900859078,0.0,122.76966900859078,Malaysia,China,Malaysia -> China,new_or_increased
+2045,CPV,CHN,203.0179898643226,0.0,203.0179898643226,Cabo Verde,China,Cabo Verde -> China,new_or_increased
+2045,SWZ,CHN,263.12262337134155,0.0,263.12262337134155,Eswatini,China,Eswatini -> China,new_or_increased
+2045,COM,CHN,311.3884571479009,0.0,311.3884571479009,Comoros,China,Comoros -> China,new_or_increased
+2045,BWA,CHN,1638.4850057413396,0.0,1638.4850057413396,Botswana,China,Botswana -> China,new_or_increased
+2045,MDV,CHN,1898.005409099813,0.0,1898.005409099813,Maldives,China,Maldives -> China,new_or_increased
+2045,SYC,CHN,1945.3986281142625,0.0,1945.3986281142625,Seychelles,China,Seychelles -> China,new_or_increased
+2045,URY,CHN,3204.5129258775896,0.0,3204.5129258775896,Uruguay,China,Uruguay -> China,new_or_increased
+2045,DZA,CHN,3384.355403934758,0.0,3384.355403934758,Algeria,China,Algeria -> China,new_or_increased
+2045,ZAF,CHN,4342.6948632679205,0.0,4342.6948632679205,South Africa,China,South Africa -> China,new_or_increased
+2045,SVN,CHN,8177.708494796552,0.0,8177.708494796552,Slovenia,China,Slovenia -> China,new_or_increased
+2045,LTU,CHN,9163.393855146296,0.0,9163.393855146296,Lithuania,China,Lithuania -> China,new_or_increased
+2045,LSO,CHN,10756.24679356979,0.0,10756.24679356979,Lesotho,China,Lesotho -> China,new_or_increased
+2045,MUS,CHN,12164.605591638612,0.0,12164.605591638612,Mauritius,China,Mauritius -> China,new_or_increased
+2045,ARG,CHN,15608.579717049166,0.0,15608.579717049166,Argentina,China,Argentina -> China,new_or_increased
+2045,NAM,CHN,21523.39337578653,0.0,21523.39337578653,Namibia,China,Namibia -> China,new_or_increased
+2045,MWI,CHN,53993.44043979191,28339.94417758906,25653.496262202854,Malawi,China,Malawi -> China,new_or_increased
+2045,MDG,CHN,26323.728260405605,0.0,26323.728260405605,Madagascar,China,Madagascar -> China,new_or_increased
+2045,KHM,CHN,43186.80794783271,0.0,43186.80794783271,Cambodia,China,Cambodia -> China,new_or_increased
+2045,BLR,CHN,56695.82277749589,0.0,56695.82277749589,Belarus,China,Belarus -> China,new_or_increased
+2045,HRV,CHN,64519.17392073813,0.0,64519.17392073813,Croatia,China,Croatia -> China,new_or_increased
+2045,MAR,CHN,85044.00909429761,0.0,85044.00909429761,Morocco,China,Morocco -> China,new_or_increased
+2045,UGA,VNM,121602.7934808336,0.0,121602.7934808336,Uganda,Viet Nam,Uganda -> Viet Nam,new_or_increased
+2045,VNM,CHN,168297.87894134593,46695.08546051233,121602.7934808336,Viet Nam,China,Viet Nam -> China,new_or_increased
+2045,IDN,CHN,164729.9307238105,0.0,164729.9307238105,Indonesia,China,Indonesia -> China,new_or_increased
+2045,JPN,KOR,174246.60495748706,0.0,174246.60495748706,Japan,Korea,Japan -> Korea,new_or_increased
+2045,RUS,CHN,181387.88051995405,0.0,181387.88051995405,Russian Federation,China,Russian Federation -> China,new_or_increased
+2045,THA,CHN,193136.88483597105,0.0,193136.88483597105,Thailand,China,Thailand -> China,new_or_increased
+2045,UGA,THA,283554.2261109862,0.0,283554.2261109862,Uganda,Thailand,Uganda -> Thailand,new_or_increased
+2045,MMR,CHN,326110.80184588267,0.0,326110.80184588267,Myanmar,China,Myanmar -> China,new_or_increased
+2045,LKA,CHN,358421.6339739513,0.0,358421.6339739513,Sri Lanka,China,Sri Lanka -> China,new_or_increased
+2045,TUR,JPN,403146.4626443089,0.0,403146.4626443089,Turkey,Japan,Turkey -> Japan,new_or_increased
+2045,BRA,KOR,405737.4640728978,0.0,405737.4640728978,Brazil,Korea,Brazil -> Korea,new_or_increased
+2045,SEN,CHN,460388.8303495485,0.0,460388.8303495485,Senegal,China,Senegal -> China,new_or_increased
+2045,EGY,KOR,527520.6393664465,0.0,527520.6393664465,Egypt,Korea,Egypt -> Korea,new_or_increased
+2045,UGA,KOR,699532.3040743052,0.0,699532.3040743052,Uganda,Korea,Uganda -> Korea,new_or_increased
+2045,MEX,KOR,824909.2027905418,0.0,824909.2027905418,Mexico,Korea,Mexico -> Korea,new_or_increased
+2045,BRA,RUS,1195760.8025615304,311171.5939879049,884589.2085736254,Brazil,Russian Federation,Brazil -> Russian Federation,new_or_increased
+2045,KEN,THA,912206.5764505442,0.0,912206.5764505442,Kenya,Thailand,Kenya -> Thailand,new_or_increased
+2045,PHL,KOR,2610227.4130937792,0.0,2610227.4130937792,Philippines,Korea,Philippines -> Korea,new_or_increased
+2045,NGA,KOR,4129433.2033760897,0.0,4129433.2033760897,Nigeria,Korea,Nigeria -> Korea,new_or_increased
+2045,PAK,KOR,4524611.012392484,0.0,4524611.012392484,Pakistan,Korea,Pakistan -> Korea,new_or_increased
+2045,USA,JPN,6974089.67519293,0.0,6974089.67519293,USA,Japan,USA -> Japan,new_or_increased
+2045,IND,KOR,20872662.32396535,0.0,20872662.32396535,India,Korea,India -> Korea,new_or_increased
+2050,IND,CHN,0.0,32429258.112219337,-32429258.112219337,India,China,India -> China,reduced_or_removed
+2050,USA,KOR,0.0,11515432.659504289,-11515432.659504289,USA,Korea,USA -> Korea,reduced_or_removed
+2050,PAK,CHN,0.0,7009583.538645981,-7009583.538645981,Pakistan,China,Pakistan -> China,reduced_or_removed
+2050,NGA,CHN,0.0,7008111.397819652,-7008111.397819652,Nigeria,China,Nigeria -> China,reduced_or_removed
+2050,PHL,CHN,0.0,2894902.5696595698,-2894902.5696595698,Philippines,China,Philippines -> China,reduced_or_removed
+2050,EGY,CHN,0.0,1880898.832268489,-1880898.832268489,Egypt,China,Egypt -> China,reduced_or_removed
+2050,BRA,CHN,0.0,1634758.8079355955,-1634758.8079355955,Brazil,China,Brazil -> China,reduced_or_removed
+2050,UGA,CHN,0.0,1588927.699603619,-1588927.699603619,Uganda,China,Uganda -> China,reduced_or_removed
+2050,KEN,CHN,0.0,1575375.530548131,-1575375.530548131,Kenya,China,Kenya -> China,reduced_or_removed
+2050,CAN,KOR,0.0,1403175.3700929824,-1403175.3700929824,Canada,Korea,Canada -> Korea,reduced_or_removed
+2050,MEX,CHN,0.0,855920.3128216824,-855920.3128216824,Mexico,China,Mexico -> China,reduced_or_removed
+2050,TUR,KOR,0.0,844519.775970829,-844519.775970829,Turkey,Korea,Turkey -> Korea,reduced_or_removed
+2050,SEN,RUS,0.0,580831.1350073791,-580831.1350073791,Senegal,Russian Federation,Senegal -> Russian Federation,reduced_or_removed
+2050,LKA,THA,0.0,443326.5218354048,-443326.5218354048,Sri Lanka,Thailand,Sri Lanka -> Thailand,reduced_or_removed
+2050,MAR,RUS,0.0,322440.418516012,-322440.418516012,Morocco,Russian Federation,Morocco -> Russian Federation,reduced_or_removed
+2050,IDN,THA,0.0,251835.5271228627,-251835.5271228627,Indonesia,Thailand,Indonesia -> Thailand,reduced_or_removed
+2050,KHM,THA,0.0,149062.40779062838,-149062.40779062838,Cambodia,Thailand,Cambodia -> Thailand,reduced_or_removed
+2050,AUS,KOR,0.0,130768.35266470698,-130768.35266470698,Australia,Korea,Australia -> Korea,reduced_or_removed
+2050,MDG,THA,0.0,129786.65376385672,-129786.65376385672,Madagascar,Thailand,Madagascar -> Thailand,reduced_or_removed
+2050,BLR,RUS,0.0,119276.6524727483,-119276.6524727483,Belarus,Russian Federation,Belarus -> Russian Federation,reduced_or_removed
+2050,LSO,THA,0.0,34905.17433578483,-34905.17433578483,Lesotho,Thailand,Lesotho -> Thailand,reduced_or_removed
+2050,ARG,RUS,0.0,26824.707388370796,-26824.707388370796,Argentina,Russian Federation,Argentina -> Russian Federation,reduced_or_removed
+2050,NZL,KOR,0.0,23999.65911414342,-23999.65911414342,New Zealand,Korea,New Zealand -> Korea,reduced_or_removed
+2050,MUS,THA,0.0,20871.964316286325,-20871.964316286325,Mauritius,Thailand,Mauritius -> Thailand,reduced_or_removed
+2050,MMR,THA,0.0,20608.15253309889,-20608.15253309889,Myanmar,Thailand,Myanmar -> Thailand,reduced_or_removed
+2050,ZAF,THA,0.0,13117.926990115213,-13117.926990115213,South Africa,Thailand,South Africa -> Thailand,reduced_or_removed
+2050,SVN,RUS,0.0,9253.011301319477,-9253.011301319477,Slovenia,Russian Federation,Slovenia -> Russian Federation,reduced_or_removed
+2050,URY,RUS,0.0,7133.42232315131,-7133.42232315131,Uruguay,Russian Federation,Uruguay -> Russian Federation,reduced_or_removed
+2050,MDV,THA,0.0,4702.255484891001,-4702.255484891001,Maldives,Thailand,Maldives -> Thailand,reduced_or_removed
+2050,ISL,KOR,0.0,1576.599415106024,-1576.599415106024,Iceland,Korea,Iceland -> Korea,reduced_or_removed
+2050,SWZ,THA,0.0,780.9506369563225,-780.9506369563225,Eswatini,Thailand,Eswatini -> Thailand,reduced_or_removed
+2050,CPV,RUS,0.0,731.7151933193195,-731.7151933193195,Cabo Verde,Russian Federation,Cabo Verde -> Russian Federation,reduced_or_removed
+2050,MYS,THA,0.0,188.3838915968367,-188.3838915968367,Malaysia,Thailand,Malaysia -> Thailand,reduced_or_removed
+2050,AND,RUS,0.0,24.02415561307245,-24.02415561307245,Andorra,Russian Federation,Andorra -> Russian Federation,reduced_or_removed
+2050,MOZ,THA,0.0,0.8926779931693768,-0.8926779931693768,Mozambique,Thailand,Mozambique -> Thailand,reduced_or_removed
+2050,MRT,RUS,0.0,0.1193610155035072,-0.1193610155035072,Mauritania,Russian Federation,Mauritania -> Russian Federation,reduced_or_removed
+2050,MRT,CHN,0.1193610155035072,0.0,0.1193610155035072,Mauritania,China,Mauritania -> China,new_or_increased
+2050,MOZ,CHN,0.8926779931693768,0.0,0.8926779931693768,Mozambique,China,Mozambique -> China,new_or_increased
+2050,AND,CHN,24.02415561307245,0.0,24.02415561307245,Andorra,China,Andorra -> China,new_or_increased
+2050,MYS,CHN,188.3838915968367,0.0,188.3838915968367,Malaysia,China,Malaysia -> China,new_or_increased
+2050,CPV,CHN,731.7151933193195,0.0,731.7151933193195,Cabo Verde,China,Cabo Verde -> China,new_or_increased
+2050,SWZ,CHN,780.9506369563225,0.0,780.9506369563225,Eswatini,China,Eswatini -> China,new_or_increased
+2050,ISL,JPN,1576.599415106024,0.0,1576.599415106024,Iceland,Japan,Iceland -> Japan,new_or_increased
+2050,MDV,CHN,4702.255484891001,0.0,4702.255484891001,Maldives,China,Maldives -> China,new_or_increased
+2050,URY,CHN,7133.42232315131,0.0,7133.42232315131,Uruguay,China,Uruguay -> China,new_or_increased
+2050,SVN,CHN,9253.011301319477,0.0,9253.011301319477,Slovenia,China,Slovenia -> China,new_or_increased
+2050,ZAF,CHN,13117.926990115213,0.0,13117.926990115213,South Africa,China,South Africa -> China,new_or_increased
+2050,MMR,CHN,924246.7557557202,903638.6032226213,20608.15253309894,Myanmar,China,Myanmar -> China,new_or_increased
+2050,MUS,CHN,20871.964316286325,0.0,20871.964316286325,Mauritius,China,Mauritius -> China,new_or_increased
+2050,NZL,JPN,23999.65911414342,0.0,23999.65911414342,New Zealand,Japan,New Zealand -> Japan,new_or_increased
+2050,ARG,CHN,26824.707388370796,0.0,26824.707388370796,Argentina,China,Argentina -> China,new_or_increased
+2050,LSO,CHN,34905.17433578483,0.0,34905.17433578483,Lesotho,China,Lesotho -> China,new_or_increased
+2050,UGA,VNM,48192.79388168227,0.0,48192.79388168227,Uganda,Viet Nam,Uganda -> Viet Nam,new_or_increased
+2050,KEN,VNM,101675.0514503005,0.0,101675.0514503005,Kenya,Viet Nam,Kenya -> Viet Nam,new_or_increased
+2050,BLR,CHN,119276.6524727483,0.0,119276.6524727483,Belarus,China,Belarus -> China,new_or_increased
+2050,MDG,CHN,129786.65376385672,0.0,129786.65376385672,Madagascar,China,Madagascar -> China,new_or_increased
+2050,AUS,JPN,130768.35266470698,0.0,130768.35266470698,Australia,Japan,Australia -> Japan,new_or_increased
+2050,KHM,CHN,149062.40779062838,0.0,149062.40779062838,Cambodia,China,Cambodia -> China,new_or_increased
+2050,VNM,CHN,216858.2790965664,66990.4337645836,149867.8453319828,Viet Nam,China,Viet Nam -> China,new_or_increased
+2050,IDN,CHN,251835.5271228627,0.0,251835.5271228627,Indonesia,China,Indonesia -> China,new_or_increased
+2050,MAR,CHN,322440.418516012,0.0,322440.418516012,Morocco,China,Morocco -> China,new_or_increased
+2050,THA,CHN,404513.66771835554,0.0,404513.66771835554,Thailand,China,Thailand -> China,new_or_increased
+2050,RUS,CHN,407185.2733789017,0.0,407185.2733789017,Russian Federation,China,Russian Federation -> China,new_or_increased
+2050,LKA,CHN,443326.5218354048,0.0,443326.5218354048,Sri Lanka,China,Sri Lanka -> China,new_or_increased
+2050,SEN,CHN,586997.4420347058,6166.307027326664,580831.1350073791,Senegal,China,Senegal -> China,new_or_increased
+2050,BRA,JPN,596856.9397724613,0.0,596856.9397724613,Brazil,Japan,Brazil -> Japan,new_or_increased
+2050,NGA,RUS,685578.3531546677,0.0,685578.3531546677,Nigeria,Russian Federation,Nigeria -> Russian Federation,new_or_increased
+2050,BRA,RUS,788122.125943163,0.0,788122.125943163,Brazil,Russian Federation,Brazil -> Russian Federation,new_or_increased
+2050,TUR,JPN,844519.775970829,0.0,844519.775970829,Turkey,Japan,Turkey -> Japan,new_or_increased
+2050,MEX,JPN,855920.3128216824,0.0,855920.3128216824,Mexico,Japan,Mexico -> Japan,new_or_increased
+2050,KEN,THA,1473700.4790978306,0.0,1473700.4790978306,Kenya,Thailand,Kenya -> Thailand,new_or_increased
+2050,UGA,KOR,1540734.9057219368,0.0,1540734.9057219368,Uganda,Korea,Uganda -> Korea,new_or_increased
+2050,EGY,KOR,1880898.832268489,0.0,1880898.832268489,Egypt,Korea,Egypt -> Korea,new_or_increased
+2050,PHL,JPN,2894902.5696595698,0.0,2894902.5696595698,Philippines,Japan,Philippines -> Japan,new_or_increased
+2050,USA,JPN,3482427.937139673,0.0,3482427.937139673,USA,Japan,USA -> Japan,new_or_increased
+2050,NGA,KOR,6322533.044664985,0.0,6322533.044664985,Nigeria,Korea,Nigeria -> Korea,new_or_increased
+2050,PAK,KOR,7009583.538645981,0.0,7009583.538645981,Pakistan,Korea,Pakistan -> Korea,new_or_increased
+2050,IND,KOR,32429258.112219337,0.0,32429258.112219337,India,Korea,India -> Korea,new_or_increased

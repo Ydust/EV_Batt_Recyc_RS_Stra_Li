@@ -1,0 +1,13 @@
+year,policy_scenario,route_displaced_kt_li
+2030,current_policy,10.529086467087918
+2030,reference_policy,8.606973977432085
+2030,strict_policy,12.57476046275945
+2030,critical_route_policy,13.08415334056788
+2040,current_policy,18.680961749281465
+2040,reference_policy,2.856597107266741
+2040,strict_policy,120.50672880731271
+2040,critical_route_policy,108.92499559645326
+2050,current_policy,330.5953495712966
+2050,reference_policy,413.42355566738837
+2050,strict_policy,1079.3580084003706
+2050,critical_route_policy,1014.9952589543586

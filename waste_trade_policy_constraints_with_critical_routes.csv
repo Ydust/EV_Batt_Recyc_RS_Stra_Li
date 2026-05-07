@@ -1,0 +1,38 @@
+scenario,source_group,destination_group,source_country,destination_country,start_year,end_year,waste_class,treatment_type,forbidden,policy_penalty_usd_per_t,approval_delay_days,source_basis,notes
+baseline,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+baseline,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,150,25,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation.
+baseline,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+baseline,BaselParty,,,China,2025,2050,hazardous,recovery,0,300,25,scenario_assumption,China hazardous waste import approval and Basel PIC compliance cost proxy; not treated as an absolute import ban.
+strict_policy,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the strict policy setting.
+strict_policy,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,150,25,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation.
+strict_policy,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+strict_policy,ALL,,,China,2025,2050,hazardous,recovery,1,0,0,strict_scenario_assumption,Conservative sensitivity case treating China spent-battery imports as unavailable; not a baseline legal claim.
+open_policy,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the open policy setting.
+open_policy,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,100,15,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation.
+open_policy,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+open_policy,BaselParty,,,China,2025,2050,hazardous,recovery,0,100,15,open_scenario_assumption,Lower-friction compliance scenario for Basel-party exports to China; not an unrestricted legal setting.
+reference_policy,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the reference policy setting.
+reference_policy,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,100,15,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation under a low-friction reference setting.
+reference_policy,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+reference_policy,BaselParty,,,China,2025,2050,hazardous,recovery,0,100,15,reference_scenario_assumption,Lower-friction compliance scenario for Basel-party exports to China; not an unrestricted legal setting.
+current_policy,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the current policy setting.
+current_policy,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,150,25,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation.
+current_policy,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+current_policy,BaselParty,,,China,2025,2050,hazardous,recovery,0,300,25,scenario_assumption,China hazardous waste import approval and Basel PIC compliance cost proxy; not treated as an absolute import ban.
+domestic_processing_policy,ALL,ALL,,,2025,2050,hazardous,recovery,1,0,0,scenario_assumption,No cross-border waste-battery transfer; only domestic processing routes are allowed where domestic capacity exists.
+critical_route_policy,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the reference policy setting.
+critical_route_policy,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,100,15,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation under a low-friction reference setting.
+critical_route_policy,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+critical_route_policy,BaselParty,,,China,2025,2050,hazardous,recovery,0,100,15,reference_scenario_assumption,Lower-friction compliance scenario for Basel-party exports to China; not an unrestricted legal setting.
+critical_route_policy,,,India,China,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=53301920.4362."
+critical_route_policy,,,USA,Korea,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=22297286.9450."
+critical_route_policy,,,Pakistan,China,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=11534194.5510."
+critical_route_policy,,,Nigeria,China,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=11137544.6012."
+critical_route_policy,,,Philippines,China,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=5505129.9828."
+critical_route_policy,,,Brazil,China,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=2925085.4806."
+critical_route_policy,,,Canada,Korea,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=2736466.7582."
+critical_route_policy,,,Uganda,China,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=2693617.0233."
+critical_route_policy,,,Kenya,China,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=2487582.1070."
+critical_route_policy,,,Egypt,China,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=2408419.4716."
+critical_route_policy,,,Mexico,China,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=1680829.5156."
+critical_route_policy,,,Turkey,Korea,2025,2050,hazardous,recovery,1,0,0,critical_route_stress_test,"Critical-route stress test: route selected from observed optimized cross-border flows, cumulative scrap_t=1247666.2386."

@@ -1,0 +1,979 @@
+,country,type,recycling_m,net_profit
+0,Afghanistan,LFP,,
+1,Afghanistan,NCA,,
+2,Afghanistan,NMC111,,
+3,Afghanistan,NMC523,,
+4,Afghanistan,NMC622,,
+5,Afghanistan,NMC811,,
+6,Albania,LFP,,
+7,Albania,NCA,,
+8,Albania,NMC111,,
+9,Albania,NMC523,,
+10,Albania,NMC622,,
+11,Albania,NMC811,,
+12,Algeria,LFP,,
+13,Algeria,NCA,,
+14,Algeria,NMC111,,
+15,Algeria,NMC523,,
+16,Algeria,NMC622,,
+17,Algeria,NMC811,,
+18,Andorra,LFP,,
+19,Andorra,NCA,,
+20,Andorra,NMC111,,
+21,Andorra,NMC523,,
+22,Andorra,NMC622,,
+23,Andorra,NMC811,,
+24,Angola,LFP,Direct,0.0
+25,Angola,NCA,Direct,-0.9909849025971873
+26,Angola,NMC111,Direct,-17.17652849262803
+27,Angola,NMC523,Direct,-20.174424153590508
+28,Angola,NMC622,Direct,-19.98701574083853
+29,Angola,NMC811,Direct,-21.601543629822956
+30,Argentina,LFP,Direct,0.0
+31,Argentina,NCA,Direct,6.8147199604156485
+32,Argentina,NMC111,Direct,-1.8663949898746748
+33,Argentina,NMC523,Direct,-6.397479249206625
+34,Argentina,NMC622,Direct,-0.5359605554608451
+35,Argentina,NMC811,Direct,0.1501283471986848
+36,Armenia,LFP,,
+37,Armenia,NCA,,
+38,Armenia,NMC111,,
+39,Armenia,NMC523,,
+40,Armenia,NMC622,,
+41,Armenia,NMC811,,
+42,Aruba,LFP,Direct,0.0
+43,Aruba,NCA,Direct,-162.66184613862015
+44,Aruba,NMC111,Direct,-364.3428111060965
+45,Aruba,NMC523,Direct,-301.9295860387717
+46,Aruba,NMC622,Direct,-423.3798904781863
+47,Aruba,NMC811,Direct,-481.8878856955707
+48,Australia,LFP,Direct,0.0
+49,Australia,NCA,Direct,8.65840295631901
+50,Australia,NMC111,Direct,1.9116504639912306
+51,Australia,NMC523,Direct,-3.006293777675037
+52,Australia,NMC622,Direct,4.348719267546164
+53,Australia,NMC811,Direct,5.643637153478229
+54,Austria,LFP,,
+55,Austria,NCA,,
+56,Austria,NMC111,,
+57,Austria,NMC523,,
+58,Austria,NMC622,,
+59,Austria,NMC811,,
+60,Azerbaijan,LFP,,
+61,Azerbaijan,NCA,,
+62,Azerbaijan,NMC111,,
+63,Azerbaijan,NMC523,,
+64,Azerbaijan,NMC622,,
+65,Azerbaijan,NMC811,,
+66,Bahamas,LFP,,
+67,Bahamas,NCA,,
+68,Bahamas,NMC111,,
+69,Bahamas,NMC523,,
+70,Bahamas,NMC622,,
+71,Bahamas,NMC811,,
+72,Bahrain,LFP,,
+73,Bahrain,NCA,,
+74,Bahrain,NMC111,,
+75,Bahrain,NMC523,,
+76,Bahrain,NMC622,,
+77,Bahrain,NMC811,,
+78,Bangladesh,LFP,,
+79,Bangladesh,NCA,,
+80,Bangladesh,NMC111,,
+81,Bangladesh,NMC523,,
+82,Bangladesh,NMC622,,
+83,Bangladesh,NMC811,,
+84,Barbados,LFP,,
+85,Barbados,NCA,,
+86,Barbados,NMC111,,
+87,Barbados,NMC523,,
+88,Barbados,NMC622,,
+89,Barbados,NMC811,,
+90,Belarus,LFP,,
+91,Belarus,NCA,,
+92,Belarus,NMC111,,
+93,Belarus,NMC523,,
+94,Belarus,NMC622,,
+95,Belarus,NMC811,,
+96,Belgium,LFP,Direct,-39.05517044642187
+97,Belgium,NCA,Direct,7.149427071668288
+98,Belgium,NMC111,Direct,1.0161541953512538
+99,Belgium,NMC523,Direct,-3.9970043675501654
+100,Belgium,NMC622,Direct,3.050982754589509
+101,Belgium,NMC811,Direct,3.5557355681458547
+102,Benin,LFP,Direct,0.0
+103,Benin,NCA,Direct,-17.862063262166416
+104,Benin,NMC111,Direct,-50.11879449177846
+105,Benin,NMC523,Direct,-49.81855777178374
+106,Benin,NMC622,Direct,-61.73599520768345
+107,Benin,NMC811,Direct,-68.26391204684595
+108,Bermuda,LFP,Direct,0.0
+109,Bermuda,NCA,Direct,-284.862743690359
+110,Bermuda,NMC111,Direct,-364.8792466631803
+111,Bermuda,NMC523,Direct,-440.57090324035846
+112,Bermuda,NMC622,Direct,-732.438692687159
+113,Bermuda,NMC811,Direct,-1784.4472422944878
+114,Bolivia (Plurinational State of),LFP,Direct,0.0
+115,Bolivia (Plurinational State of),NCA,Direct,7.608240831112429
+116,Bolivia (Plurinational State of),NMC111,Direct,-0.3485903894870246
+117,Bolivia (Plurinational State of),NMC523,Direct,-5.015180066312445
+118,Bolivia (Plurinational State of),NMC622,Direct,1.3967248325554413
+119,Bolivia (Plurinational State of),NMC811,Direct,2.3013900793368
+120,Bosnia Herzegovina,LFP,,
+121,Bosnia Herzegovina,NCA,,
+122,Bosnia Herzegovina,NMC111,,
+123,Bosnia Herzegovina,NMC523,,
+124,Bosnia Herzegovina,NMC622,,
+125,Bosnia Herzegovina,NMC811,,
+126,Botswana,LFP,Direct,0.0
+127,Botswana,NCA,Direct,-0.4008174122661643
+128,Botswana,NMC111,Direct,-16.040966879189476
+129,Botswana,NMC523,Direct,-19.132702148620343
+130,Botswana,NMC622,Direct,-18.51541723509893
+131,Botswana,NMC811,Direct,-19.949071646276245
+132,Brazil,LFP,Direct,0.0
+133,Brazil,NCA,Direct,10.043333666556785
+134,Brazil,NMC111,Direct,4.362437976985956
+135,Brazil,NMC523,Direct,-0.767518248983859
+136,Brazil,NMC622,Direct,7.35150856236191
+137,Brazil,NMC811,Direct,8.945547614542095
+138,Brunei Darussalam,LFP,,
+139,Brunei Darussalam,NCA,,
+140,Brunei Darussalam,NMC111,,
+141,Brunei Darussalam,NMC523,,
+142,Brunei Darussalam,NMC622,,
+143,Brunei Darussalam,NMC811,,
+144,Bulgaria,LFP,,
+145,Bulgaria,NCA,,
+146,Bulgaria,NMC111,,
+147,Bulgaria,NMC523,,
+148,Bulgaria,NMC622,,
+149,Bulgaria,NMC811,,
+150,Burkina Faso,LFP,Direct,0.0
+151,Burkina Faso,NCA,Direct,8.206986399349265
+152,Burkina Faso,NMC111,Direct,0.7690315107008079
+153,Burkina Faso,NMC523,Direct,-4.001623042905481
+154,Burkina Faso,NMC622,Direct,2.7910513408443043
+155,Burkina Faso,NMC811,Direct,3.847076991830379
+156,Burundi,LFP,,
+157,Burundi,NCA,,
+158,Burundi,NMC111,,
+159,Burundi,NMC523,,
+160,Burundi,NMC622,,
+161,Burundi,NMC811,,
+162,C?te d'Ivoire,LFP,Direct,0.0
+163,C?te d'Ivoire,NCA,Direct,0.8335023563968225
+164,C?te d'Ivoire,NMC111,Direct,-13.612757736365682
+165,C?te d'Ivoire,NMC523,Direct,-16.964595833431527
+166,C?te d'Ivoire,NMC622,Direct,-15.467173879782669
+167,C?te d'Ivoire,NMC811,Direct,-16.55482578576658
+168,Cabo Verde,LFP,Direct,0.0
+169,Cabo Verde,NCA,Direct,-19.868423867503417
+170,Cabo Verde,NMC111,Direct,-54.036874360876055
+171,Cabo Verde,NMC523,Direct,-53.34536442531266
+172,Cabo Verde,NMC622,Direct,-66.70235111864683
+173,Cabo Verde,NMC811,Direct,-73.81179187387178
+174,Cambodia,LFP,,
+175,Cambodia,NCA,,
+176,Cambodia,NMC111,,
+177,Cambodia,NMC523,,
+178,Cambodia,NMC622,,
+179,Cambodia,NMC811,,
+180,Cameroon,LFP,Direct,0.0
+181,Cameroon,NCA,Direct,-360.81824433734516
+182,Cameroon,NMC111,Direct,-423.91652356683323
+183,Cameroon,NMC523,Direct,-677.4329237981535
+184,Cameroon,NMC622,Direct,-1231.4202749699498
+185,Cameroon,NMC811,Direct,-5956.841189865529
+186,Canada,LFP,Direct,0.0
+187,Canada,NCA,Direct,9.892383440969093
+188,Canada,NMC111,Direct,4.211789045204647
+189,Canada,NMC523,Direct,-0.916291712749605
+190,Canada,NMC622,Direct,7.211135365817401
+191,Canada,NMC811,Direct,8.813604977367897
+192,Cayman Isds,LFP,,
+193,Cayman Isds,NCA,,
+194,Cayman Isds,NMC111,,
+195,Cayman Isds,NMC523,,
+196,Cayman Isds,NMC622,,
+197,Cayman Isds,NMC811,,
+198,Chile,LFP,Direct,0.0
+199,Chile,NCA,Direct,8.864825563140965
+200,Chile,NMC111,Direct,2.0934149915581575
+201,Chile,NMC523,Direct,-2.8142632087124793
+202,Chile,NMC622,Direct,4.487251705233471
+203,Chile,NMC811,Direct,5.751267733681056
+204,China,LFP,Direct,3.2321072634182664
+205,China,NCA,Direct,10.38183362593667
+206,China,NMC111,Direct,5.2581181382287605
+207,China,NMC523,Direct,-0.026160384676593845
+208,China,NMC622,Direct,8.509626110405918
+209,China,NMC811,Direct,10.225682791140914
+210,Colombia,LFP,Direct,0.0
+211,Colombia,NCA,Direct,7.685306640693234
+212,Colombia,NMC111,Direct,-0.1848186823007945
+213,Colombia,NMC523,Direct,-4.869443295496055
+214,Colombia,NMC622,Direct,1.6080752978952524
+215,Colombia,NMC811,Direct,2.5401880789635793
+216,Comoros,LFP,,
+217,Comoros,NCA,,
+218,Comoros,NMC111,,
+219,Comoros,NMC523,,
+220,Comoros,NMC622,,
+221,Comoros,NMC811,,
+222,Congo,LFP,Direct,0.0
+223,Congo,NCA,Direct,-207.61945539676654
+224,Congo,NMC111,Direct,-332.7442853174318
+225,Congo,NMC523,Direct,-382.44110854434575
+226,Congo,NMC622,Direct,-504.1277193445684
+227,Congo,NMC811,Direct,-581.2170731990112
+228,Costa Rica,LFP,Direct,0.0
+229,Costa Rica,NCA,Direct,5.68484954256273
+230,Costa Rica,NMC111,Direct,-4.068163836568235
+231,Costa Rica,NMC523,Direct,-8.370495970138096
+232,Costa Rica,NMC622,Direct,-3.3072188110505625
+233,Costa Rica,NMC811,Direct,-2.94748976487773
+234,Croatia,LFP,,
+235,Croatia,NCA,,
+236,Croatia,NMC111,,
+237,Croatia,NMC523,,
+238,Croatia,NMC622,,
+239,Croatia,NMC811,,
+240,Cyprus,LFP,,
+241,Cyprus,NCA,,
+242,Cyprus,NMC111,,
+243,Cyprus,NMC523,,
+244,Cyprus,NMC622,,
+245,Cyprus,NMC811,,
+246,Czechia,LFP,Direct,-67.13997147210965
+247,Czechia,NCA,Direct,5.784043243480017
+248,Czechia,NMC111,Direct,-0.791628794460343
+249,Czechia,NMC523,Direct,-5.703031576026687
+250,Czechia,NMC622,Direct,0.6333704476832822
+251,Czechia,NMC811,Direct,0.4958250981934404
+252,Denmark,LFP,,
+253,Denmark,NCA,,
+254,Denmark,NMC111,,
+255,Denmark,NMC523,,
+256,Denmark,NMC622,,
+257,Denmark,NMC811,,
+258,Dominican Rep.,LFP,Direct,0.0
+259,Dominican Rep.,NCA,Direct,8.221617090910875
+260,Dominican Rep.,NMC111,Direct,0.838159390582911
+261,Dominican Rep.,NMC523,Direct,-3.9451239332694668
+262,Dominican Rep.,NMC622,Direct,2.8967749470121813
+263,Dominican Rep.,NMC811,Direct,3.9747288607009077
+264,Ecuador,LFP,Direct,0.0
+265,Ecuador,NCA,Direct,7.5285530931462015
+266,Ecuador,NMC111,Direct,-0.5028308152482559
+267,Ecuador,NMC523,Direct,-5.154097721625635
+268,Ecuador,NMC622,Direct,1.2019803716773714
+269,Ecuador,NMC811,Direct,2.0838115906594314
+270,Egypt,LFP,,
+271,Egypt,NCA,,
+272,Egypt,NMC111,,
+273,Egypt,NMC523,,
+274,Egypt,NMC622,,
+275,Egypt,NMC811,,
+276,El Salvador,LFP,Direct,0.0
+277,El Salvador,NCA,Direct,-74.29115357860493
+278,El Salvador,NMC111,Direct,-145.2669120361989
+279,El Salvador,NMC523,Direct,-149.08965881241625
+280,El Salvador,NMC622,Direct,-205.46075995188684
+281,El Salvador,NMC811,Direct,-244.808123527283
+282,Estonia,LFP,,
+283,Estonia,NCA,,
+284,Estonia,NMC111,,
+285,Estonia,NMC523,,
+286,Estonia,NMC622,,
+287,Estonia,NMC811,,
+288,Eswatini,LFP,Direct,0.0
+289,Eswatini,NCA,Direct,-16.525884581244068
+290,Eswatini,NMC111,Direct,-47.50975359408485
+291,Eswatini,NMC523,Direct,-47.4721340248242
+292,Eswatini,NMC622,Direct,-58.43107924137056
+293,Eswatini,NMC811,Direct,-64.56864887432177
+294,Ethiopia,LFP,,
+295,Ethiopia,NCA,,
+296,Ethiopia,NMC111,,
+297,Ethiopia,NMC523,,
+298,Ethiopia,NMC622,,
+299,Ethiopia,NMC811,,
+300,Fiji,LFP,,
+301,Fiji,NCA,,
+302,Fiji,NMC111,,
+303,Fiji,NMC523,,
+304,Fiji,NMC622,,
+305,Fiji,NMC811,,
+306,Finland,LFP,Direct,-35.10396667953323
+307,Finland,NCA,Direct,7.585831045743924
+308,Finland,NMC111,Direct,1.554780032619067
+309,Finland,NMC523,Direct,-3.481152563342821
+310,Finland,NMC622,Direct,3.7169714363922712
+311,Finland,NMC811,Direct,4.342667601653402
+312,France,LFP,Direct,-16.9429416623712
+313,France,NCA,Direct,8.977872599819671
+314,France,NMC111,Direct,3.3416197176667124
+315,France,NMC523,Direct,-1.785274602806526
+316,France,NMC622,Direct,6.028667633969807
+317,France,NMC811,Direct,7.193221600340309
+318,French Polynesia,LFP,,
+319,French Polynesia,NCA,,
+320,French Polynesia,NMC111,,
+321,French Polynesia,NMC523,,
+322,French Polynesia,NMC622,,
+323,French Polynesia,NMC811,,
+324,Georgia,LFP,,
+325,Georgia,NCA,,
+326,Georgia,NMC111,,
+327,Georgia,NMC523,,
+328,Georgia,NMC622,,
+329,Georgia,NMC811,,
+330,Germany,LFP,Direct,-15.531947864215029
+331,Germany,NCA,Direct,9.075000552598583
+332,Germany,NMC111,Direct,3.467312249127847
+333,Germany,NMC523,Direct,-1.6660001555969202
+334,Germany,NMC622,Direct,6.192943262643989
+335,Germany,NMC811,Direct,7.3971595679552395
+336,Ghana,LFP,Direct,0.0
+337,Ghana,NCA,Direct,-79.57435360137009
+338,Ghana,NMC111,Direct,-128.34517052057373
+339,Ghana,NMC523,Direct,-165.2485263014684
+340,Ghana,NMC622,Direct,-252.98637390605532
+341,Ghana,NMC811,Direct,-706.2256012674405
+342,Greece,LFP,,
+343,Greece,NCA,,
+344,Greece,NMC111,,
+345,Greece,NMC523,,
+346,Greece,NMC622,,
+347,Greece,NMC811,,
+348,Greenland,LFP,,
+349,Greenland,NCA,,
+350,Greenland,NMC111,,
+351,Greenland,NMC523,,
+352,Greenland,NMC622,,
+353,Greenland,NMC811,,
+354,Grenada,LFP,Direct,0.0
+355,Grenada,NCA,Direct,-5.631036632075709
+356,Grenada,NMC111,Direct,-25.96157373168331
+357,Grenada,NMC523,Direct,-28.10821197239882
+358,Grenada,NMC622,Direct,-30.97768585888017
+359,Grenada,NMC811,Direct,-33.823218664955235
+360,Guatemala,LFP,Direct,0.0
+361,Guatemala,NCA,Direct,8.513880192579052
+362,Guatemala,NMC111,Direct,1.4034419223905328
+363,Guatemala,NMC523,Direct,-3.435384795753257
+364,Guatemala,NMC622,Direct,3.6114731126079285
+365,Guatemala,NMC811,Direct,4.7723907451342
+366,Guinea,LFP,Direct,0.0
+367,Guinea,NCA,Direct,-124.67041855864045
+368,Guinea,NMC111,Direct,-256.9448985253469
+369,Guinea,NMC523,Direct,-243.33312818667997
+370,Guinea,NMC622,Direct,-334.27733792071297
+371,Guinea,NMC811,Direct,-372.8479390214472
+372,Guyana,LFP,Direct,0.0
+373,Guyana,NCA,Direct,3.9228829402847545
+374,Guyana,NMC111,Direct,-7.478247571942422
+375,Guyana,NMC523,Direct,-11.443318139117075
+376,Guyana,NMC622,Direct,-7.615049757040621
+377,Guyana,NMC811,Direct,-7.754703400062279
+378,Honduras,LFP,Direct,0.0
+379,Honduras,NCA,Direct,3.778446251403265
+380,Honduras,NMC111,Direct,-7.756368877384771
+381,Honduras,NMC523,Direct,-11.695866665723337
+382,Honduras,NMC622,Direct,-7.9692714409126655
+383,Honduras,NMC811,Direct,-8.148839837778045
+384,Hungary,LFP,Direct,-25.809058702707635
+385,Hungary,NCA,Direct,8.685867036181502
+386,Hungary,NMC111,Direct,2.817912744077707
+387,Hungary,NMC523,Direct,-2.2685476279079766
+388,Hungary,NMC622,Direct,5.3482498580462075
+389,Hungary,NMC811,Direct,6.393667439627343
+390,Iceland,LFP,,
+391,Iceland,NCA,,
+392,Iceland,NMC111,,
+393,Iceland,NMC523,,
+394,Iceland,NMC622,,
+395,Iceland,NMC811,,
+396,India,LFP,Direct,0.0
+397,India,NCA,Direct,10.51885508226681
+398,India,NMC111,Direct,5.266583584103362
+399,India,NMC523,Direct,0.05016147796785788
+400,India,NMC622,Direct,8.485930177736766
+401,India,NMC811,Direct,10.206716552304837
+402,Indonesia,LFP,,
+403,Indonesia,NCA,,
+404,Indonesia,NMC111,,
+405,Indonesia,NMC523,,
+406,Indonesia,NMC622,,
+407,Indonesia,NMC811,,
+408,Iran,LFP,,
+409,Iran,NCA,,
+410,Iran,NMC111,,
+411,Iran,NMC523,,
+412,Iran,NMC622,,
+413,Iran,NMC811,,
+414,Ireland,LFP,,
+415,Ireland,NCA,,
+416,Ireland,NMC111,,
+417,Ireland,NMC523,,
+418,Ireland,NMC622,,
+419,Ireland,NMC811,,
+420,Israel,LFP,,
+421,Israel,NCA,,
+422,Israel,NMC111,,
+423,Israel,NMC523,,
+424,Israel,NMC622,,
+425,Israel,NMC811,,
+426,Italy,LFP,Direct,-19.22151736686736
+427,Italy,NCA,Direct,8.816737853099635
+428,Italy,NMC111,Direct,3.1377027945493294
+429,Italy,NMC523,Direct,-1.9787292934706289
+430,Italy,NMC622,Direct,5.768626610615968
+431,Italy,NMC811,Direct,6.873372991848825
+432,Jamaica,LFP,Direct,0.0
+433,Jamaica,NCA,Direct,-151.77509914813825
+434,Jamaica,NMC111,Direct,-253.35852605726777
+435,Jamaica,NMC523,Direct,-288.5634834176677
+436,Jamaica,NMC622,Direct,-445.9135241709814
+437,Jamaica,NMC811,Direct,-798.1227381801756
+438,Japan,LFP,Direct,-22.72305672752414
+439,Japan,NCA,Direct,9.980390320058602
+440,Japan,NMC111,Direct,4.466740798929248
+441,Japan,NMC523,Direct,-0.7084846149400428
+442,Japan,NMC622,Direct,7.534220108106537
+443,Japan,NMC811,Direct,9.205736613829101
+444,Jordan,LFP,,
+445,Jordan,NCA,,
+446,Jordan,NMC111,,
+447,Jordan,NMC523,,
+448,Jordan,NMC622,,
+449,Jordan,NMC811,,
+450,Kazakhstan,LFP,,
+451,Kazakhstan,NCA,,
+452,Kazakhstan,NMC111,,
+453,Kazakhstan,NMC523,,
+454,Kazakhstan,NMC622,,
+455,Kazakhstan,NMC811,,
+456,Kenya,LFP,,
+457,Kenya,NCA,,
+458,Kenya,NMC111,,
+459,Kenya,NMC523,,
+460,Kenya,NMC622,,
+461,Kenya,NMC811,,
+462,Kiribati,LFP,,
+463,Kiribati,NCA,,
+464,Kiribati,NMC111,,
+465,Kiribati,NMC523,,
+466,Kiribati,NMC622,,
+467,Kiribati,NMC811,,
+468,Korea,LFP,Direct,-8.612511037291354
+469,Korea,NCA,Direct,10.265974909336723
+470,Korea,NMC111,Direct,4.975519080201814
+471,Korea,NMC523,Direct,-0.23477224777371536
+472,Korea,NMC622,Direct,8.175879463617484
+473,Korea,NMC811,Direct,9.891396088344148
+474,Kuwait,LFP,,
+475,Kuwait,NCA,,
+476,Kuwait,NMC111,,
+477,Kuwait,NMC523,,
+478,Kuwait,NMC622,,
+479,Kuwait,NMC811,,
+480,Kyrgyzstan,LFP,,
+481,Kyrgyzstan,NCA,,
+482,Kyrgyzstan,NMC111,,
+483,Kyrgyzstan,NMC523,,
+484,Kyrgyzstan,NMC622,,
+485,Kyrgyzstan,NMC811,,
+486,Lao People's Dem. Rep.,LFP,,
+487,Lao People's Dem. Rep.,NCA,,
+488,Lao People's Dem. Rep.,NMC111,,
+489,Lao People's Dem. Rep.,NMC523,,
+490,Lao People's Dem. Rep.,NMC622,,
+491,Lao People's Dem. Rep.,NMC811,,
+492,Latvia,LFP,,
+493,Latvia,NCA,,
+494,Latvia,NMC111,,
+495,Latvia,NMC523,,
+496,Latvia,NMC622,,
+497,Latvia,NMC811,,
+498,Lebanon,LFP,,
+499,Lebanon,NCA,,
+500,Lebanon,NMC111,,
+501,Lebanon,NMC523,,
+502,Lebanon,NMC622,,
+503,Lebanon,NMC811,,
+504,Lesotho,LFP,Direct,0.0
+505,Lesotho,NCA,Direct,6.178658462353508
+506,Lesotho,NMC111,Direct,-3.190323116022171
+507,Lesotho,NMC523,Direct,-7.566442627677623
+508,Lesotho,NMC622,Direct,-2.229537541880198
+509,Lesotho,NMC811,Direct,-1.7635688154383597
+510,Lithuania,LFP,,
+511,Lithuania,NCA,,
+512,Lithuania,NMC111,,
+513,Lithuania,NMC523,,
+514,Lithuania,NMC622,,
+515,Lithuania,NMC811,,
+516,Luxembourg,LFP,,
+517,Luxembourg,NCA,,
+518,Luxembourg,NMC111,,
+519,Luxembourg,NMC523,,
+520,Luxembourg,NMC622,,
+521,Luxembourg,NMC811,,
+522,Madagascar,LFP,,
+523,Madagascar,NCA,,
+524,Madagascar,NMC111,,
+525,Madagascar,NMC523,,
+526,Madagascar,NMC622,,
+527,Madagascar,NMC811,,
+528,Malawi,LFP,,
+529,Malawi,NCA,,
+530,Malawi,NMC111,,
+531,Malawi,NMC523,,
+532,Malawi,NMC622,,
+533,Malawi,NMC811,,
+534,Malaysia,LFP,,
+535,Malaysia,NCA,,
+536,Malaysia,NMC111,,
+537,Malaysia,NMC523,,
+538,Malaysia,NMC622,,
+539,Malaysia,NMC811,,
+540,Maldives,LFP,,
+541,Maldives,NCA,,
+542,Maldives,NMC111,,
+543,Maldives,NMC523,,
+544,Maldives,NMC622,,
+545,Maldives,NMC811,,
+546,Mali,LFP,Direct,0.0
+547,Mali,NCA,Direct,4.214829414736343
+548,Mali,NMC111,Direct,-7.023870042242905
+549,Mali,NMC523,Direct,-11.017928310208053
+550,Mali,NMC622,Direct,-7.090468138680686
+551,Mali,NMC811,Direct,-7.1956609331219745
+552,Malta,LFP,,
+553,Malta,NCA,,
+554,Malta,NMC111,,
+555,Malta,NMC523,,
+556,Malta,NMC622,,
+557,Malta,NMC811,,
+558,Mauritania,LFP,,
+559,Mauritania,NCA,,
+560,Mauritania,NMC111,,
+561,Mauritania,NMC523,,
+562,Mauritania,NMC622,,
+563,Mauritania,NMC811,,
+564,Mauritius,LFP,,
+565,Mauritius,NCA,,
+566,Mauritius,NMC111,,
+567,Mauritius,NMC523,,
+568,Mauritius,NMC622,,
+569,Mauritius,NMC811,,
+570,Mexico,LFP,Direct,0.0
+571,Mexico,NCA,Direct,9.164582455563679
+572,Mexico,NMC111,Direct,2.6706802777458982
+573,Mexico,NMC523,Direct,-2.2935591003843907
+574,Mexico,NMC622,Direct,5.215998257204665
+575,Mexico,NMC811,Direct,6.564001266556999
+576,Mongolia,LFP,,
+577,Mongolia,NCA,,
+578,Mongolia,NMC111,,
+579,Mongolia,NMC523,,
+580,Mongolia,NMC622,,
+581,Mongolia,NMC811,,
+582,Montenegro,LFP,,
+583,Montenegro,NCA,,
+584,Montenegro,NMC111,,
+585,Montenegro,NMC523,,
+586,Montenegro,NMC622,,
+587,Montenegro,NMC811,,
+588,Morocco,LFP,,
+589,Morocco,NCA,,
+590,Morocco,NMC111,,
+591,Morocco,NMC523,,
+592,Morocco,NMC622,,
+593,Morocco,NMC811,,
+594,Mozambique,LFP,Direct,0.0
+595,Mozambique,NCA,Direct,-27.697099000107325
+596,Mozambique,NMC111,Direct,-46.92179394788392
+597,Mozambique,NMC523,Direct,-59.61213169183576
+598,Mozambique,NMC622,Direct,-88.86508617207653
+599,Mozambique,NMC811,Direct,-201.41083128009262
+600,Myanmar,LFP,,
+601,Myanmar,NCA,,
+602,Myanmar,NMC111,,
+603,Myanmar,NMC523,,
+604,Myanmar,NMC622,,
+605,Myanmar,NMC811,,
+606,Namibia,LFP,Direct,0.0
+607,Namibia,NCA,Direct,7.436134606892454
+608,Namibia,NMC111,Direct,-0.7356702281793721
+609,Namibia,NMC523,Direct,-5.356414356031708
+610,Namibia,NMC622,Direct,0.8829945607486946
+611,Namibia,NMC811,Direct,1.7147967909032236
+612,Nepal,LFP,,
+613,Nepal,NCA,,
+614,Nepal,NMC111,,
+615,Nepal,NMC523,,
+616,Nepal,NMC622,,
+617,Nepal,NMC811,,
+618,Netherlands,LFP,Direct,-32.936795241896064
+619,Netherlands,NCA,Direct,7.772546940279515
+620,Netherlands,NMC111,Direct,1.8014040482077232
+621,Netherlands,NMC523,Direct,-3.2497915942211586
+622,Netherlands,NMC622,Direct,4.043344501004957
+623,Netherlands,NMC811,Direct,4.759223919685895
+624,New Caledonia,LFP,,
+625,New Caledonia,NCA,,
+626,New Caledonia,NMC111,,
+627,New Caledonia,NMC523,,
+628,New Caledonia,NMC622,,
+629,New Caledonia,NMC811,,
+630,New Zealand,LFP,,
+631,New Zealand,NCA,,
+632,New Zealand,NMC111,,
+633,New Zealand,NMC523,,
+634,New Zealand,NMC622,,
+635,New Zealand,NMC811,,
+636,Nicaragua,LFP,Direct,0.0
+637,Nicaragua,NCA,Direct,7.312801511024761
+638,Nicaragua,NMC111,Direct,-0.9201785419303645
+639,Nicaragua,NMC523,Direct,-5.530404195372674
+640,Nicaragua,NMC622,Direct,0.6744073112669868
+641,Nicaragua,NMC811,Direct,1.4951230788922825
+642,Niger,LFP,Direct,0.0
+643,Niger,NCA,Direct,7.922163666908425
+644,Niger,NMC111,Direct,0.213054348265457
+645,Niger,NMC523,Direct,-4.502191467025485
+646,Niger,NMC622,Direct,2.086053740056931
+647,Niger,NMC811,Direct,3.059213952711202
+648,Nigeria,LFP,Direct,0.0
+649,Nigeria,NCA,Direct,10.307338558520023
+650,Nigeria,NMC111,Direct,4.869009404069415
+651,Nigeria,NMC523,Direct,-0.3101903016924152
+652,Nigeria,NMC622,Direct,7.989926724133203
+653,Nigeria,NMC811,Direct,9.656950745323849
+654,North Macedonia,LFP,,
+655,North Macedonia,NCA,,
+656,North Macedonia,NMC111,,
+657,North Macedonia,NMC523,,
+658,North Macedonia,NMC622,,
+659,North Macedonia,NMC811,,
+660,Norway,LFP,Direct,0.0
+661,Norway,NCA,Direct,6.490988606177623
+662,Norway,NMC111,Direct,-1.9766133218232511
+663,Norway,NMC523,Direct,-6.531041648417604
+664,Norway,NMC622,Direct,-0.39346562999648205
+665,Norway,NMC811,Direct,0.4637007293090486
+666,Oman,LFP,,
+667,Oman,NCA,,
+668,Oman,NMC111,,
+669,Oman,NMC523,,
+670,Oman,NMC622,,
+671,Oman,NMC811,,
+672,Pakistan,LFP,,
+673,Pakistan,NCA,,
+674,Pakistan,NMC111,,
+675,Pakistan,NMC523,,
+676,Pakistan,NMC622,,
+677,Pakistan,NMC811,,
+678,Palau,LFP,,
+679,Palau,NCA,,
+680,Palau,NMC111,,
+681,Palau,NMC523,,
+682,Palau,NMC622,,
+683,Palau,NMC811,,
+684,Panama,LFP,Direct,0.0
+685,Panama,NCA,Direct,-76.77633682170695
+686,Panama,NMC111,Direct,-161.61537657811516
+687,Panama,NMC523,Direct,-150.55420232075136
+688,Panama,NMC622,Direct,-208.55026415062315
+689,Panama,NMC811,Direct,-252.70661891892044
+690,Papua New Guinea,LFP,,
+691,Papua New Guinea,NCA,,
+692,Papua New Guinea,NMC111,,
+693,Papua New Guinea,NMC523,,
+694,Papua New Guinea,NMC622,,
+695,Papua New Guinea,NMC811,,
+696,Paraguay,LFP,Direct,0.0
+697,Paraguay,NCA,Direct,5.540758587980372
+698,Paraguay,NMC111,Direct,-4.348816748233615
+699,Paraguay,NMC523,Direct,-8.621663225722521
+700,Paraguay,NMC622,Direct,-3.6590260816672746
+701,Paraguay,NMC811,Direct,-3.3396360189473793
+702,Peru,LFP,Direct,0.0
+703,Peru,NCA,Direct,8.664881416158776
+704,Peru,NMC111,Direct,1.6957230581382619
+705,Peru,NMC523,Direct,-3.1719995126830227
+706,Peru,NMC622,Direct,3.980648417451401
+707,Peru,NMC811,Direct,5.184365436800686
+708,Philippines,LFP,,
+709,Philippines,NCA,,
+710,Philippines,NMC111,,
+711,Philippines,NMC523,,
+712,Philippines,NMC622,,
+713,Philippines,NMC811,,
+714,Poland,LFP,Direct,-23.31364268896968
+715,Poland,NCA,Direct,8.72994369113389
+716,Poland,NMC111,Direct,2.9822026113974873
+717,Poland,NMC523,Direct,-2.120691069193482
+718,Poland,NMC622,Direct,5.505629780559725
+719,Poland,NMC811,Direct,6.497911420717309
+720,Portugal,LFP,,
+721,Portugal,NCA,,
+722,Portugal,NMC111,,
+723,Portugal,NMC523,,
+724,Portugal,NMC622,,
+725,Portugal,NMC811,,
+726,Qatar,LFP,,
+727,Qatar,NCA,,
+728,Qatar,NMC111,,
+729,Qatar,NMC523,,
+730,Qatar,NMC622,,
+731,Qatar,NMC811,,
+732,Rep. of Moldova,LFP,,
+733,Rep. of Moldova,NCA,,
+734,Rep. of Moldova,NMC111,,
+735,Rep. of Moldova,NMC523,,
+736,Rep. of Moldova,NMC622,,
+737,Rep. of Moldova,NMC811,,
+738,Romania,LFP,Direct,-68.27962692986036
+739,Romania,NCA,Direct,5.818265396833544
+740,Romania,NMC111,Direct,-0.7560451506377478
+741,Romania,NMC523,Direct,-5.667586927583136
+742,Romania,NMC622,Direct,0.6680366361142087
+743,Romania,NMC811,Direct,0.5269520879648844
+744,Russian Federation,LFP,Direct,0.0
+745,Russian Federation,NCA,Direct,10.084086846584468
+746,Russian Federation,NMC111,Direct,4.178098233022572
+747,Russian Federation,NMC523,Direct,-0.8922478465971462
+748,Russian Federation,NMC622,Direct,6.978779304582142
+749,Russian Federation,NMC811,Direct,8.452040343034666
+750,Rwanda,LFP,,
+751,Rwanda,NCA,,
+752,Rwanda,NMC111,,
+753,Rwanda,NMC523,,
+754,Rwanda,NMC622,,
+755,Rwanda,NMC811,,
+756,Saint Lucia,LFP,Direct,0.0
+757,Saint Lucia,NCA,Direct,-16.939278504032146
+758,Saint Lucia,NMC111,Direct,-47.83629293101581
+759,Saint Lucia,NMC523,Direct,-47.83328980629595
+760,Saint Lucia,NMC622,Direct,-58.63098260687236
+761,Saint Lucia,NMC811,Direct,-64.6784285506219
+762,Samoa,LFP,,
+763,Samoa,NCA,,
+764,Samoa,NMC111,,
+765,Samoa,NMC523,,
+766,Samoa,NMC622,,
+767,Samoa,NMC811,,
+768,Saudi Arabia,LFP,,
+769,Saudi Arabia,NCA,,
+770,Saudi Arabia,NMC111,,
+771,Saudi Arabia,NMC523,,
+772,Saudi Arabia,NMC622,,
+773,Saudi Arabia,NMC811,,
+774,Senegal,LFP,Direct,0.0
+775,Senegal,NCA,Direct,9.84892474736824
+776,Senegal,NMC111,Direct,3.974167015501331
+777,Senegal,NMC523,Direct,-1.1158631347960364
+778,Senegal,NMC622,Direct,6.855244264572052
+779,Senegal,NMC811,Direct,8.38890660085674
+780,Serbia,LFP,Direct,0.0
+781,Serbia,NCA,Direct,3.998323437460676
+782,Serbia,NMC111,Direct,-6.8367824039725384
+783,Serbia,NMC523,Direct,-10.927424994969485
+784,Serbia,NMC622,Direct,-6.598019587312914
+785,Serbia,NMC811,Direct,-6.512127421963238
+786,Seychelles,LFP,,
+787,Seychelles,NCA,,
+788,Seychelles,NMC111,,
+789,Seychelles,NMC523,,
+790,Seychelles,NMC622,,
+791,Seychelles,NMC811,,
+792,Sierra Leone,LFP,,
+793,Sierra Leone,NCA,,
+794,Sierra Leone,NMC111,,
+795,Sierra Leone,NMC523,,
+796,Sierra Leone,NMC622,,
+797,Sierra Leone,NMC811,,
+798,Singapore,LFP,,
+799,Singapore,NCA,,
+800,Singapore,NMC111,,
+801,Singapore,NMC523,,
+802,Singapore,NMC622,,
+803,Singapore,NMC811,,
+804,Slovakia,LFP,Direct,-63.85947885894853
+805,Slovakia,NCA,Direct,5.797873590181043
+806,Slovakia,NMC111,Direct,-0.7773980860687172
+807,Slovakia,NMC523,Direct,-5.688818882179335
+808,Slovakia,NMC622,Direct,0.6472007393093153
+809,Slovakia,NMC811,Direct,0.5085338127195285
+810,Slovenia,LFP,,
+811,Slovenia,NCA,,
+812,Slovenia,NMC111,,
+813,Slovenia,NMC523,,
+814,Slovenia,NMC622,,
+815,Slovenia,NMC811,,
+816,Solomon Isds,LFP,,
+817,Solomon Isds,NCA,,
+818,Solomon Isds,NMC111,,
+819,Solomon Isds,NMC523,,
+820,Solomon Isds,NMC622,,
+821,Solomon Isds,NMC811,,
+822,South Africa,LFP,Direct,0.0
+823,South Africa,NCA,Direct,3.725566958912334
+824,South Africa,NMC111,Direct,-7.9565612235978795
+825,South Africa,NMC523,Direct,-11.859803084361172
+826,South Africa,NMC622,Direct,-8.265511341302451
+827,South Africa,NMC811,Direct,-8.50445495646688
+828,Spain,LFP,Direct,-21.515654568342647
+829,Spain,NCA,Direct,8.778808016284506
+830,Spain,NMC111,Direct,3.0593035169991456
+831,Spain,NMC523,Direct,-2.0495335972136743
+832,Spain,NMC622,Direct,5.6256979610945645
+833,Spain,NMC811,Direct,6.663802883443595
+834,Sri Lanka,LFP,,
+835,Sri Lanka,NCA,,
+836,Sri Lanka,NMC111,,
+837,Sri Lanka,NMC523,,
+838,Sri Lanka,NMC622,,
+839,Sri Lanka,NMC811,,
+840,State of Palestine,LFP,,
+841,State of Palestine,NCA,,
+842,State of Palestine,NMC111,,
+843,State of Palestine,NMC523,,
+844,State of Palestine,NMC622,,
+845,State of Palestine,NMC811,,
+846,Sudan,LFP,,
+847,Sudan,NCA,,
+848,Sudan,NMC111,,
+849,Sudan,NMC523,,
+850,Sudan,NMC622,,
+851,Sudan,NMC811,,
+852,Sweden,LFP,Direct,-31.154253782536852
+853,Sweden,NCA,Direct,8.601974543763829
+854,Sweden,NMC111,Direct,2.5360863192362544
+855,Sweden,NMC523,Direct,-2.518916745535636
+856,Sweden,NMC622,Direct,5.201111159665497
+857,Sweden,NMC811,Direct,6.506120832806794
+858,Switzerland,LFP,Direct,0.0
+859,Switzerland,NCA,Direct,7.0761718105324825
+860,Switzerland,NMC111,Direct,-0.7901269164605788
+861,Switzerland,NMC523,Direct,-5.478927203878048
+862,Switzerland,NMC622,Direct,1.071205932251369
+863,Switzerland,NMC811,Direct,2.0575119232666848
+864,Tajikistan,LFP,,
+865,Tajikistan,NCA,,
+866,Tajikistan,NMC111,,
+867,Tajikistan,NMC523,,
+868,Tajikistan,NMC622,,
+869,Tajikistan,NMC811,,
+870,Thailand,LFP,Direct,0.0
+871,Thailand,NCA,Direct,10.100925752357188
+872,Thailand,NMC111,Direct,4.221890164444114
+873,Thailand,NMC523,Direct,-0.8546541400544123
+874,Thailand,NMC622,Direct,7.039851780809887
+875,Thailand,NMC811,Direct,8.523306259744636
+876,Togo,LFP,Direct,0.0
+877,Togo,NCA,Direct,5.628336875946513
+878,Togo,NMC111,Direct,-4.264539577069803
+879,Togo,NMC523,Direct,-8.53376034782159
+880,Togo,NMC622,Direct,-3.5917483682295277
+881,Togo,NMC811,Direct,-3.285396638613811
+882,Tonga,LFP,,
+883,Tonga,NCA,,
+884,Tonga,NMC111,,
+885,Tonga,NMC523,,
+886,Tonga,NMC622,,
+887,Tonga,NMC811,,
+888,Trinidad and Tobago,LFP,Direct,0.0
+889,Trinidad and Tobago,NCA,Direct,5.531856467882227
+890,Trinidad and Tobago,NMC111,Direct,-4.365714927297793
+891,Trinidad and Tobago,NMC523,Direct,-8.636863983902035
+892,Trinidad and Tobago,NMC622,Direct,-3.6805574195201203
+893,Trinidad and Tobago,NMC811,Direct,-3.364535647062098
+894,Tunisia,LFP,,
+895,Tunisia,NCA,,
+896,Tunisia,NMC111,,
+897,Tunisia,NMC523,,
+898,Tunisia,NMC622,,
+899,Tunisia,NMC811,,
+900,Turkey,LFP,Direct,0.0
+901,Turkey,NCA,Direct,9.070911769631325
+902,Turkey,NMC111,Direct,2.6889530424514216
+903,Turkey,NMC523,Direct,-2.298216973690645
+904,Turkey,NMC622,Direct,5.3154316642704185
+905,Turkey,NMC811,Direct,6.713612778982588
+906,USA,LFP,Direct,-145.67810805291404
+907,USA,NCA,Direct,10.282822268698059
+908,USA,NMC111,Direct,4.7640196849984715
+909,USA,NMC523,Direct,-0.4340506104813667
+910,USA,NMC622,Direct,7.863506947188916
+911,USA,NMC811,Direct,9.666654187553652
+912,Uganda,LFP,,
+913,Uganda,NCA,,
+914,Uganda,NMC111,,
+915,Uganda,NMC523,,
+916,Uganda,NMC622,,
+917,Uganda,NMC811,,
+918,Ukraine,LFP,,
+919,Ukraine,NCA,,
+920,Ukraine,NMC111,,
+921,Ukraine,NMC523,,
+922,Ukraine,NMC622,,
+923,Ukraine,NMC811,,
+924,United Arab Emirates,LFP,,
+925,United Arab Emirates,NCA,,
+926,United Arab Emirates,NMC111,,
+927,United Arab Emirates,NMC523,,
+928,United Arab Emirates,NMC622,,
+929,United Arab Emirates,NMC811,,
+930,United Kingdom,LFP,Direct,0.0
+931,United Kingdom,NCA,Direct,9.305127907468645
+932,United Kingdom,NMC111,Direct,3.0679103366648914
+933,United Kingdom,NMC523,Direct,-1.9503685216661104
+934,United Kingdom,NMC622,Direct,5.770432126587324
+935,United Kingdom,NMC811,Direct,7.20997831737463
+936,United Rep. of Tanzania,LFP,,
+937,United Rep. of Tanzania,NCA,,
+938,United Rep. of Tanzania,NMC111,,
+939,United Rep. of Tanzania,NMC523,,
+940,United Rep. of Tanzania,NMC622,,
+941,United Rep. of Tanzania,NMC811,,
+942,Uruguay,LFP,Direct,0.0
+943,Uruguay,NCA,Direct,2.167635661618632
+944,Uruguay,NMC111,Direct,-10.507502472186905
+945,Uruguay,NMC523,Direct,-14.207960148721302
+946,Uruguay,NMC622,Direct,-11.320070744023713
+947,Uruguay,NMC811,Direct,-11.826245407970776
+948,Uzbekistan,LFP,,
+949,Uzbekistan,NCA,,
+950,Uzbekistan,NMC111,,
+951,Uzbekistan,NMC523,,
+952,Uzbekistan,NMC622,,
+953,Uzbekistan,NMC811,,
+954,Viet Nam,LFP,Direct,0.0
+955,Viet Nam,NCA,Direct,9.932193861821602
+956,Viet Nam,NMC111,Direct,3.7977729369702895
+957,Viet Nam,NMC523,Direct,-1.2209283344041095
+958,Viet Nam,NMC622,Direct,6.45582535827489
+959,Viet Nam,NMC811,Direct,7.848799973133589
+960,Yemen,LFP,,
+961,Yemen,NCA,,
+962,Yemen,NMC111,,
+963,Yemen,NMC523,,
+964,Yemen,NMC622,,
+965,Yemen,NMC811,,
+966,Zambia,LFP,Direct,0.0
+967,Zambia,NCA,Direct,-21.76228420925465
+968,Zambia,NMC111,Direct,-43.59287277320564
+969,Zambia,NMC523,Direct,-61.99972021837761
+970,Zambia,NMC622,Direct,-86.52810597344374
+971,Zambia,NMC811,Direct,-111.04453662987301
+972,Zimbabwe,LFP,Direct,0.0
+973,Zimbabwe,NCA,Direct,-67.6180302528012
+974,Zimbabwe,NMC111,Direct,-185.02063822489194
+975,Zimbabwe,NMC523,Direct,-138.32418189724166
+976,Zimbabwe,NMC622,Direct,-188.78900948916856
+977,Zimbabwe,NMC811,Direct,-227.96479481980268

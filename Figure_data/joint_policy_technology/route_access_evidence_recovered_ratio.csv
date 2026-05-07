@@ -1,0 +1,13 @@
+year,policy_scenario,recovered_lithium_ratio
+2030,current_policy,1.0
+2030,reference_policy,1.0
+2030,strict_policy,1.0
+2030,critical_route_policy,1.0
+2040,current_policy,0.9999999999999998
+2040,reference_policy,1.0
+2040,strict_policy,1.0
+2040,critical_route_policy,1.0000000000000002
+2050,current_policy,1.0
+2050,reference_policy,1.0
+2050,strict_policy,1.0
+2050,critical_route_policy,1.0000000000000002

@@ -1,0 +1,9 @@
+,forbidden_route_count,forbidden_route_count,forbidden_route_count,forbidden_route_count,penalized_route_count,penalized_route_count,penalized_route_count,penalized_route_count,used_forbidden_flow_t,used_forbidden_flow_t,used_forbidden_flow_t,used_forbidden_flow_t
+policy_scenario,reference_policy,current_policy,strict_policy,critical_route_policy,reference_policy,current_policy,strict_policy,critical_route_policy,reference_policy,current_policy,strict_policy,critical_route_policy
+year,,,,,,,,,,,,
+2025,393,393,421,405,4507,4507,4480,4507,0.0,0.0,0.0,0.0
+2030,393,393,421,405,4507,4507,4480,4507,0.0,0.0,0.0,0.0
+2035,393,393,421,405,4507,4507,4480,4507,0.0,0.0,0.0,0.0
+2040,393,393,421,405,4507,4507,4480,4507,0.0,0.0,0.0,0.0
+2045,393,393,421,405,4507,4507,4480,4507,0.0,0.0,0.0,0.0
+2050,393,393,421,405,4507,4507,4480,4507,0.0,0.0,0.0,0.0

@@ -1,0 +1,979 @@
+,country,type,recycling_m,net_profit,collection_scenario,recovery_efficiency_scenario
+0,Afghanistan,LFP,Direct,0.0,high_collection,baseline
+1,Afghanistan,NCA,Direct,-17209.91904988526,high_collection,baseline
+2,Afghanistan,NMC111,Direct,-43017.46213509996,high_collection,baseline
+3,Afghanistan,NMC523,Direct,-37264.19410579379,high_collection,baseline
+4,Afghanistan,NMC622,Direct,0.0,high_collection,baseline
+5,Afghanistan,NMC811,Direct,0.0,high_collection,baseline
+6,Albania,LFP,Direct,-159.89273200161796,high_collection,baseline
+7,Albania,NCA,Direct,-1.5616424138173624,high_collection,baseline
+8,Albania,NMC111,Direct,-10.328691809585148,high_collection,baseline
+9,Albania,NMC523,Direct,-14.74106649762888,high_collection,baseline
+10,Albania,NMC622,Direct,-11.858195899160034,high_collection,baseline
+11,Albania,NMC811,Direct,-15.035686807986714,high_collection,baseline
+12,Algeria,LFP,Direct,0.0,high_collection,baseline
+13,Algeria,NCA,Direct,-13.574973461594183,high_collection,baseline
+14,Algeria,NMC111,Direct,-40.45297560703493,high_collection,baseline
+15,Algeria,NMC523,Direct,-42.36618825484318,high_collection,baseline
+16,Algeria,NMC622,Direct,-51.604494482886025,high_collection,baseline
+17,Algeria,NMC811,Direct,-57.35435971966473,high_collection,baseline
+18,Andorra,LFP,Direct,0.0,high_collection,baseline
+19,Andorra,NCA,Direct,-209.30513636818912,high_collection,baseline
+20,Andorra,NMC111,Direct,-392.1943600841968,high_collection,baseline
+21,Andorra,NMC523,Direct,-374.23076606502616,high_collection,baseline
+22,Andorra,NMC622,Direct,-510.2895239329455,high_collection,baseline
+23,Andorra,NMC811,Direct,-569.1221570548801,high_collection,baseline
+24,Angola,LFP,Direct,0.0,high_collection,baseline
+25,Angola,NCA,Direct,-37.136396550008044,high_collection,baseline
+26,Angola,NMC111,Direct,-86.58504052906515,high_collection,baseline
+27,Angola,NMC523,Direct,-83.95243104318617,high_collection,baseline
+28,Angola,NMC622,Direct,-110.08062265996953,high_collection,baseline
+29,Angola,NMC811,Direct,-122.98162923661557,high_collection,baseline
+30,Argentina,LFP,Direct,0.0,high_collection,baseline
+31,Argentina,NCA,Direct,-0.35404242762805316,high_collection,baseline
+32,Argentina,NMC111,Direct,-15.385842895903018,high_collection,baseline
+33,Argentina,NMC523,Direct,-18.909938909322296,high_collection,baseline
+34,Argentina,NMC622,Direct,-18.148071231941927,high_collection,baseline
+35,Argentina,NMC811,Direct,-19.60684285661963,high_collection,baseline
+36,Armenia,LFP,Direct,0.0,high_collection,baseline
+37,Armenia,NCA,Direct,-346.4369068162321,high_collection,baseline
+38,Armenia,NMC111,Direct,-506.8176234813457,high_collection,baseline
+39,Armenia,NMC523,Direct,-598.9265444151187,high_collection,baseline
+40,Armenia,NMC622,Direct,-890.2262471617042,high_collection,baseline
+41,Armenia,NMC811,Direct,-1289.3707170225127,high_collection,baseline
+42,Aruba,LFP,Direct,0.0,high_collection,baseline
+43,Aruba,NCA,Direct,-500.4558076463575,high_collection,baseline
+44,Aruba,NMC111,Direct,-642.4803928659214,high_collection,baseline
+45,Aruba,NMC523,Direct,-806.4022745457914,high_collection,baseline
+46,Aruba,NMC622,Direct,-1303.7768266773458,high_collection,baseline
+47,Aruba,NMC811,Direct,-1920.4772852801223,high_collection,baseline
+48,Australia,LFP,Direct,0.0,high_collection,baseline
+49,Australia,NCA,Direct,7.004066364853075,high_collection,baseline
+50,Australia,NMC111,Direct,-1.1264797603952905,high_collection,baseline
+51,Australia,NMC523,Direct,-5.767520846938588,high_collection,baseline
+52,Australia,NMC622,Direct,0.5801100092077339,high_collection,baseline
+53,Australia,NMC811,Direct,1.475326296108961,high_collection,baseline
+54,Austria,LFP,Direct,-67.67918917015685,high_collection,baseline
+55,Austria,NCA,Direct,5.22559266052106,high_collection,baseline
+56,Austria,NMC111,Direct,-1.479076908323799,high_collection,baseline
+57,Austria,NMC523,Direct,-6.367093533106213,high_collection,baseline
+58,Austria,NMC622,Direct,-0.23667487696377992,high_collection,baseline
+59,Austria,NMC811,Direct,-0.550266150442732,high_collection,baseline
+60,Azerbaijan,LFP,Direct,0.0,high_collection,baseline
+61,Azerbaijan,NCA,Direct,-7.756678909016742,high_collection,baseline
+62,Azerbaijan,NMC111,Direct,-29.007809057930224,high_collection,baseline
+63,Azerbaijan,NMC523,Direct,-31.030419799173977,high_collection,baseline
+64,Azerbaijan,NMC622,Direct,-34.43896110811604,high_collection,baseline
+65,Azerbaijan,NMC811,Direct,-37.48054924051391,high_collection,baseline
+66,Bahamas,LFP,Direct,0.0,high_collection,baseline
+67,Bahamas,NCA,Direct,-3563.8248172801286,high_collection,baseline
+68,Bahamas,NMC111,Direct,0.0,high_collection,baseline
+69,Bahamas,NMC523,Direct,0.0,high_collection,baseline
+70,Bahamas,NMC622,Direct,0.0,high_collection,baseline
+71,Bahamas,NMC811,Direct,0.0,high_collection,baseline
+72,Bahrain,LFP,Direct,0.0,high_collection,baseline
+73,Bahrain,NCA,Direct,-342.2736205996162,high_collection,baseline
+74,Bahrain,NMC111,Direct,-419.34012925995705,high_collection,baseline
+75,Bahrain,NMC523,Direct,-546.0050223191258,high_collection,baseline
+76,Bahrain,NMC622,Direct,-914.2605670725953,high_collection,baseline
+77,Bahrain,NMC811,Direct,-2661.653610841474,high_collection,baseline
+78,Bangladesh,LFP,Direct,0.0,high_collection,baseline
+79,Bangladesh,NCA,Direct,-1160.9351140250915,high_collection,baseline
+80,Bangladesh,NMC111,Direct,-2577.9052596505953,high_collection,baseline
+81,Bangladesh,NMC523,Direct,-2708.981714805435,high_collection,baseline
+82,Bangladesh,NMC622,Direct,-4401.960664233325,high_collection,baseline
+83,Bangladesh,NMC811,Direct,-5124.863290561353,high_collection,baseline
+84,Barbados,LFP,Direct,0.0,high_collection,baseline
+85,Barbados,NCA,Direct,-1065.1223233484457,high_collection,baseline
+86,Barbados,NMC111,Direct,-2075.663910877381,high_collection,baseline
+87,Barbados,NMC523,Direct,-1876.161028154149,high_collection,baseline
+88,Barbados,NMC622,Direct,-2621.7897584860516,high_collection,baseline
+89,Barbados,NMC811,Direct,-2992.1782659196756,high_collection,baseline
+90,Belarus,LFP,Direct,0.0,high_collection,baseline
+91,Belarus,NCA,Direct,-0.2848253015656308,high_collection,baseline
+92,Belarus,NMC111,Direct,-15.645526900270488,high_collection,baseline
+93,Belarus,NMC523,Direct,-18.818869126202724,high_collection,baseline
+94,Belarus,NMC622,Direct,-17.99473194841802,high_collection,baseline
+95,Belarus,NMC811,Direct,-19.363501013542905,high_collection,baseline
+96,Belgium,LFP,Direct,-81.1079594908151,high_collection,baseline
+97,Belgium,NCA,Direct,3.9399332135097906,high_collection,baseline
+98,Belgium,NMC111,Direct,-3.0934674609235877,high_collection,baseline
+99,Belgium,NMC523,Direct,-7.904358539402221,high_collection,baseline
+100,Belgium,NMC622,Direct,-2.2683852713969848,high_collection,baseline
+101,Belgium,NMC811,Direct,-2.997904392255093,high_collection,baseline
+102,Benin,LFP,Direct,0.0,high_collection,baseline
+103,Benin,NCA,Direct,-2.024085899459809,high_collection,baseline
+104,Benin,NMC111,Direct,-19.201966073213583,high_collection,baseline
+105,Benin,NMC523,Direct,-21.982898394074535,high_collection,baseline
+106,Benin,NMC622,Direct,-22.533333990959683,high_collection,baseline
+107,Benin,NMC811,Direct,-24.455772516204387,high_collection,baseline
+108,Bermuda,LFP,Direct,0.0,high_collection,baseline
+109,Bermuda,NCA,Direct,-382.2413069412439,high_collection,baseline
+110,Bermuda,NMC111,Direct,-484.53305085997414,high_collection,baseline
+111,Bermuda,NMC523,Direct,-578.1565085383116,high_collection,baseline
+112,Bermuda,NMC622,Direct,-974.8969007448055,high_collection,baseline
+113,Bermuda,NMC811,Direct,-2876.7366018504013,high_collection,baseline
+114,Bolivia (Plurinational State of),LFP,Direct,0.0,high_collection,baseline
+115,Bolivia (Plurinational State of),NCA,Direct,-3.077136117193719,high_collection,baseline
+116,Bolivia (Plurinational State of),NMC111,Direct,-20.980782358762653,high_collection,baseline
+117,Bolivia (Plurinational State of),NMC523,Direct,-23.656034189139877,high_collection,baseline
+118,Bolivia (Plurinational State of),NMC622,Direct,-24.747898475566295,high_collection,baseline
+119,Bolivia (Plurinational State of),NMC811,Direct,-26.90136722129189,high_collection,baseline
+120,Bosnia Herzegovina,LFP,Direct,0.0,high_collection,baseline
+121,Bosnia Herzegovina,NCA,Direct,-27.790505092615927,high_collection,baseline
+122,Bosnia Herzegovina,NMC111,Direct,-66.12169172497931,high_collection,baseline
+123,Bosnia Herzegovina,NMC523,Direct,-64.8588615226263,high_collection,baseline
+124,Bosnia Herzegovina,NMC622,Direct,-80.93588575948965,high_collection,baseline
+125,Bosnia Herzegovina,NMC811,Direct,-89.07272216012548,high_collection,baseline
+126,Botswana,LFP,Direct,0.0,high_collection,baseline
+127,Botswana,NCA,Direct,-20.917714711955988,high_collection,baseline
+128,Botswana,NMC111,Direct,-55.79162096143892,high_collection,baseline
+129,Botswana,NMC523,Direct,-55.13808255963367,high_collection,baseline
+130,Botswana,NMC622,Direct,-69.32725351327744,high_collection,baseline
+131,Botswana,NMC811,Direct,-76.93257151112152,high_collection,baseline
+132,Brazil,LFP,Direct,0.0,high_collection,baseline
+133,Brazil,NCA,Direct,10.084984230556481,high_collection,baseline
+134,Brazil,NMC111,Direct,4.4430148416811885,high_collection,baseline
+135,Brazil,NMC523,Direct,-0.694867710204034,high_collection,baseline
+136,Brazil,NMC622,Direct,7.4533585218096094,high_collection,baseline
+137,Brazil,NMC811,Direct,9.059198762144472,high_collection,baseline
+138,Brunei Darussalam,LFP,Direct,0.0,high_collection,baseline
+139,Brunei Darussalam,NCA,Direct,-267.51444913756296,high_collection,baseline
+140,Brunei Darussalam,NMC111,Direct,-682.3254837248782,high_collection,baseline
+141,Brunei Darussalam,NMC523,Direct,-602.4842762125912,high_collection,baseline
+142,Brunei Darussalam,NMC622,Direct,-956.4752254512492,high_collection,baseline
+143,Brunei Darussalam,NMC811,Direct,-1116.1589792153677,high_collection,baseline
+144,Bulgaria,LFP,Direct,-92.7553442028357,high_collection,baseline
+145,Bulgaria,NCA,Direct,4.4700840450663994,high_collection,baseline
+146,Bulgaria,NMC111,Direct,-2.650835215661907,high_collection,baseline
+147,Bulgaria,NMC523,Direct,-7.437416923267093,high_collection,baseline
+148,Bulgaria,NMC622,Direct,-2.012010520544731,high_collection,baseline
+149,Bulgaria,NMC811,Direct,-2.996723896374812,high_collection,baseline
+150,Burkina Faso,LFP,Direct,0.0,high_collection,baseline
+151,Burkina Faso,NCA,Direct,-7.838078007869864,high_collection,baseline
+152,Burkina Faso,NMC111,Direct,-30.50983856359362,high_collection,baseline
+153,Burkina Faso,NMC523,Direct,-32.196828468624226,high_collection,baseline
+154,Burkina Faso,NMC622,Direct,-36.93085894608045,high_collection,baseline
+155,Burkina Faso,NMC811,Direct,-40.5561338854602,high_collection,baseline
+156,Burundi,LFP,Direct,0.0,high_collection,baseline
+157,Burundi,NCA,Direct,-24.08360861932854,high_collection,baseline
+158,Burundi,NMC111,Direct,-61.68080740299112,high_collection,baseline
+159,Burundi,NMC523,Direct,-60.56992868529917,high_collection,baseline
+160,Burundi,NMC622,Direct,-77.11966034856815,high_collection,baseline
+161,Burundi,NMC811,Direct,-85.63145895938551,high_collection,baseline
+162,C?te d'Ivoire,LFP,Direct,0.0,high_collection,baseline
+163,C?te d'Ivoire,NCA,Direct,-26.62696373054423,high_collection,baseline
+164,C?te d'Ivoire,NMC111,Direct,-66.34974244653525,high_collection,baseline
+165,C?te d'Ivoire,NMC523,Direct,-65.33859986277032,high_collection,baseline
+166,C?te d'Ivoire,NMC622,Direct,-83.8001946446985,high_collection,baseline
+167,C?te d'Ivoire,NMC811,Direct,-93.16107852487781,high_collection,baseline
+168,Cabo Verde,LFP,Direct,0.0,high_collection,baseline
+169,Cabo Verde,NCA,Direct,-175.38755506490588,high_collection,baseline
+170,Cabo Verde,NMC111,Direct,-356.90470425496625,high_collection,baseline
+171,Cabo Verde,NMC523,Direct,-326.5371823798963,high_collection,baseline
+172,Cabo Verde,NMC622,Direct,-451.73915747335855,high_collection,baseline
+173,Cabo Verde,NMC811,Direct,-504.6500977650348,high_collection,baseline
+174,Cambodia,LFP,Direct,0.0,high_collection,baseline
+175,Cambodia,NCA,Direct,-5.986217317891146,high_collection,baseline
+176,Cambodia,NMC111,Direct,-35.940181396386066,high_collection,baseline
+177,Cambodia,NMC523,Direct,-35.66684896154195,high_collection,baseline
+178,Cambodia,NMC622,Direct,-48.61790635062357,high_collection,baseline
+179,Cambodia,NMC811,Direct,-56.32950845536395,high_collection,baseline
+180,Cameroon,LFP,Direct,0.0,high_collection,baseline
+181,Cameroon,NCA,Direct,-518.8762092505599,high_collection,baseline
+182,Cameroon,NMC111,Direct,-608.0430727458241,high_collection,baseline
+183,Cameroon,NMC523,Direct,-970.1951930452908,high_collection,baseline
+184,Cameroon,NMC622,Direct,-1759.2372287048743,high_collection,baseline
+185,Cameroon,NMC811,Direct,0.0,high_collection,baseline
+186,Canada,LFP,Direct,0.0,high_collection,baseline
+187,Canada,NCA,Direct,6.651675677774541,high_collection,baseline
+188,Canada,NMC111,Direct,-1.947045496859815,high_collection,baseline
+189,Canada,NMC523,Direct,-6.482858510436809,high_collection,baseline
+190,Canada,NMC622,Direct,-0.5276971048009843,high_collection,baseline
+191,Canada,NMC811,Direct,0.20140061697266187,high_collection,baseline
+192,Cayman Isds,LFP,Direct,0.0,high_collection,baseline
+193,Cayman Isds,NCA,Direct,0.0,high_collection,baseline
+194,Cayman Isds,NMC111,Direct,0.0,high_collection,baseline
+195,Cayman Isds,NMC523,Direct,0.0,high_collection,baseline
+196,Cayman Isds,NMC622,Direct,0.0,high_collection,baseline
+197,Cayman Isds,NMC811,Direct,0.0,high_collection,baseline
+198,Chile,LFP,Direct,0.0,high_collection,baseline
+199,Chile,NCA,Direct,-2.925632078211072,high_collection,baseline
+200,Chile,NMC111,Direct,-20.71211460193762,high_collection,baseline
+201,Chile,NMC523,Direct,-23.37933766183089,high_collection,baseline
+202,Chile,NMC622,Direct,-24.34490520131865,high_collection,baseline
+203,Chile,NMC811,Direct,-26.424869566734888,high_collection,baseline
+204,China,LFP,Direct,3.119704859829099,high_collection,baseline
+205,China,NCA,Direct,10.143184891281368,high_collection,baseline
+206,China,NMC111,Direct,5.116148640587647,high_collection,baseline
+207,China,NMC523,Direct,-0.23332929548306633,high_collection,baseline
+208,China,NMC622,Direct,8.372360545696932,high_collection,baseline
+209,China,NMC811,Direct,10.064566956120748,high_collection,baseline
+210,Colombia,LFP,Direct,0.0,high_collection,baseline
+211,Colombia,NCA,Direct,-0.08061918097911994,high_collection,baseline
+212,Colombia,NMC111,Direct,-15.113310775160558,high_collection,baseline
+213,Colombia,NMC523,Direct,-18.42185533818078,high_collection,baseline
+214,Colombia,NMC622,Direct,-17.4171909553981,high_collection,baseline
+215,Colombia,NMC811,Direct,-18.73017930473959,high_collection,baseline
+216,Comoros,LFP,Direct,0.0,high_collection,baseline
+217,Comoros,NCA,Direct,-250.07527848021516,high_collection,baseline
+218,Comoros,NMC111,Direct,-503.4036655377991,high_collection,baseline
+219,Comoros,NMC523,Direct,-457.9536450561934,high_collection,baseline
+220,Comoros,NMC622,Direct,-636.5397737396909,high_collection,baseline
+221,Comoros,NMC811,Direct,-710.8219141313729,high_collection,baseline
+222,Congo,LFP,Direct,0.0,high_collection,baseline
+223,Congo,NCA,Direct,-378.67354190687394,high_collection,baseline
+224,Congo,NMC111,Direct,-528.0109443837669,high_collection,baseline
+225,Congo,NMC523,Direct,-700.9785989156662,high_collection,baseline
+226,Congo,NMC622,Direct,-1095.1108038415755,high_collection,baseline
+227,Congo,NMC811,Direct,-1532.2789523229499,high_collection,baseline
+228,Costa Rica,LFP,Direct,0.0,high_collection,baseline
+229,Costa Rica,NCA,Direct,-8.059514974293506,high_collection,baseline
+230,Costa Rica,NMC111,Direct,-30.447253987897696,high_collection,baseline
+231,Costa Rica,NMC523,Direct,-32.34833667579961,high_collection,baseline
+232,Costa Rica,NMC622,Direct,-36.971710995115,high_collection,baseline
+233,Costa Rica,NMC811,Direct,-40.61777988542822,high_collection,baseline
+234,Croatia,LFP,Direct,-95.26843446718576,high_collection,baseline
+235,Croatia,NCA,Direct,3.2748978982275316,high_collection,baseline
+236,Croatia,NMC111,Direct,-4.076311575094737,high_collection,baseline
+237,Croatia,NMC523,Direct,-8.812781816055566,high_collection,baseline
+238,Croatia,NMC622,Direct,-3.7064909726664936,high_collection,baseline
+239,Croatia,NMC811,Direct,-4.929602363994411,high_collection,baseline
+240,Cyprus,LFP,Direct,-180.43255974729067,high_collection,baseline
+241,Cyprus,NCA,Direct,-2.6798866478251213,high_collection,baseline
+242,Cyprus,NMC111,Direct,-11.822889978626892,high_collection,baseline
+243,Cyprus,NMC523,Direct,-16.149124575171495,high_collection,baseline
+244,Cyprus,NMC622,Direct,-13.872803825856026,high_collection,baseline
+245,Cyprus,NMC811,Direct,-17.597265650912885,high_collection,baseline
+246,Czechia,LFP,Direct,-29.336299905767696,high_collection,baseline
+247,Czechia,NCA,Direct,8.025394085712604,high_collection,baseline
+248,Czechia,NMC111,Direct,2.1100816884484535,high_collection,baseline
+249,Czechia,NMC523,Direct,-2.9522604351464854,high_collection,baseline
+250,Czechia,NMC622,Direct,4.422428441051927,high_collection,baseline
+251,Czechia,NMC811,Direct,5.198072464468139,high_collection,baseline
+252,Denmark,LFP,Direct,-87.51981949921768,high_collection,baseline
+253,Denmark,NCA,Direct,4.03037952771984,high_collection,baseline
+254,Denmark,NMC111,Direct,-3.046933082234649,high_collection,baseline
+255,Denmark,NMC523,Direct,-7.8537499751069255,high_collection,baseline
+256,Denmark,NMC622,Direct,-2.318790005584475,high_collection,baseline
+257,Denmark,NMC811,Direct,-3.1615177572126414,high_collection,baseline
+258,Dominican Rep.,LFP,Direct,0.0,high_collection,baseline
+259,Dominican Rep.,NCA,Direct,-2.4251687617818547,high_collection,baseline
+260,Dominican Rep.,NMC111,Direct,-19.74352128692305,high_collection,baseline
+261,Dominican Rep.,NMC523,Direct,-22.516881149342716,high_collection,baseline
+262,Dominican Rep.,NMC622,Direct,-23.143029708659604,high_collection,baseline
+263,Dominican Rep.,NMC811,Direct,-25.094116722725364,high_collection,baseline
+264,Ecuador,LFP,Direct,0.0,high_collection,baseline
+265,Ecuador,NCA,Direct,-5.784709301711668,high_collection,baseline
+266,Ecuador,NMC111,Direct,-26.20744540589142,high_collection,baseline
+267,Ecuador,NMC523,Direct,-28.373806102791253,high_collection,baseline
+268,Ecuador,NMC622,Direct,-31.366354491306517,high_collection,baseline
+269,Ecuador,NMC811,Direct,-34.28723805179406,high_collection,baseline
+270,Egypt,LFP,Direct,0.0,high_collection,baseline
+271,Egypt,NCA,Direct,4.249635888733893,high_collection,baseline
+272,Egypt,NMC111,Direct,-6.9544182387435125,high_collection,baseline
+273,Egypt,NMC523,Direct,-10.956665572696862,high_collection,baseline
+274,Egypt,NMC622,Direct,-7.0046329526434405,high_collection,baseline
+275,Egypt,NMC811,Direct,-7.1036364227384965,high_collection,baseline
+276,El Salvador,LFP,Direct,0.0,high_collection,baseline
+277,El Salvador,NCA,Direct,-214.7564906561648,high_collection,baseline
+278,El Salvador,NMC111,Direct,-324.74408093248724,high_collection,baseline
+279,El Salvador,NMC523,Direct,-390.8283997717118,high_collection,baseline
+280,El Salvador,NMC622,Direct,-589.2287783264679,high_collection,baseline
+281,El Salvador,NMC811,Direct,-810.0168180318224,high_collection,baseline
+282,Estonia,LFP,Direct,-167.95683497122235,high_collection,baseline
+283,Estonia,NCA,Direct,-2.466297623084391,high_collection,baseline
+284,Estonia,NMC111,Direct,-11.452460857070228,high_collection,baseline
+285,Estonia,NMC523,Direct,-15.816278843115365,high_collection,baseline
+286,Estonia,NMC622,Direct,-13.262544693942715,high_collection,baseline
+287,Estonia,NMC811,Direct,-16.71337195858774,high_collection,baseline
+288,Eswatini,LFP,Direct,0.0,high_collection,baseline
+289,Eswatini,NCA,Direct,-123.16457077342909,high_collection,baseline
+290,Eswatini,NMC111,Direct,-254.74152411573615,high_collection,baseline
+291,Eswatini,NMC523,Direct,-234.83568561996728,high_collection,baseline
+292,Eswatini,NMC622,Direct,-322.6225836643602,high_collection,baseline
+293,Eswatini,NMC811,Direct,-360.2483920566872,high_collection,baseline
+294,Ethiopia,LFP,Direct,0.0,high_collection,baseline
+295,Ethiopia,NCA,Direct,-11.804566615431867,high_collection,baseline
+296,Ethiopia,NMC111,Direct,-38.04966478244574,high_collection,baseline
+297,Ethiopia,NMC523,Direct,-39.19272501533568,high_collection,baseline
+298,Ethiopia,NMC622,Direct,-46.84450290184891,high_collection,baseline
+299,Ethiopia,NMC811,Direct,-51.71785699368219,high_collection,baseline
+300,Fiji,LFP,Direct,0.0,high_collection,baseline
+301,Fiji,NCA,Direct,-343.02014583456656,high_collection,baseline
+302,Fiji,NMC111,Direct,-529.6516081327889,high_collection,baseline
+303,Fiji,NMC523,Direct,-621.3663086176891,high_collection,baseline
+304,Fiji,NMC622,Direct,-916.6080139984547,high_collection,baseline
+305,Fiji,NMC811,Direct,-1209.672896003829,high_collection,baseline
+306,Finland,LFP,Direct,-232.95975737832316,high_collection,baseline
+307,Finland,NCA,Direct,-7.103301480902551,high_collection,baseline
+308,Finland,NMC111,Direct,-17.39830971898836,high_collection,baseline
+309,Finland,NMC523,Direct,-21.462621122827183,high_collection,baseline
+310,Finland,NMC622,Direct,-20.952734347858456,high_collection,baseline
+311,Finland,NMC811,Direct,-26.188777958175166,high_collection,baseline
+312,France,LFP,Direct,-78.9527940682729,high_collection,baseline
+313,France,NCA,Direct,4.492278837125558,high_collection,baseline
+314,France,NMC111,Direct,-2.4427771715706266,high_collection,baseline
+315,France,NMC523,Direct,-7.274493848979212,high_collection,baseline
+316,France,NMC622,Direct,-1.4987014158732626,high_collection,baseline
+317,France,NMC811,Direct,-2.121094165670009,high_collection,baseline
+318,French Polynesia,LFP,Direct,0.0,high_collection,baseline
+319,French Polynesia,NCA,Direct,-17.50168241261273,high_collection,baseline
+320,French Polynesia,NMC111,Direct,-49.326163855638846,high_collection,baseline
+321,French Polynesia,NMC523,Direct,-49.17418177637593,high_collection,baseline
+322,French Polynesia,NMC622,Direct,-60.85894490627647,high_collection,baseline
+323,French Polynesia,NMC811,Direct,-67.33769090917104,high_collection,baseline
+324,Georgia,LFP,Direct,0.0,high_collection,baseline
+325,Georgia,NCA,Direct,-50.845732982594924,high_collection,baseline
+326,Georgia,NMC111,Direct,-109.570030584873,high_collection,baseline
+327,Georgia,NMC523,Direct,-104.28798869705737,high_collection,baseline
+328,Georgia,NMC622,Direct,-135.7550884360138,high_collection,baseline
+329,Georgia,NMC811,Direct,-150.1952757372657,high_collection,baseline
+330,Germany,LFP,Direct,-24.73298621750864,high_collection,baseline
+331,Germany,NCA,Direct,8.448382745792534,high_collection,baseline
+332,Germany,NMC111,Direct,2.66089313627111,high_collection,baseline
+333,Germany,NMC523,Direct,-2.432366536930264,high_collection,baseline
+334,Germany,NMC622,Direct,5.141071578697191,high_collection,baseline
+335,Germany,NMC811,Direct,6.092128860007791,high_collection,baseline
+336,Ghana,LFP,Direct,0.0,high_collection,baseline
+337,Ghana,NCA,Direct,-135.15026209729137,high_collection,baseline
+338,Ghana,NMC111,Direct,-199.5510289982574,high_collection,baseline
+339,Ghana,NMC523,Direct,-275.5411236096335,high_collection,baseline
+340,Ghana,NMC622,Direct,-444.2265712624656,high_collection,baseline
+341,Ghana,NMC811,Direct,-1202.9295668849554,high_collection,baseline
+342,Greece,LFP,Direct,-65.94939281478199,high_collection,baseline
+343,Greece,NCA,Direct,5.782218560390581,high_collection,baseline
+344,Greece,NMC111,Direct,-0.8307073451926765,high_collection,baseline
+345,Greece,NMC523,Direct,-5.73598916539122,high_collection,baseline
+346,Greece,NMC622,Direct,0.5307216629943365,high_collection,baseline
+347,Greece,NMC811,Direct,0.3279394428522071,high_collection,baseline
+348,Greenland,LFP,Direct,0.0,high_collection,baseline
+349,Greenland,NCA,Direct,-444.97093835975704,high_collection,baseline
+350,Greenland,NMC111,Direct,-836.3892945950976,high_collection,baseline
+351,Greenland,NMC523,Direct,-790.2584381485815,high_collection,baseline
+352,Greenland,NMC622,Direct,-1098.4945739117816,high_collection,baseline
+353,Greenland,NMC811,Direct,-1230.3667528156964,high_collection,baseline
+354,Grenada,LFP,Direct,0.0,high_collection,baseline
+355,Grenada,NCA,Direct,-49.89077731691394,high_collection,baseline
+356,Grenada,NMC111,Direct,-111.550857398009,high_collection,baseline
+357,Grenada,NMC523,Direct,-105.30386327004875,high_collection,baseline
+358,Grenada,NMC622,Direct,-139.21282732927259,high_collection,baseline
+359,Grenada,NMC811,Direct,-154.63311382559016,high_collection,baseline
+360,Guatemala,LFP,Direct,0.0,high_collection,baseline
+361,Guatemala,NCA,Direct,0.3760442222353504,high_collection,baseline
+362,Guatemala,NMC111,Direct,-14.30052132339908,high_collection,baseline
+363,Guatemala,NMC523,Direct,-17.621889753895296,high_collection,baseline
+364,Guatemala,NMC622,Direct,-16.2907346664298,high_collection,baseline
+365,Guatemala,NMC811,Direct,-17.456064934252463,high_collection,baseline
+366,Guinea,LFP,Direct,0.0,high_collection,baseline
+367,Guinea,NCA,Direct,-263.6572201737563,high_collection,baseline
+368,Guinea,NMC111,Direct,-519.1171238477281,high_collection,baseline
+369,Guinea,NMC523,Direct,-523.729775864577,high_collection,baseline
+370,Guinea,NMC622,Direct,-729.1992373705532,high_collection,baseline
+371,Guinea,NMC811,Direct,-814.2965239659511,high_collection,baseline
+372,Guyana,LFP,Direct,0.0,high_collection,baseline
+373,Guyana,NCA,Direct,-2.4247718124924607,high_collection,baseline
+374,Guyana,NMC111,Direct,-19.75848462427463,high_collection,baseline
+375,Guyana,NMC523,Direct,-22.5154263767504,high_collection,baseline
+376,Guyana,NMC622,Direct,-23.137198319160916,high_collection,baseline
+377,Guyana,NMC811,Direct,-25.07674336828971,high_collection,baseline
+378,Honduras,LFP,Direct,0.0,high_collection,baseline
+379,Honduras,NCA,Direct,-18.96240109311177,high_collection,baseline
+380,Honduras,NMC111,Direct,-51.46936483194371,high_collection,baseline
+381,Honduras,NMC523,Direct,-51.3482905801524,high_collection,baseline
+382,Honduras,NMC622,Direct,-63.64853469422861,high_collection,baseline
+383,Honduras,NMC811,Direct,-70.4549813975862,high_collection,baseline
+384,Hungary,LFP,Direct,-69.38829922499033,high_collection,baseline
+385,Hungary,NCA,Direct,5.165741032826704,high_collection,baseline
+386,Hungary,NMC111,Direct,-1.6117931041675877,high_collection,baseline
+387,Hungary,NMC523,Direct,-6.477769421255963,high_collection,baseline
+388,Hungary,NMC622,Direct,-0.4647033524357935,high_collection,baseline
+389,Hungary,NMC811,Direct,-0.8899177442393752,high_collection,baseline
+390,Iceland,LFP,Direct,0.0,high_collection,baseline
+391,Iceland,NCA,Direct,-9.120936961592804,high_collection,baseline
+392,Iceland,NMC111,Direct,-30.703408529592785,high_collection,baseline
+393,Iceland,NMC523,Direct,-32.91167438438406,high_collection,baseline
+394,Iceland,NMC622,Direct,-36.86936357335854,high_collection,baseline
+395,Iceland,NMC811,Direct,-40.27396687206098,high_collection,baseline
+396,India,LFP,Direct,0.0,high_collection,baseline
+397,India,NCA,Direct,9.938586864409626,high_collection,baseline
+398,India,NMC111,Direct,4.093599835364877,high_collection,baseline
+399,India,NMC523,Direct,-0.9905270380967856,high_collection,baseline
+400,India,NMC622,Direct,6.933362813624662,high_collection,baseline
+401,India,NMC811,Direct,8.429423054270208,high_collection,baseline
+402,Indonesia,LFP,Direct,0.0,high_collection,baseline
+403,Indonesia,NCA,Direct,8.644837641375311,high_collection,baseline
+404,Indonesia,NMC111,Direct,0.6045424213777812,high_collection,baseline
+405,Indonesia,NMC523,Direct,-4.001235583592708,high_collection,baseline
+406,Indonesia,NMC622,Direct,2.004071352698048,high_collection,baseline
+407,Indonesia,NMC811,Direct,2.64484263364312,high_collection,baseline
+408,Iran,LFP,Direct,0.0,high_collection,baseline
+409,Iran,NCA,Direct,-125.37349404783103,high_collection,baseline
+410,Iran,NMC111,Direct,-188.88566825440546,high_collection,baseline
+411,Iran,NMC523,Direct,-409.2409790951018,high_collection,baseline
+412,Iran,NMC622,Direct,-1027.4638249340298,high_collection,baseline
+413,Iran,NMC811,Direct,-7315.7425098893345,high_collection,baseline
+414,Ireland,LFP,Direct,-78.48887163643555,high_collection,baseline
+415,Ireland,NCA,Direct,4.266002872552491,high_collection,baseline
+416,Ireland,NMC111,Direct,-2.730696410470651,high_collection,baseline
+417,Ireland,NMC523,Direct,-7.546542384373388,high_collection,baseline
+418,Ireland,NMC622,Direct,-1.864049601514835,high_collection,baseline
+419,Ireland,NMC811,Direct,-2.568705020738525,high_collection,baseline
+420,Israel,LFP,Direct,0.0,high_collection,baseline
+421,Israel,NCA,Direct,6.4341255101160675,high_collection,baseline
+422,Israel,NMC111,Direct,-2.388408081932848,high_collection,baseline
+423,Israel,NMC523,Direct,-6.88744533478838,high_collection,baseline
+424,Israel,NMC622,Direct,-1.0827094248914229,high_collection,baseline
+425,Israel,NMC811,Direct,-0.4150547358356569,high_collection,baseline
+426,Italy,LFP,Direct,-29.08417039598381,high_collection,baseline
+427,Italy,NCA,Direct,8.158893219717745,high_collection,baseline
+428,Italy,NMC111,Direct,2.2876230636921533,high_collection,baseline
+429,Italy,NMC523,Direct,-2.7850276739059168,high_collection,baseline
+430,Italy,NMC622,Direct,4.6599455543982025,high_collection,baseline
+431,Italy,NMC811,Direct,5.498494870251351,high_collection,baseline
+432,Jamaica,LFP,Direct,0.0,high_collection,baseline
+433,Jamaica,NCA,Direct,-266.8816936803302,high_collection,baseline
+434,Jamaica,NMC111,Direct,-397.7616575343888,high_collection,baseline
+435,Jamaica,NMC523,Direct,-512.8304947028645,high_collection,baseline
+436,Jamaica,NMC622,Direct,-785.3751351630292,high_collection,baseline
+437,Jamaica,NMC811,Direct,-1520.568733401582,high_collection,baseline
+438,Japan,LFP,Direct,0.0,high_collection,baseline
+439,Japan,NCA,Direct,7.632645307107946,high_collection,baseline
+440,Japan,NMC111,Direct,-0.5240326624325874,high_collection,baseline
+441,Japan,NMC523,Direct,-5.136119693623033,high_collection,baseline
+442,Japan,NMC622,Direct,0.9934507477935668,high_collection,baseline
+443,Japan,NMC811,Direct,1.750112154217794,high_collection,baseline
+444,Jordan,LFP,Direct,0.0,high_collection,baseline
+445,Jordan,NCA,Direct,-3.929914736394185,high_collection,baseline
+446,Jordan,NMC111,Direct,-21.78800307133951,high_collection,baseline
+447,Jordan,NMC523,Direct,-24.507927134499823,high_collection,baseline
+448,Jordan,NMC622,Direct,-25.4434437396282,high_collection,baseline
+449,Jordan,NMC811,Direct,-27.50657451764371,high_collection,baseline
+450,Kazakhstan,LFP,Direct,0.0,high_collection,baseline
+451,Kazakhstan,NCA,Direct,-2.5148991321102216,high_collection,baseline
+452,Kazakhstan,NMC111,Direct,-19.889627363585547,high_collection,baseline
+453,Kazakhstan,NMC523,Direct,-22.85459136530082,high_collection,baseline
+454,Kazakhstan,NMC622,Direct,-23.829052184025237,high_collection,baseline
+455,Kazakhstan,NMC811,Direct,-26.016035386545834,high_collection,baseline
+456,Kenya,LFP,Direct,0.0,high_collection,baseline
+457,Kenya,NCA,Direct,6.018526315419304,high_collection,baseline
+458,Kenya,NMC111,Direct,-3.502178906344069,high_collection,baseline
+459,Kenya,NMC523,Direct,-7.8478647435909705,high_collection,baseline
+460,Kenya,NMC622,Direct,-2.6260844366842147,high_collection,baseline
+461,Kenya,NMC811,Direct,-2.2077402878090826,high_collection,baseline
+462,Kiribati,LFP,Direct,0.0,high_collection,baseline
+463,Kiribati,NCA,Direct,-341.7350561955754,high_collection,baseline
+464,Kiribati,NMC111,Direct,-678.5263558285047,high_collection,baseline
+465,Kiribati,NMC523,Direct,-621.7815684361835,high_collection,baseline
+466,Kiribati,NMC622,Direct,-867.5233624445598,high_collection,baseline
+467,Kiribati,NMC811,Direct,-970.1700458432367,high_collection,baseline
+468,Korea,LFP,Direct,0.0,high_collection,baseline
+469,Korea,NCA,Direct,8.960457851356635,high_collection,baseline
+470,Korea,NMC111,Direct,2.286360729105816,high_collection,baseline
+471,Korea,NMC523,Direct,-2.6297951233626384,high_collection,baseline
+472,Korea,NMC622,Direct,4.682020118404912,high_collection,baseline
+473,Korea,NMC811,Direct,5.934205221490998,high_collection,baseline
+474,Kuwait,LFP,Direct,0.0,high_collection,baseline
+475,Kuwait,NCA,Direct,-162.2074074485914,high_collection,baseline
+476,Kuwait,NMC111,Direct,-203.0338243375185,high_collection,baseline
+477,Kuwait,NMC523,Direct,-271.58930854687515,high_collection,baseline
+478,Kuwait,NMC622,Direct,-443.0699243681931,high_collection,baseline
+479,Kuwait,NMC811,Direct,-960.8723019283477,high_collection,baseline
+480,Kyrgyzstan,LFP,Direct,0.0,high_collection,baseline
+481,Kyrgyzstan,NCA,Direct,-368.5263641105036,high_collection,baseline
+482,Kyrgyzstan,NMC111,Direct,-456.6362321333687,high_collection,baseline
+483,Kyrgyzstan,NMC523,Direct,-721.0068285195381,high_collection,baseline
+484,Kyrgyzstan,NMC622,Direct,-1202.7958583225761,high_collection,baseline
+485,Kyrgyzstan,NMC811,Direct,-3011.755124098782,high_collection,baseline
+486,Lao People's Dem. Rep.,LFP,Direct,0.0,high_collection,baseline
+487,Lao People's Dem. Rep.,NCA,Direct,6.982829606541543,high_collection,baseline
+488,Lao People's Dem. Rep.,NMC111,Direct,-3.570444843363749,high_collection,baseline
+489,Lao People's Dem. Rep.,NMC523,Direct,-7.603742871284313,high_collection,baseline
+490,Lao People's Dem. Rep.,NMC622,Direct,-3.747101179858177,high_collection,baseline
+491,Lao People's Dem. Rep.,NMC811,Direct,-4.036958007142466,high_collection,baseline
+492,Latvia,LFP,Direct,-151.26511515198789,high_collection,baseline
+493,Latvia,NCA,Direct,-1.242643225746497,high_collection,baseline
+494,Latvia,NMC111,Direct,-9.865164469332273,high_collection,baseline
+495,Latvia,NMC523,Direct,-14.31145454067078,high_collection,baseline
+496,Latvia,NMC622,Direct,-11.185137693663242,high_collection,baseline
+497,Latvia,NMC811,Direct,-14.133117403850983,high_collection,baseline
+498,Lebanon,LFP,Direct,0.0,high_collection,baseline
+499,Lebanon,NCA,Direct,5.1611110484876646,high_collection,baseline
+500,Lebanon,NMC111,Direct,-4.78162505488487,high_collection,baseline
+501,Lebanon,NMC523,Direct,-9.05421537201318,high_collection,baseline
+502,Lebanon,NMC622,Direct,-4.074432407058351,high_collection,baseline
+503,Lebanon,NMC811,Direct,-3.7358385777727303,high_collection,baseline
+504,Lesotho,LFP,Direct,0.0,high_collection,baseline
+505,Lesotho,NCA,Direct,-27.281435267932526,high_collection,baseline
+506,Lesotho,NMC111,Direct,-68.48231539439821,high_collection,baseline
+507,Lesotho,NMC523,Direct,-66.37406557222405,high_collection,baseline
+508,Lesotho,NMC622,Direct,-85.05713859310147,high_collection,baseline
+509,Lesotho,NMC811,Direct,-94.3526450549387,high_collection,baseline
+510,Lithuania,LFP,Direct,-122.91679857522149,high_collection,baseline
+511,Lithuania,NCA,Direct,0.9567269300299834,high_collection,baseline
+512,Lithuania,NMC111,Direct,-7.037183294583349,high_collection,baseline
+513,Lithuania,NMC523,Direct,-11.62757182610867,high_collection,baseline
+514,Lithuania,NMC622,Direct,-7.518859360181521,high_collection,baseline
+515,Lithuania,NMC811,Direct,-9.60680519367395,high_collection,baseline
+516,Luxembourg,LFP,Direct,-194.308146310964,high_collection,baseline
+517,Luxembourg,NCA,Direct,-4.588478074636951,high_collection,baseline
+518,Luxembourg,NMC111,Direct,-14.148003990961373,high_collection,baseline
+519,Luxembourg,NMC523,Direct,-18.382131787079125,high_collection,baseline
+520,Luxembourg,NMC622,Direct,-16.714397931805735,high_collection,baseline
+521,Luxembourg,NMC811,Direct,-20.92905477329323,high_collection,baseline
+522,Madagascar,LFP,Direct,0.0,high_collection,baseline
+523,Madagascar,NCA,Direct,-14.494632123901088,high_collection,baseline
+524,Madagascar,NMC111,Direct,-43.525450934943095,high_collection,baseline
+525,Madagascar,NMC523,Direct,-43.89550135288582,high_collection,baseline
+526,Madagascar,NMC622,Direct,-53.40226468949582,high_collection,baseline
+527,Madagascar,NMC811,Direct,-58.97611109971247,high_collection,baseline
+528,Malawi,LFP,Direct,0.0,high_collection,baseline
+529,Malawi,NCA,Direct,-2.9417695139476496,high_collection,baseline
+530,Malawi,NMC111,Direct,-20.963660946961035,high_collection,baseline
+531,Malawi,NMC523,Direct,-23.591628966395255,high_collection,baseline
+532,Malawi,NMC622,Direct,-24.809703922998843,high_collection,baseline
+533,Malawi,NMC811,Direct,-27.019440047936943,high_collection,baseline
+534,Malaysia,LFP,Direct,0.0,high_collection,baseline
+535,Malaysia,NCA,Direct,-192.5265584496507,high_collection,baseline
+536,Malaysia,NMC111,Direct,-464.0085706680253,high_collection,baseline
+537,Malaysia,NMC523,Direct,-456.26057121507324,high_collection,baseline
+538,Malaysia,NMC622,Direct,-730.3417280619194,high_collection,baseline
+539,Malaysia,NMC811,Direct,-850.05394465089,high_collection,baseline
+540,Maldives,LFP,Direct,0.0,high_collection,baseline
+541,Maldives,NCA,Direct,-71.32242210465245,high_collection,baseline
+542,Maldives,NMC111,Direct,-198.2784016508464,high_collection,baseline
+543,Maldives,NMC523,Direct,-176.89621188582473,high_collection,baseline
+544,Maldives,NMC622,Direct,-274.6196353559052,high_collection,baseline
+545,Maldives,NMC811,Direct,-320.0205342451643,high_collection,baseline
+546,Mali,LFP,Direct,0.0,high_collection,baseline
+547,Mali,NCA,Direct,-39.77726202953532,high_collection,baseline
+548,Mali,NMC111,Direct,-92.82242601985728,high_collection,baseline
+549,Mali,NMC523,Direct,-88.31654146836323,high_collection,baseline
+550,Mali,NMC622,Direct,-115.98589081426157,high_collection,baseline
+551,Mali,NMC811,Direct,-128.97491210833013,high_collection,baseline
+552,Malta,LFP,Direct,-257.3897156922232,high_collection,baseline
+553,Malta,NCA,Direct,-8.612145902780657,high_collection,baseline
+554,Malta,NMC111,Direct,-19.462828255639742,high_collection,baseline
+555,Malta,NMC523,Direct,-23.399594772843372,high_collection,baseline
+556,Malta,NMC622,Direct,-23.795195693571152,high_collection,baseline
+557,Malta,NMC811,Direct,-29.856912471136756,high_collection,baseline
+558,Mauritania,LFP,Direct,0.0,high_collection,baseline
+559,Mauritania,NCA,Direct,-2238.789598900551,high_collection,baseline
+560,Mauritania,NMC111,Direct,-4174.948565871684,high_collection,baseline
+561,Mauritania,NMC523,Direct,-3903.6293590919627,high_collection,baseline
+562,Mauritania,NMC622,Direct,0.0,high_collection,baseline
+563,Mauritania,NMC811,Direct,0.0,high_collection,baseline
+564,Mauritius,LFP,Direct,0.0,high_collection,baseline
+565,Mauritius,NCA,Direct,-11.49054342861519,high_collection,baseline
+566,Mauritius,NMC111,Direct,-37.64727001843363,high_collection,baseline
+567,Mauritius,NMC523,Direct,-38.613803058905006,high_collection,baseline
+568,Mauritius,NMC622,Direct,-45.968764245643605,high_collection,baseline
+569,Mauritius,NMC811,Direct,-50.67529103123664,high_collection,baseline
+570,Mexico,LFP,Direct,0.0,high_collection,baseline
+571,Mexico,NCA,Direct,7.921190297672732,high_collection,baseline
+572,Mexico,NMC111,Direct,0.26548636532308084,high_collection,baseline
+573,Mexico,NMC523,Direct,-4.462335239576343,high_collection,baseline
+574,Mexico,NMC622,Direct,2.175457518510074,high_collection,baseline
+575,Mexico,NMC811,Direct,3.1709709770715855,high_collection,baseline
+576,Mongolia,LFP,Direct,0.0,high_collection,baseline
+577,Mongolia,NCA,Direct,-24.397001278938642,high_collection,baseline
+578,Mongolia,NMC111,Direct,-72.62836690628627,high_collection,baseline
+579,Mongolia,NMC523,Direct,-68.72149262623616,high_collection,baseline
+580,Mongolia,NMC622,Direct,-95.38118517054235,high_collection,baseline
+581,Mongolia,NMC811,Direct,-108.61003397452609,high_collection,baseline
+582,Montenegro,LFP,Direct,0.0,high_collection,baseline
+583,Montenegro,NCA,Direct,-43.9271241841355,high_collection,baseline
+584,Montenegro,NMC111,Direct,-96.2070225965908,high_collection,baseline
+585,Montenegro,NMC523,Direct,-92.10264145627059,high_collection,baseline
+586,Montenegro,NMC622,Direct,-118.4451798932627,high_collection,baseline
+587,Montenegro,NMC811,Direct,-130.71272629135763,high_collection,baseline
+588,Morocco,LFP,Direct,0.0,high_collection,baseline
+589,Morocco,NCA,Direct,-2.1989120972982494,high_collection,baseline
+590,Morocco,NMC111,Direct,-19.529841999994353,high_collection,baseline
+591,Morocco,NMC523,Direct,-22.288430323080618,high_collection,baseline
+592,Morocco,NMC622,Direct,-22.96826189436063,high_collection,baseline
+593,Morocco,NMC811,Direct,-24.952359949146096,high_collection,baseline
+594,Mozambique,LFP,Direct,0.0,high_collection,baseline
+595,Mozambique,NCA,Direct,-770.661576369082,high_collection,baseline
+596,Mozambique,NMC111,Direct,-960.3522379417072,high_collection,baseline
+597,Mozambique,NMC523,Direct,-1166.8698594213154,high_collection,baseline
+598,Mozambique,NMC622,Direct,-2009.2934373676833,high_collection,baseline
+599,Mozambique,NMC811,Direct,-5131.234783372778,high_collection,baseline
+600,Myanmar,LFP,Direct,0.0,high_collection,baseline
+601,Myanmar,NCA,Direct,4.4750667666005,high_collection,baseline
+602,Myanmar,NMC111,Direct,-9.832721487257965,high_collection,baseline
+603,Myanmar,NMC523,Direct,-13.030552926167898,high_collection,baseline
+604,Myanmar,NMC622,Direct,-12.422901528631952,high_collection,baseline
+605,Myanmar,NMC811,Direct,-14.143575612781962,high_collection,baseline
+606,Namibia,LFP,Direct,0.0,high_collection,baseline
+607,Namibia,NCA,Direct,-10.036751541143818,high_collection,baseline
+608,Namibia,NMC111,Direct,-34.81520248826069,high_collection,baseline
+609,Namibia,NMC523,Direct,-36.06436603862665,high_collection,baseline
+610,Namibia,NMC622,Direct,-42.37358216095325,high_collection,baseline
+611,Namibia,NMC811,Direct,-46.64400951336778,high_collection,baseline
+612,Nepal,LFP,Direct,0.0,high_collection,baseline
+613,Nepal,NCA,Direct,-30.934421556037957,high_collection,baseline
+614,Nepal,NMC111,Direct,-97.42029388754212,high_collection,baseline
+615,Nepal,NMC523,Direct,-89.57390533852977,high_collection,baseline
+616,Nepal,NMC622,Direct,-135.05233057222557,high_collection,baseline
+617,Nepal,NMC811,Direct,-157.48210608947434,high_collection,baseline
+618,Netherlands,LFP,Direct,-48.01804390486904,high_collection,baseline
+619,Netherlands,NCA,Direct,6.646026899797151,high_collection,baseline
+620,Netherlands,NMC111,Direct,0.350545209745247,high_collection,baseline
+621,Netherlands,NMC523,Direct,-4.62771498636211,high_collection,baseline
+622,Netherlands,NMC622,Direct,2.151781174555789,high_collection,baseline
+623,Netherlands,NMC811,Direct,2.4112438363098567,high_collection,baseline
+624,New Caledonia,LFP,Direct,0.0,high_collection,baseline
+625,New Caledonia,NCA,Direct,-1302.2477095792651,high_collection,baseline
+626,New Caledonia,NMC111,Direct,-1864.6311450204628,high_collection,baseline
+627,New Caledonia,NMC523,Direct,0.0,high_collection,baseline
+628,New Caledonia,NMC622,Direct,0.0,high_collection,baseline
+629,New Caledonia,NMC811,Direct,0.0,high_collection,baseline
+630,New Zealand,LFP,Direct,0.0,high_collection,baseline
+631,New Zealand,NCA,Direct,4.376573005363087,high_collection,baseline
+632,New Zealand,NMC111,Direct,-5.913020790168001,high_collection,baseline
+633,New Zealand,NMC523,Direct,-10.129864900917346,high_collection,baseline
+634,New Zealand,NMC622,Direct,-5.366100288599666,high_collection,baseline
+635,New Zealand,NMC811,Direct,-5.106776491339735,high_collection,baseline
+636,Nicaragua,LFP,Direct,0.0,high_collection,baseline
+637,Nicaragua,NCA,Direct,-6.695027856647311,high_collection,baseline
+638,Nicaragua,NMC111,Direct,-27.99460837425896,high_collection,baseline
+639,Nicaragua,NMC523,Direct,-29.961529454525834,high_collection,baseline
+640,Nicaragua,NMC622,Direct,-33.584524504042065,high_collection,baseline
+641,Nicaragua,NMC811,Direct,-36.757178150342284,high_collection,baseline
+642,Niger,LFP,Direct,0.0,high_collection,baseline
+643,Niger,NCA,Direct,-14.744611847590814,high_collection,baseline
+644,Niger,NMC111,Direct,-44.01922527059921,high_collection,baseline
+645,Niger,NMC523,Direct,-44.33941438102159,high_collection,baseline
+646,Niger,NMC622,Direct,-54.02285449126982,high_collection,baseline
+647,Niger,NMC811,Direct,-59.662187363467964,high_collection,baseline
+648,Nigeria,LFP,Direct,0.0,high_collection,baseline
+649,Nigeria,NCA,Direct,8.138657629711066,high_collection,baseline
+650,Nigeria,NMC111,Direct,0.6358159862893435,high_collection,baseline
+651,Nigeria,NMC523,Direct,-4.121663564367491,high_collection,baseline
+652,Nigeria,NMC622,Direct,2.621913911401526,high_collection,baseline
+653,Nigeria,NMC811,Direct,3.6576303210236993,high_collection,baseline
+654,North Macedonia,LFP,Direct,0.0,high_collection,baseline
+655,North Macedonia,NCA,Direct,-28.05794620562001,high_collection,baseline
+656,North Macedonia,NMC111,Direct,-66.3353964379923,high_collection,baseline
+657,North Macedonia,NMC523,Direct,-65.24310797863674,high_collection,baseline
+658,North Macedonia,NMC622,Direct,-81.5479373871324,high_collection,baseline
+659,North Macedonia,NMC811,Direct,-89.86280334606262,high_collection,baseline
+660,Norway,LFP,Direct,0.0,high_collection,baseline
+661,Norway,NCA,Direct,4.546419645987686,high_collection,baseline
+662,Norway,NMC111,Direct,-5.38378994627696,high_collection,baseline
+663,Norway,NMC523,Direct,-9.767886901166703,high_collection,baseline
+664,Norway,NMC622,Direct,-4.901342404370517,high_collection,baseline
+665,Norway,NMC811,Direct,-4.674958873123068,high_collection,baseline
+666,Oman,LFP,Direct,0.0,high_collection,baseline
+667,Oman,NCA,Direct,-10.916749926830086,high_collection,baseline
+668,Oman,NMC111,Direct,-34.927453212661405,high_collection,baseline
+669,Oman,NMC523,Direct,-36.41408225003076,high_collection,baseline
+670,Oman,NMC622,Direct,-41.87753115008414,high_collection,baseline
+671,Oman,NMC811,Direct,-45.745496331129345,high_collection,baseline
+672,Pakistan,LFP,Direct,0.0,high_collection,baseline
+673,Pakistan,NCA,Direct,9.182330874565892,high_collection,baseline
+674,Pakistan,NMC111,Direct,1.9276998334860167,high_collection,baseline
+675,Pakistan,NMC523,Direct,-2.841993329919501,high_collection,baseline
+676,Pakistan,NMC622,Direct,3.8641669514514163,high_collection,baseline
+677,Pakistan,NMC811,Direct,4.82539178559518,high_collection,baseline
+678,Palau,LFP,Direct,0.0,high_collection,baseline
+679,Palau,NCA,Direct,-314.7987158196388,high_collection,baseline
+680,Palau,NMC111,Direct,-625.0470320255423,high_collection,baseline
+681,Palau,NMC523,Direct,-575.1868135078491,high_collection,baseline
+682,Palau,NMC622,Direct,-802.4099194035681,high_collection,baseline
+683,Palau,NMC811,Direct,-896.0956535619204,high_collection,baseline
+684,Panama,LFP,Direct,0.0,high_collection,baseline
+685,Panama,NCA,Direct,-225.55714635207468,high_collection,baseline
+686,Panama,NMC111,Direct,-332.9092551260457,high_collection,baseline
+687,Panama,NMC523,Direct,-393.3277960024522,high_collection,baseline
+688,Panama,NMC622,Direct,-598.7833397524433,high_collection,baseline
+689,Panama,NMC811,Direct,-881.9305302626847,high_collection,baseline
+690,Papua New Guinea,LFP,Direct,0.0,high_collection,baseline
+691,Papua New Guinea,NCA,Direct,0.0,high_collection,baseline
+692,Papua New Guinea,NMC111,Direct,0.0,high_collection,baseline
+693,Papua New Guinea,NMC523,Direct,0.0,high_collection,baseline
+694,Papua New Guinea,NMC622,Direct,0.0,high_collection,baseline
+695,Papua New Guinea,NMC811,Direct,0.0,high_collection,baseline
+696,Paraguay,LFP,Direct,0.0,high_collection,baseline
+697,Paraguay,NCA,Direct,-13.119488705295886,high_collection,baseline
+698,Paraguay,NMC111,Direct,-40.37180847136472,high_collection,baseline
+699,Paraguay,NMC523,Direct,-41.16794764261045,high_collection,baseline
+700,Paraguay,NMC622,Direct,-49.31259606381944,high_collection,baseline
+701,Paraguay,NMC811,Direct,-54.34410945070593,high_collection,baseline
+702,Peru,LFP,Direct,0.0,high_collection,baseline
+703,Peru,NCA,Direct,1.7285351333745052,high_collection,baseline
+704,Peru,NMC111,Direct,-11.680474059107292,high_collection,baseline
+705,Peru,NMC523,Direct,-15.268321183839218,high_collection,baseline
+706,Peru,NMC622,Direct,-12.99051610706381,high_collection,baseline
+707,Peru,NMC811,Direct,-13.780895600268316,high_collection,baseline
+708,Philippines,LFP,Direct,0.0,high_collection,baseline
+709,Philippines,NCA,Direct,10.065012898286062,high_collection,baseline
+710,Philippines,NMC111,Direct,4.1324227564274345,high_collection,baseline
+711,Philippines,NMC523,Direct,-0.9321877834243648,high_collection,baseline
+712,Philippines,NMC622,Direct,6.915815439077462,high_collection,baseline
+713,Philippines,NMC811,Direct,8.378472983382235,high_collection,baseline
+714,Poland,LFP,Direct,-105.67342585669194,high_collection,baseline
+715,Poland,NCA,Direct,2.831279191059895,high_collection,baseline
+716,Poland,NMC111,Direct,-4.661462093386432,high_collection,baseline
+717,Poland,NMC523,Direct,-9.365326582064206,high_collection,baseline
+718,Poland,NMC622,Direct,-4.484962380496756,high_collection,baseline
+719,Poland,NMC811,Direct,-5.910077665333637,high_collection,baseline
+720,Portugal,LFP,Direct,-64.2859202412456,high_collection,baseline
+721,Portugal,NCA,Direct,5.748894182999231,high_collection,baseline
+722,Portugal,NMC111,Direct,-0.8536942847698271,high_collection,baseline
+723,Portugal,NMC523,Direct,-5.761572031881622,high_collection,baseline
+724,Portugal,NMC622,Direct,0.5211672654381716,high_collection,baseline
+725,Portugal,NMC811,Direct,0.33044903088232364,high_collection,baseline
+726,Qatar,LFP,Direct,0.0,high_collection,baseline
+727,Qatar,NCA,Direct,-175.9401540698113,high_collection,baseline
+728,Qatar,NMC111,Direct,-250.12220884266554,high_collection,baseline
+729,Qatar,NMC523,Direct,-318.21186402685856,high_collection,baseline
+730,Qatar,NMC622,Direct,-493.24286406749206,high_collection,baseline
+731,Qatar,NMC811,Direct,-736.389288356973,high_collection,baseline
+732,Rep. of Moldova,LFP,Direct,0.0,high_collection,baseline
+733,Rep. of Moldova,NCA,Direct,-17.453278364848966,high_collection,baseline
+734,Rep. of Moldova,NMC111,Direct,-48.89794240003815,high_collection,baseline
+735,Rep. of Moldova,NMC523,Direct,-48.821936356785024,high_collection,baseline
+736,Rep. of Moldova,NMC622,Direct,-60.119067751908126,high_collection,baseline
+737,Rep. of Moldova,NMC811,Direct,-66.40394428200104,high_collection,baseline
+738,Romania,LFP,Direct,-32.24747789942328,high_collection,baseline
+739,Romania,NCA,Direct,7.827293367042804,high_collection,baseline
+740,Romania,NMC111,Direct,1.848725716440207,high_collection,baseline
+741,Romania,NMC523,Direct,-3.1990659537969246,high_collection,baseline
+742,Romania,NMC622,Direct,4.074518607248326,high_collection,baseline
+743,Romania,NMC811,Direct,4.759638200491541,high_collection,baseline
+744,Russian Federation,LFP,Direct,0.0,high_collection,baseline
+745,Russian Federation,NCA,Direct,7.856878530574401,high_collection,baseline
+746,Russian Federation,NMC111,Direct,-1.1393852831954963,high_collection,baseline
+747,Russian Federation,NMC523,Direct,-5.513967678606102,high_collection,baseline
+748,Russian Federation,NMC622,Direct,-0.3071976667189533,high_collection,baseline
+749,Russian Federation,NMC811,Direct,-0.00012541223915985,high_collection,baseline
+750,Rwanda,LFP,Direct,0.0,high_collection,baseline
+751,Rwanda,NCA,Direct,-267.20848864421896,high_collection,baseline
+752,Rwanda,NMC111,Direct,-355.02267327985106,high_collection,baseline
+753,Rwanda,NMC523,Direct,-541.2676894321118,high_collection,baseline
+754,Rwanda,NMC622,Direct,-824.5511357770578,high_collection,baseline
+755,Rwanda,NMC811,Direct,-1330.3947790125278,high_collection,baseline
+756,Saint Lucia,LFP,Direct,0.0,high_collection,baseline
+757,Saint Lucia,NCA,Direct,-111.05301492554524,high_collection,baseline
+758,Saint Lucia,NMC111,Direct,-228.79151659409592,high_collection,baseline
+759,Saint Lucia,NMC523,Direct,-211.78151106796759,high_collection,baseline
+760,Saint Lucia,NMC622,Direct,-288.8842944075215,high_collection,baseline
+761,Saint Lucia,NMC811,Direct,-322.2493016450149,high_collection,baseline
+762,Samoa,LFP,Direct,0.0,high_collection,baseline
+763,Samoa,NCA,Direct,-325.2671569798391,high_collection,baseline
+764,Samoa,NMC111,Direct,-648.7671132897955,high_collection,baseline
+765,Samoa,NMC523,Direct,-589.7814572015618,high_collection,baseline
+766,Samoa,NMC622,Direct,-822.752519665257,high_collection,baseline
+767,Samoa,NMC811,Direct,-919.6353032848604,high_collection,baseline
+768,Saudi Arabia,LFP,Direct,0.0,high_collection,baseline
+769,Saudi Arabia,NCA,Direct,4.343429941918405,high_collection,baseline
+770,Saudi Arabia,NMC111,Direct,-6.298543086797533,high_collection,baseline
+771,Saudi Arabia,NMC523,Direct,-10.445294212379231,high_collection,baseline
+772,Saudi Arabia,NMC622,Direct,-6.00129114554562,high_collection,baseline
+773,Saudi Arabia,NMC811,Direct,-5.887583749798967,high_collection,baseline
+774,Senegal,LFP,Direct,0.0,high_collection,baseline
+775,Senegal,NCA,Direct,3.6578222253595545,high_collection,baseline
+776,Senegal,NMC111,Direct,-8.110506850678311,high_collection,baseline
+777,Senegal,NMC523,Direct,-11.996672616370553,high_collection,baseline
+778,Senegal,NMC622,Direct,-8.469186360986283,high_collection,baseline
+779,Senegal,NMC811,Direct,-8.737042917369493,high_collection,baseline
+780,Serbia,LFP,Direct,0.0,high_collection,baseline
+781,Serbia,NCA,Direct,-9.983895724806652,high_collection,baseline
+782,Serbia,NMC111,Direct,-33.063629553419986,high_collection,baseline
+783,Serbia,NMC523,Direct,-34.70537272871744,high_collection,baseline
+784,Serbia,NMC622,Direct,-39.436253170911606,high_collection,baseline
+785,Serbia,NMC811,Direct,-42.96590812914803,high_collection,baseline
+786,Seychelles,LFP,Direct,0.0,high_collection,baseline
+787,Seychelles,NCA,Direct,-40.44597075934087,high_collection,baseline
+788,Seychelles,NMC111,Direct,-94.18391028422411,high_collection,baseline
+789,Seychelles,NMC523,Direct,-89.50568098958631,high_collection,baseline
+790,Seychelles,NMC622,Direct,-117.63793935230737,high_collection,baseline
+791,Seychelles,NMC811,Direct,-130.75108942654163,high_collection,baseline
+792,Sierra Leone,LFP,Direct,0.0,high_collection,baseline
+793,Sierra Leone,NCA,Direct,-84.74062891492261,high_collection,baseline
+794,Sierra Leone,NMC111,Direct,-180.28178240178715,high_collection,baseline
+795,Sierra Leone,NMC523,Direct,-167.26792615317652,high_collection,baseline
+796,Sierra Leone,NMC622,Direct,-227.30476110395554,high_collection,baseline
+797,Sierra Leone,NMC811,Direct,-253.58739728783038,high_collection,baseline
+798,Singapore,LFP,Direct,0.0,high_collection,baseline
+799,Singapore,NCA,Direct,0.0,high_collection,baseline
+800,Singapore,NMC111,Direct,0.0,high_collection,baseline
+801,Singapore,NMC523,Direct,0.0,high_collection,baseline
+802,Singapore,NMC622,Direct,0.0,high_collection,baseline
+803,Singapore,NMC811,Direct,0.0,high_collection,baseline
+804,Slovakia,LFP,Direct,-68.28672310050364,high_collection,baseline
+805,Slovakia,NCA,Direct,5.269403889957285,high_collection,baseline
+806,Slovakia,NMC111,Direct,-1.4620126781398006,high_collection,baseline
+807,Slovakia,NMC523,Direct,-6.337675762869803,high_collection,baseline
+808,Slovakia,NMC622,Direct,-0.2472409911948517,high_collection,baseline
+809,Slovakia,NMC811,Direct,-0.6021860191096065,high_collection,baseline
+810,Slovenia,LFP,Direct,-135.92252795245395,high_collection,baseline
+811,Slovenia,NCA,Direct,0.27179640343433475,high_collection,baseline
+812,Slovenia,NMC111,Direct,-7.951992730103554,high_collection,baseline
+813,Slovenia,NMC523,Direct,-12.488391608950955,high_collection,baseline
+814,Slovenia,NMC622,Direct,-8.750675507461747,high_collection,baseline
+815,Slovenia,NMC811,Direct,-11.176199324686442,high_collection,baseline
+816,Solomon Isds,LFP,Direct,0.0,high_collection,baseline
+817,Solomon Isds,NCA,Direct,-346.13970413107273,high_collection,baseline
+818,Solomon Isds,NMC111,Direct,-679.7154444638106,high_collection,baseline
+819,Solomon Isds,NMC523,Direct,-628.2743695438326,high_collection,baseline
+820,Solomon Isds,NMC622,Direct,-878.254330811822,high_collection,baseline
+821,Solomon Isds,NMC811,Direct,-985.7187886114616,high_collection,baseline
+822,South Africa,LFP,Direct,0.0,high_collection,baseline
+823,South Africa,NCA,Direct,-23.822799673249605,high_collection,baseline
+824,South Africa,NMC111,Direct,-61.51456136402775,high_collection,baseline
+825,South Africa,NMC523,Direct,-60.289389119676066,high_collection,baseline
+826,South Africa,NMC622,Direct,-76.523899907872,high_collection,baseline
+827,South Africa,NMC811,Direct,-84.87374871868799,high_collection,baseline
+828,Spain,LFP,Direct,-28.513125898965285,high_collection,baseline
+829,Spain,NCA,Direct,8.236399389041958,high_collection,baseline
+830,Spain,NMC111,Direct,2.357845988506495,high_collection,baseline
+831,Spain,NMC523,Direct,-2.7146910081594973,high_collection,baseline
+832,Spain,NMC622,Direct,4.710271069758848,high_collection,baseline
+833,Spain,NMC811,Direct,5.527960565985079,high_collection,baseline
+834,Sri Lanka,LFP,Direct,0.0,high_collection,baseline
+835,Sri Lanka,NCA,Direct,9.854078983147108,high_collection,baseline
+836,Sri Lanka,NMC111,Direct,3.6057384951763387,high_collection,baseline
+837,Sri Lanka,NMC523,Direct,-1.388383786511866,high_collection,baseline
+838,Sri Lanka,NMC622,Direct,6.187123922794095,high_collection,baseline
+839,Sri Lanka,NMC811,Direct,7.530224242535555,high_collection,baseline
+840,State of Palestine,LFP,Direct,0.0,high_collection,baseline
+841,State of Palestine,NCA,Direct,-78.51462947338936,high_collection,baseline
+842,State of Palestine,NMC111,Direct,-161.21375842428506,high_collection,baseline
+843,State of Palestine,NMC523,Direct,-151.41266027722668,high_collection,baseline
+844,State of Palestine,NMC622,Direct,-200.8844495854172,high_collection,baseline
+845,State of Palestine,NMC811,Direct,-222.61570679500122,high_collection,baseline
+846,Sudan,LFP,Direct,0.0,high_collection,baseline
+847,Sudan,NCA,Direct,-208.749938305812,high_collection,baseline
+848,Sudan,NMC111,Direct,-414.66281495789616,high_collection,baseline
+849,Sudan,NMC523,Direct,-406.55595214128175,high_collection,baseline
+850,Sudan,NMC622,Direct,-564.9783746389268,high_collection,baseline
+851,Sudan,NMC811,Direct,-632.6082602941359,high_collection,baseline
+852,Sweden,LFP,Direct,-62.86034703713672,high_collection,baseline
+853,Sweden,NCA,Direct,5.491158813297762,high_collection,baseline
+854,Sweden,NMC111,Direct,-1.0928700701234906,high_collection,baseline
+855,Sweden,NMC523,Direct,-6.006000666766164,high_collection,baseline
+856,Sweden,NMC622,Direct,0.3223117700861148,high_collection,baseline
+857,Sweden,NMC811,Direct,0.18309684853319275,high_collection,baseline
+858,Switzerland,LFP,Direct,0.0,high_collection,baseline
+859,Switzerland,NCA,Direct,5.664307021694514,high_collection,baseline
+860,Switzerland,NMC111,Direct,-3.381172172512939,high_collection,baseline
+861,Switzerland,NMC523,Direct,-7.8378344033436775,high_collection,baseline
+862,Switzerland,NMC622,Direct,-2.1529348119697995,high_collection,baseline
+863,Switzerland,NMC811,Direct,-1.5147176713725492,high_collection,baseline
+864,Tajikistan,LFP,Direct,0.0,high_collection,baseline
+865,Tajikistan,NCA,Direct,-43.716799525076624,high_collection,baseline
+866,Tajikistan,NMC111,Direct,-100.50475841751405,high_collection,baseline
+867,Tajikistan,NMC523,Direct,-95.23882900837637,high_collection,baseline
+868,Tajikistan,NMC622,Direct,-125.7383700260238,high_collection,baseline
+869,Tajikistan,NMC811,Direct,-139.8595040275046,high_collection,baseline
+870,Thailand,LFP,Direct,0.0,high_collection,baseline
+871,Thailand,NCA,Direct,8.06296158810836,high_collection,baseline
+872,Thailand,NMC111,Direct,-0.7772231614947385,high_collection,baseline
+873,Thailand,NMC523,Direct,-5.204144874619025,high_collection,baseline
+874,Thailand,NMC622,Direct,0.11887166272623895,high_collection,baseline
+875,Thailand,NMC811,Direct,0.4685850007566261,high_collection,baseline
+876,Togo,LFP,Direct,0.0,high_collection,baseline
+877,Togo,NCA,Direct,-18.675240471167708,high_collection,baseline
+878,Togo,NMC111,Direct,-51.587497417129434,high_collection,baseline
+879,Togo,NMC523,Direct,-51.24280160576872,high_collection,baseline
+880,Togo,NMC622,Direct,-63.77405508330997,high_collection,baseline
+881,Togo,NMC811,Direct,-70.60071337089607,high_collection,baseline
+882,Tonga,LFP,Direct,0.0,high_collection,baseline
+883,Tonga,NCA,Direct,0.0,high_collection,baseline
+884,Tonga,NMC111,Direct,0.0,high_collection,baseline
+885,Tonga,NMC523,Direct,0.0,high_collection,baseline
+886,Tonga,NMC622,Direct,0.0,high_collection,baseline
+887,Tonga,NMC811,Direct,0.0,high_collection,baseline
+888,Trinidad and Tobago,LFP,Direct,0.0,high_collection,baseline
+889,Trinidad and Tobago,NCA,Direct,-9.320365222491283,high_collection,baseline
+890,Trinidad and Tobago,NMC111,Direct,-33.08842230047116,high_collection,baseline
+891,Trinidad and Tobago,NMC523,Direct,-34.54107128435196,high_collection,baseline
+892,Trinidad and Tobago,NMC622,Direct,-40.00006034424992,high_collection,baseline
+893,Trinidad and Tobago,NMC811,Direct,-43.90073306087585,high_collection,baseline
+894,Tunisia,LFP,Direct,0.0,high_collection,baseline
+895,Tunisia,NCA,Direct,-30.419110361108476,high_collection,baseline
+896,Tunisia,NMC111,Direct,-74.32382557463157,high_collection,baseline
+897,Tunisia,NMC523,Direct,-71.87030745841429,high_collection,baseline
+898,Tunisia,NMC622,Direct,-92.89450585756508,high_collection,baseline
+899,Tunisia,NMC811,Direct,-103.26037769431575,high_collection,baseline
+900,Turkey,LFP,Direct,0.0,high_collection,baseline
+901,Turkey,NCA,Direct,6.7458059108631545,high_collection,baseline
+902,Turkey,NMC111,Direct,-1.6869009001086714,high_collection,baseline
+903,Turkey,NMC523,Direct,-6.253458235801102,high_collection,baseline
+904,Turkey,NMC622,Direct,-0.14438626785036984,high_collection,baseline
+905,Turkey,NMC811,Direct,0.655074582529863,high_collection,baseline
+906,USA,LFP,Direct,-556.5358903150376,high_collection,baseline
+907,USA,NCA,Direct,9.02357676662702,high_collection,baseline
+908,USA,NMC111,Direct,1.241257318736,high_collection,baseline
+909,USA,NMC523,Direct,-3.767692845131071,high_collection,baseline
+910,USA,NMC622,Direct,3.2284093131121114,high_collection,baseline
+911,USA,NMC811,Direct,5.503169415736025,high_collection,baseline
+912,Uganda,LFP,Direct,0.0,high_collection,baseline
+913,Uganda,NCA,Direct,7.046787057595496,high_collection,baseline
+914,Uganda,NMC111,Direct,-1.4953110880339757,high_collection,baseline
+915,Uganda,NMC523,Direct,-6.040635127662586,high_collection,baseline
+916,Uganda,NMC622,Direct,-0.08077952951319745,high_collection,baseline
+917,Uganda,NMC811,Direct,0.6369432855324906,high_collection,baseline
+918,Ukraine,LFP,Direct,0.0,high_collection,baseline
+919,Ukraine,NCA,Direct,-63.57510622478609,high_collection,baseline
+920,Ukraine,NMC111,Direct,-93.01086620815671,high_collection,baseline
+921,Ukraine,NMC523,Direct,-118.19918855141425,high_collection,baseline
+922,Ukraine,NMC622,Direct,-185.79244175931248,high_collection,baseline
+923,Ukraine,NMC811,Direct,-308.46176386290034,high_collection,baseline
+924,United Arab Emirates,LFP,Direct,0.0,high_collection,baseline
+925,United Arab Emirates,NCA,Direct,-32.18583144791276,high_collection,baseline
+926,United Arab Emirates,NMC111,Direct,-53.054125724672694,high_collection,baseline
+927,United Arab Emirates,NMC523,Direct,-73.01586714574589,high_collection,baseline
+928,United Arab Emirates,NMC622,Direct,-108.10968799195906,high_collection,baseline
+929,United Arab Emirates,NMC811,Direct,-163.12266854214633,high_collection,baseline
+930,United Kingdom,LFP,Direct,0.0,high_collection,baseline
+931,United Kingdom,NCA,Direct,8.77802377355936,high_collection,baseline
+932,United Kingdom,NMC111,Direct,2.08653241067338,high_collection,baseline
+933,United Kingdom,NMC523,Direct,-2.8407706301937763,high_collection,baseline
+934,United Kingdom,NMC622,Direct,4.545666832521155,high_collection,baseline
+935,United Kingdom,NMC811,Direct,5.851000521071781,high_collection,baseline
+936,United Rep. of Tanzania,LFP,Direct,0.0,high_collection,baseline
+937,United Rep. of Tanzania,NCA,Direct,0.39629403898536886,high_collection,baseline
+938,United Rep. of Tanzania,NMC111,Direct,-14.462654706138425,high_collection,baseline
+939,United Rep. of Tanzania,NMC523,Direct,-17.72737409265757,high_collection,baseline
+940,United Rep. of Tanzania,NMC622,Direct,-16.544877666442893,high_collection,baseline
+941,United Rep. of Tanzania,NMC811,Direct,-17.771197250122206,high_collection,baseline
+942,Uruguay,LFP,Direct,0.0,high_collection,baseline
+943,Uruguay,NCA,Direct,-23.34949871650794,high_collection,baseline
+944,Uruguay,NMC111,Direct,-59.61513886808477,high_collection,baseline
+945,Uruguay,NMC523,Direct,-58.695714640536785,high_collection,baseline
+946,Uruguay,NMC622,Direct,-73.76912234144173,high_collection,baseline
+947,Uruguay,NMC811,Direct,-81.66347709928344,high_collection,baseline
+948,Uzbekistan,LFP,Direct,0.0,high_collection,baseline
+949,Uzbekistan,NCA,Direct,-3.1331138496198285,high_collection,baseline
+950,Uzbekistan,NMC111,Direct,-21.36064894940204,high_collection,baseline
+951,Uzbekistan,NMC523,Direct,-23.930169473277456,high_collection,baseline
+952,Uzbekistan,NMC622,Direct,-25.278484841815846,high_collection,baseline
+953,Uzbekistan,NMC811,Direct,-27.528265773216066,high_collection,baseline
+954,Viet Nam,LFP,Direct,0.0,high_collection,baseline
+955,Viet Nam,NCA,Direct,10.471388686830212,high_collection,baseline
+956,Viet Nam,NMC111,Direct,5.15852909913569,high_collection,baseline
+957,Viet Nam,NMC523,Direct,-0.04501728422871026,high_collection,baseline
+958,Viet Nam,NMC622,Direct,8.337360845778042,high_collection,baseline
+959,Viet Nam,NMC811,Direct,10.03449017808232,high_collection,baseline
+960,Yemen,LFP,Direct,0.0,high_collection,baseline
+961,Yemen,NCA,Direct,-8.057918186074872,high_collection,baseline
+962,Yemen,NMC111,Direct,-29.612313456455766,high_collection,baseline
+963,Yemen,NMC523,Direct,-31.55193221843707,high_collection,baseline
+964,Yemen,NMC622,Direct,-35.14555569873077,high_collection,baseline
+965,Yemen,NMC811,Direct,-38.25734147783177,high_collection,baseline
+966,Zambia,LFP,Direct,0.0,high_collection,baseline
+967,Zambia,NCA,Direct,-235.26991944381402,high_collection,baseline
+968,Zambia,NMC111,Direct,-342.836915360927,high_collection,baseline
+969,Zambia,NMC523,Direct,-516.8323807017819,high_collection,baseline
+970,Zambia,NMC622,Direct,-833.0606027520575,high_collection,baseline
+971,Zambia,NMC811,Direct,-1410.6129178068404,high_collection,baseline
+972,Zimbabwe,LFP,Direct,0.0,high_collection,baseline
+973,Zimbabwe,NCA,Direct,-197.66884059703864,high_collection,baseline
+974,Zimbabwe,NMC111,Direct,-357.56139852072556,high_collection,baseline
+975,Zimbabwe,NMC523,Direct,-365.7578227321915,high_collection,baseline
+976,Zimbabwe,NMC622,Direct,-513.264140047124,high_collection,baseline
+977,Zimbabwe,NMC811,Direct,-659.5112569065254,high_collection,baseline

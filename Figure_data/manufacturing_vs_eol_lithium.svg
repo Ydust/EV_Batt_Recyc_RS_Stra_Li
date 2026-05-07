@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="86" y="34" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#263238">Lithium in Manufacturing Scrap vs. EOL Battery Scrap</text>
+<line x1="86" y1="484.0" x2="946" y2="484.0" stroke="#D6D8DC" stroke-width="1"/>
+<text x="74" y="488.0" font-family="Arial, sans-serif" font-size="12" fill="#5F6B73" text-anchor="end">0</text>
+<line x1="86" y1="399.6" x2="946" y2="399.6" stroke="#D6D8DC" stroke-width="1"/>
+<text x="74" y="403.6" font-family="Arial, sans-serif" font-size="12" fill="#5F6B73" text-anchor="end">416</text>
+<line x1="86" y1="315.2" x2="946" y2="315.2" stroke="#D6D8DC" stroke-width="1"/>
+<text x="74" y="319.2" font-family="Arial, sans-serif" font-size="12" fill="#5F6B73" text-anchor="end">832</text>
+<line x1="86" y1="230.8" x2="946" y2="230.8" stroke="#D6D8DC" stroke-width="1"/>
+<text x="74" y="234.8" font-family="Arial, sans-serif" font-size="12" fill="#5F6B73" text-anchor="end">1248</text>
+<line x1="86" y1="146.4" x2="946" y2="146.4" stroke="#D6D8DC" stroke-width="1"/>
+<text x="74" y="150.4" font-family="Arial, sans-serif" font-size="12" fill="#5F6B73" text-anchor="end">1664</text>
+<line x1="86" y1="62.0" x2="946" y2="62.0" stroke="#D6D8DC" stroke-width="1"/>
+<text x="74" y="66.0" font-family="Arial, sans-serif" font-size="12" fill="#5F6B73" text-anchor="end">2080</text>
+<line x1="86.0" y1="484" x2="86.0" y2="490" stroke="#455A64" stroke-width="1"/>
+<text x="86.0" y="510" font-family="Arial, sans-serif" font-size="12" fill="#455A64" text-anchor="middle">2010</text>
+<line x1="301.0" y1="484" x2="301.0" y2="490" stroke="#455A64" stroke-width="1"/>
+<text x="301.0" y="510" font-family="Arial, sans-serif" font-size="12" fill="#455A64" text-anchor="middle">2020</text>
+<line x1="516.0" y1="484" x2="516.0" y2="490" stroke="#455A64" stroke-width="1"/>
+<text x="516.0" y="510" font-family="Arial, sans-serif" font-size="12" fill="#455A64" text-anchor="middle">2030</text>
+<line x1="731.0" y1="484" x2="731.0" y2="490" stroke="#455A64" stroke-width="1"/>
+<text x="731.0" y="510" font-family="Arial, sans-serif" font-size="12" fill="#455A64" text-anchor="middle">2040</text>
+<line x1="946.0" y1="484" x2="946.0" y2="490" stroke="#455A64" stroke-width="1"/>
+<text x="946.0" y="510" font-family="Arial, sans-serif" font-size="12" fill="#455A64" text-anchor="middle">2050</text>
+<line x1="86" y1="484" x2="946" y2="484" stroke="#455A64" stroke-width="1.2"/>
+<line x1="86" y1="62" x2="86" y2="484" stroke="#455A64" stroke-width="1.2"/>
+<polyline points="86.0,484.0 107.5,484.0 129.0,484.0 150.5,484.0 172.0,484.0 193.5,484.0 215.0,484.0 236.5,483.9 258.0,483.9 279.5,483.9 301.0,483.8 322.5,483.7 344.0,482.7 365.5,483.0 387.0,482.0 408.5,481.3 430.0,480.1 451.5,478.8 473.0,477.7 494.5,476.6 516.0,474.7 537.5,473.1 559.0,471.8 580.5,470.8 602.0,469.5 623.5,468.2 645.0,466.8 666.5,464.9 688.0,463.0 709.5,461.3 731.0,460.6 752.5,460.7 774.0,461.4 795.5,462.1 817.0,462.4 838.5,462.4 860.0,462.2 881.5,461.8 903.0,461.8 924.5,461.6 946.0,461.6" fill="none" stroke="#2A9D8F" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="86.0,484.0 107.5,484.0 129.0,484.0 150.5,484.0 172.0,484.0 193.5,484.0 215.0,484.0 236.5,484.0 258.0,484.0 279.5,483.9 301.0,483.9 322.5,483.8 344.0,483.6 365.5,483.4 387.0,483.0 408.5,482.2 430.0,480.9 451.5,478.8 473.0,475.8 494.5,471.5 516.0,465.4 537.5,457.6 559.0,448.7 580.5,438.2 602.0,425.5 623.5,411.3 645.0,396.1 666.5,380.1 688.0,363.6 709.5,346.6 731.0,328.5 752.5,308.3 774.0,284.9 795.5,257.9 817.0,228.0 838.5,197.0 860.0,167.9 881.5,143.4 903.0,125.4 924.5,113.9 946.0,107.3" fill="none" stroke="#D1495B" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="455" y="538" font-family="Arial, sans-serif" font-size="14" fill="#263238">Year</text>
+<text x="22" y="318" font-family="Arial, sans-serif" font-size="14" fill="#263238" transform="rotate(-90 22,318)">Lithium content (thousand tonnes Li)</text>
+<line x1="654" y1="78" x2="704" y2="78" stroke="#2A9D8F" stroke-width="3.2" stroke-linecap="round"/>
+<text x="714" y="82" font-family="Arial, sans-serif" font-size="13" fill="#263238">Manufacturing scrap lithium</text>
+<line x1="654" y1="102" x2="704" y2="102" stroke="#D1495B" stroke-width="3.2" stroke-linecap="round"/>
+<text x="714" y="106" font-family="Arial, sans-serif" font-size="13" fill="#263238">EOL scrap lithium</text>
+</svg>

@@ -1,0 +1,979 @@
+,country,type,recycling_m,net_profit
+0,Afghanistan,LFP,0,0.0
+1,Afghanistan,NCA,0,0.0
+2,Afghanistan,NMC111,0,0.0
+3,Afghanistan,NMC523,0,0.0
+4,Afghanistan,NMC622,0,0.0
+5,Afghanistan,NMC811,0,0.0
+6,Albania,LFP,0,0.0
+7,Albania,NCA,0,0.0
+8,Albania,NMC111,0,0.0
+9,Albania,NMC523,0,0.0
+10,Albania,NMC622,0,0.0
+11,Albania,NMC811,0,0.0
+12,Algeria,LFP,0,0.0
+13,Algeria,NCA,0,0.0
+14,Algeria,NMC111,0,0.0
+15,Algeria,NMC523,0,0.0
+16,Algeria,NMC622,0,0.0
+17,Algeria,NMC811,0,0.0
+18,Andorra,LFP,0,0.0
+19,Andorra,NCA,0,0.0
+20,Andorra,NMC111,0,0.0
+21,Andorra,NMC523,0,0.0
+22,Andorra,NMC622,0,0.0
+23,Andorra,NMC811,0,0.0
+24,Angola,LFP,0,0.0
+25,Angola,NCA,0,0.0
+26,Angola,NMC111,0,0.0
+27,Angola,NMC523,0,0.0
+28,Angola,NMC622,0,0.0
+29,Angola,NMC811,0,0.0
+30,Argentina,LFP,Direct,0.0
+31,Argentina,NCA,Direct,7.160646770603376
+32,Argentina,NMC111,Hydro,2.20180447266769
+33,Argentina,NMC523,Hydro,2.438897128296555
+34,Argentina,NMC622,Direct,0.31096769367449845
+35,Argentina,NMC811,Direct,1.0877538306934567
+36,Armenia,LFP,0,0.0
+37,Armenia,NCA,0,0.0
+38,Armenia,NMC111,0,0.0
+39,Armenia,NMC523,0,0.0
+40,Armenia,NMC622,0,0.0
+41,Armenia,NMC811,0,0.0
+42,Aruba,LFP,0,0.0
+43,Aruba,NCA,0,0.0
+44,Aruba,NMC111,0,0.0
+45,Aruba,NMC523,0,0.0
+46,Aruba,NMC622,0,0.0
+47,Aruba,NMC811,0,0.0
+48,Australia,LFP,Direct,0.0
+49,Australia,NCA,Direct,8.688360683297235
+50,Australia,NMC111,Hydro,5.99580574106451
+51,Australia,NMC523,Hydro,5.689080968305255
+52,Australia,NMC622,Hydro,5.081537718037083
+53,Australia,NMC811,Direct,5.7186856003202164
+54,Austria,LFP,0,0.0
+55,Austria,NCA,0,0.0
+56,Austria,NMC111,0,0.0
+57,Austria,NMC523,0,0.0
+58,Austria,NMC622,0,0.0
+59,Austria,NMC811,0,0.0
+60,Azerbaijan,LFP,0,0.0
+61,Azerbaijan,NCA,0,0.0
+62,Azerbaijan,NMC111,0,0.0
+63,Azerbaijan,NMC523,0,0.0
+64,Azerbaijan,NMC622,0,0.0
+65,Azerbaijan,NMC811,0,0.0
+66,Bahamas,LFP,0,0.0
+67,Bahamas,NCA,0,0.0
+68,Bahamas,NMC111,0,0.0
+69,Bahamas,NMC523,0,0.0
+70,Bahamas,NMC622,0,0.0
+71,Bahamas,NMC811,0,0.0
+72,Bahrain,LFP,0,0.0
+73,Bahrain,NCA,0,0.0
+74,Bahrain,NMC111,0,0.0
+75,Bahrain,NMC523,0,0.0
+76,Bahrain,NMC622,0,0.0
+77,Bahrain,NMC811,0,0.0
+78,Bangladesh,LFP,0,0.0
+79,Bangladesh,NCA,0,0.0
+80,Bangladesh,NMC111,0,0.0
+81,Bangladesh,NMC523,0,0.0
+82,Bangladesh,NMC622,0,0.0
+83,Bangladesh,NMC811,0,0.0
+84,Barbados,LFP,0,0.0
+85,Barbados,NCA,0,0.0
+86,Barbados,NMC111,0,0.0
+87,Barbados,NMC523,0,0.0
+88,Barbados,NMC622,0,0.0
+89,Barbados,NMC811,0,0.0
+90,Belarus,LFP,0,0.0
+91,Belarus,NCA,0,0.0
+92,Belarus,NMC111,0,0.0
+93,Belarus,NMC523,0,0.0
+94,Belarus,NMC622,0,0.0
+95,Belarus,NMC811,0,0.0
+96,Belgium,LFP,Direct,-39.820914729727924
+97,Belgium,NCA,Direct,7.108701461200852
+98,Belgium,NMC111,Hydro,4.973164690529144
+99,Belgium,NMC523,Hydro,4.613082056758818
+100,Belgium,NMC622,Hydro,3.45834593005803
+101,Belgium,NMC811,Direct,3.4657422096070767
+102,Benin,LFP,0,0.0
+103,Benin,NCA,0,0.0
+104,Benin,NMC111,0,0.0
+105,Benin,NMC523,0,0.0
+106,Benin,NMC622,0,0.0
+107,Benin,NMC811,0,0.0
+108,Bermuda,LFP,0,0.0
+109,Bermuda,NCA,0,0.0
+110,Bermuda,NMC111,0,0.0
+111,Bermuda,NMC523,0,0.0
+112,Bermuda,NMC622,0,0.0
+113,Bermuda,NMC811,0,0.0
+114,Bolivia (Plurinational State of),LFP,0,0.0
+115,Bolivia (Plurinational State of),NCA,0,0.0
+116,Bolivia (Plurinational State of),NMC111,0,0.0
+117,Bolivia (Plurinational State of),NMC523,0,0.0
+118,Bolivia (Plurinational State of),NMC622,0,0.0
+119,Bolivia (Plurinational State of),NMC811,0,0.0
+120,Bosnia Herzegovina,LFP,0,0.0
+121,Bosnia Herzegovina,NCA,0,0.0
+122,Bosnia Herzegovina,NMC111,0,0.0
+123,Bosnia Herzegovina,NMC523,0,0.0
+124,Bosnia Herzegovina,NMC622,0,0.0
+125,Bosnia Herzegovina,NMC811,0,0.0
+126,Botswana,LFP,0,0.0
+127,Botswana,NCA,0,0.0
+128,Botswana,NMC111,0,0.0
+129,Botswana,NMC523,0,0.0
+130,Botswana,NMC622,0,0.0
+131,Botswana,NMC811,0,0.0
+132,Brazil,LFP,Direct,0.0
+133,Brazil,NCA,Direct,10.171714131383263
+134,Brazil,NMC111,Hydro,7.871896558456717
+135,Brazil,NMC523,Hydro,7.322948904687573
+136,Brazil,NMC622,Direct,7.6654419457571015
+137,Brazil,NMC811,Direct,9.295854254545509
+138,Brunei Darussalam,LFP,0,0.0
+139,Brunei Darussalam,NCA,0,0.0
+140,Brunei Darussalam,NMC111,0,0.0
+141,Brunei Darussalam,NMC523,0,0.0
+142,Brunei Darussalam,NMC622,0,0.0
+143,Brunei Darussalam,NMC811,0,0.0
+144,Bulgaria,LFP,0,0.0
+145,Bulgaria,NCA,0,0.0
+146,Bulgaria,NMC111,0,0.0
+147,Bulgaria,NMC523,0,0.0
+148,Bulgaria,NMC622,0,0.0
+149,Bulgaria,NMC811,0,0.0
+150,Burkina Faso,LFP,0,0.0
+151,Burkina Faso,NCA,0,0.0
+152,Burkina Faso,NMC111,0,0.0
+153,Burkina Faso,NMC523,0,0.0
+154,Burkina Faso,NMC622,0,0.0
+155,Burkina Faso,NMC811,0,0.0
+156,Burundi,LFP,0,0.0
+157,Burundi,NCA,0,0.0
+158,Burundi,NMC111,0,0.0
+159,Burundi,NMC523,0,0.0
+160,Burundi,NMC622,0,0.0
+161,Burundi,NMC811,0,0.0
+162,C?te d'Ivoire,LFP,0,0.0
+163,C?te d'Ivoire,NCA,0,0.0
+164,C?te d'Ivoire,NMC111,0,0.0
+165,C?te d'Ivoire,NMC523,0,0.0
+166,C?te d'Ivoire,NMC622,0,0.0
+167,C?te d'Ivoire,NMC811,0,0.0
+168,Cabo Verde,LFP,0,0.0
+169,Cabo Verde,NCA,0,0.0
+170,Cabo Verde,NMC111,0,0.0
+171,Cabo Verde,NMC523,0,0.0
+172,Cabo Verde,NMC622,0,0.0
+173,Cabo Verde,NMC811,0,0.0
+174,Cambodia,LFP,0,0.0
+175,Cambodia,NCA,0,0.0
+176,Cambodia,NMC111,0,0.0
+177,Cambodia,NMC523,0,0.0
+178,Cambodia,NMC622,0,0.0
+179,Cambodia,NMC811,0,0.0
+180,Cameroon,LFP,0,0.0
+181,Cameroon,NCA,0,0.0
+182,Cameroon,NMC111,0,0.0
+183,Cameroon,NMC523,0,0.0
+184,Cameroon,NMC622,0,0.0
+185,Cameroon,NMC811,0,0.0
+186,Canada,LFP,Direct,0.0
+187,Canada,NCA,Direct,9.895451426924916
+188,Canada,NMC111,Hydro,7.587490404898474
+189,Canada,NMC523,Hydro,7.060348204110017
+190,Canada,NMC622,Hydro,7.313109163439239
+191,Canada,NMC811,Direct,8.821721494272756
+192,Cayman Isds,LFP,0,0.0
+193,Cayman Isds,NCA,0,0.0
+194,Cayman Isds,NMC111,0,0.0
+195,Cayman Isds,NMC523,0,0.0
+196,Cayman Isds,NMC622,0,0.0
+197,Cayman Isds,NMC811,0,0.0
+198,Chile,LFP,0,0.0
+199,Chile,NCA,0,0.0
+200,Chile,NMC111,0,0.0
+201,Chile,NMC523,0,0.0
+202,Chile,NMC622,0,0.0
+203,Chile,NMC811,0,0.0
+204,China,LFP,Direct,3.2320631280134773
+205,China,NCA,Direct,10.382266874032583
+206,China,NMC111,Hydro,8.063204442831644
+207,China,NMC523,Hydro,7.467500284538394
+208,China,NMC622,Direct,8.509769617884661
+209,China,NMC811,Direct,10.22589549747045
+210,Colombia,LFP,0,0.0
+211,Colombia,NCA,0,0.0
+212,Colombia,NMC111,0,0.0
+213,Colombia,NMC523,0,0.0
+214,Colombia,NMC622,0,0.0
+215,Colombia,NMC811,0,0.0
+216,Comoros,LFP,0,0.0
+217,Comoros,NCA,0,0.0
+218,Comoros,NMC111,0,0.0
+219,Comoros,NMC523,0,0.0
+220,Comoros,NMC622,0,0.0
+221,Comoros,NMC811,0,0.0
+222,Congo,LFP,0,0.0
+223,Congo,NCA,0,0.0
+224,Congo,NMC111,0,0.0
+225,Congo,NMC523,0,0.0
+226,Congo,NMC622,0,0.0
+227,Congo,NMC811,0,0.0
+228,Costa Rica,LFP,0,0.0
+229,Costa Rica,NCA,0,0.0
+230,Costa Rica,NMC111,0,0.0
+231,Costa Rica,NMC523,0,0.0
+232,Costa Rica,NMC622,0,0.0
+233,Costa Rica,NMC811,0,0.0
+234,Croatia,LFP,0,0.0
+235,Croatia,NCA,0,0.0
+236,Croatia,NMC111,0,0.0
+237,Croatia,NMC523,0,0.0
+238,Croatia,NMC622,0,0.0
+239,Croatia,NMC811,0,0.0
+240,Cyprus,LFP,0,0.0
+241,Cyprus,NCA,0,0.0
+242,Cyprus,NMC111,0,0.0
+243,Cyprus,NMC523,0,0.0
+244,Cyprus,NMC622,0,0.0
+245,Cyprus,NMC811,0,0.0
+246,Czechia,LFP,Direct,-62.99401799283296
+247,Czechia,NCA,Direct,6.034667096552289
+248,Czechia,NMC111,Hydro,3.066740279291037
+249,Czechia,NMC523,Hydro,2.8495533477541937
+250,Czechia,NMC622,Direct,1.0570548848001304
+251,Czechia,NMC811,Direct,1.0215692261095017
+252,Denmark,LFP,0,0.0
+253,Denmark,NCA,0,0.0
+254,Denmark,NMC111,0,0.0
+255,Denmark,NMC523,0,0.0
+256,Denmark,NMC622,0,0.0
+257,Denmark,NMC811,0,0.0
+258,Dominican Rep.,LFP,0,0.0
+259,Dominican Rep.,NCA,0,0.0
+260,Dominican Rep.,NMC111,0,0.0
+261,Dominican Rep.,NMC523,0,0.0
+262,Dominican Rep.,NMC622,0,0.0
+263,Dominican Rep.,NMC811,0,0.0
+264,Ecuador,LFP,0,0.0
+265,Ecuador,NCA,0,0.0
+266,Ecuador,NMC111,0,0.0
+267,Ecuador,NMC523,0,0.0
+268,Ecuador,NMC622,0,0.0
+269,Ecuador,NMC811,0,0.0
+270,Egypt,LFP,0,0.0
+271,Egypt,NCA,0,0.0
+272,Egypt,NMC111,0,0.0
+273,Egypt,NMC523,0,0.0
+274,Egypt,NMC622,0,0.0
+275,Egypt,NMC811,0,0.0
+276,El Salvador,LFP,0,0.0
+277,El Salvador,NCA,0,0.0
+278,El Salvador,NMC111,0,0.0
+279,El Salvador,NMC523,0,0.0
+280,El Salvador,NMC622,0,0.0
+281,El Salvador,NMC811,0,0.0
+282,Estonia,LFP,0,0.0
+283,Estonia,NCA,0,0.0
+284,Estonia,NMC111,0,0.0
+285,Estonia,NMC523,0,0.0
+286,Estonia,NMC622,0,0.0
+287,Estonia,NMC811,0,0.0
+288,Eswatini,LFP,0,0.0
+289,Eswatini,NCA,0,0.0
+290,Eswatini,NMC111,0,0.0
+291,Eswatini,NMC523,0,0.0
+292,Eswatini,NMC622,0,0.0
+293,Eswatini,NMC811,0,0.0
+294,Ethiopia,LFP,0,0.0
+295,Ethiopia,NCA,0,0.0
+296,Ethiopia,NMC111,0,0.0
+297,Ethiopia,NMC523,0,0.0
+298,Ethiopia,NMC622,0,0.0
+299,Ethiopia,NMC811,0,0.0
+300,Fiji,LFP,0,0.0
+301,Fiji,NCA,0,0.0
+302,Fiji,NMC111,0,0.0
+303,Fiji,NMC523,0,0.0
+304,Fiji,NMC622,0,0.0
+305,Fiji,NMC811,0,0.0
+306,Finland,LFP,Direct,-32.75322671178544
+307,Finland,NCA,Direct,7.764385320304734
+308,Finland,NMC111,Hydro,5.561662036056613
+309,Finland,NMC523,Hydro,5.155882906675491
+310,Finland,NMC622,Hydro,4.352295882567271
+311,Finland,NMC811,Direct,4.711989759521874
+312,France,LFP,Direct,-17.199021307751572
+313,France,NCA,Direct,8.965005694001432
+314,France,NMC111,Hydro,6.942665988611709
+315,France,NMC523,Hydro,6.438584138830655
+316,France,NMC622,Hydro,6.3420318189166816
+317,France,NMC811,Direct,7.164344205299424
+318,French Polynesia,LFP,0,0.0
+319,French Polynesia,NCA,0,0.0
+320,French Polynesia,NMC111,0,0.0
+321,French Polynesia,NMC523,0,0.0
+322,French Polynesia,NMC622,0,0.0
+323,French Polynesia,NMC811,0,0.0
+324,Georgia,LFP,0,0.0
+325,Georgia,NCA,0,0.0
+326,Georgia,NMC111,0,0.0
+327,Georgia,NMC523,0,0.0
+328,Georgia,NMC622,0,0.0
+329,Georgia,NMC811,0,0.0
+330,Germany,LFP,Direct,-16.275284245945436
+331,Germany,NCA,Direct,9.036361629978956
+332,Germany,NMC111,Hydro,7.013289211343692
+333,Germany,NMC523,Hydro,6.504125738777753
+334,Germany,NMC622,Hydro,6.445740444045564
+335,Germany,NMC811,Direct,7.314649257957498
+336,Ghana,LFP,0,0.0
+337,Ghana,NCA,0,0.0
+338,Ghana,NMC111,0,0.0
+339,Ghana,NMC523,0,0.0
+340,Ghana,NMC622,0,0.0
+341,Ghana,NMC811,0,0.0
+342,Greece,LFP,0,0.0
+343,Greece,NCA,0,0.0
+344,Greece,NMC111,0,0.0
+345,Greece,NMC523,0,0.0
+346,Greece,NMC622,0,0.0
+347,Greece,NMC811,0,0.0
+348,Greenland,LFP,0,0.0
+349,Greenland,NCA,0,0.0
+350,Greenland,NMC111,0,0.0
+351,Greenland,NMC523,0,0.0
+352,Greenland,NMC622,0,0.0
+353,Greenland,NMC811,0,0.0
+354,Grenada,LFP,0,0.0
+355,Grenada,NCA,0,0.0
+356,Grenada,NMC111,0,0.0
+357,Grenada,NMC523,0,0.0
+358,Grenada,NMC622,0,0.0
+359,Grenada,NMC811,0,0.0
+360,Guatemala,LFP,0,0.0
+361,Guatemala,NCA,0,0.0
+362,Guatemala,NMC111,0,0.0
+363,Guatemala,NMC523,0,0.0
+364,Guatemala,NMC622,0,0.0
+365,Guatemala,NMC811,0,0.0
+366,Guinea,LFP,0,0.0
+367,Guinea,NCA,0,0.0
+368,Guinea,NMC111,0,0.0
+369,Guinea,NMC523,0,0.0
+370,Guinea,NMC622,0,0.0
+371,Guinea,NMC811,0,0.0
+372,Guyana,LFP,0,0.0
+373,Guyana,NCA,0,0.0
+374,Guyana,NMC111,0,0.0
+375,Guyana,NMC523,0,0.0
+376,Guyana,NMC622,0,0.0
+377,Guyana,NMC811,0,0.0
+378,Honduras,LFP,0,0.0
+379,Honduras,NCA,0,0.0
+380,Honduras,NMC111,0,0.0
+381,Honduras,NMC523,0,0.0
+382,Honduras,NMC622,0,0.0
+383,Honduras,NMC811,0,0.0
+384,Hungary,LFP,Direct,-20.69228642471267
+385,Hungary,NCA,Direct,8.856295274659637
+386,Hungary,NMC111,Hydro,6.845683693831722
+387,Hungary,NMC523,Hydro,6.35234594974104
+388,Hungary,NMC622,Hydro,6.181420091129853
+389,Hungary,NMC811,Direct,6.871123221929852
+390,Iceland,LFP,0,0.0
+391,Iceland,NCA,0,0.0
+392,Iceland,NMC111,0,0.0
+393,Iceland,NMC523,0,0.0
+394,Iceland,NMC622,0,0.0
+395,Iceland,NMC811,0,0.0
+396,India,LFP,Direct,-69.74929544916571
+397,India,NCA,Direct,10.395585536148321
+398,India,NMC111,Hydro,7.958561763944412
+399,India,NMC523,Hydro,7.377983563233536
+400,India,NMC622,Direct,8.3970171322419
+401,India,NMC811,Direct,10.125726392605781
+402,Indonesia,LFP,0,0.0
+403,Indonesia,NCA,0,0.0
+404,Indonesia,NMC111,0,0.0
+405,Indonesia,NMC523,0,0.0
+406,Indonesia,NMC622,0,0.0
+407,Indonesia,NMC811,0,0.0
+408,Iran,LFP,0,0.0
+409,Iran,NCA,0,0.0
+410,Iran,NMC111,0,0.0
+411,Iran,NMC523,0,0.0
+412,Iran,NMC622,0,0.0
+413,Iran,NMC811,0,0.0
+414,Ireland,LFP,0,0.0
+415,Ireland,NCA,0,0.0
+416,Ireland,NMC111,0,0.0
+417,Ireland,NMC523,0,0.0
+418,Ireland,NMC622,0,0.0
+419,Ireland,NMC811,0,0.0
+420,Israel,LFP,0,0.0
+421,Israel,NCA,0,0.0
+422,Israel,NMC111,0,0.0
+423,Israel,NMC523,0,0.0
+424,Israel,NMC622,0,0.0
+425,Israel,NMC811,0,0.0
+426,Italy,LFP,Direct,-19.830175848748688
+427,Italy,NCA,Direct,8.78044324853912
+428,Italy,NMC111,Hydro,6.767977203644318
+429,Italy,NMC523,Hydro,6.276506093712941
+430,Italy,NMC622,Hydro,6.09495511857858
+431,Italy,NMC811,Direct,6.797025348095896
+432,Jamaica,LFP,0,0.0
+433,Jamaica,NCA,0,0.0
+434,Jamaica,NMC111,0,0.0
+435,Jamaica,NMC523,0,0.0
+436,Jamaica,NMC622,0,0.0
+437,Jamaica,NMC811,0,0.0
+438,Japan,LFP,Direct,-685.244383680599
+439,Japan,NCA,Direct,10.034266629230508
+440,Japan,NMC111,Hydro,7.636430659287791
+441,Japan,NMC523,Hydro,7.070198808591982
+442,Japan,NMC622,Direct,7.68691235244168
+443,Japan,NMC811,Direct,9.403057804986918
+444,Jordan,LFP,0,0.0
+445,Jordan,NCA,0,0.0
+446,Jordan,NMC111,0,0.0
+447,Jordan,NMC523,0,0.0
+448,Jordan,NMC622,0,0.0
+449,Jordan,NMC811,0,0.0
+450,Kazakhstan,LFP,0,0.0
+451,Kazakhstan,NCA,0,0.0
+452,Kazakhstan,NMC111,0,0.0
+453,Kazakhstan,NMC523,0,0.0
+454,Kazakhstan,NMC622,0,0.0
+455,Kazakhstan,NMC811,0,0.0
+456,Kenya,LFP,0,0.0
+457,Kenya,NCA,0,0.0
+458,Kenya,NMC111,0,0.0
+459,Kenya,NMC523,0,0.0
+460,Kenya,NMC622,0,0.0
+461,Kenya,NMC811,0,0.0
+462,Kiribati,LFP,0,0.0
+463,Kiribati,NCA,0,0.0
+464,Kiribati,NMC111,0,0.0
+465,Kiribati,NMC523,0,0.0
+466,Kiribati,NMC622,0,0.0
+467,Kiribati,NMC811,0,0.0
+468,Korea,LFP,Direct,-7.926773405445152
+469,Korea,NCA,Direct,10.217959464361293
+470,Korea,NMC111,Hydro,7.811540558503422
+471,Korea,NMC523,Hydro,7.234880046184269
+472,Korea,NMC622,Direct,8.07804842585629
+473,Korea,NMC811,Direct,9.802813081123787
+474,Kuwait,LFP,0,0.0
+475,Kuwait,NCA,0,0.0
+476,Kuwait,NMC111,0,0.0
+477,Kuwait,NMC523,0,0.0
+478,Kuwait,NMC622,0,0.0
+479,Kuwait,NMC811,0,0.0
+480,Kyrgyzstan,LFP,0,0.0
+481,Kyrgyzstan,NCA,0,0.0
+482,Kyrgyzstan,NMC111,0,0.0
+483,Kyrgyzstan,NMC523,0,0.0
+484,Kyrgyzstan,NMC622,0,0.0
+485,Kyrgyzstan,NMC811,0,0.0
+486,Lao People's Dem. Rep.,LFP,0,0.0
+487,Lao People's Dem. Rep.,NCA,0,0.0
+488,Lao People's Dem. Rep.,NMC111,0,0.0
+489,Lao People's Dem. Rep.,NMC523,0,0.0
+490,Lao People's Dem. Rep.,NMC622,0,0.0
+491,Lao People's Dem. Rep.,NMC811,0,0.0
+492,Latvia,LFP,0,0.0
+493,Latvia,NCA,0,0.0
+494,Latvia,NMC111,0,0.0
+495,Latvia,NMC523,0,0.0
+496,Latvia,NMC622,0,0.0
+497,Latvia,NMC811,0,0.0
+498,Lebanon,LFP,0,0.0
+499,Lebanon,NCA,0,0.0
+500,Lebanon,NMC111,0,0.0
+501,Lebanon,NMC523,0,0.0
+502,Lebanon,NMC622,0,0.0
+503,Lebanon,NMC811,0,0.0
+504,Lesotho,LFP,0,0.0
+505,Lesotho,NCA,0,0.0
+506,Lesotho,NMC111,0,0.0
+507,Lesotho,NMC523,0,0.0
+508,Lesotho,NMC622,0,0.0
+509,Lesotho,NMC811,0,0.0
+510,Lithuania,LFP,0,0.0
+511,Lithuania,NCA,0,0.0
+512,Lithuania,NMC111,0,0.0
+513,Lithuania,NMC523,0,0.0
+514,Lithuania,NMC622,0,0.0
+515,Lithuania,NMC811,0,0.0
+516,Luxembourg,LFP,0,0.0
+517,Luxembourg,NCA,0,0.0
+518,Luxembourg,NMC111,0,0.0
+519,Luxembourg,NMC523,0,0.0
+520,Luxembourg,NMC622,0,0.0
+521,Luxembourg,NMC811,0,0.0
+522,Madagascar,LFP,0,0.0
+523,Madagascar,NCA,0,0.0
+524,Madagascar,NMC111,0,0.0
+525,Madagascar,NMC523,0,0.0
+526,Madagascar,NMC622,0,0.0
+527,Madagascar,NMC811,0,0.0
+528,Malawi,LFP,0,0.0
+529,Malawi,NCA,0,0.0
+530,Malawi,NMC111,0,0.0
+531,Malawi,NMC523,0,0.0
+532,Malawi,NMC622,0,0.0
+533,Malawi,NMC811,0,0.0
+534,Malaysia,LFP,0,0.0
+535,Malaysia,NCA,0,0.0
+536,Malaysia,NMC111,0,0.0
+537,Malaysia,NMC523,0,0.0
+538,Malaysia,NMC622,0,0.0
+539,Malaysia,NMC811,0,0.0
+540,Maldives,LFP,0,0.0
+541,Maldives,NCA,0,0.0
+542,Maldives,NMC111,0,0.0
+543,Maldives,NMC523,0,0.0
+544,Maldives,NMC622,0,0.0
+545,Maldives,NMC811,0,0.0
+546,Mali,LFP,0,0.0
+547,Mali,NCA,0,0.0
+548,Mali,NMC111,0,0.0
+549,Mali,NMC523,0,0.0
+550,Mali,NMC622,0,0.0
+551,Mali,NMC811,0,0.0
+552,Malta,LFP,0,0.0
+553,Malta,NCA,0,0.0
+554,Malta,NMC111,0,0.0
+555,Malta,NMC523,0,0.0
+556,Malta,NMC622,0,0.0
+557,Malta,NMC811,0,0.0
+558,Mauritania,LFP,0,0.0
+559,Mauritania,NCA,0,0.0
+560,Mauritania,NMC111,0,0.0
+561,Mauritania,NMC523,0,0.0
+562,Mauritania,NMC622,0,0.0
+563,Mauritania,NMC811,0,0.0
+564,Mauritius,LFP,0,0.0
+565,Mauritius,NCA,0,0.0
+566,Mauritius,NMC111,0,0.0
+567,Mauritius,NMC523,0,0.0
+568,Mauritius,NMC622,0,0.0
+569,Mauritius,NMC811,0,0.0
+570,Mexico,LFP,0,0.0
+571,Mexico,NCA,0,0.0
+572,Mexico,NMC111,0,0.0
+573,Mexico,NMC523,0,0.0
+574,Mexico,NMC622,0,0.0
+575,Mexico,NMC811,0,0.0
+576,Mongolia,LFP,0,0.0
+577,Mongolia,NCA,0,0.0
+578,Mongolia,NMC111,0,0.0
+579,Mongolia,NMC523,0,0.0
+580,Mongolia,NMC622,0,0.0
+581,Mongolia,NMC811,0,0.0
+582,Montenegro,LFP,0,0.0
+583,Montenegro,NCA,0,0.0
+584,Montenegro,NMC111,0,0.0
+585,Montenegro,NMC523,0,0.0
+586,Montenegro,NMC622,0,0.0
+587,Montenegro,NMC811,0,0.0
+588,Morocco,LFP,0,0.0
+589,Morocco,NCA,0,0.0
+590,Morocco,NMC111,0,0.0
+591,Morocco,NMC523,0,0.0
+592,Morocco,NMC622,0,0.0
+593,Morocco,NMC811,0,0.0
+594,Mozambique,LFP,0,0.0
+595,Mozambique,NCA,0,0.0
+596,Mozambique,NMC111,0,0.0
+597,Mozambique,NMC523,0,0.0
+598,Mozambique,NMC622,0,0.0
+599,Mozambique,NMC811,0,0.0
+600,Myanmar,LFP,0,0.0
+601,Myanmar,NCA,0,0.0
+602,Myanmar,NMC111,0,0.0
+603,Myanmar,NMC523,0,0.0
+604,Myanmar,NMC622,0,0.0
+605,Myanmar,NMC811,0,0.0
+606,Namibia,LFP,0,0.0
+607,Namibia,NCA,0,0.0
+608,Namibia,NMC111,0,0.0
+609,Namibia,NMC523,0,0.0
+610,Namibia,NMC622,0,0.0
+611,Namibia,NMC811,0,0.0
+612,Nepal,LFP,0,0.0
+613,Nepal,NCA,0,0.0
+614,Nepal,NMC111,0,0.0
+615,Nepal,NMC523,0,0.0
+616,Nepal,NMC622,0,0.0
+617,Nepal,NMC811,0,0.0
+618,Netherlands,LFP,Direct,-33.3232904737425
+619,Netherlands,NCA,Direct,7.75568470515087
+620,Netherlands,NMC111,Hydro,5.554054041321057
+621,Netherlands,NMC523,Hydro,5.143725188135038
+622,Netherlands,NMC622,Hydro,4.345765767130832
+623,Netherlands,NMC811,Direct,4.71347844459373
+624,New Caledonia,LFP,0,0.0
+625,New Caledonia,NCA,0,0.0
+626,New Caledonia,NMC111,0,0.0
+627,New Caledonia,NMC523,0,0.0
+628,New Caledonia,NMC622,0,0.0
+629,New Caledonia,NMC811,0,0.0
+630,New Zealand,LFP,0,0.0
+631,New Zealand,NCA,0,0.0
+632,New Zealand,NMC111,0,0.0
+633,New Zealand,NMC523,0,0.0
+634,New Zealand,NMC622,0,0.0
+635,New Zealand,NMC811,0,0.0
+636,Nicaragua,LFP,0,0.0
+637,Nicaragua,NCA,0,0.0
+638,Nicaragua,NMC111,0,0.0
+639,Nicaragua,NMC523,0,0.0
+640,Nicaragua,NMC622,0,0.0
+641,Nicaragua,NMC811,0,0.0
+642,Niger,LFP,0,0.0
+643,Niger,NCA,0,0.0
+644,Niger,NMC111,0,0.0
+645,Niger,NMC523,0,0.0
+646,Niger,NMC622,0,0.0
+647,Niger,NMC811,0,0.0
+648,Nigeria,LFP,0,0.0
+649,Nigeria,NCA,0,0.0
+650,Nigeria,NMC111,0,0.0
+651,Nigeria,NMC523,0,0.0
+652,Nigeria,NMC622,0,0.0
+653,Nigeria,NMC811,0,0.0
+654,North Macedonia,LFP,0,0.0
+655,North Macedonia,NCA,0,0.0
+656,North Macedonia,NMC111,0,0.0
+657,North Macedonia,NMC523,0,0.0
+658,North Macedonia,NMC622,0,0.0
+659,North Macedonia,NMC811,0,0.0
+660,Norway,LFP,Direct,-35.86892917949685
+661,Norway,NCA,Direct,8.721501459834696
+662,Norway,NMC111,Hydro,6.260185177230346
+663,Norway,NMC523,Hydro,5.83704902864189
+664,Norway,NMC622,Hydro,5.577772890806934
+665,Norway,NMC811,Direct,6.514079198018282
+666,Oman,LFP,0,0.0
+667,Oman,NCA,0,0.0
+668,Oman,NMC111,0,0.0
+669,Oman,NMC523,0,0.0
+670,Oman,NMC622,0,0.0
+671,Oman,NMC811,0,0.0
+672,Pakistan,LFP,0,0.0
+673,Pakistan,NCA,0,0.0
+674,Pakistan,NMC111,0,0.0
+675,Pakistan,NMC523,0,0.0
+676,Pakistan,NMC622,0,0.0
+677,Pakistan,NMC811,0,0.0
+678,Palau,LFP,0,0.0
+679,Palau,NCA,0,0.0
+680,Palau,NMC111,0,0.0
+681,Palau,NMC523,0,0.0
+682,Palau,NMC622,0,0.0
+683,Palau,NMC811,0,0.0
+684,Panama,LFP,0,0.0
+685,Panama,NCA,0,0.0
+686,Panama,NMC111,0,0.0
+687,Panama,NMC523,0,0.0
+688,Panama,NMC622,0,0.0
+689,Panama,NMC811,0,0.0
+690,Papua New Guinea,LFP,0,0.0
+691,Papua New Guinea,NCA,0,0.0
+692,Papua New Guinea,NMC111,0,0.0
+693,Papua New Guinea,NMC523,0,0.0
+694,Papua New Guinea,NMC622,0,0.0
+695,Papua New Guinea,NMC811,0,0.0
+696,Paraguay,LFP,Direct,0.0
+697,Paraguay,NCA,Direct,6.343604009184136
+698,Paraguay,NMC111,Hydro,-0.06756505337925134
+699,Paraguay,NMC523,Hydro,0.511041075612046
+700,Paraguay,NMC622,Direct,-1.6957482160948594
+701,Paraguay,NMC811,Direct,-1.1502870328372161
+702,Peru,LFP,0,0.0
+703,Peru,NCA,0,0.0
+704,Peru,NMC111,0,0.0
+705,Peru,NMC523,0,0.0
+706,Peru,NMC622,0,0.0
+707,Peru,NMC811,0,0.0
+708,Philippines,LFP,0,0.0
+709,Philippines,NCA,0,0.0
+710,Philippines,NMC111,0,0.0
+711,Philippines,NMC523,0,0.0
+712,Philippines,NMC622,0,0.0
+713,Philippines,NMC811,0,0.0
+714,Poland,LFP,Direct,-23.12664124858875
+715,Poland,NCA,Direct,8.736521380699607
+716,Poland,NMC111,Hydro,6.725379664645252
+717,Poland,NMC523,Hydro,6.246089463793418
+718,Poland,NMC622,Hydro,5.946929913202855
+719,Poland,NMC811,Direct,6.511597312913726
+720,Portugal,LFP,0,0.0
+721,Portugal,NCA,0,0.0
+722,Portugal,NMC111,0,0.0
+723,Portugal,NMC523,0,0.0
+724,Portugal,NMC622,0,0.0
+725,Portugal,NMC811,0,0.0
+726,Qatar,LFP,0,0.0
+727,Qatar,NCA,0,0.0
+728,Qatar,NMC111,0,0.0
+729,Qatar,NMC523,0,0.0
+730,Qatar,NMC622,0,0.0
+731,Qatar,NMC811,0,0.0
+732,Rep. of Moldova,LFP,0,0.0
+733,Rep. of Moldova,NCA,0,0.0
+734,Rep. of Moldova,NMC111,0,0.0
+735,Rep. of Moldova,NMC523,0,0.0
+736,Rep. of Moldova,NMC622,0,0.0
+737,Rep. of Moldova,NMC811,0,0.0
+738,Romania,LFP,Direct,-64.20598221550604
+739,Romania,NCA,Direct,6.068418990713473
+740,Romania,NMC111,Hydro,3.1319948805515403
+741,Romania,NMC523,Hydro,2.9134617883783482
+742,Romania,NMC622,Direct,1.0921936634571066
+743,Romania,NMC811,Direct,1.053969469853866
+744,Russian Federation,LFP,Direct,-73.37656625031723
+745,Russian Federation,NCA,Direct,10.151010215963682
+746,Russian Federation,NMC111,Hydro,7.689362180567518
+747,Russian Federation,NMC523,Hydro,7.1675618116774205
+748,Russian Federation,NMC622,Direct,7.418602047260782
+749,Russian Federation,NMC811,Direct,8.933301887466747
+750,Rwanda,LFP,0,0.0
+751,Rwanda,NCA,0,0.0
+752,Rwanda,NMC111,0,0.0
+753,Rwanda,NMC523,0,0.0
+754,Rwanda,NMC622,0,0.0
+755,Rwanda,NMC811,0,0.0
+756,Saint Lucia,LFP,0,0.0
+757,Saint Lucia,NCA,0,0.0
+758,Saint Lucia,NMC111,0,0.0
+759,Saint Lucia,NMC523,0,0.0
+760,Saint Lucia,NMC622,0,0.0
+761,Saint Lucia,NMC811,0,0.0
+762,Samoa,LFP,0,0.0
+763,Samoa,NCA,0,0.0
+764,Samoa,NMC111,0,0.0
+765,Samoa,NMC523,0,0.0
+766,Samoa,NMC622,0,0.0
+767,Samoa,NMC811,0,0.0
+768,Saudi Arabia,LFP,0,0.0
+769,Saudi Arabia,NCA,0,0.0
+770,Saudi Arabia,NMC111,0,0.0
+771,Saudi Arabia,NMC523,0,0.0
+772,Saudi Arabia,NMC622,0,0.0
+773,Saudi Arabia,NMC811,0,0.0
+774,Senegal,LFP,0,0.0
+775,Senegal,NCA,0,0.0
+776,Senegal,NMC111,0,0.0
+777,Senegal,NMC523,0,0.0
+778,Senegal,NMC622,0,0.0
+779,Senegal,NMC811,0,0.0
+780,Serbia,LFP,Direct,0.0
+781,Serbia,NCA,Direct,5.941723367012879
+782,Serbia,NMC111,Hydro,-0.6030207645215853
+783,Serbia,NMC523,Hydro,-0.04514075075375046
+784,Serbia,NMC622,Direct,-2.0233974480576347
+785,Serbia,NMC811,Direct,-1.4350681163425767
+786,Seychelles,LFP,0,0.0
+787,Seychelles,NCA,0,0.0
+788,Seychelles,NMC111,0,0.0
+789,Seychelles,NMC523,0,0.0
+790,Seychelles,NMC622,0,0.0
+791,Seychelles,NMC811,0,0.0
+792,Sierra Leone,LFP,0,0.0
+793,Sierra Leone,NCA,0,0.0
+794,Sierra Leone,NMC111,0,0.0
+795,Sierra Leone,NMC523,0,0.0
+796,Sierra Leone,NMC622,0,0.0
+797,Sierra Leone,NMC811,0,0.0
+798,Singapore,LFP,0,0.0
+799,Singapore,NCA,0,0.0
+800,Singapore,NMC111,0,0.0
+801,Singapore,NMC523,0,0.0
+802,Singapore,NMC622,0,0.0
+803,Singapore,NMC811,0,0.0
+804,Slovakia,LFP,Direct,-61.305166583679416
+805,Slovakia,NCA,Direct,5.972487437274268
+806,Slovakia,NMC111,Hydro,2.9708620604464797
+807,Slovakia,NMC523,Hydro,2.762163449270849
+808,Slovakia,NMC622,Direct,0.942734259099606
+809,Slovakia,NMC811,Direct,0.8749593783658525
+810,Slovenia,LFP,0,0.0
+811,Slovenia,NCA,0,0.0
+812,Slovenia,NMC111,0,0.0
+813,Slovenia,NMC523,0,0.0
+814,Slovenia,NMC622,0,0.0
+815,Slovenia,NMC811,0,0.0
+816,Solomon Isds,LFP,0,0.0
+817,Solomon Isds,NCA,0,0.0
+818,Solomon Isds,NMC111,0,0.0
+819,Solomon Isds,NMC523,0,0.0
+820,Solomon Isds,NMC622,0,0.0
+821,Solomon Isds,NMC811,0,0.0
+822,South Africa,LFP,0,0.0
+823,South Africa,NCA,0,0.0
+824,South Africa,NMC111,0,0.0
+825,South Africa,NMC523,0,0.0
+826,South Africa,NMC622,0,0.0
+827,South Africa,NMC811,0,0.0
+828,Spain,LFP,Direct,-21.508627693783943
+829,Spain,NCA,Direct,8.778749018441074
+830,Spain,NMC111,Hydro,6.7625879743111765
+831,Spain,NMC523,Hydro,6.277356396959273
+832,Spain,NMC622,Hydro,6.029708327280868
+833,Spain,NMC811,Direct,6.662834260077937
+834,Sri Lanka,LFP,0,0.0
+835,Sri Lanka,NCA,0,0.0
+836,Sri Lanka,NMC111,0,0.0
+837,Sri Lanka,NMC523,0,0.0
+838,Sri Lanka,NMC622,0,0.0
+839,Sri Lanka,NMC811,0,0.0
+840,State of Palestine,LFP,0,0.0
+841,State of Palestine,NCA,0,0.0
+842,State of Palestine,NMC111,0,0.0
+843,State of Palestine,NMC523,0,0.0
+844,State of Palestine,NMC622,0,0.0
+845,State of Palestine,NMC811,0,0.0
+846,Sudan,LFP,0,0.0
+847,Sudan,NCA,0,0.0
+848,Sudan,NMC111,0,0.0
+849,Sudan,NMC523,0,0.0
+850,Sudan,NMC622,0,0.0
+851,Sudan,NMC811,0,0.0
+852,Sweden,LFP,Direct,-18.44959679752615
+853,Sweden,NCA,Direct,8.629849965220723
+854,Sweden,NMC111,Hydro,6.6087525859775935
+855,Sweden,NMC523,Hydro,6.114729692593477
+856,Sweden,NMC622,Hydro,5.981089997978677
+857,Sweden,NMC811,Direct,6.75679606312211
+858,Switzerland,LFP,Direct,-39.37679076570427
+859,Switzerland,NCA,Direct,8.85105529762012
+860,Switzerland,NMC111,Hydro,6.358076540421269
+861,Switzerland,NMC523,Hydro,5.937415249655311
+862,Switzerland,NMC622,Hydro,5.717971811562839
+863,Switzerland,NMC811,Direct,6.732195065723283
+864,Tajikistan,LFP,0,0.0
+865,Tajikistan,NCA,0,0.0
+866,Tajikistan,NMC111,0,0.0
+867,Tajikistan,NMC523,0,0.0
+868,Tajikistan,NMC622,0,0.0
+869,Tajikistan,NMC811,0,0.0
+870,Thailand,LFP,Direct,0.0
+871,Thailand,NCA,Direct,10.2066737627443
+872,Thailand,NMC111,Hydro,7.74207656649121
+873,Thailand,NMC523,Hydro,7.21256074253779
+874,Thailand,NMC622,Direct,7.581307644027243
+875,Thailand,NMC811,Direct,9.165107806159815
+876,Togo,LFP,0,0.0
+877,Togo,NCA,0,0.0
+878,Togo,NMC111,0,0.0
+879,Togo,NMC523,0,0.0
+880,Togo,NMC622,0,0.0
+881,Togo,NMC811,0,0.0
+882,Tonga,LFP,0,0.0
+883,Tonga,NCA,0,0.0
+884,Tonga,NMC111,0,0.0
+885,Tonga,NMC523,0,0.0
+886,Tonga,NMC622,0,0.0
+887,Tonga,NMC811,0,0.0
+888,Trinidad and Tobago,LFP,0,0.0
+889,Trinidad and Tobago,NCA,0,0.0
+890,Trinidad and Tobago,NMC111,0,0.0
+891,Trinidad and Tobago,NMC523,0,0.0
+892,Trinidad and Tobago,NMC622,0,0.0
+893,Trinidad and Tobago,NMC811,0,0.0
+894,Tunisia,LFP,0,0.0
+895,Tunisia,NCA,0,0.0
+896,Tunisia,NMC111,0,0.0
+897,Tunisia,NMC523,0,0.0
+898,Tunisia,NMC622,0,0.0
+899,Tunisia,NMC811,0,0.0
+900,Turkey,LFP,Direct,0.0
+901,Turkey,NCA,Direct,9.143481877946158
+902,Turkey,NMC111,Hydro,6.581350192767635
+903,Turkey,NMC523,Hydro,6.185965460716186
+904,Turkey,NMC622,Hydro,5.930552117205843
+905,Turkey,NMC811,Direct,6.902451850182435
+906,USA,LFP,Direct,-149.24653292831553
+907,USA,NCA,Direct,10.28584993513308
+908,USA,NMC111,Hydro,7.877504652921017
+909,USA,NMC523,Hydro,7.308193758366545
+910,USA,NMC622,Direct,7.874619851932105
+911,USA,NMC811,Direct,9.676571646864558
+912,Uganda,LFP,0,0.0
+913,Uganda,NCA,0,0.0
+914,Uganda,NMC111,0,0.0
+915,Uganda,NMC523,0,0.0
+916,Uganda,NMC622,0,0.0
+917,Uganda,NMC811,0,0.0
+918,Ukraine,LFP,0,0.0
+919,Ukraine,NCA,0,0.0
+920,Ukraine,NMC111,0,0.0
+921,Ukraine,NMC523,0,0.0
+922,Ukraine,NMC622,0,0.0
+923,Ukraine,NMC811,0,0.0
+924,United Arab Emirates,LFP,0,0.0
+925,United Arab Emirates,NCA,0,0.0
+926,United Arab Emirates,NMC111,0,0.0
+927,United Arab Emirates,NMC523,0,0.0
+928,United Arab Emirates,NMC622,0,0.0
+929,United Arab Emirates,NMC811,0,0.0
+930,United Kingdom,LFP,Direct,0.0
+931,United Kingdom,NCA,Direct,9.309630024857027
+932,United Kingdom,NMC111,Hydro,6.771050057419085
+933,United Kingdom,NMC523,Hydro,6.3565692720299705
+934,United Kingdom,NMC622,Hydro,6.166720304104289
+935,United Kingdom,NMC811,Direct,7.2200295214700665
+936,United Rep. of Tanzania,LFP,0,0.0
+937,United Rep. of Tanzania,NCA,0,0.0
+938,United Rep. of Tanzania,NMC111,0,0.0
+939,United Rep. of Tanzania,NMC523,0,0.0
+940,United Rep. of Tanzania,NMC622,0,0.0
+941,United Rep. of Tanzania,NMC811,0,0.0
+942,Uruguay,LFP,Direct,0.0
+943,Uruguay,NCA,Direct,3.3219592210414173
+944,Uruguay,NMC111,Direct,-8.272523138386216
+945,Uruguay,NMC523,Hydro,-7.2029984435436765
+946,Uruguay,NMC622,Direct,-8.496967455313431
+947,Uruguay,NMC811,Direct,-8.679004670080348
+948,Uzbekistan,LFP,0,0.0
+949,Uzbekistan,NCA,0,0.0
+950,Uzbekistan,NMC111,0,0.0
+951,Uzbekistan,NMC523,0,0.0
+952,Uzbekistan,NMC622,0,0.0
+953,Uzbekistan,NMC811,0,0.0
+954,Viet Nam,LFP,Direct,0.0
+955,Viet Nam,NCA,Direct,9.980270202661734
+956,Viet Nam,NMC111,Hydro,7.292904707458951
+957,Viet Nam,NMC523,Hydro,6.856432416843944
+958,Viet Nam,NMC622,Hydro,6.697558277953126
+959,Viet Nam,NMC811,Direct,8.036448292703518
+960,Yemen,LFP,0,0.0
+961,Yemen,NCA,0,0.0
+962,Yemen,NMC111,0,0.0
+963,Yemen,NMC523,0,0.0
+964,Yemen,NMC622,0,0.0
+965,Yemen,NMC811,0,0.0
+966,Zambia,LFP,0,0.0
+967,Zambia,NCA,0,0.0
+968,Zambia,NMC111,0,0.0
+969,Zambia,NMC523,0,0.0
+970,Zambia,NMC622,0,0.0
+971,Zambia,NMC811,0,0.0
+972,Zimbabwe,LFP,0,0.0
+973,Zimbabwe,NCA,0,0.0
+974,Zimbabwe,NMC111,0,0.0
+975,Zimbabwe,NMC523,0,0.0
+976,Zimbabwe,NMC622,0,0.0
+977,Zimbabwe,NMC811,0,0.0

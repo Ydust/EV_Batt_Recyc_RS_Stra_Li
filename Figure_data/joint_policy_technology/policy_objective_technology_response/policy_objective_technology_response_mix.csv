@@ -1,0 +1,121 @@
+year,policy_scenario,objective,target_region,scope,technology,recovered_lithium_t,technology_share_pct
+2050,reference_policy,economic_choice_baseline,Global,global,Direct,0.0,0.0
+2050,reference_policy,economic_choice_baseline,Global,global,Hydro,1684102.4335815099,100.00000000000003
+2050,reference_policy,economic_choice_baseline,Global,global,Pyro,0.0,0.0
+2050,reference_policy,economic_choice_baseline,Global,target_region,Direct,0.0,0.0
+2050,reference_policy,economic_choice_baseline,Global,target_region,Hydro,0.0,0.0
+2050,reference_policy,economic_choice_baseline,Global,target_region,Pyro,0.0,0.0
+2050,reference_policy,global_li_max_benchmark,Global,global,Direct,1719473.823131639,99.99524999524884
+2050,reference_policy,global_li_max_benchmark,Global,global,Hydro,81.67896804882501,0.004750004751174926
+2050,reference_policy,global_li_max_benchmark,Global,global,Pyro,0.0,0.0
+2050,reference_policy,global_li_max_benchmark,Global,target_region,Direct,0.0,0.0
+2050,reference_policy,global_li_max_benchmark,Global,target_region,Hydro,0.0,0.0
+2050,reference_policy,global_li_max_benchmark,Global,target_region,Pyro,0.0,0.0
+2050,reference_policy,domestic_li_allocation_objective,China,global,Direct,1719473.8231316218,99.99524999524786
+2050,reference_policy,domestic_li_allocation_objective,China,global,Hydro,81.67896806581336,0.0047500047521628775
+2050,reference_policy,domestic_li_allocation_objective,China,global,Pyro,0.0,0.0
+2050,reference_policy,domestic_li_allocation_objective,China,target_region,Direct,1481905.5940983368,100.00000000000003
+2050,reference_policy,domestic_li_allocation_objective,China,target_region,Hydro,0.0,0.0
+2050,reference_policy,domestic_li_allocation_objective,China,target_region,Pyro,0.0,0.0
+2050,reference_policy,domestic_li_allocation_objective,United States,global,Direct,1719473.8231316253,99.99524999524806
+2050,reference_policy,domestic_li_allocation_objective,United States,global,Hydro,81.67896806231408,0.004750004751959378
+2050,reference_policy,domestic_li_allocation_objective,United States,global,Pyro,0.0,0.0
+2050,reference_policy,domestic_li_allocation_objective,United States,target_region,Direct,153066.19790286312,100.0
+2050,reference_policy,domestic_li_allocation_objective,United States,target_region,Hydro,0.0,0.0
+2050,reference_policy,domestic_li_allocation_objective,United States,target_region,Pyro,0.0,0.0
+2050,reference_policy,domestic_li_allocation_objective,European Union,global,Direct,1719473.823131626,99.99524999524809
+2050,reference_policy,domestic_li_allocation_objective,European Union,global,Hydro,81.67896806167292,0.00475000475192209
+2050,reference_policy,domestic_li_allocation_objective,European Union,global,Pyro,0.0,0.0
+2050,reference_policy,domestic_li_allocation_objective,European Union,target_region,Direct,784871.4787222748,100.0
+2050,reference_policy,domestic_li_allocation_objective,European Union,target_region,Hydro,0.0,0.0
+2050,reference_policy,domestic_li_allocation_objective,European Union,target_region,Pyro,0.0,0.0
+2050,current_policy,economic_choice_baseline,Global,global,Direct,0.0,0.0
+2050,current_policy,economic_choice_baseline,Global,global,Hydro,1684102.4335815099,100.00000000000003
+2050,current_policy,economic_choice_baseline,Global,global,Pyro,0.0,0.0
+2050,current_policy,economic_choice_baseline,Global,target_region,Direct,0.0,0.0
+2050,current_policy,economic_choice_baseline,Global,target_region,Hydro,0.0,0.0
+2050,current_policy,economic_choice_baseline,Global,target_region,Pyro,0.0,0.0
+2050,current_policy,global_li_max_benchmark,Global,global,Direct,1719473.823131639,99.99524999524884
+2050,current_policy,global_li_max_benchmark,Global,global,Hydro,81.67896804882501,0.004750004751174926
+2050,current_policy,global_li_max_benchmark,Global,global,Pyro,0.0,0.0
+2050,current_policy,global_li_max_benchmark,Global,target_region,Direct,0.0,0.0
+2050,current_policy,global_li_max_benchmark,Global,target_region,Hydro,0.0,0.0
+2050,current_policy,global_li_max_benchmark,Global,target_region,Pyro,0.0,0.0
+2050,current_policy,domestic_li_allocation_objective,China,global,Direct,1719473.8231316218,99.99524999524786
+2050,current_policy,domestic_li_allocation_objective,China,global,Hydro,81.67896806581336,0.0047500047521628775
+2050,current_policy,domestic_li_allocation_objective,China,global,Pyro,0.0,0.0
+2050,current_policy,domestic_li_allocation_objective,China,target_region,Direct,1481905.5940983368,100.00000000000003
+2050,current_policy,domestic_li_allocation_objective,China,target_region,Hydro,0.0,0.0
+2050,current_policy,domestic_li_allocation_objective,China,target_region,Pyro,0.0,0.0
+2050,current_policy,domestic_li_allocation_objective,United States,global,Direct,1719473.8231316253,99.99524999524806
+2050,current_policy,domestic_li_allocation_objective,United States,global,Hydro,81.67896806231408,0.004750004751959378
+2050,current_policy,domestic_li_allocation_objective,United States,global,Pyro,0.0,0.0
+2050,current_policy,domestic_li_allocation_objective,United States,target_region,Direct,153066.19790286312,100.0
+2050,current_policy,domestic_li_allocation_objective,United States,target_region,Hydro,0.0,0.0
+2050,current_policy,domestic_li_allocation_objective,United States,target_region,Pyro,0.0,0.0
+2050,current_policy,domestic_li_allocation_objective,European Union,global,Direct,1719473.823131628,99.9952499952482
+2050,current_policy,domestic_li_allocation_objective,European Union,global,Hydro,81.67896805971122,0.004750004751808009
+2050,current_policy,domestic_li_allocation_objective,European Union,global,Pyro,0.0,0.0
+2050,current_policy,domestic_li_allocation_objective,European Union,target_region,Direct,784871.4787222748,100.0
+2050,current_policy,domestic_li_allocation_objective,European Union,target_region,Hydro,0.0,0.0
+2050,current_policy,domestic_li_allocation_objective,European Union,target_region,Pyro,0.0,0.0
+2050,strict_policy,economic_choice_baseline,Global,global,Direct,0.0,0.0
+2050,strict_policy,economic_choice_baseline,Global,global,Hydro,1684102.4335815099,100.00000000000003
+2050,strict_policy,economic_choice_baseline,Global,global,Pyro,0.0,0.0
+2050,strict_policy,economic_choice_baseline,Global,target_region,Direct,0.0,0.0
+2050,strict_policy,economic_choice_baseline,Global,target_region,Hydro,0.0,0.0
+2050,strict_policy,economic_choice_baseline,Global,target_region,Pyro,0.0,0.0
+2050,strict_policy,global_li_max_benchmark,Global,global,Direct,1719473.823131638,99.99524999524878
+2050,strict_policy,global_li_max_benchmark,Global,global,Hydro,81.67896804971019,0.004750004751226403
+2050,strict_policy,global_li_max_benchmark,Global,global,Pyro,0.0,0.0
+2050,strict_policy,global_li_max_benchmark,Global,target_region,Direct,0.0,0.0
+2050,strict_policy,global_li_max_benchmark,Global,target_region,Hydro,0.0,0.0
+2050,strict_policy,global_li_max_benchmark,Global,target_region,Pyro,0.0,0.0
+2050,strict_policy,domestic_li_allocation_objective,China,global,Direct,1719473.8231316211,99.99524999524782
+2050,strict_policy,domestic_li_allocation_objective,China,global,Hydro,81.67896806647761,0.004750004752201506
+2050,strict_policy,domestic_li_allocation_objective,China,global,Pyro,0.0,0.0
+2050,strict_policy,domestic_li_allocation_objective,China,target_region,Direct,345411.7125538665,100.0
+2050,strict_policy,domestic_li_allocation_objective,China,target_region,Hydro,0.0,0.0
+2050,strict_policy,domestic_li_allocation_objective,China,target_region,Pyro,0.0,0.0
+2050,strict_policy,domestic_li_allocation_objective,United States,global,Direct,1719473.8231316211,99.99524999524782
+2050,strict_policy,domestic_li_allocation_objective,United States,global,Hydro,81.67896806647761,0.004750004752201506
+2050,strict_policy,domestic_li_allocation_objective,United States,global,Pyro,0.0,0.0
+2050,strict_policy,domestic_li_allocation_objective,United States,target_region,Direct,153066.19790286315,100.00000000000003
+2050,strict_policy,domestic_li_allocation_objective,United States,target_region,Hydro,0.0,0.0
+2050,strict_policy,domestic_li_allocation_objective,United States,target_region,Pyro,0.0,0.0
+2050,strict_policy,domestic_li_allocation_objective,European Union,global,Direct,1719473.8231316078,99.99524999524705
+2050,strict_policy,domestic_li_allocation_objective,European Union,global,Hydro,81.67896807943248,0.004750004752954891
+2050,strict_policy,domestic_li_allocation_objective,European Union,global,Pyro,0.0,0.0
+2050,strict_policy,domestic_li_allocation_objective,European Union,target_region,Direct,784871.4787222748,100.0
+2050,strict_policy,domestic_li_allocation_objective,European Union,target_region,Hydro,0.0,0.0
+2050,strict_policy,domestic_li_allocation_objective,European Union,target_region,Pyro,0.0,0.0
+2050,critical_route_policy,economic_choice_baseline,Global,global,Direct,0.0,0.0
+2050,critical_route_policy,economic_choice_baseline,Global,global,Hydro,1684102.4335815099,100.00000000000003
+2050,critical_route_policy,economic_choice_baseline,Global,global,Pyro,0.0,0.0
+2050,critical_route_policy,economic_choice_baseline,Global,target_region,Direct,0.0,0.0
+2050,critical_route_policy,economic_choice_baseline,Global,target_region,Hydro,0.0,0.0
+2050,critical_route_policy,economic_choice_baseline,Global,target_region,Pyro,0.0,0.0
+2050,critical_route_policy,global_li_max_benchmark,Global,global,Direct,1719473.8231316188,99.99524999524768
+2050,critical_route_policy,global_li_max_benchmark,Global,global,Hydro,81.67896806876726,0.004750004752334659
+2050,critical_route_policy,global_li_max_benchmark,Global,global,Pyro,0.0,0.0
+2050,critical_route_policy,global_li_max_benchmark,Global,target_region,Direct,0.0,0.0
+2050,critical_route_policy,global_li_max_benchmark,Global,target_region,Hydro,0.0,0.0
+2050,critical_route_policy,global_li_max_benchmark,Global,target_region,Pyro,0.0,0.0
+2050,critical_route_policy,domestic_li_allocation_objective,China,global,Direct,1719473.8231316328,99.99524999524847
+2050,critical_route_policy,domestic_li_allocation_objective,China,global,Hydro,81.67896805498071,0.0047500047515329075
+2050,critical_route_policy,domestic_li_allocation_objective,China,global,Pyro,0.0,0.0
+2050,critical_route_policy,domestic_li_allocation_objective,China,target_region,Direct,458586.571164956,100.00000000000003
+2050,critical_route_policy,domestic_li_allocation_objective,China,target_region,Hydro,0.0,0.0
+2050,critical_route_policy,domestic_li_allocation_objective,China,target_region,Pyro,0.0,0.0
+2050,critical_route_policy,domestic_li_allocation_objective,United States,global,Direct,1719473.8231316165,99.99524999524753
+2050,critical_route_policy,domestic_li_allocation_objective,United States,global,Hydro,81.67896807103531,0.0047500047524665565
+2050,critical_route_policy,domestic_li_allocation_objective,United States,global,Pyro,0.0,0.0
+2050,critical_route_policy,domestic_li_allocation_objective,United States,target_region,Direct,153066.19790286315,100.0
+2050,critical_route_policy,domestic_li_allocation_objective,United States,target_region,Hydro,0.0,0.0
+2050,critical_route_policy,domestic_li_allocation_objective,United States,target_region,Pyro,0.0,0.0
+2050,critical_route_policy,domestic_li_allocation_objective,European Union,global,Direct,1719473.8231316311,99.99524999524837
+2050,critical_route_policy,domestic_li_allocation_objective,European Union,global,Hydro,81.67896805655755,0.004750004751624608
+2050,critical_route_policy,domestic_li_allocation_objective,European Union,global,Pyro,0.0,0.0
+2050,critical_route_policy,domestic_li_allocation_objective,European Union,target_region,Direct,784871.4787222743,100.0
+2050,critical_route_policy,domestic_li_allocation_objective,European Union,target_region,Hydro,0.0,0.0
+2050,critical_route_policy,domestic_li_allocation_objective,European Union,target_region,Pyro,0.0,0.0

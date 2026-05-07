@@ -1,0 +1,164 @@
+,iso3,country,continent,lat,lon,producer,kmeans_cluster
+0,ABW,Aruba,America,12.55,-70.1,False,4
+1,AFG,Afghanistan,Asia,34.51667,69.2,False,5
+2,AGO,Angola,Africa,-8.833333,13.25,False,0
+3,ALB,Albania,Europe,41.33333,19.81667,False,1
+4,AND,Andorra,Europe,42.5,1.5,False,1
+5,ARE,United Arab Emirates,Asia,24.46667,54.41667,False,5
+6,ARG,Argentina,America,-34.66667,-58.5,False,3
+7,ARM,Armenia,Asia,40.18333,44.5,False,1
+8,AUS,Australia,Pacific,-33.883340000000004,151.1667,True,2
+9,AUT,Austria,Europe,48.21667,16.366670000000006,False,1
+10,AZE,Azerbaijan,Asia,40.36666,49.88334,False,1
+11,BDI,Burundi,Africa,-3.366667,29.31667,False,0
+12,BEL,Belgium,Europe,50.83333,4.35,True,1
+13,BEN,Benin,Africa,6.4,2.517,False,0
+14,BFA,Burkina Faso,Africa,12.33333,-1.666667,False,0
+15,BGD,Bangladesh,Asia,23.7,90.36667,False,5
+16,BGR,Bulgaria,Europe,42.66667,23.3,False,1
+17,BHR,Bahrain,Asia,26.2,50.63334,False,5
+18,BHS,Bahamas,America,25.08333,-77.33334,False,4
+19,BIH,Bosnia Herzegovina,Europe,43.86666,18.43333,False,1
+20,BLR,Belarus,Europe,53.85,27.5,False,1
+21,BMU,Bermuda,America,32.3,-64.8,False,4
+22,BOL,Bolivia (Plurinational State of),America,-16.5,-68.16666,False,3
+23,BRA,Brazil,America,-23.53,-46.63,True,3
+24,BRB,Barbados,America,13.1,-59.61666,False,4
+25,BRN,Brunei Darussalam,Asia,4.933333,114.9667,False,2
+26,BWA,Botswana,Africa,-24.75,25.91667,False,0
+27,CAN,Canada,America,43.65,-79.38,True,4
+28,CHE,Switzerland,Europe,46.95,7.433333,True,1
+29,CHL,Chile,America,-33.5,-70.66666,False,3
+30,CHN,China,Asia,39.91667,116.4333,True,5
+31,CIV,C?te d'Ivoire,Africa,6.82,-5.28,False,0
+32,CMR,Cameroon,Africa,3.85,11.51667,False,0
+33,COG,Congo,Africa,-4.233333,15.23333,False,0
+34,COL,Colombia,America,4.633333,-75.06667,False,4
+35,COM,Comoros,Africa,-11.66667,43.26667,False,0
+36,CPV,Cabo Verde,Africa,14.916670000000002,-23.5,False,4
+37,CRI,Costa Rica,America,9.983334,-84.06667,False,4
+38,CYM,Cayman Isds,America,19.3,-81.38333,False,4
+39,CYP,Cyprus,Europe,35.15,33.35,False,1
+40,CZE,Czechia,Europe,50.1,14.433329999999998,True,1
+41,DEU,Germany,Europe,52.533,13.417,True,1
+42,DNK,Denmark,Europe,55.66667,12.58333,False,1
+43,DOM,Dominican Rep.,America,18.5,-69.78333,False,4
+44,DZA,Algeria,Africa,36.83333,3.0,False,1
+45,ECU,Ecuador,America,-0.2333333,-78.5,False,4
+46,EGY,Egypt,Africa,30.05,31.25,False,1
+47,ESP,Spain,Europe,40.41667,-3.716667,True,1
+48,EST,Estonia,Europe,59.41667,24.75,False,1
+49,ETH,Ethiopia,Africa,9.05,38.83333,False,0
+50,FIN,Finland,Europe,60.13334,25.0,True,1
+51,FJI,Fiji,Pacific,-18.13333,178.4167,False,2
+52,FRA,France,Europe,48.86666,2.333333,True,1
+53,GBR,United Kingdom,Europe,51.5,-0.1666667,True,1
+54,GEO,Georgia,Asia,41.71667,44.81667,False,1
+55,GHA,Ghana,Africa,5.55,-0.25,False,0
+56,GIN,Guinea,Africa,9.516666,-15.71667,False,0
+57,GRC,Greece,Europe,38.0,23.73333,False,1
+58,GRD,Grenada,America,12.06667,-61.73333,False,4
+59,GRL,Greenland,America,64.18333,-51.73333,False,1
+60,GTM,Guatemala,America,14.63333,-90.51667,False,4
+61,GUY,Guyana,America,6.766667,-58.16667,False,4
+62,HND,Honduras,America,14.083329999999998,-87.23333000000002,False,4
+63,HRV,Croatia,Europe,45.8,15.96667,False,1
+64,HUN,Hungary,Europe,47.5,19.05,True,1
+65,IDN,Indonesia,Asia,-6.133333,106.75,False,2
+66,IND,India,Asia,28.616670000000006,77.21667,True,5
+67,IRL,Ireland,Europe,53.33333,-6.25,False,1
+68,IRN,Iran,Asia,35.66667,51.43333,False,5
+69,ISL,Iceland,Europe,64.15,-21.96667,False,1
+70,ISR,Israel,Asia,32.08333,34.76667,False,1
+71,ITA,Italy,Europe,41.88334,12.5,True,1
+72,JAM,Jamaica,America,17.96667,-76.8,False,4
+73,JOR,Jordan,Asia,31.95,35.93333,False,1
+74,JPN,Japan,Asia,35.66667,139.75,True,5
+75,KAZ,Kazakhstan,Asia,51.17,71.47,False,1
+76,KEN,Kenya,Africa,-1.283333,36.83333,False,0
+77,KGZ,Kyrgyzstan,Asia,42.9,74.6,False,5
+78,KHM,Cambodia,Asia,11.58333,104.9167,False,5
+79,KIR,Kiribati,Pacific,1.383333,173.15,False,2
+80,KOR,Korea,Asia,37.5,127.0,True,5
+81,KWT,Kuwait,Asia,29.33333,48.0,False,5
+82,LAO,Lao People's Dem. Rep.,Asia,17.98333,102.6333,False,5
+83,LBN,Lebanon,Asia,33.86666,35.5,False,1
+84,LCA,Saint Lucia,America,14.01667,-60.98333,False,4
+85,LKA,Sri Lanka,Asia,6.916667,79.86667,False,5
+86,LSO,Lesotho,Africa,-29.31667,27.48333,False,0
+87,LTU,Lithuania,Europe,54.68333000000001,25.31667,False,1
+88,LUX,Luxembourg,Europe,49.6,6.15,False,1
+89,LVA,Latvia,Europe,56.95,24.1,False,1
+90,MAR,Morocco,Africa,34.03333,-6.85,False,1
+91,MDA,Rep. of Moldova,Europe,47.0,28.83333,False,1
+92,MDG,Madagascar,Africa,-18.866670000000006,47.5,False,0
+93,MDV,Maldives,Asia,4.166667,73.46667,False,0
+94,MEX,Mexico,America,19.41667,-99.16666,False,4
+95,MKD,North Macedonia,Europe,42.0,21.46667,False,1
+96,MLI,Mali,Africa,12.66667,-7.983333,False,0
+97,MLT,Malta,Europe,35.9,14.53333,False,1
+98,MNG,Mongolia,Asia,47.9,106.8667,False,5
+99,MOZ,Mozambique,Africa,-25.96667,32.58333,False,0
+100,MRT,Mauritania,Africa,18.15,-15.96667,False,4
+101,MUS,Mauritius,Africa,-20.16667,57.5,False,0
+102,MWI,Malawi,Africa,-13.96667,33.81667,False,0
+103,MYS,Malaysia,Asia,3.1333330000000004,101.7,False,2
+104,NAM,Namibia,Africa,-22.56667,17.1,False,0
+105,NCL,New Caledonia,Pacific,-22.26667,166.45,False,2
+106,NER,Niger,Africa,13.53333,2.083333,False,0
+107,NGA,Nigeria,Africa,6.45,3.466667,False,0
+108,NIC,Nicaragua,America,12.1,-86.3,False,4
+109,NLD,Netherlands,Europe,52.35,4.9,True,1
+110,NOR,Norway,Europe,59.91667,10.75,True,1
+111,NPL,Nepal,Asia,27.7,85.31667,False,5
+112,NZL,New Zealand,Pacific,-44.28333,174.7833,False,2
+113,OMN,Oman,Asia,23.616670000000006,58.63334,False,5
+114,PAK,Pakistan,Asia,33.66667,73.13333,False,5
+115,PAL,State of Palestine,Asia,31.53,34.44,False,1
+116,PAN,Panama,America,8.95,-79.5,False,4
+117,PER,Peru,America,-12.1,-77.05,False,3
+118,PHL,Philippines,Asia,14.61667,120.9667,False,5
+119,PLW,Palau,Pacific,7.333333,134.4833,False,2
+120,PNG,Papua New Guinea,Pacific,-9.5,147.1167,False,2
+121,POL,Poland,Europe,52.25,21.0,True,1
+122,PRT,Portugal,Europe,38.73333,-9.133333,False,1
+123,PRY,Paraguay,America,-25.25,-57.66667,False,3
+124,PYF,French Polynesia,Pacific,-17.53333,-149.5667,False,3
+125,QAT,Qatar,Asia,25.25,51.53333,False,5
+126,ROM,Romania,Europe,44.41667,26.116670000000006,True,1
+127,RUS,Russian Federation,Asia,55.75,37.7,True,1
+128,RWA,Rwanda,Africa,-1.933333,30.06667,False,0
+129,SAU,Saudi Arabia,Asia,24.65,46.76667,False,5
+130,SDN,Sudan,Africa,15.55,32.53333,False,0
+131,SEN,Senegal,Africa,14.63333,-17.45,False,4
+132,SGP,Singapore,Asia,1.283333,103.85,False,2
+133,SLB,Solomon Isds,Pacific,-9.466666,159.95,False,2
+134,SLE,Sierra Leone,Africa,8.5,-13.28333,False,0
+135,SLV,El Salvador,America,13.666670000000002,-89.16666,False,4
+136,SVK,Slovakia,Europe,48.16667,17.16667,True,1
+137,SVN,Slovenia,Europe,46.06667,14.5,False,1
+138,SWE,Sweden,Europe,59.33333,18.08333,True,1
+139,SYC,Seychelles,Africa,-4.633333,55.46666999999999,False,0
+140,TGO,Togo,Africa,6.166667,1.35,False,0
+141,THA,Thailand,Asia,13.73333,100.5,True,5
+142,TJK,Tajikistan,Asia,38.63334,68.85,False,5
+143,TON,Tonga,Pacific,-21.15,-175.2333,False,3
+144,TTO,Trinidad and Tobago,America,10.63333,-61.51667,False,4
+145,TUN,Tunisia,Africa,36.83333,10.21667,False,1
+146,TUR,Turkey,Europe,41.03333,28.95,True,1
+147,TZA,United Rep. of Tanzania,Africa,-6.85,39.3,False,0
+148,UGA,Uganda,Africa,0.3333333,32.58333,False,0
+149,UKR,Ukraine,Europe,50.41667,30.5,False,1
+150,URY,Uruguay,America,-34.91667,-56.16667,False,3
+151,USA,USA,America,40.75,-74.0,True,4
+152,UZB,Uzbekistan,Asia,41.26667,69.21667,False,5
+153,VNM,Viet Nam,Asia,21.01667,105.8667,True,5
+154,WSM,Samoa,Pacific,-13.8,171.75,False,2
+155,YEM,Yemen,Asia,15.4,44.23333,False,5
+156,YUG,Serbia,Europe,44.83333,20.5,True,1
+157,ZAF,South Africa,Africa,-25.73,28.22,False,0
+158,ZMB,Zambia,Africa,-15.46667,28.26667,False,0
+159,ZWE,Zimbabwe,Africa,-17.83333,31.05,False,0
+160,MMR,Myanmar,Asia,16.46333,96.09222,False,5
+161,MNE,Montenegro,America,42.708679,19.37439,False,1
+162,SWZ,Eswatini,Africa,-25.472811,28.051470000000002,False,0

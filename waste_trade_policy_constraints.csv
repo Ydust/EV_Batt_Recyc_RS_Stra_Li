@@ -1,0 +1,22 @@
+scenario,source_group,destination_group,source_country,destination_country,start_year,end_year,waste_class,treatment_type,forbidden,policy_penalty_usd_per_t,approval_delay_days,source_basis,notes
+baseline,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the baseline policy setting.
+baseline,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,150,25,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation.
+baseline,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+baseline,BaselParty,,,China,2025,2050,hazardous,recovery,0,300,25,scenario_assumption,China hazardous waste import approval and Basel PIC compliance cost proxy; not treated as an absolute import ban.
+strict_policy,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the strict policy setting.
+strict_policy,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,150,25,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation.
+strict_policy,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+strict_policy,ALL,,,China,2025,2050,hazardous,recovery,1,0,0,strict_scenario_assumption,Conservative sensitivity case treating China spent-battery imports as unavailable; not a baseline legal claim.
+open_policy,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the open policy setting.
+open_policy,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,100,15,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation.
+open_policy,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+open_policy,BaselParty,,,China,2025,2050,hazardous,recovery,0,100,15,open_scenario_assumption,Lower-friction compliance scenario for Basel-party exports to China; not an unrestricted legal setting.
+reference_policy,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the reference policy setting.
+reference_policy,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,100,15,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation under a low-friction reference setting.
+reference_policy,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+reference_policy,BaselParty,,,China,2025,2050,hazardous,recovery,0,100,15,reference_scenario_assumption,Lower-friction compliance scenario for Basel-party exports to China; not an unrestricted legal setting.
+current_policy,ALL,BaselNonParty,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Hazardous waste exports to Basel non-parties are prohibited in the current policy setting.
+current_policy,BaselParty,BaselParty,,,2025,2050,hazardous,recovery,0,150,25,scenario_assumption,Hazardous waste exports between Basel parties require prior informed consent and compliance documentation.
+current_policy,AnnexVII,NonAnnexVII,,,2025,2050,hazardous,recovery,1,0,0,regulation_proxy,Basel Ban Amendment proxy for Annex VII to non-Annex VII hazardous waste recovery exports.
+current_policy,BaselParty,,,China,2025,2050,hazardous,recovery,0,300,25,scenario_assumption,China hazardous waste import approval and Basel PIC compliance cost proxy; not treated as an absolute import ban.
+domestic_processing_policy,ALL,ALL,,,2025,2050,hazardous,recovery,1,0,0,scenario_assumption,No cross-border waste-battery transfer; only domestic processing routes are allowed where domestic capacity exists.

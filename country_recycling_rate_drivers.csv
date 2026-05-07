@@ -1,0 +1,10 @@
+country_group,scenario,start_rate,max_rate,midpoint,k,policy_year,policy_boost,source_basis,notes
+developed,low_collection,0.45,0.75,2035,0.18,2027,0.02,"EU Battery Regulation 2023/1542; national EPR systems","Developed markets with mature collection systems but conservative policy implementation."
+developed,baseline,0.60,0.90,2032,0.25,2027,0.03,"EU Battery Regulation 2023/1542; national EPR systems","Mature markets with stronger recycling regulation and established collection networks."
+developed,high_collection,0.70,0.98,2030,0.32,2027,0.04,"EU Battery Regulation 2023/1542; national EPR systems","Accelerated collection-network buildout and strict producer responsibility."
+ev_producer,low_collection,0.35,0.70,2038,0.16,2030,0.02,"Battery producer responsibility policies; EV manufacturing economies","Large EV/battery-producing economies with slower collection-system maturity."
+ev_producer,baseline,0.50,0.85,2035,0.22,2030,0.03,"Battery producer responsibility policies; EV manufacturing economies","Industrial recycling capacity grows with EV battery retirement volume."
+ev_producer,high_collection,0.65,0.95,2032,0.28,2030,0.04,"Battery producer responsibility policies; EV manufacturing economies","Rapid formalization of battery take-back and recycling networks."
+other,low_collection,0.20,0.55,2042,0.12,2035,0.01,"Global waste-management capacity differences; Basel Convention context","Countries with limited formal collection and recycling infrastructure."
+other,baseline,0.30,0.70,2039,0.16,2035,0.02,"Global waste-management capacity differences; Basel Convention context","Gradual improvement in collection, partly driven by trade and policy diffusion."
+other,high_collection,0.45,0.85,2036,0.22,2035,0.03,"Global waste-management capacity differences; Basel Convention context","Faster collection growth with international cooperation and stronger regulation."

@@ -1,0 +1,7 @@
+draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,direct_entry_target_share,direct_entry_target_share_pct,direct_share_at_entry_pct,direct_share_at_95pct_target_pct,direct_share_at_100pct_target_pct
+0,2030,reference_policy,Germany,global,5.0,1.0,100.0,6.193802404463601,0.0,6.193802404463601
+0,2030,reference_policy,Germany,global,20.0,,,,0.0,6.193802404463601
+0,2030,reference_policy,Germany,global,50.0,,,,0.0,6.193802404463601
+0,2030,reference_policy,Germany,target_region,5.0,1.0,100.0,99.99524999524972,0.0,99.99524999524972
+0,2030,reference_policy,Germany,target_region,20.0,1.0,100.0,99.99524999524972,0.0,99.99524999524972
+0,2030,reference_policy,Germany,target_region,50.0,1.0,100.0,99.99524999524972,0.0,99.99524999524972

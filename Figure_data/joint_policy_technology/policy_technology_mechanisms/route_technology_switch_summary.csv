@@ -1,0 +1,16 @@
+year,policy_scenario,switched_route_count,disappeared_route_count,new_route_count,net_recovered_li_delta_t
+2030,critical_route_policy,0,3,90,13313.85323118032
+2030,current_policy,0,2,27,6343.729014833913
+2030,reference_policy,0,0,0,0.0
+2030,route_access_open,0,3,3,-7.105427357601002e-13
+2030,strict_policy,0,2,85,12938.73012660723
+2040,critical_route_policy,0,1,43,107191.31121247128
+2040,current_policy,0,1,13,16417.452246024302
+2040,reference_policy,0,0,0,0.0
+2040,route_access_open,0,1,0,-2.8421709430404007e-12
+2040,strict_policy,0,2,119,117263.25643036515
+2050,critical_route_policy,0,2,41,600834.7318374257
+2050,current_policy,0,2,10,14737.575361683635
+2050,reference_policy,0,0,0,0.0
+2050,route_access_open,0,1,0,5.547917680814862e-11
+2050,strict_policy,0,1,133,673943.3992806412

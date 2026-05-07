@@ -1,4 +1,10 @@
 draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,direct_entry_target_share,direct_entry_target_share_pct,direct_share_at_entry_pct,direct_share_at_95pct_target_pct,direct_share_at_100pct_target_pct,reference_entry_target_share,entry_target_share_delta_vs_reference,entry_target_share_pct_point_delta_vs_reference
+0,2030,critical_route_policy,China,global,5.0,0.99,99.0,25.289974218848062,0.0,48.86677721409336,0.99,0.0,0.0
+0,2030,critical_route_policy,China,global,20.0,0.99,99.0,25.289974218848062,0.0,48.86677721409336,0.99,0.0,0.0
+0,2030,critical_route_policy,China,global,50.0,,,,0.0,48.86677721409336,1.0,,
+0,2030,critical_route_policy,China,target_region,5.0,0.99,99.0,52.02020202020211,0.0,100.0,0.99,0.0,0.0
+0,2030,critical_route_policy,China,target_region,20.0,0.99,99.0,52.02020202020211,0.0,100.0,0.99,0.0,0.0
+0,2030,critical_route_policy,China,target_region,50.0,0.99,99.0,52.02020202020211,0.0,100.0,0.99,0.0,0.0
 0,2030,critical_route_policy,European Union,global,5.0,0.99,99.0,15.150034498922391,0.0,29.33256162636343,0.99,0.0,0.0
 0,2030,critical_route_policy,European Union,global,20.0,1.0,100.0,29.33256162636343,0.0,29.33256162636343,1.0,0.0,0.0
 0,2030,critical_route_policy,European Union,global,50.0,,,,0.0,29.33256162636343,,,
@@ -11,6 +17,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2030,critical_route_policy,United States,target_region,5.0,0.99,99.0,52.02020202020232,0.0,100.0,0.99,0.0,0.0
 0,2030,critical_route_policy,United States,target_region,20.0,0.99,99.0,52.02020202020232,0.0,100.0,0.99,0.0,0.0
 0,2030,critical_route_policy,United States,target_region,50.0,0.99,99.0,52.02020202020232,0.0,100.0,0.99,0.0,0.0
+0,2030,current_policy,China,global,5.0,0.99,99.0,30.461784496323247,0.0,58.8038904926825,0.99,0.0,0.0
+0,2030,current_policy,China,global,20.0,0.99,99.0,30.461784496323247,0.0,58.8038904926825,0.99,0.0,0.0
+0,2030,current_policy,China,global,50.0,1.0,100.0,58.8038904926825,0.0,58.8038904926825,1.0,0.0,0.0
+0,2030,current_policy,China,target_region,5.0,0.99,99.0,52.01540403560684,0.0,99.99524999525318,0.99,0.0,0.0
+0,2030,current_policy,China,target_region,20.0,0.99,99.0,52.01540403560684,0.0,99.99524999525318,0.99,0.0,0.0
+0,2030,current_policy,China,target_region,50.0,0.99,99.0,52.01540403560684,0.0,99.99524999525318,0.99,0.0,0.0
 0,2030,current_policy,European Union,global,5.0,0.99,99.0,15.150034498922391,0.0,29.332561626362946,0.99,0.0,0.0
 0,2030,current_policy,European Union,global,20.0,1.0,100.0,29.332561626362946,0.0,29.332561626362946,1.0,0.0,0.0
 0,2030,current_policy,European Union,global,50.0,,,,0.0,29.332561626362946,,,
@@ -23,6 +35,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2030,current_policy,United States,target_region,5.0,0.99,99.0,52.02020202020204,0.0,99.99999999999966,0.99,0.0,0.0
 0,2030,current_policy,United States,target_region,20.0,0.99,99.0,52.02020202020204,0.0,99.99999999999966,0.99,0.0,0.0
 0,2030,current_policy,United States,target_region,50.0,0.99,99.0,52.02020202020204,0.0,99.99999999999966,0.99,0.0,0.0
+0,2030,reference_policy,China,global,5.0,0.99,99.0,30.461784496323634,0.0,58.80389049268262,0.99,0.0,0.0
+0,2030,reference_policy,China,global,20.0,0.99,99.0,30.461784496323634,0.0,58.80389049268262,0.99,0.0,0.0
+0,2030,reference_policy,China,global,50.0,1.0,100.0,58.80389049268262,0.0,58.80389049268262,1.0,0.0,0.0
+0,2030,reference_policy,China,target_region,5.0,0.99,99.0,52.0154040356075,0.0,99.99524999525336,0.99,0.0,0.0
+0,2030,reference_policy,China,target_region,20.0,0.99,99.0,52.0154040356075,0.0,99.99524999525336,0.99,0.0,0.0
+0,2030,reference_policy,China,target_region,50.0,0.99,99.0,52.0154040356075,0.0,99.99524999525336,0.99,0.0,0.0
 0,2030,reference_policy,European Union,global,5.0,0.99,99.0,15.150034498922372,0.0,29.332561626363084,0.99,0.0,0.0
 0,2030,reference_policy,European Union,global,20.0,1.0,100.0,29.332561626363084,0.0,29.332561626363084,1.0,0.0,0.0
 0,2030,reference_policy,European Union,global,50.0,,,,0.0,29.332561626363084,,,
@@ -35,6 +53,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2030,reference_policy,United States,target_region,5.0,0.99,99.0,52.02020202020232,0.0,100.0,0.99,0.0,0.0
 0,2030,reference_policy,United States,target_region,20.0,0.99,99.0,52.02020202020232,0.0,100.0,0.99,0.0,0.0
 0,2030,reference_policy,United States,target_region,50.0,0.99,99.0,52.02020202020232,0.0,100.0,0.99,0.0,0.0
+0,2030,strict_policy,China,global,5.0,0.99,99.0,24.183100752221897,0.0,46.73800729762768,0.99,0.0,0.0
+0,2030,strict_policy,China,global,20.0,0.99,99.0,24.183100752221897,0.0,46.73800729762768,0.99,0.0,0.0
+0,2030,strict_policy,China,global,50.0,,,,0.0,46.73800729762768,1.0,,
+0,2030,strict_policy,China,target_region,5.0,0.99,99.0,52.020202020202,0.0,100.0,0.99,0.0,0.0
+0,2030,strict_policy,China,target_region,20.0,0.99,99.0,52.020202020202,0.0,100.0,0.99,0.0,0.0
+0,2030,strict_policy,China,target_region,50.0,0.99,99.0,52.020202020202,0.0,100.0,0.99,0.0,0.0
 0,2030,strict_policy,European Union,global,5.0,0.99,99.0,15.1500344989225,0.0,29.332561626362963,0.99,0.0,0.0
 0,2030,strict_policy,European Union,global,20.0,1.0,100.0,29.332561626362963,0.0,29.332561626362963,1.0,0.0,0.0
 0,2030,strict_policy,European Union,global,50.0,,,,0.0,29.332561626362963,,,
@@ -47,6 +71,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2030,strict_policy,United States,target_region,5.0,0.99,99.0,52.0202020202037,0.0,100.0,0.99,0.0,0.0
 0,2030,strict_policy,United States,target_region,20.0,0.99,99.0,52.0202020202037,0.0,100.0,0.99,0.0,0.0
 0,2030,strict_policy,United States,target_region,50.0,0.99,99.0,52.0202020202037,0.0,100.0,0.99,0.0,0.0
+0,2040,critical_route_policy,China,global,5.0,0.99,99.0,27.957932386176797,0.0,53.99412809306817,0.99,0.0,0.0
+0,2040,critical_route_policy,China,global,20.0,0.99,99.0,27.957932386176797,0.0,53.99412809306817,0.99,0.0,0.0
+0,2040,critical_route_policy,China,global,50.0,1.0,100.0,53.99412809306817,0.0,53.99412809306817,1.0,0.0,0.0
+0,2040,critical_route_policy,China,target_region,5.0,0.99,99.0,52.02020202020062,0.0,100.0,0.99,0.0,0.0
+0,2040,critical_route_policy,China,target_region,20.0,0.99,99.0,52.02020202020062,0.0,100.0,0.99,0.0,0.0
+0,2040,critical_route_policy,China,target_region,50.0,0.99,99.0,52.02020202020062,0.0,100.0,0.99,0.0,0.0
 0,2040,critical_route_policy,European Union,global,5.0,0.99,99.0,10.828787716656,0.0,20.9845219795618,0.99,0.0,0.0
 0,2040,critical_route_policy,European Union,global,20.0,1.0,100.0,20.9845219795618,0.0,20.9845219795618,1.0,0.0,0.0
 0,2040,critical_route_policy,European Union,global,50.0,,,,0.0,20.9845219795618,,,
@@ -59,6 +89,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2040,critical_route_policy,United States,target_region,5.0,0.99,99.0,52.01540403560851,0.0,99.99524999525256,0.99,0.0,0.0
 0,2040,critical_route_policy,United States,target_region,20.0,0.99,99.0,52.01540403560851,0.0,99.99524999525256,0.99,0.0,0.0
 0,2040,critical_route_policy,United States,target_region,50.0,0.99,99.0,52.01540403560851,0.0,99.99524999525256,0.99,0.0,0.0
+0,2040,current_policy,China,global,5.0,0.99,99.0,34.260246530523,0.0,66.0880371023372,0.99,0.0,0.0
+0,2040,current_policy,China,global,20.0,0.99,99.0,34.260246530523,0.0,66.0880371023372,0.99,0.0,0.0
+0,2040,current_policy,China,global,50.0,1.0,100.0,66.0880371023372,0.0,66.0880371023372,1.0,0.0,0.0
+0,2040,current_policy,China,target_region,5.0,0.99,99.0,52.01540403560387,0.0,99.99524999524904,0.99,0.0,0.0
+0,2040,current_policy,China,target_region,20.0,0.99,99.0,52.01540403560387,0.0,99.99524999524904,0.99,0.0,0.0
+0,2040,current_policy,China,target_region,50.0,0.99,99.0,52.01540403560387,0.0,99.99524999524904,0.99,0.0,0.0
 0,2040,current_policy,European Union,global,5.0,0.99,99.0,10.828787716656036,0.0,20.9845219795618,0.99,0.0,0.0
 0,2040,current_policy,European Union,global,20.0,1.0,100.0,20.9845219795618,0.0,20.9845219795618,1.0,0.0,0.0
 0,2040,current_policy,European Union,global,50.0,,,,0.0,20.9845219795618,,,
@@ -71,6 +107,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2040,current_policy,United States,target_region,5.0,0.99,99.0,52.015404035607126,0.0,99.99524999525124,0.99,0.0,0.0
 0,2040,current_policy,United States,target_region,20.0,0.99,99.0,52.015404035607126,0.0,99.99524999525124,0.99,0.0,0.0
 0,2040,current_policy,United States,target_region,50.0,0.99,99.0,52.015404035607126,0.0,99.99524999525124,0.99,0.0,0.0
+0,2040,reference_policy,China,global,5.0,0.99,99.0,34.26024653052319,0.0,66.08803710233722,0.99,0.0,0.0
+0,2040,reference_policy,China,global,20.0,0.99,99.0,34.26024653052319,0.0,66.08803710233722,0.99,0.0,0.0
+0,2040,reference_policy,China,global,50.0,1.0,100.0,66.08803710233722,0.0,66.08803710233722,1.0,0.0,0.0
+0,2040,reference_policy,China,target_region,5.0,0.99,99.0,52.01540403560416,0.0,99.9952499952491,0.99,0.0,0.0
+0,2040,reference_policy,China,target_region,20.0,0.99,99.0,52.01540403560416,0.0,99.9952499952491,0.99,0.0,0.0
+0,2040,reference_policy,China,target_region,50.0,0.99,99.0,52.01540403560416,0.0,99.9952499952491,0.99,0.0,0.0
 0,2040,reference_policy,European Union,global,5.0,0.99,99.0,10.828787716655867,0.0,20.984521979561748,0.99,0.0,0.0
 0,2040,reference_policy,European Union,global,20.0,1.0,100.0,20.984521979561748,0.0,20.984521979561748,1.0,0.0,0.0
 0,2040,reference_policy,European Union,global,50.0,,,,0.0,20.984521979561748,,,
@@ -83,6 +125,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2040,reference_policy,United States,target_region,5.0,0.99,99.0,52.02020202020549,0.0,99.99524999525228,0.99,0.0,0.0
 0,2040,reference_policy,United States,target_region,20.0,0.99,99.0,52.02020202020549,0.0,99.99524999525228,0.99,0.0,0.0
 0,2040,reference_policy,United States,target_region,50.0,0.99,99.0,52.02020202020549,0.0,99.99524999525228,0.99,0.0,0.0
+0,2040,strict_policy,China,global,5.0,0.99,99.0,25.68186957843752,0.0,49.62026304087615,0.99,0.0,0.0
+0,2040,strict_policy,China,global,20.0,0.99,99.0,25.68186957843752,0.0,49.62026304087615,0.99,0.0,0.0
+0,2040,strict_policy,China,global,50.0,,,,0.0,49.62026304087615,1.0,,
+0,2040,strict_policy,China,target_region,5.0,0.99,99.0,52.02020202020192,0.0,100.00000000000004,0.99,0.0,0.0
+0,2040,strict_policy,China,target_region,20.0,0.99,99.0,52.02020202020192,0.0,100.00000000000004,0.99,0.0,0.0
+0,2040,strict_policy,China,target_region,50.0,0.99,99.0,52.02020202020192,0.0,100.00000000000004,0.99,0.0,0.0
 0,2040,strict_policy,European Union,global,5.0,0.99,99.0,10.828787716655873,0.0,20.98452197956156,0.99,0.0,0.0
 0,2040,strict_policy,European Union,global,20.0,1.0,100.0,20.98452197956156,0.0,20.98452197956156,1.0,0.0,0.0
 0,2040,strict_policy,European Union,global,50.0,,,,0.0,20.98452197956156,,,
@@ -95,6 +143,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2040,strict_policy,United States,target_region,5.0,0.99,99.0,52.01540403560879,0.0,99.99524999525228,0.99,0.0,0.0
 0,2040,strict_policy,United States,target_region,20.0,0.99,99.0,52.01540403560879,0.0,99.99524999525228,0.99,0.0,0.0
 0,2040,strict_policy,United States,target_region,50.0,0.99,99.0,52.01540403560879,0.0,99.99524999525228,0.99,0.0,0.0
+0,2050,critical_route_policy,China,global,5.0,0.99,99.0,13.981899611337017,0.0,27.077015182798664,0.99,0.0,0.0
+0,2050,critical_route_policy,China,global,20.0,1.0,100.0,27.077015182798664,0.0,27.077015182798664,0.99,0.010000000000000009,1.0000000000000009
+0,2050,critical_route_policy,China,global,50.0,,,,0.0,27.077015182798664,1.0,,
+0,2050,critical_route_policy,China,target_region,5.0,0.99,99.0,52.01540403561208,0.0,99.99524999525218,0.99,0.0,0.0
+0,2050,critical_route_policy,China,target_region,20.0,0.99,99.0,52.01540403561208,0.0,99.99524999525218,0.99,0.0,0.0
+0,2050,critical_route_policy,China,target_region,50.0,0.99,99.0,52.01540403561208,0.0,99.99524999525218,0.99,0.0,0.0
 0,2050,critical_route_policy,European Union,global,5.0,0.99,99.0,23.878838654006582,0.0,46.15677290802543,0.99,0.0,0.0
 0,2050,critical_route_policy,European Union,global,20.0,0.99,99.0,23.878838654006582,0.0,46.15677290802543,0.99,0.0,0.0
 0,2050,critical_route_policy,European Union,global,50.0,,,,0.0,46.15677290802543,,,
@@ -107,6 +161,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2050,critical_route_policy,United States,target_region,5.0,0.99,99.0,52.015404035606416,0.0,99.99524999525072,0.99,0.0,0.0
 0,2050,critical_route_policy,United States,target_region,20.0,0.99,99.0,52.015404035606416,0.0,99.99524999525072,0.99,0.0,0.0
 0,2050,critical_route_policy,United States,target_region,50.0,0.99,99.0,52.015404035606416,0.0,99.99524999525072,0.99,0.0,0.0
+0,2050,current_policy,China,global,5.0,0.99,99.0,44.893194681078285,0.0,86.4217330485121,0.99,0.0,0.0
+0,2050,current_policy,China,global,20.0,0.99,99.0,44.893194681078285,0.0,86.4217330485121,0.99,0.0,0.0
+0,2050,current_policy,China,global,50.0,1.0,100.0,86.4217330485121,0.0,86.4217330485121,1.0,0.0,0.0
+0,2050,current_policy,China,target_region,5.0,0.99,99.0,52.01540403560342,0.0,99.99524999525096,0.99,0.0,0.0
+0,2050,current_policy,China,target_region,20.0,0.99,99.0,52.01540403560342,0.0,99.99524999525096,0.99,0.0,0.0
+0,2050,current_policy,China,target_region,50.0,0.99,99.0,52.01540403560342,0.0,99.99524999525096,0.99,0.0,0.0
 0,2050,current_policy,European Union,global,5.0,0.99,99.0,23.878838654010465,0.0,46.15677290802879,0.99,0.0,0.0
 0,2050,current_policy,European Union,global,20.0,0.99,99.0,23.878838654010465,0.0,46.15677290802879,0.99,0.0,0.0
 0,2050,current_policy,European Union,global,50.0,,,,0.0,46.15677290802879,,,
@@ -119,6 +179,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2050,current_policy,United States,target_region,5.0,0.99,99.0,52.015404035605705,0.0,99.99524999525003,0.99,0.0,0.0
 0,2050,current_policy,United States,target_region,20.0,0.99,99.0,52.015404035605705,0.0,99.99524999525003,0.99,0.0,0.0
 0,2050,current_policy,United States,target_region,50.0,0.99,99.0,52.015404035605705,0.0,99.99524999525003,0.99,0.0,0.0
+0,2050,reference_policy,China,global,5.0,0.99,99.0,44.89319468107825,0.0,86.4217330485121,0.99,0.0,0.0
+0,2050,reference_policy,China,global,20.0,0.99,99.0,44.89319468107825,0.0,86.4217330485121,0.99,0.0,0.0
+0,2050,reference_policy,China,global,50.0,1.0,100.0,86.4217330485121,0.0,86.4217330485121,1.0,0.0,0.0
+0,2050,reference_policy,China,target_region,5.0,0.99,99.0,52.0154040356034,0.0,99.99524999525096,0.99,0.0,0.0
+0,2050,reference_policy,China,target_region,20.0,0.99,99.0,52.0154040356034,0.0,99.99524999525096,0.99,0.0,0.0
+0,2050,reference_policy,China,target_region,50.0,0.99,99.0,52.0154040356034,0.0,99.99524999525096,0.99,0.0,0.0
 0,2050,reference_policy,European Union,global,5.0,0.99,99.0,23.878838654010504,0.0,46.156772908029,0.99,0.0,0.0
 0,2050,reference_policy,European Union,global,20.0,0.99,99.0,23.878838654010504,0.0,46.156772908029,0.99,0.0,0.0
 0,2050,reference_policy,European Union,global,50.0,,,,0.0,46.156772908029,,,
@@ -131,6 +197,12 @@ draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,dire
 0,2050,reference_policy,United States,target_region,5.0,0.99,99.0,52.015404035605705,0.0,99.99524999525003,0.99,0.0,0.0
 0,2050,reference_policy,United States,target_region,20.0,0.99,99.0,52.015404035605705,0.0,99.99524999525003,0.99,0.0,0.0
 0,2050,reference_policy,United States,target_region,50.0,0.99,99.0,52.015404035605705,0.0,99.99524999525003,0.99,0.0,0.0
+0,2050,strict_policy,China,global,5.0,0.99,99.0,10.539766087910497,0.0,20.423766826043227,0.99,0.0,0.0
+0,2050,strict_policy,China,global,20.0,1.0,100.0,20.423766826043227,0.0,20.423766826043227,0.99,0.010000000000000009,1.0000000000000009
+0,2050,strict_policy,China,global,50.0,,,,0.0,20.423766826043227,1.0,,
+0,2050,strict_policy,China,target_region,5.0,0.99,99.0,52.02020202020311,0.0,100.0,0.99,0.0,0.0
+0,2050,strict_policy,China,target_region,20.0,0.99,99.0,52.02020202020311,0.0,100.0,0.99,0.0,0.0
+0,2050,strict_policy,China,target_region,50.0,0.99,99.0,52.02020202020311,0.0,100.0,0.99,0.0,0.0
 0,2050,strict_policy,European Union,global,5.0,0.99,99.0,23.87883865400884,0.0,46.15677290802686,0.99,0.0,0.0
 0,2050,strict_policy,European Union,global,20.0,0.99,99.0,23.87883865400884,0.0,46.15677290802686,0.99,0.0,0.0
 0,2050,strict_policy,European Union,global,50.0,,,,0.0,46.15677290802686,,,

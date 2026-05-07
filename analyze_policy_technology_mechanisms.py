@@ -418,7 +418,8 @@ def technology_risk_sensitivity(source_dirs):
 
 
 def write_outputs(args):
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    output_dir = Path(args.output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
     routes = add_numeric_routes(pd.read_csv(args.route_file))
     outputs = []
 
@@ -428,11 +429,11 @@ def write_outputs(args):
             parse_csv(args.policies),
             parse_csv(args.solver_methods),
         )
-        path = OUTPUT_DIR / "technology_accessible_li_only_method.csv"
+        path = output_dir / "technology_accessible_li_only_method.csv"
         accessible.to_csv(path, index=False)
         outputs.append(path)
         if not accessible_routes.empty:
-            route_path = OUTPUT_DIR / "technology_accessible_li_only_method_routes.csv"
+            route_path = output_dir / "technology_accessible_li_only_method_routes.csv"
             accessible_routes.to_csv(route_path, index=False)
             outputs.append(route_path)
 
@@ -443,7 +444,7 @@ def write_outputs(args):
         (destination_wide, "destination_technology_portfolio.csv"),
         (destination_shift, "destination_shift_vs_reference.csv"),
     ]:
-        path = OUTPUT_DIR / name
+        path = output_dir / name
         frame.to_csv(path, index=False)
         outputs.append(path)
 
@@ -453,17 +454,17 @@ def write_outputs(args):
         (route_comparison, "route_technology_switches_vs_reference.csv"),
         (route_summary, "route_technology_switch_summary.csv"),
     ]:
-        path = OUTPUT_DIR / name
+        path = output_dir / name
         frame.to_csv(path, index=False)
         outputs.append(path)
 
     risk_stats, risk_sensitivity = technology_risk_sensitivity(parse_csv(args.elasticity_source_dirs))
     if not risk_stats.empty:
-        path = OUTPUT_DIR / "technology_risk_sensitivity_stats.csv"
+        path = output_dir / "technology_risk_sensitivity_stats.csv"
         risk_stats.to_csv(path, index=False)
         outputs.append(path)
     if not risk_sensitivity.empty:
-        path = OUTPUT_DIR / "technology_risk_sensitivity_correlations.csv"
+        path = output_dir / "technology_risk_sensitivity_correlations.csv"
         risk_sensitivity.to_csv(path, index=False)
         outputs.append(path)
     return outputs
@@ -474,6 +475,7 @@ def main():
         description="Generate policy-technology mechanism indicators beyond technology shares."
     )
     parser.add_argument("--route-file", default=str(ROUTE_FILE))
+    parser.add_argument("--output-dir", default=str(OUTPUT_DIR))
     parser.add_argument("--years", default="2030,2040,2050")
     parser.add_argument(
         "--policies",

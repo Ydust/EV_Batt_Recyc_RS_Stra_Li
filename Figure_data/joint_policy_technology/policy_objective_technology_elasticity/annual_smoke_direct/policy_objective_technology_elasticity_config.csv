@@ -1,0 +1,2 @@
+years,policies,target_shares,target_mode,target_names,mc_draws,random_seed,cost_noise_sd,recovery_noise_sd,solver_methods
+2030,reference_policy,"0.0,0.75,0.9,0.95,0.99,1.0",aggregate,China,1,20260507,0.0,0.0,"highs,highs-ds,highs-ipm"

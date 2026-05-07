@@ -1,0 +1,7 @@
+draw_id,year,policy_scenario,target_region,scope,direct_share_threshold_pct,direct_entry_target_share,direct_entry_target_share_pct,direct_share_at_entry_pct,direct_share_at_95pct_target_pct,direct_share_at_100pct_target_pct,reference_entry_target_share,entry_target_share_delta_vs_reference,entry_target_share_pct_point_delta_vs_reference
+0,2030,reference_policy,China,global,5.0,0.99,99.0,30.458962028187504,0.0,58.80107294747844,0.99,0.0,0.0
+0,2030,reference_policy,China,global,20.0,0.99,99.0,30.458962028187504,0.0,58.80107294747844,0.99,0.0,0.0
+0,2030,reference_policy,China,global,50.0,1.0,100.0,58.80107294747844,0.0,58.80107294747844,1.0,0.0,0.0
+0,2030,reference_policy,China,target_region,5.0,0.99,99.0,52.01060604621327,0.0,99.99049998575286,0.99,0.0,0.0
+0,2030,reference_policy,China,target_region,20.0,0.99,99.0,52.01060604621327,0.0,99.99049998575286,0.99,0.0,0.0
+0,2030,reference_policy,China,target_region,50.0,0.99,99.0,52.01060604621327,0.0,99.99049998575286,0.99,0.0,0.0

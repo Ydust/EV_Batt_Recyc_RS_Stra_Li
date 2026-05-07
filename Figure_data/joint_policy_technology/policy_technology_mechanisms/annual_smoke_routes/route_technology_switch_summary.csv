@@ -1,0 +1,5 @@
+year,policy_scenario,switched_route_count,disappeared_route_count,new_route_count,net_recovered_li_delta_t
+2030,current_policy,0,4,3,4.121147867408581e-13
+2030,reference_policy,0,0,0,0.0
+2031,current_policy,0,3,4,9.663381206337363e-13
+2031,reference_policy,0,0,0,0.0

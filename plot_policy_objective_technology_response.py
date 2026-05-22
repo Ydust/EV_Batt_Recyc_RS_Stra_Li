@@ -135,12 +135,12 @@ def plot_stacked_target_mix(ax, mix):
 
 def plot_direct_delta(ax, mix):
     table = policy_target_table(mix, "Direct")
-    reference = table.loc["reference_policy"]
-    delta = table.subtract(reference, axis="columns").drop(index="reference_policy")
+    current = table.loc["current_policy"]
+    delta = table.subtract(current, axis="columns").drop(index="current_policy")
     y_labels = []
     values = []
     colors = []
-    for policy in ["current_policy", "strict_policy", "critical_route_policy"]:
+    for policy in ["reference_policy", "strict_policy", "critical_route_policy"]:
         for target in TARGETS:
             y_labels.append(f"{POLICY_LABELS[policy]} - {TARGET_LABELS[target]}")
             value = float(delta.loc[policy, target])
@@ -159,7 +159,7 @@ def plot_direct_delta(ax, mix):
         ax.text(value + offset, yi, f"{value:+.1f} pp", va="center", ha=ha, fontsize=8.4)
     ax.set_yticks(y)
     ax.set_yticklabels(ordered_labels, fontsize=8.5)
-    ax.set_xlabel("Change in Direct share vs reference policy (percentage points)", fontsize=9.5)
+    ax.set_xlabel("Change in Direct share vs Current policy (percentage points)", fontsize=9.5)
     ax.set_title("C. Direct-share response is effectively zero", loc="left", fontsize=11, weight="bold")
     max_abs = max(5.0, float(np.nanmax(np.abs(ordered_values))) * 1.35)
     ax.set_xlim(-max_abs, max_abs)
@@ -171,7 +171,7 @@ def plot_cost_penalty(ax, summary):
         (summary["objective"] == "domestic_li_allocation_objective")
         & (summary["target_region"].isin(TARGETS))
     ].copy()
-    reference = data[data["policy_scenario"] == "reference_policy"].set_index("target_region")[
+    current = data[data["policy_scenario"] == "current_policy"].set_index("target_region")[
         "route_modeled_cost"
     ]
     rows = []
@@ -181,7 +181,7 @@ def plot_cost_penalty(ax, summary):
             {
                 "policy_scenario": row["policy_scenario"],
                 "target_region": target,
-                "cost_delta_musd": (row["route_modeled_cost"] - reference[target]) / 1e6,
+                "cost_delta_musd": (row["route_modeled_cost"] - current[target]) / 1e6,
             }
         )
     table = pd.DataFrame(rows).pivot_table(
@@ -208,10 +208,10 @@ def plot_cost_penalty(ax, summary):
     ax.axhline(0, color="black", linewidth=1.0)
     ax.set_xticks(x)
     ax.set_xticklabels([TARGET_LABELS[target] for target in TARGETS])
-    ax.set_ylabel("Cost change vs reference policy (million USD)", fontsize=10)
+    ax.set_ylabel("Cost change vs Current policy (million USD)", fontsize=10)
     ax.set_title("D. Policy constraints appear as regional cost penalties instead", loc="left", fontsize=11, weight="bold")
     max_abs = max(1.0, float(np.nanmax(np.abs(table.values))) * 1.25)
-    ax.set_ylim(-max_abs * 0.08, max_abs)
+    ax.set_ylim(-max_abs, max_abs)
     format_axes(ax)
 
 

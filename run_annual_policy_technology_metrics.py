@@ -14,7 +14,8 @@ import scenario_transport_paths as transport_module
 ROOT = Path(__file__).resolve().parent
 BASE_OUTPUT = ROOT / "Figure_data" / "joint_policy_technology"
 POLICIES = ["reference_policy", "current_policy", "strict_policy", "critical_route_policy"]
-METHODS = ["Direct", "Hydro", "Pyro"]
+BASE_METHODS = ["Direct", "Hydro", "Pyro"]
+PYROHYDRO_METHOD = "PyroHydro"
 TARGETS = ["China", "United States", "European Union"]
 TARGET_SHARES = [0.0, 0.75, 0.9, 0.95, 0.99, 1.0]
 YEARS = list(range(2030, 2051))
@@ -44,14 +45,15 @@ def route_modeled_cost(routes):
     return float(real[["transport_cost", "recycling_cost", "carbon_cost", "policy_cost"]].sum(axis=1).sum())
 
 
-def run_annual_routes(years, policies, output_suffix):
+def run_annual_routes(years, policies, output_suffix, include_pyrohydro):
+    methods = BASE_METHODS + ([PYROHYDRO_METHOD] if include_pyrohydro else [])
     transport_module.POLICY_FILE = joint_opt.ROOT / "waste_trade_policy_constraints_with_critical_routes.csv"
     _, capacity, producer_iso, country_meta = joint_opt.load_inputs("high_collection")
     scrap_by_type = joint_opt.load_scrap_by_type("high_collection")
     countries = pd.read_csv(ROOT / "all_countries.csv")
     distance = joint_opt.load_distance_matrix()
     li_content = joint_opt.load_li_content()
-    recovery = joint_opt.load_recovery_efficiency("baseline", years, METHODS)
+    recovery = joint_opt.load_recovery_efficiency("baseline", years, methods)
     emission = joint_opt.load_emission_factor()
 
     output_dir = BASE_OUTPUT / output_suffix
@@ -80,7 +82,7 @@ def run_annual_routes(years, policies, output_suffix):
                 distance,
                 destination_capacity,
                 country_meta,
-                METHODS,
+                methods,
                 policy,
                 year,
                 "hazardous",
@@ -91,7 +93,7 @@ def run_annual_routes(years, policies, output_suffix):
                 distance,
                 destination_capacity,
                 country_meta,
-                METHODS,
+                methods,
                 policy,
                 year,
                 "hazardous",
@@ -102,7 +104,7 @@ def run_annual_routes(years, policies, output_suffix):
                 supply,
                 destination_capacity,
                 method_costs,
-                METHODS,
+                methods,
                 method_components,
             )
             routes = joint_opt.add_lithium_outputs(routes, year, recovery, li_content, emission)
@@ -195,6 +197,11 @@ def main():
     parser.add_argument("--skip-direct", action="store_true")
     parser.add_argument("--skip-accessible-li", action="store_true")
     parser.add_argument(
+        "--include-pyrohydro",
+        action="store_true",
+        help="Add PyroHydro as a fourth route technology; default preserves the legacy three-technology model.",
+    )
+    parser.add_argument(
         "--direct-only",
         action="store_true",
         help="Run only annual Direct threshold/cost elasticity and its post-processing.",
@@ -210,13 +217,17 @@ def main():
     targets = parse_csv(args.targets)
     solver_methods = parse_csv(args.solver_methods)
     output_suffix = args.output_suffix or output_name(years)
+    if args.include_pyrohydro and not args.output_suffix:
+        output_suffix = f"{output_suffix}_pyrohydro"
 
     route_file = BASE_OUTPUT / output_suffix / "joint_policy_transport_technology_routes.csv"
     direct_dir = BASE_OUTPUT / "direct_entry_cost" / output_suffix
     mechanism_dir = BASE_OUTPUT / "policy_technology_mechanisms" / output_suffix
 
     if not args.skip_routes and not args.direct_only:
-        route_file, _ = run_annual_routes(years, policies, output_suffix)
+        route_file, _ = run_annual_routes(
+            years, policies, output_suffix, args.include_pyrohydro
+        )
     if not args.skip_direct and not args.routes_only:
         direct_dir = run_annual_direct_elasticity(
             years,

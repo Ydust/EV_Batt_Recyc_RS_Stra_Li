@@ -1,4 +1,7 @@
 import argparse
+import itertools
+import multiprocessing
+import os
 from pathlib import Path
 from types import SimpleNamespace
 
@@ -32,7 +35,7 @@ from scenario_transport_paths import (
 
 ROOT = Path(__file__).resolve().parent
 LITHIUM_PRICE_FILE = ROOT / "lithium_price_scenario.csv"
-POLICY_FILE = ROOT / "waste_trade_policy_constraints_with_critical_routes.csv"
+POLICY_FILE = ROOT / "Figure_data" / "joint_policy_technology" / "waste_trade_policy_constraints_reference_relaxed.csv"
 SCENARIO_OUTPUT_DIR = OUTPUT_DIR / "lithium_loss_scenarios"
 
 
@@ -81,6 +84,14 @@ SCENARIOS = {
         },
         "capacity_multiplier": 1.25,
     },
+    "black_mass": {
+        "description": (
+            "#1 sensitivity: allow domestic shredding to black mass before "
+            "export; black mass is non-hazardous and exempt from route-access "
+            "policy."
+        ),
+        "black_mass": True,
+    },
     "max_lithium": {
         "description": (
             "Upper-bound case that maximizes recovered lithium under advanced "
@@ -95,6 +106,64 @@ SCENARIOS = {
         "capacity_multiplier": 1.25,
     },
 }
+
+# --- Full-factorial mitigation factors -------------------------------------
+# Six independent mitigation factors. Each factor contributes a disjoint set of
+# config keys, so a multi-factor scenario is just the union of these fragments.
+MITIGATION_FACTORS = {
+    "price": {
+        "label": "Lithium value internalization",
+        "config": {"lithium_aware": True, "lithium_price_multiplier": 10.0},
+    },
+    "direct": {
+        "label": "Direct recycling maturity",
+        "config": {"direct_cost_multiplier": 0.65, "direct_recovery_floor": 0.95},
+    },
+    "recovery": {
+        "label": "High recovery efficiency",
+        "config": {
+            "recovery_floor_by_method": {"Direct": 0.95, "Hydro": 0.95, "Pyro": 0.35}
+        },
+    },
+    "capacity": {
+        "label": "Key-destination capacity expansion",
+        "config": {"capacity_multiplier": 1.25},
+    },
+    "policy": {
+        "label": "Route-access policy relaxation",
+        "config": {"policy_override": "open_policy"},
+    },
+    "maxli": {
+        "label": "Lithium-maximizing objective",
+        "config": {"objective": "max_lithium"},
+    },
+}
+
+# Fixed factor order used to build deterministic scenario names ("a+b+c").
+FACTOR_ORDER = ["price", "direct", "recovery", "capacity", "policy", "maxli"]
+
+
+def build_factorial_scenarios():
+    """Build baseline + every non-empty combination of the 6 mitigation factors.
+
+    Total = 1 baseline + sum_{k=1..6} C(6, k) = 1 + 63 = 64 scenarios.
+    """
+    scenarios = {
+        "baseline": {
+            "description": "Cost-minimizing joint transport and technology choice.",
+        }
+    }
+    for size in range(1, len(FACTOR_ORDER) + 1):
+        for combo in itertools.combinations(FACTOR_ORDER, size):
+            name = "+".join(combo)
+            config = {}
+            for factor in combo:
+                config.update(MITIGATION_FACTORS[factor]["config"])
+            labels = ", ".join(MITIGATION_FACTORS[factor]["label"] for factor in combo)
+            config["description"] = f"[{size}-factor] {labels}"
+            scenarios[name] = config
+    return scenarios
+
 
 PARETO_YEAR = 2050
 PARETO_POLICIES = ["reference_policy", "strict_policy", "critical_route_policy"]
@@ -200,6 +269,88 @@ def route_modeled_cost(routes):
             ["transport_cost", "recycling_cost", "carbon_cost", "policy_cost"]
         ].sum(axis=1).sum()
     )
+
+
+# --- #1 Black-mass pre-processing factor ------------------------------------
+# Spent batteries can be shredded domestically into "black mass" before export.
+# Black mass is treated as non-hazardous and is therefore fully exempt from
+# route-access policy. It is modelled as extra pseudo-methods (e.g. "Hydro_BM").
+#
+# Literature-informed default assumptions (configurable):
+#   BLACK_MASS_YIELD -- black mass is roughly 20-30% of total battery pack mass
+#     (MDPI Batteries 2023, 9(10):514, doi:10.3390/batteries9100514;
+#      J. Power Sources Advances, ScienceDirect S2949823624000278). 0.25 used.
+#   BLACK_MASS_SHRED_COST_USD_PER_T -- mechanical pre-treatment (discharge,
+#     dismantle, shred, sieve) operating cost, order ~200-500 USD per tonne of
+#     battery input; 400 used as midpoint. Model cost matrices are in USD/kg
+#     (USD/t divided by 1000, matching the policy-penalty convention).
+BLACK_MASS_YIELD = 0.25
+BLACK_MASS_SHRED_COST_USD_PER_T = 400.0
+BLACK_MASS_SUFFIX = "_BM"
+
+
+def build_black_mass_costs(
+    distance, capacity, country_meta, methods, year, waste_class, treatment_type, delay_cost
+):
+    """Cost matrices/components for black-mass pseudo-methods (e.g. "Hydro_BM").
+
+    A black-mass route shreds the battery in the source country, then ships the
+    concentrated black mass: transport is scaled by BLACK_MASS_YIELD and a
+    shredding cost is added at the source. No route-access policy is applied.
+    """
+    components = build_method_cost_components(
+        distance,
+        capacity,
+        country_meta,
+        methods,
+        "open_policy",
+        year,
+        waste_class,
+        treatment_type,
+        delay_cost,
+    )
+    shred = BLACK_MASS_SHRED_COST_USD_PER_T / 1000.0
+    bm_costs = {}
+    bm_components = {}
+    for method in methods:
+        comp = components[method]
+        transport = comp["transport"]
+        # Discount real distances only; keep unreachable cells (BIG_M fill) as
+        # BIG_M so the yield discount cannot turn them into viable cheap routes.
+        bm_transport = transport.where(
+            transport >= BIG_M, transport * BLACK_MASS_YIELD
+        )
+        recycling = comp["recycling"]
+        carbon = comp["carbon"]
+        total = (
+            bm_transport.add(recycling.add(carbon, fill_value=0.0), axis="columns")
+            + shred
+        )
+        bm_name = method + BLACK_MASS_SUFFIX
+        bm_costs[bm_name] = total
+        bm_components[bm_name] = {
+            "total": total,
+            "transport": bm_transport,
+            "recycling": recycling,
+            "carbon": carbon,
+            "policy": bm_transport * 0.0,
+        }
+    return bm_costs, bm_components
+
+
+def extend_recovery_emission_with_black_mass(recovery, emission, methods, years):
+    """Alias each method's Li recovery and CO2 factor onto its "_BM" twin."""
+    recovery = dict(recovery)
+    for year in years:
+        for method in methods:
+            recovery[(year, method + BLACK_MASS_SUFFIX)] = recovery.get(
+                (year, method), 0.0
+            )
+    emission = dict(emission)
+    for (battery_type, technology), value in list(emission.items()):
+        if technology in methods:
+            emission[(battery_type, technology + BLACK_MASS_SUFFIX)] = value
+    return recovery, emission
 
 
 def solve_joint_scenario(
@@ -682,6 +833,195 @@ def run_pareto_frontier(
     return pd.DataFrame(rows, columns=columns)
 
 
+# Per-worker model inputs, populated once by _init_worker in each process.
+_WORKER_CTX = {}
+
+
+def _init_worker(params):
+    """Load all model inputs once per worker process (Windows spawn-safe).
+
+    Each worker reloads inputs itself rather than receiving pickled DataFrames;
+    load time is negligible next to the per-scenario optimization solves.
+    """
+    transport_module.POLICY_FILE = POLICY_FILE
+    years = params["years"]
+    methods = params["methods"]
+    _, capacity, producer_iso, country_meta = load_inputs(params["collection_scenario"])
+    _WORKER_CTX.clear()
+    _WORKER_CTX.update(
+        {
+            "capacity": capacity,
+            "producer_iso": producer_iso,
+            "country_meta": country_meta,
+            "scrap_by_type": load_scrap_by_type(params["collection_scenario"]),
+            "countries": pd.read_csv(ROOT / "all_countries.csv"),
+            "distance": load_distance_matrix(),
+            "li_content": load_li_content(),
+            "base_recovery": load_recovery_efficiency(
+                params["recovery_scenario"], years, methods
+            ),
+            "emission": load_emission_factor(),
+            "lithium_price": load_lithium_price(params["price_scenario"]),
+            "policies": params["policies"],
+            "run_policies": list(
+                dict.fromkeys(["route_access_open"] + params["policies"])
+            ),
+            "years": years,
+            "methods": methods,
+            "strategy": params["strategy"],
+            "waste_class": params["waste_class"],
+            "treatment_type": params["treatment_type"],
+            "delay_cost": params["delay_cost"],
+            "capacity_expansion_countries": params["capacity_expansion_countries"],
+        }
+    )
+
+
+def _run_one_scenario(item):
+    """Run one mitigation scenario across all years/policies using _WORKER_CTX.
+
+    Returns (routes_df, summary_rows) for that single scenario.
+    """
+    scenario_name, config = item
+    ctx = _WORKER_CTX
+    years = ctx["years"]
+    methods = ctx["methods"]
+    strategy = ctx["strategy"]
+    waste_class = ctx["waste_class"]
+    treatment_type = ctx["treatment_type"]
+    delay_cost = ctx["delay_cost"]
+    run_policies = ctx["run_policies"]
+    policies = ctx["policies"]
+    li_content = ctx["li_content"]
+    emission = ctx["emission"]
+
+    recovery = apply_direct_recovery_floor(
+        ctx["base_recovery"], years, config.get("direct_recovery_floor")
+    )
+    recovery = apply_recovery_floor_by_method(
+        recovery, years, config.get("recovery_floor_by_method")
+    )
+    scenario_lithium_price = scale_lithium_price(
+        ctx["lithium_price"], config.get("lithium_price_multiplier")
+    )
+
+    # #1 Black-mass factor: add "_BM" pseudo-methods when enabled.
+    black_mass = bool(config.get("black_mass", False))
+    solve_methods = list(methods)
+    solve_emission = emission
+    if black_mass:
+        recovery, solve_emission = extend_recovery_emission_with_black_mass(
+            recovery, emission, methods, years
+        )
+        solve_methods = methods + [m + BLACK_MASS_SUFFIX for m in methods]
+
+    scenario_routes = []
+    summary_rows = []
+    for year in years:
+        supply = make_supply_by_type(
+            ctx["scrap_by_type"], ctx["countries"], year, strategy
+        )
+        potential_li = potential_lithium_t(supply, li_content)
+        destination_capacity = make_capacity(ctx["capacity"], ctx["producer_iso"], year)
+        destination_capacity = expand_key_capacity(
+            destination_capacity,
+            ctx["capacity_expansion_countries"],
+            config.get("capacity_multiplier"),
+        )
+        year_routes = []
+        for policy in run_policies:
+            policy_for_cost = config.get("policy_override")
+            if policy_for_cost is None:
+                policy_for_cost = (
+                    "open_policy" if policy == "route_access_open" else policy
+                )
+            method_costs = build_method_costs(
+                ctx["distance"],
+                destination_capacity,
+                ctx["country_meta"],
+                methods,
+                policy_for_cost,
+                year,
+                waste_class,
+                treatment_type,
+                delay_cost,
+            )
+            method_components = build_method_cost_components(
+                ctx["distance"],
+                destination_capacity,
+                ctx["country_meta"],
+                methods,
+                policy_for_cost,
+                year,
+                waste_class,
+                treatment_type,
+                delay_cost,
+            )
+            apply_direct_cost_multiplier(
+                method_costs,
+                method_components,
+                config.get("direct_cost_multiplier"),
+            )
+            if black_mass:
+                bm_costs, bm_components = build_black_mass_costs(
+                    ctx["distance"],
+                    destination_capacity,
+                    ctx["country_meta"],
+                    methods,
+                    year,
+                    waste_class,
+                    treatment_type,
+                    delay_cost,
+                )
+                method_costs.update(bm_costs)
+                method_components.update(bm_components)
+            routes = solve_joint_scenario(
+                supply,
+                destination_capacity,
+                method_costs,
+                solve_methods,
+                method_components,
+                year,
+                li_content,
+                recovery,
+                scenario_lithium_price,
+                lithium_aware=bool(config.get("lithium_aware", False)),
+                objective=config.get("objective", "cost_min"),
+            )
+            routes = add_lithium_outputs(
+                routes, year, recovery, li_content, solve_emission
+            )
+            routes["year"] = year
+            routes["policy_scenario"] = policy
+            routes["cost_policy_scenario"] = policy_for_cost
+            routes["strategy"] = strategy
+            routes["mitigation_scenario"] = scenario_name
+            routes["scenario_description"] = config["description"]
+            year_routes.append(routes)
+        year_routes = pd.concat(year_routes, ignore_index=True)
+        scenario_routes.append(year_routes)
+
+        for policy in policies:
+            policy_routes = year_routes[year_routes["policy_scenario"] == policy]
+            summary = summarize_routes(policy_routes, potential_li)
+            summary.update(
+                {
+                    "mitigation_scenario": scenario_name,
+                    "scenario_description": config["description"],
+                    "year": year,
+                    "policy_scenario": policy,
+                    "strategy": strategy,
+                    "route_access_loss_t": route_access_loss(year_routes, policy),
+                    "route_access_displaced_lithium_t": route_access_displaced_lithium(
+                        year_routes, policy
+                    ),
+                }
+            )
+            summary_rows.append(summary)
+
+    return pd.concat(scenario_routes, ignore_index=True), summary_rows
+
+
 def run_scenarios(
     collection_scenario,
     recovery_scenario,
@@ -696,120 +1036,48 @@ def run_scenarios(
     capacity_expansion_countries,
     include_max_li,
     run_pareto,
+    jobs,
 ):
     transport_module.POLICY_FILE = POLICY_FILE
-    _, capacity, producer_iso, country_meta = load_inputs(collection_scenario)
-    scrap_by_type = load_scrap_by_type(collection_scenario)
-    countries = pd.read_csv(ROOT / "all_countries.csv")
-    distance = load_distance_matrix()
-    li_content = load_li_content()
-    base_recovery = load_recovery_efficiency(recovery_scenario, years, methods)
-    emission = load_emission_factor()
-    lithium_price = load_lithium_price(price_scenario)
-
     SCENARIO_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    all_routes = []
-    summary_rows = []
-    run_policies = list(dict.fromkeys(["route_access_open"] + policies))
 
     active_scenarios = {
         name: config
         for name, config in SCENARIOS.items()
         if include_max_li or name != "max_lithium"
     }
+    scenario_items = list(active_scenarios.items())
 
-    for scenario_name, config in active_scenarios.items():
-        recovery = apply_direct_recovery_floor(
-            base_recovery, years, config.get("direct_recovery_floor")
-        )
-        recovery = apply_recovery_floor_by_method(
-            recovery, years, config.get("recovery_floor_by_method")
-        )
-        scenario_lithium_price = scale_lithium_price(
-            lithium_price, config.get("lithium_price_multiplier")
-        )
-        for year in years:
-            supply = make_supply_by_type(scrap_by_type, countries, year, strategy)
-            potential_li = potential_lithium_t(supply, li_content)
-            destination_capacity = make_capacity(capacity, producer_iso, year)
-            destination_capacity = expand_key_capacity(
-                destination_capacity,
-                capacity_expansion_countries,
-                config.get("capacity_multiplier"),
-            )
-            year_routes = []
-            for policy in run_policies:
-                policy_for_cost = config.get("policy_override")
-                if policy_for_cost is None:
-                    policy_for_cost = "open_policy" if policy == "route_access_open" else policy
-                method_costs = build_method_costs(
-                    distance,
-                    destination_capacity,
-                    country_meta,
-                    methods,
-                    policy_for_cost,
-                    year,
-                    waste_class,
-                    treatment_type,
-                    delay_cost,
-                )
-                method_components = build_method_cost_components(
-                    distance,
-                    destination_capacity,
-                    country_meta,
-                    methods,
-                    policy_for_cost,
-                    year,
-                    waste_class,
-                    treatment_type,
-                    delay_cost,
-                )
-                apply_direct_cost_multiplier(
-                    method_costs,
-                    method_components,
-                    config.get("direct_cost_multiplier"),
-                )
-                routes = solve_joint_scenario(
-                    supply,
-                    destination_capacity,
-                    method_costs,
-                    methods,
-                    method_components,
-                    year,
-                    li_content,
-                    recovery,
-                    scenario_lithium_price,
-                    lithium_aware=bool(config.get("lithium_aware", False)),
-                    objective=config.get("objective", "cost_min"),
-                )
-                routes = add_lithium_outputs(routes, year, recovery, li_content, emission)
-                routes["year"] = year
-                routes["policy_scenario"] = policy
-                routes["cost_policy_scenario"] = policy_for_cost
-                routes["strategy"] = strategy
-                routes["mitigation_scenario"] = scenario_name
-                routes["scenario_description"] = config["description"]
-                year_routes.append(routes)
-            year_routes = pd.concat(year_routes, ignore_index=True)
-            all_routes.append(year_routes)
+    worker_params = {
+        "collection_scenario": collection_scenario,
+        "recovery_scenario": recovery_scenario,
+        "price_scenario": price_scenario,
+        "policies": policies,
+        "years": years,
+        "methods": methods,
+        "strategy": strategy,
+        "waste_class": waste_class,
+        "treatment_type": treatment_type,
+        "delay_cost": delay_cost,
+        "capacity_expansion_countries": capacity_expansion_countries,
+    }
 
-            for policy in policies:
-                policy_routes = year_routes[year_routes["policy_scenario"] == policy]
-                summary = summarize_routes(policy_routes, potential_li)
-                summary.update(
-                    {
-                        "mitigation_scenario": scenario_name,
-                        "scenario_description": config["description"],
-                        "year": year,
-                        "policy_scenario": policy,
-                        "strategy": strategy,
-                        "route_access_loss_t": route_access_loss(year_routes, policy),
-                        "route_access_displaced_lithium_t": route_access_displaced_lithium(
-                            year_routes, policy
-                        ),
-                    }
-                )
-                summary_rows.append(summary)
+    n_jobs = max(1, min(int(jobs), len(scenario_items)))
+    if n_jobs == 1:
+        _init_worker(worker_params)
+        results = [_run_one_scenario(item) for item in scenario_items]
+    else:
+        mp_context = multiprocessing.get_context("spawn")
+        with mp_context.Pool(
+            processes=n_jobs,
+            initializer=_init_worker,
+            initargs=(worker_params,),
+        ) as pool:
+            results = pool.map(_run_one_scenario, scenario_items)
+    print(f"Ran {len(scenario_items)} scenarios across {n_jobs} worker(s).")
+
+    all_routes = [routes_df for routes_df, _ in results]
+    summary_rows = [row for _, rows in results for row in rows]
 
     routes = pd.concat(all_routes, ignore_index=True)
     summary = pd.DataFrame(summary_rows)
@@ -834,6 +1102,14 @@ def run_scenarios(
     routes.to_csv(routes_output, index=False)
     summary.to_csv(summary_output, index=False)
     if run_pareto:
+        _, capacity, producer_iso, country_meta = load_inputs(collection_scenario)
+        scrap_by_type = load_scrap_by_type(collection_scenario)
+        countries = pd.read_csv(ROOT / "all_countries.csv")
+        distance = load_distance_matrix()
+        li_content = load_li_content()
+        base_recovery = load_recovery_efficiency(recovery_scenario, years, methods)
+        emission = load_emission_factor()
+        lithium_price = load_lithium_price(price_scenario)
         pareto = run_pareto_frontier(
             capacity,
             producer_iso,
@@ -896,7 +1172,27 @@ def main():
         action="store_true",
         help="Only write the 2050 cost-recovery Pareto frontier CSV.",
     )
+    parser.add_argument(
+        "--factorial",
+        action="store_true",
+        help=(
+            "Run the full-factorial mitigation set (baseline + all 63 factor "
+            "combinations) and write to a separate lithium_loss_factorial/ folder."
+        ),
+    )
+    parser.add_argument(
+        "--jobs",
+        type=int,
+        default=os.cpu_count() or 1,
+        help="Worker processes for the scenario sweep. 1 = sequential (debug).",
+    )
     args = parser.parse_args()
+
+    if args.factorial:
+        global SCENARIOS, SCENARIO_OUTPUT_DIR
+        SCENARIOS = build_factorial_scenarios()
+        SCENARIO_OUTPUT_DIR = OUTPUT_DIR / "lithium_loss_factorial"
+        print(f"Factorial mode: {len(SCENARIOS)} scenarios -> {SCENARIO_OUTPUT_DIR}")
 
     if args.pareto_only:
         transport_module.POLICY_FILE = POLICY_FILE
@@ -950,6 +1246,7 @@ def main():
         parse_csv(args.capacity_expansion_countries),
         args.include_max_li,
         args.run_pareto,
+        args.jobs,
     )
     print(f"Wrote {routes_output}")
     print(f"Wrote {summary_output}")

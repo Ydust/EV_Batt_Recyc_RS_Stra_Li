@@ -11,6 +11,7 @@ env/
 # IDE/editor metadata
 .idea/
 .vscode/
+.claude/
 
 # OS files
 .DS_Store

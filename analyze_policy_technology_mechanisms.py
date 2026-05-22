@@ -211,8 +211,8 @@ def destination_technology_portfolio(routes):
     return grouped, wide
 
 
-def destination_shift_vs_reference(destination_wide):
-    ref = destination_wide[destination_wide["policy_scenario"] == "reference_policy"][
+def destination_shift_vs_baseline(destination_wide, baseline_policy, baseline_label):
+    baseline = destination_wide[destination_wide["policy_scenario"] == baseline_policy][
         [
             "year",
             "destination_iso3",
@@ -225,30 +225,39 @@ def destination_shift_vs_reference(destination_wide):
         ]
     ].rename(
         columns={
-            "destination_recovered_lithium_t": "reference_destination_recovered_lithium_t",
-            "destination_scrap_t": "reference_destination_scrap_t",
-            "dominant_technology": "reference_dominant_technology",
-            "Direct": "reference_direct_share_pct",
-            "Hydro": "reference_hydro_share_pct",
-            "Pyro": "reference_pyro_share_pct",
+            "destination_recovered_lithium_t": f"{baseline_label}_destination_recovered_lithium_t",
+            "destination_scrap_t": f"{baseline_label}_destination_scrap_t",
+            "dominant_technology": f"{baseline_label}_dominant_technology",
+            "Direct": f"{baseline_label}_direct_share_pct",
+            "Hydro": f"{baseline_label}_hydro_share_pct",
+            "Pyro": f"{baseline_label}_pyro_share_pct",
         }
     )
-    out = destination_wide.merge(ref, on=["year", "destination_iso3"], how="left")
-    out["destination_recovered_li_delta_vs_reference_t"] = (
-        out["destination_recovered_lithium_t"] - out["reference_destination_recovered_lithium_t"].fillna(0.0)
+    out = destination_wide.merge(baseline, on=["year", "destination_iso3"], how="left")
+    out[f"destination_recovered_li_delta_vs_{baseline_label}_t"] = (
+        out["destination_recovered_lithium_t"]
+        - out[f"{baseline_label}_destination_recovered_lithium_t"].fillna(0.0)
     )
-    out["destination_scrap_delta_vs_reference_t"] = (
-        out["destination_scrap_t"] - out["reference_destination_scrap_t"].fillna(0.0)
+    out[f"destination_scrap_delta_vs_{baseline_label}_t"] = (
+        out["destination_scrap_t"] - out[f"{baseline_label}_destination_scrap_t"].fillna(0.0)
     )
-    out["shift_from_reference_direct_capable_to_current_hydro_dominated"] = (
-        (out["reference_direct_share_pct"].fillna(0.0) > 0.0)
+    out[f"shift_from_{baseline_label}_direct_capable_to_policy_hydro_dominated"] = (
+        (out[f"{baseline_label}_direct_share_pct"].fillna(0.0) > 0.0)
         & (out["Hydro"].fillna(0.0) >= 50.0)
-        & (out["destination_recovered_li_delta_vs_reference_t"] > 0.0)
+        & (out[f"destination_recovered_li_delta_vs_{baseline_label}_t"] > 0.0)
     )
     return out
 
 
-def route_technology_coupling(routes):
+def destination_shift_vs_reference(destination_wide):
+    return destination_shift_vs_baseline(destination_wide, "reference_policy", "reference")
+
+
+def destination_shift_vs_current(destination_wide):
+    return destination_shift_vs_baseline(destination_wide, "current_policy", "current")
+
+
+def route_technology_coupling(routes, baseline_policy="reference_policy", baseline_label="reference"):
     real = real_routes(routes)
     route_keys = ["year", "policy_scenario", "source_iso3", "destination_iso3"]
     route_tech = real.groupby(route_keys + ["technology"], as_index=False).agg(
@@ -270,42 +279,42 @@ def route_technology_coupling(routes):
         .rename(columns={"technology": "dominant_technology"})
     )
     dominant = dominant[route_keys + ["dominant_technology", "route_recovered_lithium_t", "route_scrap_t"]]
-    ref = dominant[dominant["policy_scenario"] == "reference_policy"][
+    baseline = dominant[dominant["policy_scenario"] == baseline_policy][
         ["year", "source_iso3", "destination_iso3", "dominant_technology", "route_recovered_lithium_t", "route_scrap_t"]
     ].rename(
         columns={
-            "dominant_technology": "reference_dominant_technology",
-            "route_recovered_lithium_t": "reference_route_recovered_lithium_t",
-            "route_scrap_t": "reference_route_scrap_t",
+            "dominant_technology": f"{baseline_label}_dominant_technology",
+            "route_recovered_lithium_t": f"{baseline_label}_route_recovered_lithium_t",
+            "route_scrap_t": f"{baseline_label}_route_scrap_t",
         }
     )
-    comparison = dominant.merge(ref, on=["year", "source_iso3", "destination_iso3"], how="outer")
+    comparison = dominant.merge(baseline, on=["year", "source_iso3", "destination_iso3"], how="outer")
     comparison["policy_scenario"] = comparison["policy_scenario"].fillna("missing_under_policy")
     comparison["route_recovered_lithium_t"] = comparison["route_recovered_lithium_t"].fillna(0.0)
-    comparison["reference_route_recovered_lithium_t"] = comparison[
-        "reference_route_recovered_lithium_t"
+    comparison[f"{baseline_label}_route_recovered_lithium_t"] = comparison[
+        f"{baseline_label}_route_recovered_lithium_t"
     ].fillna(0.0)
-    comparison["route_recovered_li_delta_vs_reference_t"] = (
-        comparison["route_recovered_lithium_t"] - comparison["reference_route_recovered_lithium_t"]
+    comparison[f"route_recovered_li_delta_vs_{baseline_label}_t"] = (
+        comparison["route_recovered_lithium_t"] - comparison[f"{baseline_label}_route_recovered_lithium_t"]
     )
-    comparison["route_disappeared_vs_reference"] = (
-        (comparison["reference_route_recovered_lithium_t"] > 1e-9)
+    comparison[f"route_disappeared_vs_{baseline_label}"] = (
+        (comparison[f"{baseline_label}_route_recovered_lithium_t"] > 1e-9)
         & (comparison["route_recovered_lithium_t"] <= 1e-9)
     )
-    comparison["route_new_vs_reference"] = (
-        (comparison["reference_route_recovered_lithium_t"] <= 1e-9)
+    comparison[f"route_new_vs_{baseline_label}"] = (
+        (comparison[f"{baseline_label}_route_recovered_lithium_t"] <= 1e-9)
         & (comparison["route_recovered_lithium_t"] > 1e-9)
     )
-    comparison["technology_switched_vs_reference"] = (
+    comparison[f"technology_switched_vs_{baseline_label}"] = (
         comparison["dominant_technology"].notna()
-        & comparison["reference_dominant_technology"].notna()
-        & (comparison["dominant_technology"] != comparison["reference_dominant_technology"])
+        & comparison[f"{baseline_label}_dominant_technology"].notna()
+        & (comparison["dominant_technology"] != comparison[f"{baseline_label}_dominant_technology"])
     )
     summary = comparison.groupby(["year", "policy_scenario"], as_index=False).agg(
-        switched_route_count=("technology_switched_vs_reference", "sum"),
-        disappeared_route_count=("route_disappeared_vs_reference", "sum"),
-        new_route_count=("route_new_vs_reference", "sum"),
-        net_recovered_li_delta_t=("route_recovered_li_delta_vs_reference_t", "sum"),
+        switched_route_count=(f"technology_switched_vs_{baseline_label}", "sum"),
+        disappeared_route_count=(f"route_disappeared_vs_{baseline_label}", "sum"),
+        new_route_count=(f"route_new_vs_{baseline_label}", "sum"),
+        net_recovered_li_delta_t=(f"route_recovered_li_delta_vs_{baseline_label}_t", "sum"),
     )
     return route_tech, comparison, summary
 
@@ -439,20 +448,27 @@ def write_outputs(args):
 
     destination_long, destination_wide = destination_technology_portfolio(routes)
     destination_shift = destination_shift_vs_reference(destination_wide)
+    destination_shift_current = destination_shift_vs_current(destination_wide)
     for frame, name in [
         (destination_long, "destination_technology_portfolio_long.csv"),
         (destination_wide, "destination_technology_portfolio.csv"),
         (destination_shift, "destination_shift_vs_reference.csv"),
+        (destination_shift_current, "destination_shift_vs_current.csv"),
     ]:
         path = output_dir / name
         frame.to_csv(path, index=False)
         outputs.append(path)
 
     route_tech, route_comparison, route_summary = route_technology_coupling(routes)
+    _, route_comparison_current, route_summary_current = route_technology_coupling(
+        routes, baseline_policy="current_policy", baseline_label="current"
+    )
     for frame, name in [
         (route_tech, "source_destination_technology_coupling_long.csv"),
         (route_comparison, "route_technology_switches_vs_reference.csv"),
         (route_summary, "route_technology_switch_summary.csv"),
+        (route_comparison_current, "route_technology_switches_vs_current.csv"),
+        (route_summary_current, "route_technology_switch_summary_vs_current.csv"),
     ]:
         path = output_dir / name
         frame.to_csv(path, index=False)
